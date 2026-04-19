@@ -68,7 +68,8 @@ function App() {
     // 2. Prepare FormData — always send ENGLISH text to backend
     const backendText = text;
     const formData = new FormData();
-    let endpoint = "http://localhost:8001/multimodal";
+    const API_BASE_URL = import.meta.env.PROD ? "" : "http://localhost:8001";
+    let endpoint = `${API_BASE_URL}/multimodal`;
 
     if (coords) {
       formData.append("lat", coords.lat);
@@ -78,13 +79,13 @@ function App() {
     if (backendText && imageFile) {
       formData.append("text", backendText);
       formData.append("image", imageFile);
-      endpoint = "http://localhost:8001/multimodal";
+      endpoint = `${API_BASE_URL}/multimodal`;
     } else if (imageFile) {
       formData.append("file", imageFile);
-      endpoint = "http://localhost:8001/image";
+      endpoint = `${API_BASE_URL}/image`;
     } else if (backendText) {
       formData.append("text", backendText);
-      endpoint = "http://localhost:8001/text";
+      endpoint = `${API_BASE_URL}/text`;
     }
 
     // 3. API Call
