@@ -1,0 +1,43 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Frontend (deployed separately on Vercel)
+frontend/
+
+# Image models (deployed on HuggingFace)
+image_models/
+
+# Data / Migration scripts
+data/
+atlas_migrate/
+
+# Model weights (downloaded at runtime)
+models/faster-whisper-small01/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment (secrets set in Render dashboard)
+.env
+.env.example
+
+# Tests / Debug
+test_*.py
+debug_*.py
+*_out.txt
+*.md

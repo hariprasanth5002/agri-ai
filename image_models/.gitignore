@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# FastAPI / Python related
+*.log
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+# Models are downloaded separately due to github file size limits
+models/
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# Results or outputs
+results/
+outputs/

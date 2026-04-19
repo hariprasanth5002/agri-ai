@@ -1,0 +1,2802 @@
+[
+  {
+    "id": "prevention_rotation_001",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #001: ROTATING TOMATOES WITH CEREALS: Indian farmers should implement a strict crop rotation of tomatoes with cereals like maize or bajra to effectively break the life cycle of soil-borne pathogens. Pathogens such as Fusarium wilt and bacterial wilt are host-specific and survive in the soil for several seasons. By introducing non-host cereal crops for at least two years, the pathogen population naturally declines due to the absence of a suitable host plant. This practice significantly reduces the incidence of wilt diseases in subsequent tomato crops, ensuring higher yields and reducing the need for expensive chemical soil treatments or fumigation.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure weed hosts for tomato diseases are removed during cereal rotation.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_002",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #002: POTATO AND LEGUME DIVERSIFICATION: To prevent the buildup of soil-borne fungi like Rhizoctonia solani, which causes black scurf in potatoes, farmers in North India should rotate their potato fields with leguminous crops such as cowpea or mung bean. Legumes improve soil structure and harbor beneficial microbes that compete with potato pathogens. This biological suppression, combined with the rotation's break in host availability, drastically lowers the inoculum levels in the soil. Farmers should avoid planting solanaceous crops like chili or eggplant immediately after potatoes, as they share common pathogens.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Incorporate legume green manure to further suppress soil pathogens.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_003",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #003: MUSTARD ROTATION FOR SOIL HEALTH: Rotating oilseeds like mustard with grain crops is an excellent strategy for preventing soil-borne disease outbreaks in Indian agriculture. Mustard plants release glucosinolates during decomposition, which act as a natural biofumigant against various fungal pathogens and nematodes. By including mustard in a rotation with wheat or paddy, farmers can effectively reduce the survival of Sclerotinia and other persistent soil fungi. This integrated cultural practice not only breaks the disease cycle but also improves the overall microbial diversity of the soil.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid following mustard with other brassica crops to prevent clubroot buildup.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_004",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #004: CHILI ROTATION WITH MARIGOLD: To manage the population of root-knot nematodes and associated fungal wilts in chili pepper cultivation, Indian farmers are advised to rotate with African marigold. Marigold roots produce alpha-terthienyl, a chemical compound that is highly toxic to nematodes. This 'trap crop' strategy effectively cleans the soil before the next chili planting. Rotating chili with marigold for one season can reduce nematode populations by up to 80%, thereby preventing the root damage that often predisposes plants to Fusarium and Phytophthora infections. This cultural prevention method is particularly effective in high-temperature regions where nematodes are more active.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Densely plant marigold to ensure complete soil coverage and maximum chemical release.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_005",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #005: RICE-WHEAT SYSTEM DIVERSIFICATION: The continuous rice-wheat rotation in the Indo-Gangetic plains has led to an increase in soil-borne pathogens like Ganoderma and various root rots. Farmers should break this cycle by introducing a summer pulse or green manure crop such as Dhaincha. Diversifying the rotation changes the soil environment and moisture levels, making it unfavorable for pathogens adapted to specific anaerobic or aerobic conditions. This break reduces the carryover of inoculum from one cereal crop to the next. Additionally, the change in root architecture helps in improving soil aeration, which suppresses many opportunistic fungi.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Manage crop residues carefully to avoid harboring overwintering pests.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_006",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #006: GINGER AND TURMERIC ROTATION: To prevent the devastating soft rot disease caused by Pythium species in ginger and turmeric, farmers in Southern and North-Eastern India must follow a strict three to four-year rotation. These crops should not be grown in the same field consecutively. Ideal rotation crops include maize, paddy, or finger millet, which are not hosts for the soft rot pathogen. The rotation helps in drying out the soil and reducing the cumulative inoculum pressure. Since the pathogen is water-borne and soil-persistent, changing the host crop is essential for natural field sanitization.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use only certified disease-free rhizomes when re-starting ginger after rotation.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_007",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #007: PREVENTING ONION BASAL ROT: Basal rot caused by Fusarium oxysporum is a major threat to onion cultivation in Maharashtra and Gujarat. To prevent this soil-persistent disease, farmers should rotate onions with non-allium crops such as sugarcane or sorghum. The rotation period should be at least three years to ensure the fungal spores dissipate naturally. By avoiding continuous onion or garlic cropping, the specific nutrient depletion and pathogen buildup are halted. Sugarcane rotation is particularly beneficial as it alters the soil's organic matter profile, encouraging beneficial antagonistic microbes that suppress Fusarium.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure all onion volunteers are removed from the field during rotation years.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_008",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #008: BRUCELLOSIS AND PULSE ROTATION: In Madhya Pradesh, rotating chickpea with wheat or barley is essential to prevent the spread of wilt and root rot complexes. Continuous chickpea cultivation increases the soil inoculum of Fusarium oxysporum f. sp. ciceri. A break of two years with cereal crops ensures that the pathogen levels remain below the economic threshold. Cereal crops do not provide the specialized environment needed for the wilt fungus to thrive. This rotation also helps in managing soil-borne insect pests that may act as secondary vectors for fungal infections.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid excessive irrigation in wheat rotation to prevent favoring moisture-loving soil fungi.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_009",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #009: COTTON DISEASE PREVENTION: To prevent the buildup of Verticillium wilt and root rot in cotton-growing regions of Punjab and Haryana, a rotation with paddy or maize is highly recommended. The flooding associated with rice cultivation helps in creating anaerobic conditions that are lethal to many soil-borne fungal sclerotia and resting spores of cotton pathogens. Maize rotation serves as a break for the specialized pests and diseases that affect fiber crops. For the best preventive results, a two to three-year rotation cycle should be maintained. This practice also improves soil fertility through varying nutrient uptake patterns.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Monitor soil pH during cereal rotation as it influences pathogen survival.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_010",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #010: CABBAGE AND CAULIFLOWER ROTATION: Clubroot and black rot are major challenges for crucifer farmers in the hills of Himachal Pradesh and the plains of West Bengal. A continuous cycle of cabbage or cauliflower leads to rapid pathogen accumulation. Farmers should implement a minimum three-year rotation with non-cruciferous crops like potato, peas, or beans. This break in host availability prevents the clubroot fungus from completing its life cycle and forming resistant resting spores. Legume rotation is particularly effective as it improves soil nitrogen and aeration, which is unfavorable for the clubroot pathogen.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Test soil for clubroot presence before returning to crucifer cultivation after rotation.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_011",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #011: BANANA PANAMA WILT PREVENTION: Panama wilt caused by Fusarium oxysporum f. cubense is a serious threat to banana plantations in Tamil Nadu and Karnataka. To prevent the spread of this long-lived soil fungus, rotating banana with paddy or sugarcane is an effective ICAR-recommended strategy. The semi-aquatic conditions in paddy fields and the high biomass of sugarcane help in reducing the viable populations of Fusarium spores in the soil. Farmers should avoid planting bananas in the same field for at least four years if wilt has been previously observed.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid using irrigation water that has flowed through infected banana fields during the rotation.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_012",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #012: GROUNDNUT ROOT ROT CONTROL: In the dry regions of Gujarat and Andhra Pradesh, groundnut root rot caused by Macrophomina phaseolina can be managed through rotation with pearl millet (bajra) or sorghum. These cereal crops are not susceptible to the same root-invading fungi that affect legumes. The rotation helps in reducing the cumulative stress on the soil and breaks the pathogen's ability to build up high inoculum densities. For the most effective prevention, groundnuts should be grown once every three years. This practice also helps in managing various leaf spot diseases by reducing the primary inoculum remaining on crop debris.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Incorporate cereal straw into the soil to improve organic matter and suppress pathogens.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_013",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #013: TOBACCO DISEASE MANAGEMENT: To prevent the incidence of black shank and tobacco mosaic virus in Andhra Pradesh and Karnataka, tobacco should be rotated with non-malvaceous and non-solanaceous crops such as maize or ragi. Black shank fungus is highly persistent in the soil, and a three-year rotation cycle is mandatory for its effective containment. Cereal rotations provide a clean environment and improve the soil's structure, making it less prone to waterlogging which favors fungal growth. This break in the host cycle ensures that the pathogen cannot multiply, leading to a natural decline in the field population.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Practice strict field sanitation even during rotation years to prevent pathogen survival on weeds.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_014",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #014: OKRA FRUIT ROT PREVENTION: Okra (bhindi) farmers can prevent yellow vein mosaic virus and associated fungal fruit rots by rotating with unrelated crops like sunflower or ragi. Yellow vein mosaic is primarily spread by whiteflies, which thrive in continuous okra fields. A rotation break disrupts the localized whitefly population and removes the viral reservoir. Sunflower rotation is particularly useful as it acts as a trap for some pests while providing a completely different host environment for soil-borne pathogens. This cultural strategy, combined with the use of resistant hybrids, forms the backbone of integrated disease management in Indian vegetable farming.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Remove and destroy all okra crop residues immediately after harvest to break the transmission cycle.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_015",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #015: CUCURBIT DISEASE PREVENTION: To manage soil-borne downy mildew and Fusarium wilt in crops like cucumber, gourds, and melons, Indian farmers should rotate with wheat, paddy, or fiber crops. Cucurbit pathogens are often specific to the melon family and can persist in the soil for several years. By implementing a rotation with non-cucurbit hosts for two to search seasons, the pathogen population naturally attenuates. This break also prevents the buildup of specialized insect pests that act as disease vectors. Wheat or paddy rotation is ideal as the different irrigation practices and root exudates create an unfavorable environment for cucurbit fungi.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure all wild cucurbit weeds are removed from field borders during the rotation phase.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_016",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #016: SOYBEAN DISEASE MANAGEMENT: Rust and root rot are significant concerns for soybean farmers in Madhya Pradesh and Maharashtra. To prevent these diseases, rotating soybean with maize or sorghum is a highly recommended Agricultural Extension practice. This rotation provides a physical and biological break for the specialized soybean rust fungus, which cannot survive on cereal hosts. Cereal crops also lead to different soil moisture dynamics that can suppress the development of root rots. For effective prevention, a two-year rotation cycle is often sufficient to keep pathogen levels below a damaging threshold.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use deep plowing before the cereal rotation to bury old soybean pathogens effectively.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_017",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #017: BRINJAL WILT PREVENTION: Bacterial wilt caused by Ralstonia solanacearum is a devastating disease for brinjal (eggplant) farmers in Odisha and West Bengal. Since the bacteria can survive in the soil for a long time, rotating brinjal with non-host crops like maize, sorghum, or paddy is vital for prevention. Flooding the field during a paddy rotation is particularly effective as it creates an anaerobic environment that significantly reduces the bacterial population in the soil. A rotation break of at least three years is recommended by ICAR scientists to manage infested fields.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure irrigation channels are cleaned to prevent re-introducing bacteria from nearby infected fields.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_018",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #018: PIGEONPEA WILT PREVENTION: Wilt caused by Fusarium udum is a major yield-robbing disease for pigeonpea (arhar) farmers in Central India. To prevent the buildup of this soil-borne pathogen, a rotation with sorghum or pearl millet for at least two to three years is essential. The root exudates from sorghum have been found to have a suppressive effect on the pigeonpea wilt fungus. This 'allelopathic' interaction, combined with the break in host availability, effectively manages the disease pressure. Rotating with tobacco is also recommended in some regions for similar reasons.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Combine rotation with deep summer plowing to expose the soil-borne wilt fungus to heat.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_019",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #019: BLACK GRAM AND MOONG ROTATION: In pulse-growing regions, continuous cropping of black gram or green gram (moong) leads to an increase in yellow mosaic virus and root rot pathogens. Farmers should implement a rotation with cereals like wheat or maize to break this host-pathogen link. The rotation break disrupts the population of whiteflies that transmit the mosaic virus and reduces the localized reservoir of infection. Using a cereal break for one or two seasons helps in rejuvenating the soil and reducing the primary fungal inoculum. This practice is part of the ICAR's mission for improved pulse health and higher productivity.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Properly manage crop residues during rotation to prevent harboring overwintering pests and fungi.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_rotation_020",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CROP ROTATION ADVISORY #020: SUGARCANE RED ROT PREVENTION: Red rot caused by Colletotrichum falcatum is a major disease affecting sugarcane in Uttar Pradesh and Bihar. To prevent this systemic infection, farmers should follow a rotation with paddy, maize, or legumes for at least one to two years before replanting sugarcane. Paddy rotation is especially effective because the waterlogged conditions help in decomposing infested sugarcane residues more rapidly and reduce the survival of the red rot fungus. This practice breaks the continuous supply of host tissue, forcing the pathogen population to decline naturally.",
+    "prevention_type": "Crop Rotation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Burn or properly compost all infected sugarcane stalks to ensure the pathogen is fully eradicated.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_001",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #001: PREBENTING WHEAT RUST: In Northern India, the most effective way to prevent devastating outbreaks of Yellow and Brown rust is through the strategic use of resistant varieties developed by ICAR-IIWBR. Varieties like HD 3226, HD 3086, and DBW 187 have built-in genetic resistance that prevents the rust fungus from establishing and spreading. Farmers are advised to replace older, susceptible varieties every three to four years to counter the evolution of new rust races. Using certified resistant seeds significantly reduces the need for expensive preventive fungicide sprays and ensures crop security during humid spring months.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Only purchase certified seeds from government agencies to ensure genetic purity and resistance.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_002",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #002: RICE BLAST PREVENTION: Rice blast caused by Magnaporthe oryzae is a major threat to paddy cultivation across India. To prevent this airborne disease, farmers should prioritize the adoption of blast-resistant cultivars such as BPT 5204 (improved), MTU 1010, or Swarna. These varieties possess multiple resistance genes that effectively block the entry and colonization of the fungus within the leaf tissue. Using resistant varieties is particularly important in high-humidity zones like the Western Ghats and North-Eastern states, where blast pressure is consistently high.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid excessive nitrogen fertilization as it can partially break down the host's genetic resistance.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_003",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #003: TOMATO WILT MANAGEMENT: Bacterial wilt caused by Ralstonia is a primary constraint for tomato production in Kerala, Goa, and hilly regions. Farmers can effectively prevent this soil-borne disaster by planting resistant hybrids like Arka Rakshak or Arka Abhed developed by IIHR. These varieties are bred to withstand high bacterial pressure even in warm and humid conditions. The genetic architecture of these plants prevents the bacteria from clogging the vascular system, allowing the plant to remain productive throughout its life cycle. Using resistant varieties is the only practical long-term prevention method since soil treatments are often ineffective against deep-seated bacteria.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Maintain good field drainage to supplement the variety's natural resistance to soil-borne wilts.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_004",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #004: POTATO LATE BLIGHT PREVENTION: Late blight caused by Phytophthora infestans is the most devastating disease for potato farmers in North India. To prevent massive crop loss during the foggy winter months, farmers should grow resistant varieties like Kufri Sahyadri or Kufri Karan. Developed by CPRI, these cultivars have vertical and horizontal resistance genes that slow down the development and spread of the blight fungus. Genetic resistance provides a vital window of protection, especially when weather conditions favor rapid disease epidemics and make chemical spraying difficult.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Monitor for late blight even on resistant varieties during exceptionally long periods of fog.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_005",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #005: COTTON WILT PREVENTION: In the cotton-growing regions of Maharashtra and Gujarat, Fusarium and Verticillium wilts are major threats to productivity. Prevention is best achieved through the cultivation of resistant Bt-cotton hybrids and specialized varieties like G.Cot.Hy-8. These plants have a robust vascular system that resists colonization by wilt-causing fungi. Using resistant varieties is essential for fields with a known history of wilt, as the fungus persists in the soil for many years. Genetic resistance prevents the sudden wilting and death of plants during the peak boll-development stage, thereby ensuring a stable harvest.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid mechanical root injury during cultivation to maintain the integrity of the resistant variety.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_006",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #006: CHICKPEA WILT PREVENTION: Chickpea wilt is a significant problem in Central India, often causing up to 30% yield loss. To prevent this infection, Indian farmers should plant wilt-resistant varieties like JG 11, JG 16, or JAKI 9218. These varieties have been bred to tolerate high levels of Fusarium oxysporum in the soil without showing symptomatic wilting. The resistance is particularly effective during the early flowering and pod-filling stages when the crop is most vulnerable. By choosing resistant cultivars, farmers can avoid the risks associated with soil-borne fungi that cannot be easily controlled by chemical means.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Combine resistant varieties with deep sowing to further escape the wilt-prone soil zone.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_007",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #007: MAIZE DOWNY MILDEW PREVENTION: In Rajasthan and Karnataka, Downy Mildew caused by Peronosclerospora species can devastate maize yields. The most reliable prevention method is the adoption of resistant hybrids such as Prabhat or DMR varieties developed under the All India Coordinated Research Project on Maize. These hybrids possess genetic traits that prevent the systemic infection of the fungal pathogen from the seed or soil. Growing resistant maize is especially important during the Kharif season when high humidity and temperature create an ideal environment for the disease.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Even with resistant hybrids, early planting can help the crop escape the peak disease period.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_008",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #008: SUGARCANE SMUT PREVENTION: Sugarcane smut caused by Sporisorium scitamineum is a major threat to both yield and sugar content in sub-tropical India. To prevent this systemic disease, farmers should cultivate smut-resistant varieties such as Co 0238 or Co 86032. These cultivars are bred specifically to resist the entry of smut spores into the lateral buds of the cane. Using resistant varieties is crucial for managing the disease in ratoon crops where the risk of accumulation is higher. Genetic resistance prevents the formation of characteristic 'smut whips,' which serve as the primary source of airborne spores for secondary spread.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Regularly inspect ratoon crops for any signs of resistance breakdown or new smut variants.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_009",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #009: GROUNDNUT BUD NECROSIS PREVENTION: Groundnut bud necrosis virus (GBNV) spread by thrips is a major concern in Andhra Pradesh and Telangana. To prevent this viral disease, farmers are advised to grow resistant varieties like Kadiri 6 or ICGS 76. These varieties have been developed to possess higher levels of tolerance to both the virus and the thrips vector. Genetic resistance helps in reducing the incidence of stunted growth and necrotic symptoms even under high vector pressure. Using these resistant cultivars is more effective than relying solely on insecticides, which often fail to control the rapid spread of thrips.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Maintain good soil moisture to support the host variety's natural physiological defense mechanisms.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_010",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #010: CHILI LEAF CURL PREVENTION: Leaf curl is a devastating viral disease for chili farmers in Guntur and other major chili-growing belts. To prevent this whitefly-transmitted virus, farmers should use resistant hybrids like Agni or Arka Kyati. These modern hybrids have built-in genetic resistance that prevents the virus from causing severe stunting and leaf deformation. Growing resistant varieties is the most practical way to manage the disease because whitefly populations are difficult to control completely with chemicals during the warm season.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use yellow sticky traps to monitor vectors even when growing leaf curl resistant chili.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_011",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #011: OKRA YVMV PREVENTION: Yellow Vein Mosaic Virus (YVMV) is the biggest threat to okra (bhindi) cultivation across North and South India. Farmers can prevent this disease by planting resistant hybrids such as Arka Anamika or Kashi Kranti. These varieties possess specific genes that prevent the mosaic virus from establishing a systemic infection in the plant's vascular tissue. Using resistant varieties is critical during the spring and summer months when whitefly vector populations are at their peak. Genetic resistance provides a more robust and environment-friendly way to manage the virus compared to frequent insecticide sprays.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Periodically replace seeds with fresh certified stock to maintain high levels of YVMV resistance.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_012",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #012: SOYBEAN YELLOW MOSAIC PREVENTION: Yellow Mosaic Virus (YMV) is a major constraint to soybean production in India, particularly during the Kharif season. Farmers should adopt YMV-resistant varieties like JS 20-29, JS 20-34, or NRC 37 to prevent crop failure. These cultivars are developed by ICAR-IISR to withstand the viral infection even when transmitted by numerous whitefly vectors in the field. Genetic resistance prevents the characteristic yellowing and stunting that leads to severe pod-filling issues. Using early-maturing, resistant varieties also helps in escaping late-season disease surges.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Effective whitefly management alongside resistant varieties provides the best overall protection against YMV.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_013",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #013: MUSTARD WHITE RUST PREVENTION: White rust caused by Albugo candida is a major threat to rapeseed and mustard cultivation in Rajasthan and Haryana. To prevent significant yield losses, farmers are advised to grow white rust-resistant varieties like Pusa Mustard 25 or DRMRIJ 31. These varieties have been bred to resist the formation of characteristic white pustules on the leaves and stagheads in the inflorescence. Genetic resistance is the most effective prevention strategy as it protects the crop throughout its most vulnerable reproductive stage. Using resistant varieties reduces the dependence on preventive fungicide applications during the cool and humid winter months.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Sow the resistant variety within the recommended window to optimize its genetic potential for disease prevention.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_014",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #014: PIGEONPEA STERILITY MOSAIC PREVENTION: Sterility Mosaic Disease (SMD), also known as the 'green plague,' is a major threat to pigeonpea in India. To prevent this infection, which stops the plant from flowering, farmers must use resistant varieties like ICPL 87119 (Asha) or BSMR 736. These varieties are resistant to both the causal virus and the eriophyid mite vector. Genetic resistance ensures that the plants remain reproductive even in areas where the disease is endemic. Using resistant pigeonpea is the only effective way to prevent SMD outbreaks, as chemical control of the microscopic mite vector is extremely difficult.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Destroy wild hosts of the mite vector near pigeonpea fields even when using resistant varieties.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_resistant_015",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "RESISTANT VARIETIES ADVISORY #015: PEARL MILLET DOWNY MILDEW PREVENTION: In the arid regions of Rajasthan and Gujarat, Pearl Millet (Bajra) is highly susceptible to Downy Mildew. To prevent outbreaks, farmers are advised to use resistant hybrids like HHB 67 or other NARS-developed cultivars. These hybrids have been genetically improved to resist the infection from both soil-borne oospores and airborne zoospore spread. Genetic resistance is the most cost-effective prevention method for smallholder dryland farmers. It ensures that the crop reaches maturity even during humid monsoon periods when susceptible varieties would likely fail.",
+    "prevention_type": "Resistant Varieties",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure seeds are properly stored to maintain the viability and health of the resistant hybrid.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_001",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #001: FUNGICIDAL SEED DRESSING: To prevent early-stage soil-borne diseases such as damping-off and seedling blight, Indian farmers should always treat their seeds with systemic fungicides before sowing. A combination of Thiram and Carbendazim at a ratio of 2:1 (3 grams per kg of seed) is highly recommended for major crops like cotton, pulses, and vegetables. This chemical barrier protects the emerging seedlings from fungal pathogens present in the soil and on the seed surface. Dry seed dressing ensures that the fungicide is evenly distributed, providing a critical window of protection during the first two weeks of germination.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use hand gloves during seed treatment and avoid direct contact with fungicides.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_002",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #002: BIOLOGICAL SEED TREATMENT: Using bio-agents like Trichoderma viride or Pseudomonas fluorescens for seed treatment is an excellent organic prevention strategy for Indian farmers. Treating seeds with Trichoderma (10 grams per kg) provides a biological shield against several root rot and wilt pathogens. These beneficial fungi colonize the root zone and outcompete harmful soil-borne pathogens for nutrients and space. This method is particularly effective for leguminous crops like chickpeas and soybean, where it also enhances early root development. Biological seed treatment is environmentally safe, improves soil microbial health, and is a key component of sustainable integrated disease management.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Do not mix biological agents with chemical fungicides as chemicals will kill the beneficial microbes.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_003",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #003: HOT WATER TREATMENT FOR SUGARCANE: To prevent the transmission of red rot and grassy shoot disease in sugarcane, Indian farmers should implement hot water treatment for seed setts. The setts should be immersed in water at 50 to 52 degrees Celsius for approximately two hours. This thermal treatment effectively eliminates systemic pathogens that reside within the vascular tissues of the cane. It is a critical preventive measure for maintaining seed-grade quality and ensuring that new plantations are free from incurable viral and fungal infections. After treatment, setts should be cooled and treated with a fungicide before planting.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Maintain precise temperature control during hot water treatment to avoid damaging the buds' viability.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_004",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #004: SOLAR SEED TREATMENT FOR WHEAT: Solar seed treatment is a cost-effective, non-chemical method to prevent loose smut of wheat in North India. On a bright, hot summer day in May or June, the wheat seeds should be soaked in water for four hours in a shaded area. Afterward, the soaked seeds are spread in a thin layer on a clean floor or polyethylene sheet under direct sunlight for at least four to five hours. The high solar heat effectively kills the dormant mycelium of the loose smut fungus resting inside the wheat embryo.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": "< 40%",
+      "rainfall_limit": "0mm",
+      "temperature_range": "> 35\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure seeds are thoroughly dried before storage to prevent mold and loss of germination.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_005",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #005: POTATO TUBER TREATMENT: Before planting, potato tubers should be treated to prevent various soil and seed-borne diseases like common scab and black scurf. Dipping the tubers in a 3% solution of Boric Acid for 30 minutes is the standard recommendation by the Central Potato Research Institute. This chemical treatment effectively disinfects the tuber surface from fungal sclerotia and bacterial pathogens. After dipping, the tubers must be dried under shade before being used for planting. Alternatively, using bio-agents like Trichoderma as a tuber dip can provide similar protection while promoting vigorous plant growth.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Wear protective clothing when handling Boric Acid to avoid skin irritation.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_006",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #006: PADDY SEED TREATMENT: To prevent bacterial leaf blight and foot rot in paddy, Indian farmers must implement a systematic seed treatment protocol. Seeds should be soaked in a solution containing Streptocycline (1 gram) and Carbendazim (10 grams) in 10 liters of water for 24 hours. This combined treatment targets both bacterial and fungal pathogens that are often present in the seed coat or infected embryos. After soaking, the seeds should be drained and kept in moist gunny bags for sprouting. This ICAR-recommended method is highly effective in reducing early-season disease pressure in the nursery and main field.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Dispose of the leftover antibiotic solution carefully and away from water sources.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_007",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #007: GINGER RHIZOME TREATMENT: To prevent the devastating soft rot and rhizome rot in ginger, treating the seed rhizomes before planting is a mandatory practice in Southern and North-Eastern India. Rhizomes should be dipped in a solution of Mancozeb (0.3%) and Quinalphos (0.075%) for 30 minutes. This combination provides protection against both fungal pathogens like Pythium and various soil insects that might cause injuries leading to secondary infections. After treatment, the rhizomes should be dried in the shade for a day before being planted. Using healthy, treated rhizomes is the primary prevention strategy for achieving high yields in spice cultivation.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Discard any rhizomes that show internal browning or rot symptoms during the treatment process.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_008",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #008: COTTON SEED ACID DELINTING: To prevent the transmission of bacterial blight and manage soil-borne pathogens, Indian cotton farmers often use acid-delinted seeds. This process involves treating fuzzy cotton seeds with concentrated sulfuric acid (100 ml per kg of seed) to remove the lint and surface-borne pathogens. The acid effectively sterilizes the seed surface and makes the seeds easier to handle for mechanical sowing. After delinting, the seeds must be thoroughly washed with water to remove any residual acid and then treated with Thiram or Carbendazim for additional protection.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Handle concentrated sulfuric acid with extreme care; use protective eye gear and acid-resistant gloves.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_009",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #009: CHICKPEA SEED TREATMENT FOR WILT: Fusarium wilt is a major problem in chickpea cultivation across Central and North India. To prevent this soil-borne disease, treating the seeds with a mix of Carbendazim and Thiram (1:2 ratio, 3 grams per kg) or the bio-agent Trichoderma viride (10 grams per kg) is highly effective. This treatment creates a protective zone around the germinating seed, preventing the wilt fungus from infecting the young roots. Farmers following the 'pulse bowl' cultivation practice in Madhya Pradesh report significant reductions in early-season plant mortality when seed treatment is adopted.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Do not use treated seeds for human or animal consumption.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_010",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #010: GROUNDNUT SEED TREATMENT: To prevent seed rot and crown rot in groundnut, farmers in Gujarat and Rajasthan should treat the kernels with Thiram or Mancozeb at a dose of 3 grams per kg of seed. This preventive measure protects the highly succulent groundnut kernels from various soil-borne fungi that can cause rapid decay immediately after sowing. Additionally, treating seeds with specific strains of Rhizobium culture helps in improving nitrogen fixation, while bio-fungicides like Trichoderma provide a sustainable shield against soil-borne pathogens. Using only whole, disease-free kernels for treatment is essential for ensuring high germination and vigorous seedling growth.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Handle kernels gently during treatment to prevent damaging the fragile seed coat.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_011",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #011: ONION SEED TREATMENT: Black mold and damping-off are common diseases starting from the onion nursery stage in Maharashtra. To prevent these, farmers should treat the onion seeds with Thiram (2 grams per kg) or a bio-fungicide like Trichoderma (5 to 10 grams per kg) before sowing. Seed treatment ensures that the nursery bed is protected from airborne and soil-borne fungal spores. Disinfected seeds lead to healthy seedlings that can better withstand the transplanting shock in the main field.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure seeds are properly dried after any liquid treatment before sowing.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_012",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #012: VEGETABLE NURSERY SEED TREATMENT: For high-value vegetables like chili, tomato, and eggplant, seed treatment is the primary preventive step against damping-off. Farmers should treat the seeds with Metalaxyl (4 grams per kg) or Thiram (3 grams per kg). This treatment is especially effective against Pythium and Phytophthora, which cause rapid seedling death in moist nursery environments. Combining chemical seed treatment with the application of bio-agents to the nursery soil provides a robust integrated defense. Healthy, disease-free seedlings from a treated nursery result in a stronger crop with better yield potential in the open field.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Maintain accurate dosage of fungicides, as over-treatment can sometimes inhibit germination.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_013",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #013: MUSTARD SEED TREATMENT: To prevent white rust and downy mildew in mustard, seeds should be treated with Metalaxyl (6 grams per kg of seed) before sowing. This systemic fungicide treatment provides internal protection to the plant from the very beginning, preventing the initial establishment of fungal pathogens during the seedling stage. In the major mustard-producing states of Rajasthan and Haryana, this preventive measure is highly recommended for late-sown crops that are more vulnerable to disease outbreaks. Seed treatment also helps in managing some soil-borne pests that can injure young roots.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Store treated seeds in a cool, dry place and mark containers clearly as 'poison'.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_014",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #014: MAIZE SEED TREATMENT FOR STALK ROT: To prevent stalk rot and other fungal infections in maize, Indian farmers are advised to treat their hybrid seeds with Thiram or Captan at 3 grams per kg. This treatment targets seed-borne inoculum and prevents the early entry of pathogens that cause significant vascular damage later in the season. For better management of soil-borne fungi, adding a bio-fungicide like Trichoderma can also be beneficial. This preventive step is particularly important for high-yield hybrids grown in intensive systems where disease pressure is often higher.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use personal protective equipment (PPE) when handling treated hybrid maize seeds.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_015",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #015: SOYBEAN SEED TREATMENT: To prevent the spread of soybean mosaic virus and various soil-borne rots, treating the seeds with a combination of Thiram (2 grams) and Carbendazim (1 gram) per kg is the standard ICAR-IISR recommendation. This treatment package ensures that the crop starts with a minimum pathogen load, which is essential for achieving the full genetic potential of modern soybean varieties. In states like Madhya Pradesh, seed treatment has become a mandatory practice for farmers to participate in state-sponsored crop insurance and distribution programs.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Always treat seeds with fungicides first, then apply bio-inoculants just before sowing to ensure max efficacy.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_016",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #016: TOBACCO SEED TREATMENT: To prevent the loss of seedlings due to damping-off and common fungal diseases in tobacco nurseries, seed treatment is highly recommended by CTRI. Seeds should be treated with a solution of Silver Nitrate (0.5%) for 15 minutes or with suitable fungicides like Thiram. This treatment effectively eliminates surface-borne viruses and fungal spores that could otherwise spread rapidly in the high-density environment of a nursery bed. Following this disinfection step, the seeds should be dried carefully under shade. This preventive practice is essential for producing the sturdy, disease-free seedlings required for high-quality tobacco production in Andhra Pradesh and Karnataka.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Strictly follow the recommended concentration of chemicals to avoid phytotoxicity and seed damage.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_017",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #017: BANANA SUCKER TREATMENT: Banana farmers in India should always treat their planting material (suckers or corms) to prevent the transmission of Panama wilt and bacterial rots. Before planting, suckers should be pared to remove infected tissues and then dipped in a solution of Carbendazim (0.2%) and Monocrotophos (0.05%) for at least 30 minutes. This treatment effectively targets both the fungal pathogens and soil-borne pests like nematodes and weevils that often predispose the banana plant to diseases. Dipping in a slurry of clay and ash can further provide a physical and chemical barrier against opportunistic soil fungi.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Handle chemical dips with care and dispose of excess liquid according to environmental guidelines.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_018",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #018: PEARL MILLET SEED TREATMENT: In the arid and semi-arid regions of Rajasthan, pearl millet (bajra) seeds should be treated with Metalaxyl (6 grams per kg) to prevent Downy Mildew, which is a major threat to this essential food and fodder crop. The treatment provides early systemic protection against the oospores present in the soil or on the seed surface. Additionally, treating seeds with Azospirillum culture (20 grams per kg) can enhance the nutrient uptake and overall plant vigor, making it more resilient to environmental stress.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid skin contact with Metalaxyl; always use safety equipment when mixing and sowing treated seeds.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_019",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #019: OILSEED SEED TREATMENT: To prevent seedling blight and root rot in oilseeds like linseed and sunflower, seeds must be treated with Mancozeb or Thiram (3 grams per kg). These diseases can cause rapid canopy loss if not checked in the initial growth phase. Seed treatment provides an effective protection zone against opportunistic soil pathogens that thrive in changing weather conditions. In addition to chemical fungicides, biological treatments using Trichoderma or Pseudomonas are gaining popularity in states like Maharashtra and Karnataka for their environmentally friendly approach and positive effect on soil health.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Treat only the required quantity of seeds for sowing to avoid wastage of chemical and materials.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_seed_020",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SEED TREATMENT ADVISORY #020: SORGHUM SEED TREATMENT: Red rot and grain mold are significant diseases that affect sorghum (jowar) in India. To prevent these, farmers should treat their seeds with Thiram (3 grams per kg) or a suitable bio-agent like Trichoderma viride. This practice is part of the integrated disease management strategy recommended by IIMR to ensure better grain quality and fodder yield. Seed treatment targets the initial fungal inoculum and prevents its establishment in the young seedlings during the first few weeks after sowing.",
+    "prevention_type": "Seed Treatment",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Always use wooden sticks for mixing chemicals with seeds to avoid direct skin contact with fungicides.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_001",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #001: REMOVING CROP RESIDUES: To prevent the survival and carryover of fungal pathogens like Fusarium and Alternaria, Indian farmers must rigorously remove and destroy all crop residues after harvest. Many plant diseases survive on infected stems, leaves, and roots that are left in the field. These residues serve as the primary source of inoculum for the next season's crop. Farmers are advised to either burn the infected debris (where permitted and safe) or compost it properly in deep pits away from the cropping area.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Wear protective gear when handling diseased plant material to prevent secondary spread and personal exposure.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_002",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #002: ROGUEING INFECTED PLANTS: In the cultivation of high-value crops like tomato, chili, and okra, early 'rogueing' or the removal of symptomatic plants is a vital preventive measure against viral and systemic diseases. Farmers should regularly scout their fields and immediately pull out any plants showing signs of mosaic, leaf curl, or wilting. These infected plants act as a reservoir from which vectors like whiteflies and aphids spread the disease to healthy neighbors. The removed plants must be placed in a plastic bag and taken out of the field to be destroyed.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Wash hands and tools with soap after rogueing infected plants to avoid mechanical transmission to healthy ones.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_003",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #003: CLEANING FARM TOOLS: Mechanical transmission of pathogens through contaminated farm tools is a major risk in intensive Indian agriculture. Tools such as sickles, pruning shears, and plow blades can carry particles of bacteria and fungi from one field to another. To prevent this, farmers should implement a regular tool disinfection protocol. Before moving from an infected area to a healthy one, all implements should be cleaned with a 1% solution of Sodium Hypochlorite or simple soap and water. This practice is especially critical in orchards and vineyards during the pruning season when open wounds on plants are highly vulnerable to infection.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Always dry tools after disinfection to prevent rusting and maintain their operational efficiency.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_004",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #004: WEED HOST MANAGEMENT: Many crop diseases survive on common weeds found in and around Indian farms during the off-season. Weeds serve as alternative or 'bridge' hosts for several fungal and viral pathogens. To prevent disease outbreaks, farmers must practice thorough weed management. Eliminating weeds like Datura, Parthenium, and wild cucurbits from the field borders helps in reducing the population of viruses and their insect vectors. For example, maintaining a 2-meter wide weed-free zone around the field can significantly lower the incidence of tomato leaf curl virus. This cultural prevention strategy is part of the ICAR's recommendations for holistic field sanitation.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Handle poisonous weeds like Datura with care and keep them away from livestock during the cleaning process.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_005",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #005: MANAGING NURSERY SANITATION: High-quality seedling production in Indian nurseries depends heavily on strict sanitation practices. Damping-off and other nursery diseases can be prevented by using sterilized soil or soilless media like coco-peat. Farmers should also ensure that the nursery area is elevated and has excellent drainage to prevent soil-borne pathogens from spreading through stagnant water. Disinfecting the nursery trays and walking paths with a copper sulfate solution is a recommended practice by TNAU and IIHR. Preventing soil splash onto the young seedlings by using raised beds or protective covers can also reduce the risk of early infections.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use only clean, treated water for irrigation in the nursery to avoid re-introducing pathogens.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_006",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #006: CONTROLLING IRRIGATION WATER: In states like Tamil Nadu and Andhra Pradesh, irrigation water can be a major carrier of soil-borne pathogens like Pythium and Phytophthora. To prevent the spread of these diseases, farmers should avoid using runoff water from infected fields for irrigating healthy ones. Managing the direction of water flow is a crucial part of field sanitation. If possible, irrigation channels should be lined or regularly cleaned of debris and silt which can harbor fungal spores.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Install sand filters in drip systems to further reduce the risk of biological contamination from water sources.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_007",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #007: PRUNING AND REMOVING DISEASED WOOD: In fruit orchards like pomegranate and grapes, the most effective way to prevent the spread of bacterial blight and wood-rotting fungi is through systematic pruning and wood sanitation. During the off-season, farmers must identify and cut away all diseased or dried-up branches, ensuring the cut is made at least 10 cm into the healthy wood. All pruned material should be immediately collected and removed from the orchard or burnt to prevent the release of fungal spores.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Always use sharp, sterilized shears for pruning to ensure clean cuts and faster wound healing.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_008",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #008: MANAGING INFECTED FRUITS AND TUBERS: To prevent the buildup of post-harvest and soil-borne rots, Indian farmers must proactively remove and destroy all fallen, rotted fruits or tubers from the field. Leaving infected produce on the ground allows pathogens like Aspergillus, Penicillium, and various soft-rot bacteria to multiply rapidly. These pathogens can then infect healthy produce during the harvest or spread into the soil for future seasons. Farmers should collect all discarded fruits and bury them in a deep pit away from the cropping area.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Do not leave infected plant materials in piles at the field corners as wind and insects can re-introduce the disease.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_009",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #009: CONTROLLING ANIMAL AND HUMAN TRAFFIC: Soil-borne pathogens like the potato cyst nematode or various wilt fungi can be unintentionally spread across fields by the movement of livestock and human traffic. To prevent this, Indian farmers should implement a basic movement control protocol on their farms. Restricting animal grazing in infected fields and ensuring that feet and footwear are cleaned after working in a diseased area are effective preventive measures. Installing simple footbaths containing a 0.5% copper sulfate solution at the entry of high-value greenhouses or nurseries can significantly reduce the risk of introducing new pathogens.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Educate farm labor on the importance of sanitation to ensure the success of biosecurity measures.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_010",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #010: DISINFECTING STORAGE STRUCTURES: To prevent the carryover of storage rots and seed-borne diseases, Indian farmers should clean and disinfect their storage structures annually. Before storing a new harvest, all grain bins, potato cold storage areas, or onion sheds should be thoroughly swept and sprayed with a 1% solution of Malathion or other recommended sanitizers. Removing all old grain residues and dust is critical because they harbor dormant spores of fungi and various storage pests. Proper ventilation should also be ensured to keep the moisture levels low, as high humidity favors the rapid multiplication of rots.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Wait for at least 48 hours after chemical disinfection before storing food grains to ensure safety.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_011",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #011: BURNING INFECTED CROP RESIDUE: While not always the first choice, controlled burning of infected crop residue is a vital emergency sanitation practice in India for managing highly infectious diseases like red rot of sugarcane or severe cases of cereal smut. If residues cannot be safely composted or buried, burning effectively destroys the pathogen resting structures that other methods might miss. Farmers should only burn residue in designated areas and following local pollution guidelines. This practice must be followed by deep plowing to incorporate the mineral-rich ash and further clean the soil.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": "< 50%",
+      "rainfall_limit": "0mm",
+      "temperature_range": null,
+      "wind_speed_limit": "< 10 km/h"
+    },
+    "safety_notes": "Always inform local authorities and ensure adequate fire breaks before burning crop residues.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_012",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #012: MANAGING VOLUNTEER PLANTS: Volunteer plants, which grow from the seeds or tubers left behind after a previous harvest, are often the primary source of early infections in the next cropping cycle. These plants act as 'green bridges' for many pests and diseases, especially viruses. To prevent this, Indian farmers should actively identify and remove all volunteer plants before sowing the new crop. For instance, removing volunteer potato plants in North India is essential for managing the initial spread of late blight and viral vectors.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Never leave volunteer plants to mature near the field borders, as they can also harbor invasive pests.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_013",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #013: CLEANING FIELD BORDERS AND FENCES: Fungal spores and insect vectors often overwinter on the vegetation growing along field borders and fences in Indian agricultural landscapes. To prevent the migration of these threats into the main field, farmers must practice regular border sanitation. Cutting back tall grasses and removing wild host plants from the perimeter reduces the localized population of disease-carrying insects like thrips and aphids. Maintaining a clean border also improves light penetration and air movement, which helps in drying out the field edges more quickly after rain or irrigation.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid the use of non-selective herbicides near boundary trees or sensitive neighboring crops during border cleaning.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_014",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #014: SANITIZING SEEDBEDS AND NURSERY TRAYS: In high-value vegetable and flower production, the sanitization of seedbeds and reuse of nursery trays is a critical point for disease prevention. Pathogens like Pythium and Rhizoctonia can survive on the surfaces of plastic trays or soil particles left behind from the previous batch. Farmers should thoroughly wash all used trays with water and then dip them in a disinfectant solution like 1% Bleaching Powder or a copper-based fungicide before reuse. Solarizing the nursery seedbeds by covering them with transparent polyethylene sheets during the hot summer months can also effectively kill most soil-borne pathogens.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": "< 40%",
+      "rainfall_limit": "0mm",
+      "temperature_range": "> 35\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Allow trays to dry completely in the sun after disinfection to ensure all chemical residues are neutralized.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_015",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #015: MANAGING WASTE CULLED AT HARVEST: During the harvest and initial sorting, many fruits and vegetables are culled due to rot or damage. To prevent these 'culls' from becoming a source of infection, Indian farmers must manage this waste responsibly. Leaving culled produce in piles at the edge of the field attracts pests and allows fungal pathogens to complete their life cycle and release thousands of spores into the air. Farmers should collect all culls and bury them in a designated disposal pit at least 15 meters away from any healthy crop.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Do not use culled diseased produce as animal feed, as some pathogens can survive the digestive system.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_016",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #016: DISINFECTING PACKING SHEDS: The cleanliness of packing and sorting sheds is crucial for preventing the spread of storage and transport rots. Pathogens like Alternaria and Botrytis can linger on sorting tables, crates, and floors. Indian farmers and traders should implement a regular disinfection schedule for these areas, especially during the peak harvest season. Washing the facility with a 1% Sodium Hypochlorite solution or a suitable disinfectant is a standard recommendation for preventing cross-contamination of healthy produce. This preventive measure is particularly important for high-value horticultural crops intended for long-distance transport or export.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure adequate ventilation in packing sheds when using chemical disinfectants to protect worker health.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_017",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #017: DEEP PLOWING TO BURY INFECTED DEBRIS: Deep summer plowing is a highly effective cultural sanitation practice for managing soil-borne diseases in the Indian sub-continent. Between April and June, when temperatures are high, farmers should plow their fields to a depth of at least 30 cm. This process helps in burying infected crop residues deep into the soil, where they can decompose faster and stay away from future root zones. More importantly, it brings deep-seated fungal sclerotia and pests to the surface, exposing them to lethal solar radiation and desiccation.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": "< 30%",
+      "rainfall_limit": "0mm",
+      "temperature_range": "> 40\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid excessive plowing in very light soils to prevent wind erosion during the hot summer period.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_018",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #018: CLEANING IRRIGATION CHANNELS: Irrigation channels that are overgrown with weeds or filled with silt and debris can become a breeding ground for water-borne pathogens and insect vectors. To prevent the spread of diseases across the farm, farmers should regularly clean and desilt their surface irrigation network. Removing vegetation along the channel banks reduces the localized population of whiteflies and aphids that spread various mosaic viruses. This sanitation practice is particularly important during the monsoon season when runoff from infected areas can easily transport fungal spores through the farm's water system.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure that the removed silt and debris are not dumped near healthy fields but are properly composted or buried.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_019",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #019: DISPOSING OF INFECTED RHIZOMES AND TUBERS: For soil-propagated crops like ginger, turmeric, and potato, the proper disposal of infected seed material is critical for long-term field sanitation. If a lot of seed material is found to be diseased during the sorting or treatment process, it should never be discarded at the field edge. These infected rhizomes or tubers stay viable for a long time and attract secondary pests. Farmers must either bury them in a deep pit (at least 1 meter deep) or incinerate them in a controlled environment.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Wear gloves when handling rotten rhizomes to prevent the spread of bacteria through personal contact or tools.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_sanitation_020",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "FIELD SANITATION ADVISORY #020: MANAGING WORKER HYGIENE: In intensive cultivation and greenhouse environments, the physical hygiene of farm workers is an often-overlooked aspect of field sanitation. Pathogens can be carried on hands, clothes, and footwear from one area to another. To prevent this, Indian farmers should encourage workers to use dedicated footwear for specialized areas like nurseries or seedbeds. Providing hand-washing stations with disinfectant soap can significantly reduce the mechanical spread of viral and bacterial diseases. This strategy is critical for sustainable disease management and agricultural productivity in diverse Indian farm conditions across all major cropping belts.",
+    "prevention_type": "Field Sanitation",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Establish clear entry protocols for all visitors and laborers to minimize the introduction of new pathogens to the field.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_001",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #001: PROPER SPACING IN TOMATOES: To prevent the development and rapid spread of foliar fungal diseases like Early Blight and Late Blight, Indian farmers must maintain adequate plant-to-plant and row-to-row spacing in tomato fields. A recommended spacing of 60x45 cm for determinate and 75x60 cm for indeterminate varieties ensures optimal airflow between plants. Good air circulation helps in the rapid drying of leaves after dew or rain, thereby reducing the duration of leaf wetness that is critical for fungal spore germination. Denser planting creates a micro-climate with high humidity, which is highly favorable for disease epidemics.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use bamboo stakes to keep the canopy off the ground to further improve ventilation and prevent soil-borne infections.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_002",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #002: WIDER SPACING IN ONIONS: In the major onion-growing regions of Maharashtra and Karnataka, maintaining a row spacing of 15 cm and a plant spacing of 10 cm is critical for preventing the buildup of purple blotch and other fungal leaf diseases. Proper spacing allows sunlight to penetrate deep into the crop canopy, which helps in reducing the localized humidity at the plant base. During the Kharif season, when moisture levels are high, farmers are advised to increase the spacing slightly to ensure better ventilation.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Maintain uniform spacing to prevent 'hotspots' of high humidity where disease can start.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_003",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #003: PRUNING FOR DISEASE PREVENTION IN GRAPES: Pruning is a critical canopy management practice for Indian grape growers in the Deccan Plateau to prevent downy mildew and powdery mildew outbreaks. By removing excessive vegetative growth and thinning out crowded clusters, farmers improve the light interception and airflow within the grapevine canopy. This prevents the formation of stagnant 'humidity pockets' where fungal pathogens thrive. Detailed pruning should be carried out based on the TNAU and NRCG guidelines, ensuring that the fruit zone is well-exposed but protected from direct sunburn.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 70%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Sterilize pruning shears between vines to prevent the mechanical transmission of systemic pathogens.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_004",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #004: CITRUS ORCHARD SPACING AND PRUNING: In citrus-growing belts like Nagpur and Vidarbha, proper tree spacing of 6x6 meters and regular canopy pruning are vital for preventing citrus canker and gummosis. Overcrowded orchards experience high relative humidity and poor light penetration, which favor the rapid spread of the bacterial canker pathogen. Pruning the lower 1.5 to 2 feet of the trunk (the 'skirt') helps in reducing soil splash during rains, which is a major source of initial infection. Removing dead, diseased, or crisscrossing branches improves the overall health and ventilation of the tree.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 80%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Apply a copper paste on the cut ends after pruning to prevent the entry of wood-rotting fungi.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_005",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #005: POMEGRANATE CANOPY MANAGEMENT: To prevent the devastating bacterial blight (Oily Spot) in pomegranate, maintaining an open canopy through regular thinning and pruning is essential. Indian farmers should ensure a tree spacing of at least 5x5 meters to provide adequate space for air movement. A well-managed canopy with 3 to 4 main stems allows for better light penetration, which naturally suppresses the growth of moisture-loving bacteria. Removing all water shoots and infected materials during the rest period reduces the primary inoculum for the next season.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Disinfect pruning tools after every tree with a 10% bleach solution to prevent spreading bacterial blight.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_006",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #006: BANANA SPACING FOR SIGATOKA CONTROL: Sigatoka leaf spot is a major global and Indian threat to banana production. To prevent this fungal disease, farmers in Tamil Nadu and Kerala should implement wider spacing, especially when planting in high-density systems. A standard spacing of 1.8x1.8 meters or more helps in reducing the humidity within the plantation and increases the rate of leaf drying. This is crucial because Sigatoka spores require free water on the leaf surface for several hours to germinate and infect. Proper spacing also facilitates easier removal of older, infected leaves (de-leafing), which is a key sanitation practice.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 85%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid planting extremely close to water bodies where localized humidity is naturally higher.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_007",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #007: CHILI SPACING FOR VIRUS PREVENTION: In major chili-growing areas like Guntur, maintaining a row spacing of 60 cm and a plant spacing of 45 cm is a key recommendation for managing thrips and whiteflies, which are vectors for \uc5ec\ub7ec viral diseases. While dense planting can sometimes reduce vector landing through a 'dilution' effect, it often leads to higher humidity and increased risk of fungal fruit rots later in the season. Proper spacing according to the variety's growth habit ensures that the plants are well-aerated and receive adequate sunlight.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Increase spacing slightly during the monsoon season to help in managing higher disease pressure.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_008",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #008: CUCURBIT TRELLISING AND SPACING: To prevent various soil-borne and foliar diseases like Downy Mildew and fruit rot in crops such as bitter gourd and pointed gourd, Indian farmers should use trellising (pandal) systems. Keeping the vine canopy off the ground significantly reduces the exposure to soil-borne pathogens and improves airflow and light penetration. A row-to-row spacing of 2-2.5 meters and a plant spacing of 60 cm on the trellis is recommended for optimal production. The elevated canopy dries much faster after rain or irrigation, which is the most critical factor for preventing fungal spore germination.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure the trellis structure is strong enough to withstand high winds and heavy fruit loads.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_009",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #009: MANGO ORCHARD REJUVENATION AND PRUNING: In old, overcrowded mango orchards in Uttar Pradesh and Bihar, the most effective prevention against anthracnose and powdery mildew is through orchard rejuvenation and center-opening pruning. Dense, overlapping canopies create a permanent humid environment that favor these fungal pathogens throughout the year. Farmers should prune away excess central branches to allow sunlight to reach the inner canopy and the ground. This 'center-opening' technique improves cross-ventilation and significantly reduces the population of hopper pests that can predispose the tree to sooty mold.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 70%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Burn or properly dispose of the pruned wood to eliminate overwintering pathogens for better orchard health.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_010",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #010: CABBAGE AND CAULIFLOWER SPACING: Black rot and downy mildew are major constraints for cole crop farmers in North India. To prevent these diseases, maintaining a row spacing of 45-60 cm and a plant spacing of 30-45 cm is critical. Proper spacing ensures that the canopy does not become too dense, allowing for adequate air circulation between the heads. This prevents the buildup of moisture around the leaf bases, where the black rot bacteria often gain entry through hydathodes. During periods of heavy dew or fog, well-spaced plants dry more quickly, reducing the infection window.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 80%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Increase the spacing during the late rainy season varieties to account for higher canopy growth.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_011",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #011: SPACING IN COTTON FOR BOLL ROT PREVENTION: Boll rot is a significant disease for cotton farmers in high-rainfall regions of Central India. To prevent this, maintaining a row spacing of 90-120 cm and a plant spacing of 60 cm is a recommended cultural practice. Proper spacing prevents the overlap of branches between rows, which significantly improves the movement of air and sunlight within the plant's lower canopy. This helps in maintaining a lower relative humidity around the developing bolls, making them less susceptible to fungal and bacterial rots.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid excessive nitrogen application as it can lead to overly dense vegetative growth regardless of spacing.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_012",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #012: STAKING AND SPACING IN BEANS: To prevent various fungal pod rots and foliar blights in crops like French beans and black gram, Indian farmers should implement proper staking and spacing. A row spacing of 45-60 cm and a plant spacing of 15 cm, combined with physical support for climbing varieties, is highly effective. Staking keeps the pods and leaves away from the damp soil, reducing the risk of infection by species like Macrophomina and Rhizoctonia. Improved airflow between the vertical vines ensures that the canopy dries rapidly after morning dew.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 70%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use only clean, treated wooden or bamboo stakes to avoid introducing new pathogens into the field.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_013",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #013: FRUIT THINNING IN APPLE ORCHARDS: In Jammu and Kashmir and Himachal Pradesh, fruit thinning and canopy management are vital for preventing the spread of apple scab and various fruit rots. By removing overcrowded fruit clusters during the early development stage, farmers ensure that the remaining fruits are not in contact with each other. This physical separation prevents the rapid movement of fungal mycelium from one infected fruit to its neighbors. Additionally, pruning the trees to maintain an open 'V' or 'modified central leader' shape improves the airflow and sunlight penetration, which are natural deterrents for the scab fungus.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 70%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Dispose of all thinned-out fruits by burying them deeply to prevent them from becoming a source of infection on the orchard floor.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_014",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #014: SPACING IN MUSTARD FOR DOWNY MILDEW: To prevent downy mildew and white rust in mustard, maintaining a row spacing of 30 cm and a plant spacing of 10-15 cm is a recommended cultural practice by the Directorate of Rapeseed and Mustard Research. Overcrowded fields create a persistent moist micro-climate within the canopy, which is highly favorable for the development of fungal pustules during the cool and humid months from December to February. Proper thinning of the crop 20-25 days after sowing is essential to achieve this optimal spacing.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Perform thinning operations only when the soil is not too wet to avoid soil compaction and root injury.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_spacing_015",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "CANOPY & SPACING ADVISORY #015: MANAGING SHADE CANOPY IN COFFEE: In the Western Ghats and North-Eastern India, coffee plantations are typically grown under a shade canopy. Managing the density of these shade trees is critical for preventing the spread of coffee leaf rust and black rot. During the pre-monsoon season, farmers should practice 'shade lopping' to remove excessive branches from the canopy trees. This improves the air movement and sunlight penetration within the coffee plantation, reducing the localized humidity levels. An overly dense shade canopy maintains a foggy environment that is ideal for fungal spore dispersal and infection.",
+    "prevention_type": "Spacing",
+    "weather_constraints": {
+      "humidity_threshold": "> 80%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Check for pest habitats in the lopped branches and ensure they are properly managed to avoid re-infesting the coffee plants.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_001",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #001: PRE-MONSOON PROPHYLACTIC SPRAYS: To prevent the sudden outbreak of fungal diseases during the Southwest Monsoon, Indian farmers should apply a prophylactic spray of systemic or contact fungicides just before the onset of the rains. For perennial crops like citrus, mango, and pomegranate, a spray of 1% Bordeaux mixture or Copper Oxychloride acts as a durable protective layer on the plant surface. This chemical barrier prevents fungal spores from establishing infections during the prolonged periods of high humidity and rainfall. Prophylactic treatments are much more effective and economical than trying to control a disease after it has already spread throughout the field.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Wear protective waterproof clothing when spraying during the pre-monsoon period to avoid skin exposure to chemicals.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_002",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #002: IMPROVING FIELD DRAINAGE: Good drainage is the most effective cultural prevention method for soil-borne diseases during the Indian monsoon season. Waterlogging in the root zone creates an anaerobic environment that triggers the rapid development of damping-off and root rots caused by Pythium and Phytophthora. Farmers must ensure that their fields have well-maintained drainage channels that are free from weeds and silt before the first rains. In heavy clay soils, forming raised beds or planting on mounds is highly recommended to keep the root system above the saturation level.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": "> 50mm/day",
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid working in waterlogged fields with bare feet to prevent personal risk from water-borne diseases and pests.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_003",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #003: REDUCING CANOPY DENSITY BEFORE RAINS: To prevent the buildup of stagnant humidity during the monsoon, Indian farmers should selectively thin out their dense crop canopies before the onset of continuous rainfall. Removing excess vegetative growth and lower leaves improves the overall ventilation within the field. This allows for better air movement, which speeds up the drying of leaves after a rain shower. A drier canopy is significantly less susceptible to various foliar fungal diseases like downy mildew and \uc5ec\ub7ec leaf spot complexes. For horticultural crops like grapes and tomatoes, this practice is part of standard ICAR-recommended disease management.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 80%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Handle plants gently during thinning to avoid creating wounds that could facilitate pathogen entry during rainy conditions.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_004",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #004: COPPER-BASED PREVENTIVE APPLICATIONS: Copper-based fungicides like Copper Oxychloride (COC) or Bordeaux mixture are essential preventive tools for managing bacterial and fungal diseases during the monsoon. These chemicals have a broad-spectrum action and are relatively resistant to being washed away by light rains (good 'rainfastness'). Applying a spray of COC (3 grams per liter) before expected periods of heavy rainfall provides a protective coating on leaves and fruits. This is particularly effective against citrus canker, pomegranate bacterial blight, and early-stage damping-off. ICAR and state agricultural universities recommend these applications every 10 to 15 days during the peak monsoon period if humidity remains high.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Do not mix copper fungicides with soap-based insecticides, as this may cause phyto-toxicity in some sensitive crop varieties.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_005",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #005: MANAGING COLLAR ZONE HYGIENE: The 'collar zone' of the plant, where the stem meets the soil, is the most vulnerable area for infections during the monsoon. To prevent collar rot and foot rot, Indian farmers should ensure that water is not allowed to stagnate around the plant base. For fruit trees and commercial plantations like rubber and coconut, forming a 'ring' or a mound around the trunk prevents the accumulation of moisture and reduces soil-borne pathogen exposure.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": "> 30mm/day",
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid injuring the delicate collar bark when clearing soil or applying protective pastes.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_006",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #006: TIMING RAINFALL-DEPENDENT SPRAYS: To maximize the effectiveness of preventive fungicide applications during the monsoon, Indian farmers must time their sprays based on the rain forecast. If heavy rain is expected within a few hours, the spray should be postponed, as it will be washed away before it can form a protective layer. Ideally, sprays should be done when there is a clear 'weather window' of at least four to six hours to allow the chemical to dry on the foliage. Using systemic fungicides with 'rainfast' additives is recommended for better protection during unpredictable monsoon cycles.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 70%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Always use a sticker or surfactant during the monsoon to improve the adhesion of the fungicide on the leaf surface.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_007",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #007: PREVENTING PADDY BLAST DURING RAINS: Rice blast is highly favored by the intermittent rains and cool nights of the Southwest Monsoon in several Indian states. To prevent blast epidemics, farmers should monitor their crops closely when the night temperature drops below 26 degrees Celsius and humidity is above 90%. A prophylactic spray of Tricyclazole (0.6 grams per liter) or Isoprothiolane is highly recommended before the disease enters the panicle stage. This treatment prevents the fungus from causing 'neck blast,' which can lead to complete grain loss.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 90%",
+      "rainfall_limit": null,
+      "temperature_range": "20-26\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use a motorized sprayer to ensure uniform coverage of the dense paddy canopy during the humid monsoon weeks.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_008",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #008: MANAGING SOIL SPLASH IN VEGETABLES: In rainy conditions, many soil-borne fungal and bacterial pathogens reach the plant canopy through 'soil splash.' To prevent this common cause of early infections, Indian vegetable farmers should implement mulching as a preventive strategy. Using organic mulch like straw or plastic mulch effectively covers the soil surface, preventing rain droplets from splashing infested soil onto the lower leaves of crops like tomato and chili. If mulching is not feasible, removing the bottom six inches of foliage (pruning) can also break the contact between the soil and the plant canopy.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": "> 20mm/day",
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure that organic mulch used is free from weed seeds and that it was not obtained from previously diseased fields.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_009",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #009: PROTECTING POTATO FROM LATE BLIGHT: The humid and cloudy conditions during the Indian monsoon and winter (especially in the hills) are ideal for late blight in potatoes. To prevent this devastating disease, farmers should use a combination of resistant varieties and prophylactic fungicide sprays. A preventive spray of Mancozeb (2 kg per hectare) should be applied as soon as the overcast weather and high humidity persist for more than three days. ICAR-CPRI's 'Blight-Cast' model provides regional advisories for the best spraying times.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 85%",
+      "rainfall_limit": null,
+      "temperature_range": "10-25\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid irrigation whenever fog or drizzle is predicted to keep leaf wetness duration to a minimum.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_010",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #010: GINGER SOFT ROT PREVENTION: Soft rot of ginger, caused by Pythium species, is a major threat during the Southwest Monsoon in Kerala and North-Eastern India. To prevent this, excellent field drainage is mandatory; ginger should be grown on raised beds of at least 15-20 cm height. If the soil becomes waterlogged even for a few hours, the risk of rapid rot increases exponentially. Applying a drench of Metalaxyl-M or Copper Oxychloride at the base of the plant before the peak rainy season starts provides a critical chemical shield against these water-borne oomycete pathogens.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 80%",
+      "rainfall_limit": "> 40mm/day",
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Remove and bury any symptomatic plants immediately during field inspections, even in heavy rain, to stop the spread.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_011",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #011: PREVENTING TEA BLISTER BLIGHT: Blister blight caused by Exobasidium vexans is a major fungal disease for tea plantations in Southern India during the monsoon. To prevent outbreaks, planters must strictly follow the TNAU and UPASI recommended spray schedules. Prophylactic applications of Copper Oxychloride (210 grams) mixed with Nickel Chloride (210 grams) per hectare should be done every 7 to 10 days when the weather is misty and overcast. This specific combination is highly effective in blocking the germination of airborne basidiospores of the blister blight fungus. Managing the shade tree canopy to allow for better ventilation is also essential.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 90%",
+      "rainfall_limit": null,
+      "temperature_range": "15-22\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Maintain strict synchronization of spraying across the entire estate to prevent re-infection from untreated sections.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_012",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #012: RUBBER ABNORMAL LEAF DROP PREVENTION: Abnormal leaf fall caused by Phytophthora species is a serious concern for rubber growers in Kerala during the Southwest Monsoon. To prevent this, planters must apply a pre-monsoon spray of 1% Bordeaux mixture on the canopy of the rubber trees. For mature trees where aerial spraying is difficult, ground-level applications or specialized micronizing sprayers are used to reach the upper foliage. This preventive treatment ensures that the fungal spores, which are activated by the first monsoon rains, do not establish in the canopy and cause rapid defoliation.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 85%",
+      "rainfall_limit": "> 20mm/day",
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure that the spraying is completed at least one week before the monsoon rains start to allow the Copper film to dry.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_013",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #013: CITRUS GUMMOSIS AND ROT PREVENTION: Gummosis caused by soil-borne Phytophthora is a major threat to citrus orchards in Central India during the rainy season. To prevent this, Indian farmers should implement a three-part protection strategy: improving drainage, avoiding irrigation at the trunk base, and applying Bordeaux paste onto the main bark. Before the rains, the trunk base should be cleared of weeds and debris, and a 10% Bordeaux paste or Copper Oxychloride slurry should be painted on the first two feet from the ground. This chemical barrier prevents the water-borne fungal zoospores from infecting the bark during heavy monsoon downpours.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": "> 30mm/day",
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid any mechanical injury to the bark during orchard cleaning as it provides an easy entry for pathogens during rain.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_014",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #014: PREVENTING COTTON ROOT ROT IN RAINS: In the heavy black soils of Gujarat and Maharashtra, excessive moisture during the monsoon can trigger rapid spread of root rot complexes in cotton. To prevent this, farmers should ensure excellent field-level drainage and avoid excess nitrogen fertilization which makes plants more prone to infection. If the weather forecast predicts continuous rain for several days, applying a soil drench of Carbendazim or a bio-agent like Trichoderma near the root zone can provide limited prophylactic protection.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": "> 40mm/day",
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Check for stagnant water in the center of the field and clear secondary drainage lines before heavy downpours.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_015",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #015: POMEGRANATE BACTERIAL BLIGHT PREVENTION: Bacterial blight (Oily Spot) is highly infectious during the warm and humid monsoon months in Western India. To prevent wide-scale epidemics, pomegranate farmers should apply a prophylactic spray of Streptocycline (250-500 ppm) mixed with Copper Oxychloride (2 grams per liter) before the onset of the rains and every 15 days thereafter if cloudy conditions persist. This antibiotic-copper combination is the standard NRC on Pomegranate recommendation for protecting the developing fruits and foliage. This strategy is critical for sustainable disease management and agricultural productivity in diverse Indian farm conditions across all major cropping belts.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 70%",
+      "rainfall_limit": "> 10mm/day",
+      "temperature_range": "25-35\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use only authorized antibiotics for agricultural use and maintain the specific concentration to avoid bacterial resistance.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_016",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #016: PREVENTING TURMERIC LEAF BLOTCH: Leaf blotch caused by Taphrina maculans is a major disease for turmeric farmers in Southern and North-Eastern India during high humidity periods and the monsoon. To prevent this fungal disease, farmers should apply a prophylactic spray of Mancozeb (0.2%) or Copper Oxychloride as soon as the first monsoon rains occur. If the environment stays overcast with frequent rain, this application should be repeated every 15 days to protect the new foliage. This strategy is critical for sustainable disease management and agricultural productivity in diverse Indian farm conditions across all major cropping belts.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 85%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure that the spray reaches both sides of the turmeric leaves, as the fungus can establish on either surface.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_017",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #017: GRAPE DOWNY MILDEW PREVENTION: The humid weather during the Indian monsoon is highly conducive to downy mildew in grapevines, which can destroy the entire foliage and clusters. To prevent this, farmers in Maharashtra and Karnataka should follow a rigorous prevention schedule. Prophylactic sprays of Copper-based fungicides or systemic ones like Metalaxyl should be done before expected rainy spells. ICAR-NRCG recommends the use of 'weather-based advisories' for precise timing. Keeping the vineyard floor clean of vine debris and improving canopy airflow through meticulous pruning also help in managing the internal humidity.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": "> 5mm/day",
+      "temperature_range": "20-30\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Properly calibrate the sprayer to ensure fine droplet size for uniform coverage on both leaf surfaces.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_018",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #018: MANAGING SOIL-BORNE DISEASES IN SPICES: During the Southwest Monsoon, spice crops like cumin and coriander in Rajasthan and Gujarat are highly susceptible to wilt and root rots caused by excessive soil moisture. To prevent these soil-borne diseases, farmers must ensure that the fields have a slight slope or well-planned drainage lines to prevent water accumulation. ICAR-NRCSS researchers advise that sowing coriander and cumin on raised beds or ridges can significantly lower the incidence of wilt. Applying bio-agents like Trichoderma viride enriched with neem cake to the soil before the rains also provides a biological defense against fungal pathogens.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": "> 30mm/day",
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid over-irrigation immediately after a monsoon rain spell to prevent the expansion of soil-borne rot into healthy areas.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_019",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #019: CHILI FRUIT ROT AND DIEBACK PREVENTION: Fruit rot and dieback caused by Colletotrichum capsici is a major threat to chili farmers during the late monsoon season, especially in humid regions like Bihar and West Bengal. To prevent this, ICAR-IIVR and state agricultural universities recommend a prophylactic spray of Carbendazim or Mancozeb as soon as the flowering stage starts. This treatment prevents the fungus from infecting the young pods and growing tips. Since the disease is aggravated by high humidity and rain splash, providing good field drainage and staking the plants to keep the fruits off the soil is essential.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 80%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Observe a mandatory 'wait period' between the last spray and harvest for food safety as per the chemical instructions.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_monsoon_020",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "MONSOON ADVISORY #020: PREVENTING BLACK ROT IN CABBAGE: Black rot is a highly infectious bacterial disease that spreads rapidly in the warm and rainy monsoon climate of Indian plains. To prevent outbreaks, farmers should plant cabbage on raised beds and ensure a spacing that allows for excellent airflow. A prophylactic spray of copper fungicides mixed with Streptocycline is highly recommended before the peaks of the monsoon season. This treatment helps in disinfecting the leaf surface and blocking the bacterial entry through natural leaf openings.",
+    "prevention_type": "Monsoon Prevention",
+    "weather_constraints": {
+      "humidity_threshold": "> 85%",
+      "rainfall_limit": "> 15mm/day",
+      "temperature_range": "25-35\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Destroy all infected cabbage leftovers after harvest immediately to prevent the local buildup of the black rot bacteria.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_001",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #001: SOIL SOLARIZATION IN SUMMER: Soil solarization is a powerful non-chemical method for preventing soil-borne diseases in Indian agriculture. During the hot summer months of May and June, farmers should cover their moist, leveled fields with transparent thin polyethylene sheets (25-30 microns) for 4 to 6 weeks. The trapped solar energy raises the soil temperature to 50-60 degrees Celsius, which is lethal to several soil-borne fungal pathogens like Fusarium, Pythium, and various nematodes. This practice also helps in killing dormant weed seeds and harmful soil insects.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": "< 40%",
+      "rainfall_limit": "0mm",
+      "temperature_range": "> 40\u00b0C",
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure the soil is moist before covering with plastic to maximize heat conduction and pathogen kill rate.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_002",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #002: GREEN MANURING FOR PATHOGEN SUPPRESSION: Incorporating green manure crops like Dhaincha or Sunn hemp into the soil is an excellent ICAR-recommended practice for suppressing soil-borne pathogens. When these nitrogen-fixing crops are plowed back into the field at the pre-flowering stage, they improve the soil's organic matter and encourage the growth of beneficial microorganisms. These beneficial microbes compete with harmful fungi for space and nutrients, leading to a natural reduction in disease inoculum. This process, known as 'biological suppression,' is effective against root rot and damping-off complexes.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Plow in the green manure at least 3-4 weeks before sowing the main crop to allow for proper decomposition.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_003",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #003: APPLICATION OF NEEM CAKE: To prevent soil-borne diseases and manage nematode populations, Indian farmers should apply neem cake to their fields during land preparation. Neem cake contains various bioactive compounds like azadirachtin that act as a natural fungicide and nematicide. Applying 250-500 kg per hectare provides a durable protection zone around the root system, suppressing pathogens like Rhizoctonia and Fusarium. Additionally, neem cake acts as a slow-release nitrogen fertilizer, improving the plant's overall vigor and natural immunity. This practice is part of the integrated disease management protocols promoted by ICAR-IIVR for high-value vegetable and spice crops.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Mix neem cake thoroughly with the top 15-20 cm of soil to ensure uniform protection of the root zone.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_004",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #004: BALANCED FERTILIZATION AND IMMUNITY: Proper nutrient management is fundamental for preventing crop diseases in Indian agriculture. Successive over-application of nitrogenous fertilizers makes plants succulent and highly susceptible to diseases like paddy blast, rust, and various rots. Farmers should follow a balanced fertilization schedule based on soil test results, ensuring adequate supply of Potassium and Phosphorus. Potassium, in particular, is known to strengthen the plant's cell walls and improve its natural resistance to fungal and bacterial invasions. Micronutrients like Zinc and Boron also play critical roles in activating the plant's defense enzymes.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Always use soil test reports to determine fertilization needs rather than applying generic doses to avoid nutrient imbalances.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_005",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #005: MANAGING SOIL PH FOR DISEASE CONTROL: Soil acidity or alkalinity significantly influences the survival and activity of soil-borne pathogens. For example, clubroot of crucifers thrives in acidic soils, while potato scab is more prevalent in alkaline conditions. Indian farmers should regularly test their soil pH and use amendments like Lime or Gypsum according to PAU and TNAU guidelines. Applying lime to acidic soils raises the pH to above 7, which effectively suppresses the development of the clubroot fungus. Conversely, maintaining a slightly acidic pH can prevent common scab in potato fields.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Allow at least 2-3 months after lime application for the soil pH to stabilize before planting sensitive crop varieties.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_006",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #006: ENHANCING SOIL BIODIVERSITY WITH BIO-FERTILIZERS: Using bio-fertilizers like Azotobacter, Rhizobium, and Phosphate Solubilizing Bacteria (PSB) is a key strategy for preventing diseases through soil health enrichment. These beneficial microbes not only enhance nutrient availability but also indirectly suppress pathogens by stimulating the plant's root-associated microbial community. A diverse and active soil microbiome acts as a natural buffer against opportunistic fungal and bacterial invasions. Bio-fertilizer application (either via seed treatment or soil enrichment) is highly recommended for major cereals and pulses across India. This practice is a central part of the ICAR mission for sustainable agriculture and better soil fertility.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Store bio-fertilizer packets in a cool, shaded place and check the expiry date before use to ensure microbial viability.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_007",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #007: INTEGRATED SOIL-BORNE DISEASE MANAGEMENT: To prevent the spread of soil-borne rots and wilts, Indian farmers should adopt an integrated approach that combines cultural, biological, and chemical soil treatments. This includes practicing deep summer plowing to expose pathogens to UV rays, followed by the application of well-composted manure enriched with bio-agents like Trichoderma. Maintaining proper soil moisture and avoiding waterlogging is also critical, as most soil pathogens thrive in anaerobic conditions. This holistic strategy targets the pathogen at multiple stages of its life cycle and ensures that the crop has a healthy and strong root zone from the beginning.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Coordinate soil treatments with the local cropping season to maximize their effectiveness against specific seasonal pathogens.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_008",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #008: VERMICOMPOSTING FOR ROOT HEALTH: Adding high-quality vermicompost to the field during land preparation is an excellent way for Indian farmers to prevent soil-borne diseases. Vermicompost is rich in beneficial microbes and enzymes that act as natural inhibitors for fungal pathogens like Fusarium and Pythium. These microbes outcompete harmful fungi in the rhizosphere, providing a biological shield for the young roots. Moreover, vermicompost improves soil structure and aeration, which effectively prevents the anaerobic conditions that many root rot pathogens favor. This practice is part of the integrated disease management guidelines promoted by various state agricultural universities for both field and horticultural crops.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure that the vermicompost is fully matured and free from any weed seeds or untreated animal waste.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_009",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #009: MYCORRHIZAL FUNGI INOCULATION: Inoculating seeds or soil with vesicular-arbuscular mycorrhizae (VAM) is a powerful prevention strategy for Indian farmers against various root diseases. VAM fungi form a symbiotic relationship with plant roots, creating a physical barrier that prevents the entry of harmful pathogens like Rhizoctonia and root-knot nematodes. Furthermore, VAM improves the uptake of water and phosphorus, significantly enhancing the plant's overall vigor and natural immunity. This practice is highly recommended for high-value nurseries, vegetables, and commercial plantations. ICAR-IIVR guidelines emphasize that VAM colonization strengthens the plant's ability to survive in stressful soil conditions.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid the use of systemic fungicides in the soil immediately after VAM inoculation, as they may harm the beneficial fungi.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_010",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #010: CROP RESIDUE MULCHING AND SOIL HEALTH: To prevent various soil-borne diseases and improve soil microbial diversity, Indian farmers should implement surface mulching with clean crop residues. Mulching provides a physical barrier that prevents soil splash, which is a major source of initial infection for many foliar and fruit rots during the rainy season. More importantly, as the mulch decomposes, it feeds the beneficial soil microbes that outcompete and suppress harmful fungal pathogens. This practice also helps in maintaining uniform soil moisture and temperature, reducing the stress on the plant root system.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Only use residues from healthy crops to avoid unintentionally re-introducing new pathogens to the field.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_011",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #011: SOIL TESTING FOR TARGETED MANAGEMENT: Regular soil testing is a foundational step in preventing disease through balanced soil health management in Indian agriculture. By understanding the nutrient status and microbial load of their fields, farmers can make informed decisions about fertilization and disease prevention strategies. Soil tests help in identifying deficiencies in micronutrients like Zinc or Boron, which can predispose plants to specific fungal and bacterial infections. Furthermore, specialized soil assays can detect the presence of pathogenic spores before the crop is sown.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Collect soil samples from multiple points in the field for a more accurate representation of the field's health.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_012",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #012: MICROBIAL ENRICHMENT OF FIELD SOIL: To prevent recurring wilt and root rot issues, Indian farmers should proactively enrich their field soil with beneficial microbes like Pseudomonas fluorescens or Trichoderma viride. Before sowing, these bio-agents should be mixed with well-rotted farmyard manure (FYM) and applied to the top 10-15 cm of the soil. This practice creates a 'biological barrier' against Plusieurs soil-borne fungal pathogens. The beneficial microbes colonize the rhizosphere and produce antibiotic compounds that inhibit the growth of harmful fungi and bacteria. This integrated biological strategy is highly recommended for high-risk fields with a history of chronic disease pressure.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure the bio-agents are mixed with manure that is not too hot from recent composting to avoid killing the microbes.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_013",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #013: MANAGING SOIL TEMPERATURE AND MOISTURE: To prevent damping-off and root-invading diseases, Indian farmers must manage their soil moisture and temperature during critical growth stages. Sowing on raised beds and ensuring excellent field drainage are key cultural practices that prevent the waterlogged and cool conditions that favor water-molds like Pythium. Proper irrigation timing, preferably in the early morning, allows the topsoil to dry before the cooler night hours, reducing the duration of conditions conducive to fungal spore germination.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid excessive tilling when the soil is too wet, as it can cause soil compaction and further impede drainage.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_014",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #014: GREEN MANURING FOR WILT PREVENTION: Green manuring with specific crops like mustard or radish can be used as a bio-fumigant to prevent soil-borne wilts and nematodes in Indian farms. When these brassica crops are incorporated into the soil, they release natural sulfur compounds (isothiocyanates) during decomposition that are toxic to Plusieurs fungal pathogens. This 'bio-fumigation' process effectively sanitizes the soil before the main crop is sown. Farmers should ensure the green manure is properly shredded and plowed deep into the moist soil to maximize the chemical release.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Allow at least four weeks for the bio-fumigant effect to complete before planting the main sensitive crop.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_015",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #015: MANAGING SOIL STRUCTURE FOR DRAINAGE: Proper soil structure is critical for preventing moisture-loving diseases in Indian agriculture. Compacted soils with poor structure often lead to stagnant water pockets and poor aeration, which are ideal for root rot pathogens like Phytophthora and Pythium. To prevent this, farmers should improve soil aggregation by adding farmyard manure, organic compost, or gypsum in heavy soils. Regular deep plowing and avoiding heavy machinery movement when the soil is wet also help in maintaining optimal drainage and aeration.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid over-irrigation in heavy soils to prevent the soil structure from collapsing and becoming anaerobic during the growth cycle.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_016",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #016: BIO-PRIMING OF SOIL WITH BENEFICIAL BACTERIA: To prevent soil-borne bacterial and fungal infections, Indian farmers can practice 'bio-priming' by introducing antagonistic bacteria like Pseudomonas fluorescens into the field. This can be done by mixing the bio-agent with well-rotted organic matter and applying it near the root holes during transplanting or sowing. These beneficial bacteria colonize the rhizosphere rapidly and create a protective shield that prevents colonization by harmful pathogens like Ralstonia (bacterial wilt). Bio-priming is a core integrated disease management recommendation from IIHR and ICAR for major vegetable and tuber crops.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure that the soil has adequate organic matter to support the initial colonization of the beneficial bacteria successfully.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_017",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #017: REDUCING PATHOGEN CARRYOVER WITH CROP ROTATION: A healthy soil system is one where pathogen populations are prevented from building up to damaging levels. Crop rotation is the most effective cultural method for maintaining this balance in Indian agriculture. By rotating non-host crops (like cereals with pulses or oilseeds), farmers effectively starve the host-specific pathogens remaining in the soil from the previous season. This break in host availability leads to a natural decline in soil inoculum. ICAR guidelines emphasize that a three-year rotation cycle is mandatory for managing persistent soil-borne diseases like Fusarium wilt and Plusieurs root rots.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Identify and eliminate any wild weeds and bridge-host plants during the rotation period to fully break the disease cycle.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_018",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #018: NO-TILL FARMING AND SOIL PATHOGENS: Minimum or no-till farming practices, while gaining popularity for conservation, require careful management to prevent disease buildup in Indian fields. Leaving crop residues on the surface can harbor certain foliar and fruit rot pathogens. However, no-till also encourages a much more stable and diverse community of soil-dwelling beneficial organisms that can suppress Plusieurs root pathogens over time. To prevent disease issues in no-till systems, farmers must prioritize seed treatment and the use of resistant varieties. ICAR and Krishi Vigyan Kendras recommend integrated disease monitoring in these high-residue fields.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": "> 75%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Use pre-emergence herbicides carefully in no-till fields to manage weeds without injuring the developing crop seedlings.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_019",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #019: MANAGING SOIL SALINITY FOR DISEASE REDUCTION: Soil salinity and alkalinity (sodic soils) create stress for crops, making them significantly more vulnerable to soil-borne pathogens and root decays. In states like Haryana and Uttar Pradesh, managing salinity is a key part of disease prevention. Applications of Gypsum and ensuring proper drainage to leach out salts are recommended ICAR practices. Salt-stressed plants have weakened cell walls and reduced root exudation of defensive compounds, allowing opportunistic fungi like Macrophomina and Fusarium to infect them more easily. Improving soil health through organic amendments also helps in buffering the effects of salinity.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Test irrigation water quality annually as saline water can quickly degrade soil health and increase disease risk.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_soil_020",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "SOIL HEALTH ADVISORY #020: PREVENTING PATHOGEN SPREAD THROUGH LIVESTOCK MANURE: Using fresh or partially decomposed animal manure is a major risk for introducing soil-borne pathogens and weed seeds into Indian agricultural fields. To prevent this, farmers must ensure that all farmyard manure (FYM) is thoroughly composted before application. The heat generated during a properly managed composting process (reaching 55-65 degrees Celsius) is lethal to several fungal sclerotia, bacteria, and weed seeds. ICAR and state extension services recommend that FYM be pits-composted for at least six months or transformed into high-quality vermicompost.",
+    "prevention_type": "Soil Health",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid the use of manure from cattle pits that have been contaminated with runoff from infected crop fields.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_001",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #001: INTEGRATED DISEASE MANAGEMENT PILLARS: Effective disease prevention in Indian agriculture requires a multi-pronged Integrated Disease Management (IDM) approach that combines cultural, biological, and chemical pillars. Farmers should not rely on any single method but rather integrate resistant varieties, seed treatment, and meticulous field sanitation. Cultural practices like crop rotation and proper spacing modify the environment to favor the crop and suppress pathogens. Biological control using Trichoderma or Pseudomonas provides a sustainable second layer of defense. Prophylactic chemical applications should only be used as a final protective barrier when weather conditions favor disease surges.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Always prioritize low-toxicity biological treatments over synthetic chemicals within the IDM framework for better sustainability.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_002",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #002: WEATHER-BASED DISEASE FORECASTING: To prevent large-scale disease epidemics, Indian farmers should integrate weather-based forecasting into their management plans. Several diseases like potato late blight and rice blast are triggered by specific temperature and humidity thresholds. By monitoring local weather advisories from Krishi Vigyan Kendras (KVKs) and the Indian Meteorological Department (IMD), farmers can time their prophylactic fungicide applications with precision. For example, if three consecutive days of high humidity and low night temperatures are predicted, applying a preventive spray can save the entire crop.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": "> 85%",
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Install a simple rain gauge and hygrometer on the farm to supplement regional meteorological data for better local precision.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_003",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #003: COMMUNITY-LEVEL DISEASE MANAGEMENT: Prevention is most successful when implemented at the community level rather than on isolated farms. Several crop diseases and their insect vectors (like aphids and whiteflies) are highly mobile and can easily spread from one field to another. Indian farmers should coordinate their planting dates, variety choices, and sanitation practices within a local farming cluster. For example, implementing a 'crop-free' period across an entire village can effectively break the life cycle of persistent viruses and whiteflies. Collective rogueing of infected plants and synchronized prophylactic spraying significantly lowers the regional disease inoculum and vector pressure.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure that the entire farming cluster follows the same sanitary protocols to prevent any untreated area from becoming a secondary infection source.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_004",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #004: THRESHOLD-BASED MANAGEMENT DECISIONS: To prevent the unnecessary use of chemicals and protect beneficial organisms, Indian farmers should adopt threshold-based Integrated Disease Management (IDM). This strategy involves regular field scouting to monitor for the first signs of disease and insect vectors. Preventive actions should be escalated to certain chemical sprays ONLY when the disease incidence or pest population reaches the Economic Threshold Level (ETL). This precision management approach ensures that the naturally occurring biological control agents are protected as long as possible.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Maintain a detailed record of field scouting and ETL observations to identify long-term patterns in disease and pest activity for better results.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_005",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #005: SEED-TO-HARVEST PREVENTIVE STRATEGY: A successful disease prevention plan must cover the entire crop cycle from 'seed-to-harvest.' This comprehensive IDM strategy starts with the selection of certified resistant seeds and health-promoting seed treatments. It then continues with meticulous field preparation, proper spacing, and balanced fertilization. During the growing season, regular monitoring and cultural practices like rogueing and drainage maintain a low disease risk environment. As the crop nears maturity, managing irrigation and ensuring proper harvest sanitation prevents late-season and storage rots. This integrated timeline of preventive actions is promoted by ICAR-IIVR for high-value vegetable systems to ensure maximum productivity and quality.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Ensure that the plan is flexible enough to adapt to unusual weather events that might trigger unexpected disease surges during the season.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_006",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #006: SYNERGY BETWEEN BIOLOGICAL AND CULTURAL CONTROL: To prevent disease outbreaks sustainably, Indian farmers should maximize the synergy between biological and cultural management pillars. For instance, using Trichoderma for seed treatment is significantly more effective when combined with proper soil solarization and good drainage. Cultural practices create an environment where beneficial microbes can flourish and outcompete harmful soil pathogens more effectively. Similarly, proper spacing and pruning improve the penetration of biological sprays into the crop canopy. This integrated approach, recommended by TNAU and other ICAR institutions, lowers the overall reliance on chemical fungicides.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Wait at least 15 days after soil solarization before applying bio-agents to allow the soil to cool and stabilize for microbial growth.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_007",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #007: REGULAR FIELD SCOUTING AND MONITORING: Systematic field scouting is the backbone of any successful disease prevention program in Indian agriculture. Farmers should walk through their fields in a 'Z' or 'X' pattern at least twice a week to inspect plants for the first signs of wilting, leaf spots, or unusual insect activity. Early detection allows for immediate cultural actions like rogueing, which can prevent a localized issue from becoming a field-wide epidemic. Monitoring also includes the use of tools like pheromone traps and yellow sticky traps to gauge the population of disease-carrying vectors like aphids and whiteflies.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Pay extra attention to well-shaded or poorly drained areas of the field, as these are often the first sites where diseases establishes and develops.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_008",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #008: MANAGING SECONDARY HOSTS AND RESERVOIRS: To prevent recurring viral and fungal diseases, Indian farmers must adopt an integrated approach to managing secondary host plants and reservoirs around their fields. Many plant viruses overwinter or survive on common weeds and ornamental plants. Eliminating these 'bridge' hosts from field borders, bunds, and irrigation channels is a critical part of the ICAR-recommended disease management protocol. For example, removing wild solanaceous weeds near tomato fields can drastically lower the incidence of tomato leaf curl virus.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Collaborate with neighboring farmers to clear weeds across farm boundaries to create a wider and more effective disease-free zone locally.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_009",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #009: PROTECTING NATURAL ENEMIES FOR DISEASE CONTROL: A key component of modern Integrated Disease Management (IDM) in India is the protection of 'natural enemies'\u2014beneficial insects and microbes that keep disease-carrying vectors and harmful fungi in check. Over-application of broad-spectrum chemical pesticides can kill these allies, leading to sudden pest and disease outbreaks (resurgence). Farmers should prioritize the use of 'soft' biological pesticides and practice threshold-based management to allow the natural population of ladybirds, spiders, and antagonistic fungi to thrive. These natural enemies provide a continuous, free biological control service that complements all other preventive measures.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Avoid using pesticides from the 'red label' category whenever possible, as these are the most harmful to beneficial natural enemies.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  },
+  {
+    "id": "prevention_idm_010",
+    "layer": "layer2",
+    "category": "disease_prevention",
+    "crop": "General",
+    "region": "India",
+    "content": "INTEGRATED MANAGEMENT ADVISORY #010: CONTINUOUS LEARNING AND ADAPTATION: The final and most important pillar of Integrated Disease Management (IDM) is continuous learning and the adaptation of prevention strategies to changing local conditions and new research findings. Indian agriculture is dynamic, with new pathogen strains and environmental challenges emerging regularly. Farmers should actively participate in training programs at Krishi Vigyan Kendras (KVKs), Farmer Field Schools (FFS), and Agricultural Extension workshops. Staying updated on the latest resistant varieties, bio-agents, and weather-based forecasting tools allows farmers to refine their prevention plans for maximum success.",
+    "prevention_type": "Integrated Management",
+    "weather_constraints": {
+      "humidity_threshold": null,
+      "rainfall_limit": null,
+      "temperature_range": null,
+      "wind_speed_limit": null
+    },
+    "safety_notes": "Maintain a 'farm diary' to record what works and what doesn't, allowing for data-driven adjustments to your disease prevention strategy over time.",
+    "source_type": [
+      "ICAR",
+      "Agricultural Extension"
+    ]
+  }
+]

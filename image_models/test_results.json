@@ -1,0 +1,1426 @@
+[
+  {
+    "file": "Apple___Apple_scab.jpg",
+    "expected_class": "Apple___Apple_scab",
+    "predicted_class": "Apple___Apple_scab",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.9453228712081909
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.007727075833827257
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.006297222338616848
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 261.8377208709717
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.9063
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0138
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0084
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.9821
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.003
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0019
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.9453228712081909
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.007727075833827257
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.006297222338616848
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.9063,
+          "swin_peak_confidence": 0.9821,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 454.66113090515137
+    }
+  },
+  {
+    "file": "Apple___Black_rot.jpg",
+    "expected_class": "Apple___Black_rot",
+    "predicted_class": "Apple___Black_rot",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Apple___Black_rot",
+            "confidence": 0.8923596143722534
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.012065590359270573
+          },
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.008577311411499977
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 251.2359619140625
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Apple___Black_rot",
+            "confidence": 0.92
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0098
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0059
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Apple___Black_rot",
+            "confidence": 0.7189
+          },
+          {
+            "class": "Pepper,_bell___Bacterial_spot",
+            "confidence": 0.0705
+          },
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.0488
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Apple___Black_rot",
+            "confidence": 0.8923596143722534
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.012065590359270573
+          },
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.008577311411499977
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.92,
+          "swin_peak_confidence": 0.7189,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 466.92848205566406
+    }
+  },
+  {
+    "file": "Apple___Cedar_apple_rust.jpg",
+    "expected_class": "Apple___Cedar_apple_rust",
+    "predicted_class": "Apple___Cedar_apple_rust",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.9623507857322693
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.00511364359408617
+          },
+          {
+            "class": "Grape___healthy",
+            "confidence": 0.0021750805899500847
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 253.98826599121094
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.9584
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.006
+          },
+          {
+            "class": "Tomato___Tomato_mosaic_virus",
+            "confidence": 0.0026
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.9661
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0036
+          },
+          {
+            "class": "Tomato___healthy",
+            "confidence": 0.002
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.9623507857322693
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.00511364359408617
+          },
+          {
+            "class": "Grape___healthy",
+            "confidence": 0.0021750805899500847
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.9584,
+          "swin_peak_confidence": 0.9661,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 455.88064193725586
+    }
+  },
+  {
+    "file": "Apple___healthy.jpg",
+    "expected_class": "Apple___healthy",
+    "predicted_class": "Apple___healthy",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Apple___healthy",
+            "confidence": 0.8040074110031128
+          },
+          {
+            "class": "Peach___healthy",
+            "confidence": 0.02723439410328865
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.022524753585457802
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 267.15922355651855
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Apple___healthy",
+            "confidence": 0.8026
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0237
+          },
+          {
+            "class": "Peach___healthy",
+            "confidence": 0.0198
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Apple___healthy",
+            "confidence": 0.7572
+          },
+          {
+            "class": "Peach___healthy",
+            "confidence": 0.0536
+          },
+          {
+            "class": "Raspberry___healthy",
+            "confidence": 0.0299
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Apple___healthy",
+            "confidence": 0.8040074110031128
+          },
+          {
+            "class": "Peach___healthy",
+            "confidence": 0.02723439410328865
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.022524753585457802
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8026,
+          "swin_peak_confidence": 0.7572,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 464.57648277282715
+    }
+  },
+  {
+    "file": "Corn_maize___Common_rust_.jpg",
+    "expected_class": "Corn_(maize)___Common_rust_",
+    "predicted_class": "Corn_(maize)___Common_rust_",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Corn_(maize)___Common_rust_",
+            "confidence": 0.8909763097763062
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0171396154910326
+          },
+          {
+            "class": "Peach___healthy",
+            "confidence": 0.006237564142793417
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 233.27279090881348
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Corn_(maize)___Common_rust_",
+            "confidence": 0.8868
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0162
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0088
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Corn_(maize)___Common_rust_",
+            "confidence": 0.8806
+          },
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.0194
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0192
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Corn_(maize)___Common_rust_",
+            "confidence": 0.8909763097763062
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0171396154910326
+          },
+          {
+            "class": "Peach___healthy",
+            "confidence": 0.006237564142793417
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8868,
+          "swin_peak_confidence": 0.8806,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 445.7521438598633
+    }
+  },
+  {
+    "file": "Corn_maize___healthy.jpg",
+    "expected_class": "Corn_(maize)___healthy",
+    "predicted_class": "Corn_(maize)___healthy",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Corn_(maize)___healthy",
+            "confidence": 0.8691158294677734
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.01809188351035118
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.011937955394387245
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 245.39637565612793
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Corn_(maize)___healthy",
+            "confidence": 0.8702
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.018
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0106
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Corn_(maize)___healthy",
+            "confidence": 0.8624
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0182
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0156
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Corn_(maize)___healthy",
+            "confidence": 0.8691158294677734
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.01809188351035118
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.011937955394387245
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8702,
+          "swin_peak_confidence": 0.8624,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 496.1833953857422
+    }
+  },
+  {
+    "file": "Grape___Black_rot.jpg",
+    "expected_class": "Grape___Black_rot",
+    "predicted_class": "Grape___Black_rot",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Grape___Black_rot",
+            "confidence": 0.8495639562606812
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.020756451413035393
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.011982901953160763
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 221.77362442016602
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Grape___Black_rot",
+            "confidence": 0.8548
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0207
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0106
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Grape___Black_rot",
+            "confidence": 0.8187
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0204
+          },
+          {
+            "class": "Apple___Apple_scab",
+            "confidence": 0.0167
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Grape___Black_rot",
+            "confidence": 0.8495639562606812
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.020756451413035393
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.011982901953160763
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8548,
+          "swin_peak_confidence": 0.8187,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 437.7856254577637
+    }
+  },
+  {
+    "file": "Grape___healthy.jpg",
+    "expected_class": "Grape___healthy",
+    "predicted_class": "Grape___healthy",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Grape___healthy",
+            "confidence": 0.9561399817466736
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.006190108135342598
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0029769185930490494
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 242.85507202148438
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Grape___healthy",
+            "confidence": 0.9421
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0086
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0047
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Grape___healthy",
+            "confidence": 0.9756
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0028
+          },
+          {
+            "class": "Raspberry___healthy",
+            "confidence": 0.0019
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Grape___healthy",
+            "confidence": 0.9561399817466736
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.006190108135342598
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0029769185930490494
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.9421,
+          "swin_peak_confidence": 0.9756,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 451.74717903137207
+    }
+  },
+  {
+    "file": "Orange___Haunglongbing_Citrus_greening.jpg",
+    "expected_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "predicted_class": "Orange___Haunglongbing_(Citrus_greening)",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Orange___Haunglongbing_(Citrus_greening)",
+            "confidence": 0.53419429063797
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.06007218733429909
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.030203551054000854
+          }
+        ],
+        "confidence_tier": "MEDIUM",
+        "models_agree": true,
+        "advice": "Orange \u2014 Haunglongbing_(Citrus_greening) is a visually subtle condition. Medium confidence is normal for this class. Use additional diagnostic methods to confirm.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 227.50449180603027
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Orange___Haunglongbing_(Citrus_greening)",
+            "confidence": 0.5543
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.066
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.031
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Orange___Haunglongbing_(Citrus_greening)",
+            "confidence": 0.471
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0463
+          },
+          {
+            "class": "Raspberry___healthy",
+            "confidence": 0.036
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Orange___Haunglongbing_(Citrus_greening)",
+            "confidence": 0.53419429063797
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.06007218733429909
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.030203551054000854
+          }
+        ],
+        "confidence_tier": "MEDIUM",
+        "advice": "Orange \u2014 Haunglongbing_(Citrus_greening) is a visually subtle condition. Medium confidence is normal for this class. Use additional diagnostic methods to confirm.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.5543,
+          "swin_peak_confidence": 0.471,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 485.18919944763184
+    }
+  },
+  {
+    "file": "Potato___Early_blight.jpg",
+    "expected_class": "Potato___Early_blight",
+    "predicted_class": "Potato___Early_blight",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Potato___Early_blight",
+            "confidence": 0.8826162219047546
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.017074966803193092
+          },
+          {
+            "class": "Peach___healthy",
+            "confidence": 0.008610737510025501
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 248.46482276916504
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Potato___Early_blight",
+            "confidence": 0.8858
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.017
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0084
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Potato___Early_blight",
+            "confidence": 0.8626
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0169
+          },
+          {
+            "class": "Grape___healthy",
+            "confidence": 0.0149
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Potato___Early_blight",
+            "confidence": 0.8826162219047546
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.017074966803193092
+          },
+          {
+            "class": "Peach___healthy",
+            "confidence": 0.008610737510025501
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8858,
+          "swin_peak_confidence": 0.8626,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 471.4040756225586
+    }
+  },
+  {
+    "file": "Potato___Late_blight.jpg",
+    "expected_class": "Potato___Late_blight",
+    "predicted_class": "Potato___Late_blight",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Potato___Late_blight",
+            "confidence": 0.9310057759284973
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.008222813718020916
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.004933119285851717
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 270.3402042388916
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Potato___Late_blight",
+            "confidence": 0.9003
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0131
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0081
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Potato___Late_blight",
+            "confidence": 0.9612
+          },
+          {
+            "class": "Tomato___Late_blight",
+            "confidence": 0.0082
+          },
+          {
+            "class": "Tomato___Early_blight",
+            "confidence": 0.007
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Potato___Late_blight",
+            "confidence": 0.9310057759284973
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.008222813718020916
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.004933119285851717
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.9003,
+          "swin_peak_confidence": 0.9612,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 548.072099685669
+    }
+  },
+  {
+    "file": "Squash___Powdery_mildew.jpg",
+    "expected_class": "Squash___Powdery_mildew",
+    "predicted_class": "Squash___Powdery_mildew",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Squash___Powdery_mildew",
+            "confidence": 0.8034212589263916
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.027117755264043808
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.016398735344409943
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 264.4364833831787
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Squash___Powdery_mildew",
+            "confidence": 0.8213
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0245
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0131
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Squash___Powdery_mildew",
+            "confidence": 0.7279
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0327
+          },
+          {
+            "class": "Grape___Black_rot",
+            "confidence": 0.0312
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Squash___Powdery_mildew",
+            "confidence": 0.8034212589263916
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.027117755264043808
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.016398735344409943
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8213,
+          "swin_peak_confidence": 0.7279,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 490.8883571624756
+    }
+  },
+  {
+    "file": "Strawberry___Leaf_scorch.jpg",
+    "expected_class": "Strawberry___Leaf_scorch",
+    "predicted_class": "Strawberry___Leaf_scorch",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Strawberry___Leaf_scorch",
+            "confidence": 0.8901976346969604
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.012949025258421898
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.008100164122879505
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 263.00930976867676
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Strawberry___Leaf_scorch",
+            "confidence": 0.8775
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0164
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0096
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Strawberry___Leaf_scorch",
+            "confidence": 0.9057
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0073
+          },
+          {
+            "class": "Grape___Esca_(Black_Measles)",
+            "confidence": 0.0069
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Strawberry___Leaf_scorch",
+            "confidence": 0.8901976346969604
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.012949025258421898
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.008100164122879505
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8775,
+          "swin_peak_confidence": 0.9057,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 454.4358253479004
+    }
+  },
+  {
+    "file": "Tomato___Bacterial_spot.jpg",
+    "expected_class": "Tomato___Bacterial_spot",
+    "predicted_class": "Tomato___Bacterial_spot",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Tomato___Bacterial_spot",
+            "confidence": 0.6310650110244751
+          },
+          {
+            "class": "Tomato___Early_blight",
+            "confidence": 0.04949450120329857
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.03999875858426094
+          }
+        ],
+        "confidence_tier": "MEDIUM",
+        "models_agree": true,
+        "advice": "Tomato \u2014 Bacterial_spot is a visually subtle condition. Medium confidence is normal for this class. Use additional diagnostic methods to confirm.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 240.2021884918213
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Tomato___Bacterial_spot",
+            "confidence": 0.7671
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0316
+          },
+          {
+            "class": "Tomato___Early_blight",
+            "confidence": 0.0226
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Tomato___Bacterial_spot",
+            "confidence": 0.1955
+          },
+          {
+            "class": "Tomato___Target_Spot",
+            "confidence": 0.1509
+          },
+          {
+            "class": "Tomato___Early_blight",
+            "confidence": 0.1505
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Tomato___Bacterial_spot",
+            "confidence": 0.6310650110244751
+          },
+          {
+            "class": "Tomato___Early_blight",
+            "confidence": 0.04949450120329857
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.03999875858426094
+          }
+        ],
+        "confidence_tier": "MEDIUM",
+        "advice": "Tomato \u2014 Bacterial_spot is a visually subtle condition. Medium confidence is normal for this class. Use additional diagnostic methods to confirm.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.7671,
+          "swin_peak_confidence": 0.1955,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 467.4208164215088
+    }
+  },
+  {
+    "file": "Tomato___healthy.jpg",
+    "expected_class": "Tomato___healthy",
+    "predicted_class": "Tomato___healthy",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Tomato___healthy",
+            "confidence": 0.8366854786872864
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.017896024510264397
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.01261905673891306
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 241.73998832702637
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Tomato___healthy",
+            "confidence": 0.8452
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0215
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0103
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Tomato___healthy",
+            "confidence": 0.7893
+          },
+          {
+            "class": "Grape___healthy",
+            "confidence": 0.0267
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.0197
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Tomato___healthy",
+            "confidence": 0.8366854786872864
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.017896024510264397
+          },
+          {
+            "class": "Apple___Cedar_apple_rust",
+            "confidence": 0.01261905673891306
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8452,
+          "swin_peak_confidence": 0.7893,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 470.8101749420166
+    }
+  },
+  {
+    "file": "Tomato___Leaf_Mold.jpg",
+    "expected_class": "Tomato___Leaf_Mold",
+    "predicted_class": "Tomato___Leaf_Mold",
+    "is_correct": true,
+    "predict_endpoint": {
+      "data": {
+        "predictions": [
+          {
+            "class": "Tomato___Leaf_Mold",
+            "confidence": 0.8786788582801819
+          },
+          {
+            "class": "Tomato___Tomato_mosaic_virus",
+            "confidence": 0.016708334907889366
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.01610714942216873
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "models_agree": true,
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "low_confidence_warning": false
+      },
+      "time_ms": 252.50768661499023
+    },
+    "debug_endpoint": {
+      "data": {
+        "vit_predictions": [
+          {
+            "class": "Tomato___Leaf_Mold",
+            "confidence": 0.8392
+          },
+          {
+            "class": "Tomato___Tomato_mosaic_virus",
+            "confidence": 0.0218
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0211
+          }
+        ],
+        "swin_predictions": [
+          {
+            "class": "Tomato___Leaf_Mold",
+            "confidence": 0.9322
+          },
+          {
+            "class": "Tomato___Tomato_mosaic_virus",
+            "confidence": 0.0086
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.0082
+          }
+        ],
+        "ensemble_predictions": [
+          {
+            "class": "Tomato___Leaf_Mold",
+            "confidence": 0.8786788582801819
+          },
+          {
+            "class": "Tomato___Tomato_mosaic_virus",
+            "confidence": 0.016708334907889366
+          },
+          {
+            "class": "Potato___healthy",
+            "confidence": 0.01610714942216873
+          }
+        ],
+        "confidence_tier": "HIGH",
+        "advice": "Both models agree with high confidence. Result is reliable.",
+        "diagnosis": {
+          "models_agree": true,
+          "strategy_used": "agreement_blend (vit=0.7, swin=0.3)",
+          "vit_peak_confidence": 0.8392,
+          "swin_peak_confidence": 0.9322,
+          "base_weights": {
+            "vit": 0.7,
+            "swin": 0.3
+          },
+          "low_confidence_warning": false
+        }
+      },
+      "time_ms": 446.23661041259766
+    }
+  }
+]

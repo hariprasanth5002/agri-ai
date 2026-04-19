@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "safety_worker_safety_001",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of direct exposure is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working in.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_002",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on washing after spray and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_001",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_001",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Properly handling the mixing order process is critical for achieving the desired pest control results while protecting yourself from toxic splashes. Always measure the required quantity of pesticide using standard measuring cups and never use food containers for this purpose. Mixing should be done in a well-ventilated outdoor area, away from water sources like wells or ponds to prevent accidental contamination. Ensure that the water used for dilution is clean and has a neutral pH, as dirty water can deactivate many modern pesticides used by Indian farmers efficiently.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_002",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Properly handling the pre-mixing bucket process is critical for achieving the desired pest control results while protecting yourself from toxic splashes. Always measure the required quantity of pesticide using standard measuring cups and never use food containers for this purpose. Mixing should be done in a well-ventilated outdoor area, away from water sources like wells or ponds to prevent accidental contamination. Ensure that the water used for dilution is clean and has a neutral pH, as dirty water can deactivate many modern pesticides used by Indian farmers efficiently.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_003",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on direct exposure and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills or intake effectively during daily work.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_001",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as evening application play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to evening application limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_004",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on emergency handling and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills or intake effectively during daily work.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_005",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of emergency handling is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working in.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_001",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct buffer zones can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_001",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Proper triple-rinsing ensures that hazardous chemicals do not leach into the environment or fall into the wrong hands in the village. This includes the responsible disposal of empty containers by triple-rinsing them and puncturing holes to prevent reuse for domestic purposes. Indian regulations require that empty pesticide bags and bottles be disposed of in designated waste areas rather than being burned or thrown into water bodies. Keeping an organized inventory of your chemical stocks helps in identifying expired products that should be handled with extreme.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_006",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on worker training and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills or intake effectively during daily work.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_002",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_002",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as rainfall play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to rainfall limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": ">10 mm"
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_001",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "High-quality certified gear provides critical defense against the aggressive chemical agents used in modern Indian agriculture. Many pesticides are absorbed rapidly through the skin or lungs, making personal protective equipment the first line of medical defense for sprayers. Farmers should always prioritize wearing certified certified gear even during short spraying sessions to prevent cumulative toxicity. After each use, ensure you wash your gear thoroughly with clean water and soap to remove any lingering residues that could compromise safety during the next application carefully.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_002",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "Wearing protective certified gear is a non-negotiable safety requirement for all Indian farmers during chemical application. Direct skin contact or inhalation of pesticide mists can lead to severe health complications, including respiratory distress and long-term skin conditions. It is essential to inspect your certified gear for any tears or damage before starting the mixing process. Properly fitted gear ensures a reliable barrier against hazardous substances, significantly reducing the risk of accidental exposure in high-temperature field conditions common across India effectively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_007",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of emergency handling is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working in.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_003",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Safe mixing of pesticides requires careful attention to the correct water quality to prevent dangerous chemical reactions and ensure a homogenous solution. Never mix incompatible chemicals in the same tank, as this can cause the mixture to solidify or lose its insecticidal properties entirely. We recommend using a clean plastic bucket for pre-mixing and adding each chemical one by one according to ICAR recommendations. Wear full PPE during this stage, as the concentration of active ingredients is highest before dilution, posing the greatest risk to the farmer during the process.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_002",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "Managing the Pre-Harvest Interval correctly is a key responsibility for any farmer aiming for the export market or high-quality domestic sales in India. Each chemical has a unique PHI that reflects its degradation rate under local environmental conditions. Violating this interval poses a significant risk of residue-related poisoning and harms the reputation of Indian agriculture. Farmers should plan their final pest control measures carefully, selecting chemicals with shorter PHIs as the projected harvest date approaches to ensure maximum consumer safety and product compliance always.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_003",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "Wearing protective safety boots is a non-negotiable safety requirement for all Indian farmers during chemical application. Direct skin contact or inhalation of pesticide mists can lead to severe health complications, including respiratory distress and long-term skin conditions. It is essential to inspect your safety boots for any tears or damage before starting the mixing process. Properly fitted gear ensures a reliable barrier against hazardous substances, significantly reducing the risk of accidental exposure in high-temperature field conditions common across India effectively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_002",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct buffer zones can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_003",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Proper triple-rinsing ensures that hazardous chemicals do not leach into the environment or fall into the wrong hands in the village. This includes the responsible disposal of empty containers by triple-rinsing them and puncturing holes to prevent reuse for domestic purposes. Indian regulations require that empty pesticide bags and bottles be disposed of in designated waste areas rather than being burned or thrown into water bodies. Keeping an organized inventory of your chemical stocks helps in identifying expired products that should be handled with extreme.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_003",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct wind direction can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_003",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to evening application is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when evening application is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_001",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "The Re-Entry Interval is specifically designed to allow enough time for pesticide residues to settle and degrade to safe levels on the leaf surfaces. Walking through or working in a recently sprayed field prematurely exposes your skin and clothes to concentrated chemicals, which can be absorbed into the bloodstream. In the humid conditions of southern India, these residues may remain active longer than expected. It is critical to wait the full duration specified by ICAR guidelines before resuming any manual weeding or pruning activities in the sprayed block properly.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_002",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "Adhering to the Re-Entry Interval (REI) is a fundamental safety practice that protects agricultural workers from lingering pesticide vapors and residues. Entering a treated field before the mandatory waiting period has elapsed can result in acute poisoning symptoms, such as dizziness, nausea, and skin irritation. Indian farmers must clearly mark treated zones with warning signs to prevent accidental entry by neighbors or livestock. The REI vary depending on the chemical toxicity, so always consult the product label for the specific waiting time required for your crop immediately.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_004",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to wind speed is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when wind speed is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": ">15 km/h",
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_003",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_004",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Managing wind direction effectively is the primary way to minimize chemical drift during agricultural spraying operations in India. Using localized spraying techniques and avoiding high-pressure settings helps keep the chemical droplets on the intended target. It is particularly important to use larger droplet sizes when working near sensitive crops like grapes or vegetables that are highly susceptible to pesticide damage. Educating spray operators about the impact of wind speed and nozzle height is a key step toward achieving safer and more sustainable pest management practices in the region.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_004",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "Wearing protective masks is a non-negotiable safety requirement for all Indian farmers during chemical application. Direct skin contact or inhalation of pesticide mists can lead to severe health complications, including respiratory distress and long-term skin conditions. It is essential to inspect your masks for any tears or damage before starting the mixing process. Properly fitted gear ensures a reliable barrier against hazardous substances, significantly reducing the risk of accidental exposure in high-temperature field conditions common across India effectively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_004",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_008",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of washing after spray is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_005",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to temperature is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when temperature is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": ">35\u00b0C",
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_005",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct nozzle selection can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_003",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "Adhering to the Re-Entry Interval (REI) is a fundamental safety practice that protects agricultural workers from lingering pesticide vapors and residues. Entering a treated field before the mandatory waiting period has elapsed can result in acute poisoning symptoms, such as dizziness, nausea, and skin irritation. Indian farmers must clearly mark treated zones with warning signs to prevent accidental entry by neighbors or livestock. The REI vary depending on the chemical toxicity, so always consult the product label for the specific waiting time required for your crop immediately.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_009",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of emergency handling is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working in.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_004",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "Adhering to the Re-Entry Interval (REI) is a fundamental safety practice that protects agricultural workers from lingering pesticide vapors and residues. Entering a treated field before the mandatory waiting period has elapsed can result in acute poisoning symptoms, such as dizziness, nausea, and skin irritation. Indian farmers must clearly mark treated zones with warning signs to prevent accidental entry by neighbors or livestock. The REI vary depending on the chemical toxicity, so always consult the product label for the specific waiting time required for your crop immediately.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_005",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "Wearing protective safety boots is a non-negotiable safety requirement for all Indian farmers during chemical application. Direct skin contact or inhalation of pesticide mists can lead to severe health complications, including respiratory distress and long-term skin conditions. It is essential to inspect your safety boots for any tears or damage before starting the mixing process. Properly fitted gear ensures a reliable barrier against hazardous substances, significantly reducing the risk of accidental exposure in high-temperature field conditions common across India effectively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_010",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of worker training is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working in.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_005",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_004",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_006",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as evening application play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to evening application limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_006",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Managing wind direction effectively is the primary way to minimize chemical drift during agricultural spraying operations in India. Using localized spraying techniques and avoiding high-pressure settings helps keep the chemical droplets on the intended target. It is particularly important to use larger droplet sizes when working near sensitive crops like grapes or vegetables that are highly susceptible to pesticide damage. Educating spray operators about the impact of wind speed and nozzle height is a key step toward achieving safer and more sustainable pest management practices in the region.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_005",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "The Re-Entry Interval is specifically designed to allow enough time for pesticide residues to settle and degrade to safe levels on the leaf surfaces. Walking through or working in a recently sprayed field prematurely exposes your skin and clothes to concentrated chemicals, which can be absorbed into the bloodstream. In the humid conditions of southern India, these residues may remain active longer than expected. It is critical to wait the full duration specified by ICAR guidelines before resuming any manual weeding or pruning activities in the sprayed block properly.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_007",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as temperature play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to temperature limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": ">35\u00b0C",
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_008",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as evening application play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to evening application limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_011",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on worker training and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills or intake effectively during daily work.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_006",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_007",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct wind direction can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_007",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "Managing the Pre-Harvest Interval correctly is a key responsibility for any farmer aiming for the export market or high-quality domestic sales in India. Each chemical has a unique PHI that reflects its degradation rate under local environmental conditions. Violating this interval poses a significant risk of residue-related poisoning and harms the reputation of Indian agriculture. Farmers should plan their final pest control measures carefully, selecting chemicals with shorter PHIs as the projected harvest date approaches to ensure maximum consumer safety and product compliance always.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_009",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to temperature is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when temperature is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": ">35\u00b0C",
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_010",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as rainfall play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to rainfall limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": ">10 mm"
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_006",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "High-quality gloves provides critical defense against the aggressive chemical agents used in modern Indian agriculture. Many pesticides are absorbed rapidly through the skin or lungs, making personal protective equipment the first line of medical defense for sprayers. Farmers should always prioritize wearing certified gloves even during short spraying sessions to prevent cumulative toxicity. After each use, ensure you wash your gear thoroughly with clean water and soap to remove any lingering residues that could compromise safety during the next application carefully.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_011",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to evening application is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when evening application is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_007",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "High-quality full body covering provides critical defense against the aggressive chemical agents used in modern Indian agriculture. Many pesticides are absorbed rapidly through the skin or lungs, making personal protective equipment the first line of medical defense for sprayers. Farmers should always prioritize wearing certified full body covering even during short spraying sessions to prevent cumulative toxicity. After each use, ensure you wash your gear thoroughly with clean water and soap to remove any lingering residues that could compromise safety during the next application carefully.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_006",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "The Re-Entry Interval is specifically designed to allow enough time for pesticide residues to settle and degrade to safe levels on the leaf surfaces. Walking through or working in a recently sprayed field prematurely exposes your skin and clothes to concentrated chemicals, which can be absorbed into the bloodstream. In the humid conditions of southern India, these residues may remain active longer than expected. It is critical to wait the full duration specified by ICAR guidelines before resuming any manual weeding or pruning activities in the sprayed block properly.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_008",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct wind direction can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_007",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "Adhering to the Re-Entry Interval (REI) is a fundamental safety practice that protects agricultural workers from lingering pesticide vapors and residues. Entering a treated field before the mandatory waiting period has elapsed can result in acute poisoning symptoms, such as dizziness, nausea, and skin irritation. Indian farmers must clearly mark treated zones with warning signs to prevent accidental entry by neighbors or livestock. The REI vary depending on the chemical toxicity, so always consult the product label for the specific waiting time required for your crop immediately.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_012",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to temperature is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when temperature is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": ">35\u00b0C",
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_004",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Safe mixing of pesticides requires careful attention to the correct water quality to prevent dangerous chemical reactions and ensure a homogenous solution. Never mix incompatible chemicals in the same tank, as this can cause the mixture to solidify or lose its insecticidal properties entirely. We recommend using a clean plastic bucket for pre-mixing and adding each chemical one by one according to ICAR recommendations. Wear full PPE during this stage, as the concentration of active ingredients is highest before dilution, posing the greatest risk to the farmer during the process.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_012",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of emergency handling is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working in.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_005",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_008",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "Managing the Pre-Harvest Interval correctly is a key responsibility for any farmer aiming for the export market or high-quality domestic sales in India. Each chemical has a unique PHI that reflects its degradation rate under local environmental conditions. Violating this interval poses a significant risk of residue-related poisoning and harms the reputation of Indian agriculture. Farmers should plan their final pest control measures carefully, selecting chemicals with shorter PHIs as the projected harvest date approaches to ensure maximum consumer safety and product compliance always.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_008",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "The Re-Entry Interval is specifically designed to allow enough time for pesticide residues to settle and degrade to safe levels on the leaf surfaces. Walking through or working in a recently sprayed field prematurely exposes your skin and clothes to concentrated chemicals, which can be absorbed into the bloodstream. In the humid conditions of southern India, these residues may remain active longer than expected. It is critical to wait the full duration specified by ICAR guidelines before resuming any manual weeding or pruning activities in the sprayed block properly.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_009",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Managing wind direction effectively is the primary way to minimize chemical drift during agricultural spraying operations in India. Using localized spraying techniques and avoiding high-pressure settings helps keep the chemical droplets on the intended target. It is particularly important to use larger droplet sizes when working near sensitive crops like grapes or vegetables that are highly susceptible to pesticide damage. Educating spray operators about the impact of wind speed and nozzle height is a key step toward achieving safer and more sustainable pest management practices in the region.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_009",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_006",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_005",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Safe mixing of pesticides requires careful attention to the correct water quality to prevent dangerous chemical reactions and ensure a homogenous solution. Never mix incompatible chemicals in the same tank, as this can cause the mixture to solidify or lose its insecticidal properties entirely. We recommend using a clean plastic bucket for pre-mixing and adding each chemical one by one according to ICAR recommendations. Wear full PPE during this stage, as the concentration of active ingredients is highest before dilution, posing the greatest risk to the farmer during the process.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_010",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct droplet size can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_006",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Safe mixing of pesticides requires careful attention to the correct water quality to prevent dangerous chemical reactions and ensure a homogenous solution. Never mix incompatible chemicals in the same tank, as this can cause the mixture to solidify or lose its insecticidal properties entirely. We recommend using a clean plastic bucket for pre-mixing and adding each chemical one by one according to ICAR recommendations. Wear full PPE during this stage, as the concentration of active ingredients is highest before dilution, posing the greatest risk to the farmer during the process.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_011",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Managing spray pressure effectively is the primary way to minimize chemical drift during agricultural spraying operations in India. Using localized spraying techniques and avoiding high-pressure settings helps keep the chemical droplets on the intended target. It is particularly important to use larger droplet sizes when working near sensitive crops like grapes or vegetables that are highly susceptible to pesticide damage. Educating spray operators about the impact of wind speed and nozzle height is a key step toward achieving safer and more sustainable pest management practices in the region.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_010",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_013",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of direct exposure is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working in.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_007",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Properly handling the pre-mixing bucket process is critical for achieving the desired pest control results while protecting yourself from toxic splashes. Always measure the required quantity of pesticide using standard measuring cups and never use food containers for this purpose. Mixing should be done in a well-ventilated outdoor area, away from water sources like wells or ponds to prevent accidental contamination. Ensure that the water used for dilution is clean and has a neutral pH, as dirty water can deactivate many modern pesticides used by Indian farmers efficiently.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_012",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct droplet size can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_009",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "The Re-Entry Interval is specifically designed to allow enough time for pesticide residues to settle and degrade to safe levels on the leaf surfaces. Walking through or working in a recently sprayed field prematurely exposes your skin and clothes to concentrated chemicals, which can be absorbed into the bloodstream. In the humid conditions of southern India, these residues may remain active longer than expected. It is critical to wait the full duration specified by ICAR guidelines before resuming any manual weeding or pruning activities in the sprayed block properly.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_014",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on washing after spray and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_015",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on direct exposure and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills or intake effectively during daily work.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_010",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "The Re-Entry Interval is specifically designed to allow enough time for pesticide residues to settle and degrade to safe levels on the leaf surfaces. Walking through or working in a recently sprayed field prematurely exposes your skin and clothes to concentrated chemicals, which can be absorbed into the bloodstream. In the humid conditions of southern India, these residues may remain active longer than expected. It is critical to wait the full duration specified by ICAR guidelines before resuming any manual weeding or pruning activities in the sprayed block properly.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_011",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "Adhering to the Re-Entry Interval (REI) is a fundamental safety practice that protects agricultural workers from lingering pesticide vapors and residues. Entering a treated field before the mandatory waiting period has elapsed can result in acute poisoning symptoms, such as dizziness, nausea, and skin irritation. Indian farmers must clearly mark treated zones with warning signs to prevent accidental entry by neighbors or livestock. The REI vary depending on the chemical toxicity, so always consult the product label for the specific waiting time required for your crop immediately.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_016",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on washing after spray and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_013",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to early morning spraying is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when early morning spraying is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_007",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Proper safe storage ensures that hazardous chemicals do not leach into the environment or fall into the wrong hands in the village. This includes the responsible disposal of empty containers by triple-rinsing them and puncturing holes to prevent reuse for domestic purposes. Indian regulations require that empty pesticide bags and bottles be disposed of in designated waste areas rather than being burned or thrown into water bodies. Keeping an organized inventory of your chemical stocks helps in identifying expired products that should be handled with.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_011",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_008",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Safe mixing of pesticides requires careful attention to the correct dilution ratio to prevent dangerous chemical reactions and ensure a homogenous solution. Never mix incompatible chemicals in the same tank, as this can cause the mixture to solidify or lose its insecticidal properties entirely. We recommend using a clean plastic bucket for pre-mixing and adding each chemical one by one according to ICAR recommendations. Wear full PPE during this stage, as the concentration of active ingredients is highest before dilution, posing the greatest risk to the farmer during the process.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_014",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as early morning spraying play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to early morning spraying limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_015",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to rainfall is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when rainfall is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": ">10 mm"
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_008",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_009",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_013",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Managing buffer zones effectively is the primary way to minimize chemical drift during agricultural spraying operations in India. Using localized spraying techniques and avoiding high-pressure settings helps keep the chemical droplets on the intended target. It is particularly important to use larger droplet sizes when working near sensitive crops like grapes or vegetables that are highly susceptible to pesticide damage. Educating spray operators about the impact of wind speed and nozzle height is a key step toward achieving safer and more sustainable pest management practices in the region.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_016",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as rainfall play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to rainfall limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": ">10 mm"
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_017",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to early morning spraying is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when early morning spraying is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_018",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as rainfall play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to rainfall limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": ">10 mm"
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_012",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "The Pre-Harvest Interval (PHI) is the minimum time that must pass between the last pesticide application and the safe harvest of the crop. Following this rule is essential to ensure that chemical residues on fruits and vegetables remain within the safety limits set by the FSSAI in India. Consuming produce harvested too early can lead to serious health risks for consumers and may result in the rejection of the entire batch at the local mandi. Always keep precise records of your spray dates to calculate.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_008",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "Wearing protective masks is a non-negotiable safety requirement for all Indian farmers during chemical application. Direct skin contact or inhalation of pesticide mists can lead to severe health complications, including respiratory distress and long-term skin conditions. It is essential to inspect your masks for any tears or damage before starting the mixing process. Properly fitted gear ensures a reliable barrier against hazardous substances, significantly reducing the risk of accidental exposure in high-temperature field conditions common across India effectively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_012",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "Adhering to the Re-Entry Interval (REI) is a fundamental safety practice that protects agricultural workers from lingering pesticide vapors and residues. Entering a treated field before the mandatory waiting period has elapsed can result in acute poisoning symptoms, such as dizziness, nausea, and skin irritation. Indian farmers must clearly mark treated zones with warning signs to prevent accidental entry by neighbors or livestock. The REI vary depending on the chemical toxicity, so always consult the product label for the specific waiting time required for your crop immediately.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_019",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as wind speed play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to wind speed limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": ">15 km/h",
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_009",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Safe mixing of pesticides requires careful attention to the correct water quality to prevent dangerous chemical reactions and ensure a homogenous solution. Never mix incompatible chemicals in the same tank, as this can cause the mixture to solidify or lose its insecticidal properties entirely. We recommend using a clean plastic bucket for pre-mixing and adding each chemical one by one according to ICAR recommendations. Wear full PPE during this stage, as the concentration of active ingredients is highest before dilution, posing the greatest risk to the farmer during the process.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_010",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_009",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "High-quality certified gear provides critical defense against the aggressive chemical agents used in modern Indian agriculture. Many pesticides are absorbed rapidly through the skin or lungs, making personal protective equipment the first line of medical defense for sprayers. Farmers should always prioritize wearing certified certified gear even during short spraying sessions to prevent cumulative toxicity. After each use, ensure you wash your gear thoroughly with clean water and soap to remove any lingering residues that could compromise safety during the next application carefully.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_017",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Maintaining high standards of first aid is essential for the long-term health and productivity of the agricultural workforce in India. Workers should be encouraged to report any signs of discomfort or illness following a spray session without fear of losing their wages. It is best practice to avoid assigning the same worker to spraying tasks for multiple consecutive days to minimize total chemical exposure. Providing light, breathable protective clothing helps reduce the risk of heat stroke, which is a common danger for sprayers working in.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_020",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to rainfall is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when rainfall is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": ">10 mm"
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_phi_013",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PHI",
+    "content": "Managing the Pre-Harvest Interval correctly is a key responsibility for any farmer aiming for the export market or high-quality domestic sales in India. Each chemical has a unique PHI that reflects its degradation rate under local environmental conditions. Violating this interval poses a significant risk of residue-related poisoning and harms the reputation of Indian agriculture. Farmers should plan their final pest control measures carefully, selecting chemicals with shorter PHIs as the projected harvest date approaches to ensure maximum consumer safety and product compliance always.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Toxic chemical residues in food leading to consumer poisoning and mandi rejection.",
+    "safety_notes": "STRICT WARNING: Never ignore PHI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_010",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Safe mixing of pesticides requires careful attention to the correct mixing order to prevent dangerous chemical reactions and ensure a homogenous solution. Never mix incompatible chemicals in the same tank, as this can cause the mixture to solidify or lose its insecticidal properties entirely. We recommend using a clean plastic bucket for pre-mixing and adding each chemical one by one according to ICAR recommendations. Wear full PPE during this stage, as the concentration of active ingredients is highest before dilution, posing the greatest risk to the farmer during the process.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_rei_013",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "REI",
+    "content": "The Re-Entry Interval is specifically designed to allow enough time for pesticide residues to settle and degrade to safe levels on the leaf surfaces. Walking through or working in a recently sprayed field prematurely exposes your skin and clothes to concentrated chemicals, which can be absorbed into the bloodstream. In the humid conditions of southern India, these residues may remain active longer than expected. It is critical to wait the full duration specified by ICAR guidelines before resuming any manual weeding or pruning activities in the sprayed block properly.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Acute intoxication of workers and potential medical emergencies due to exposure.",
+    "safety_notes": "STRICT WARNING: Never ignore REI protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_014",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct wind direction can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_011",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Safe mixing of pesticides requires careful attention to the correct water quality to prevent dangerous chemical reactions and ensure a homogenous solution. Never mix incompatible chemicals in the same tank, as this can cause the mixture to solidify or lose its insecticidal properties entirely. We recommend using a clean plastic bucket for pre-mixing and adding each chemical one by one according to ICAR recommendations. Wear full PPE during this stage, as the concentration of active ingredients is highest before dilution, posing the greatest risk to the farmer during the process.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_mixing_012",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Mixing",
+    "content": "Properly handling the dilution ratio process is critical for achieving the desired pest control results while protecting yourself from toxic splashes. Always measure the required quantity of pesticide using standard measuring cups and never use food containers for this purpose. Mixing should be done in a well-ventilated outdoor area, away from water sources like wells or ponds to prevent accidental contamination. Ensure that the water used for dilution is clean and has a neutral pH, as dirty water can deactivate many modern pesticides used by Indian farmers efficiently.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Violent chemical reactions, tank clogging, and neutralization of pesticide activity.",
+    "safety_notes": "STRICT WARNING: Never ignore Mixing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_drift_015",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Drift",
+    "content": "Preventing spray drift is essential for protecting non-target crops, local wildlife, and the health of surrounding communities in crowded Indian rural areas. Choosing the correct nozzle selection can significantly reduce the amount of fine mist that is easily carried away by light winds. Farmers should always monitor the wind direction before starting their sprayers and maintain a safe buffer zone near water bodies and houses. Drift not only wastes expensive chemicals but also leads to legal and environmental complications that can affect the entire village's agricultural productivity negatively.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Contamination of water bodies and poisoning of neighboring sensitive crops or livestock.",
+    "safety_notes": "STRICT WARNING: Never ignore Drift protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_011",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Proper locked cupboard ensures that hazardous chemicals do not leach into the environment or fall into the wrong hands in the village. This includes the responsible disposal of empty containers by triple-rinsing them and puncturing holes to prevent reuse for domestic purposes. Indian regulations require that empty pesticide bags and bottles be disposed of in designated waste areas rather than being burned or thrown into water bodies. Keeping an organized inventory of your chemical stocks helps in identifying expired products that should be handled with.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_018",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on first aid and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills or intake effectively during daily work.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_021",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to temperature is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when temperature is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": ">35\u00b0C",
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_022",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Optimizing your spray timing according to early morning spraying is vital for both chemical efficacy and farmer safety in Indian climates. Applying pesticides when early morning spraying is outside the safe threshold can cause rapid chemical evaporation or excessive drift into neighboring residential areas. We strongly recommend finishing all spraying operations before 10 AM or starting after 5 PM to take advantage of calmer winds and lower temperatures. This practice minimizes the physiological stress on the plants and reduces the risk of heat-related illness for the operator during the day.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_012",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_ppe_010",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "PPE",
+    "content": "High-quality safety boots provides critical defense against the aggressive chemical agents used in modern Indian agriculture. Many pesticides are absorbed rapidly through the skin or lungs, making personal protective equipment the first line of medical defense for sprayers. Farmers should always prioritize wearing certified safety boots even during short spraying sessions to prevent cumulative toxicity. After each use, ensure you wash your gear thoroughly with clean water and soap to remove any lingering residues that could compromise safety during the next application carefully.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Severe chemical burns, acute respiratory poisoning, and chronic skin absorption.",
+    "safety_notes": "STRICT WARNING: Never ignore PPE protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_019",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on emergency handling and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills or intake effectively during daily work.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_023",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as early morning spraying play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to early morning spraying limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_worker_safety_020",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Worker Safety",
+    "content": "Ensuring worker safety during and after pesticide application is a moral and legal obligation for every farm owner in India. Laborers must be provided with adequate training on first aid and the importance of personal hygiene, including thorough washing with soap immediately after completing the task. Direct exposure to pesticides can have immediate effects like skin rashes or long-term impacts on the nervous system. Farm managers should provide access to clean water and emergency first-aid kits in the field to handle any accidental spills or intake effectively during daily work.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Long-term neurological damage and increased vulnerability to occupational diseases.",
+    "safety_notes": "STRICT WARNING: Never ignore Worker Safety protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_storage_013",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Storage",
+    "content": "Safe storage of pesticide containers is a critical component of farm safety management in India to prevent accidental poisonings of children and livestock. Pesticides must always be kept in a dedicated, locked cupboard or shed that is well-ventilated and clearly labeled with danger signs. Never transfer chemicals into unlabeled beverage bottles or food jars, as this is a leading cause of tragic accidents in rural households. Regularly check the condition of the containers for any leaks and ensure they are stored away from direct sunlight.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": null
+    },
+    "risk": "Accidental ingestion by children or animals and groundwater contamination from leaks.",
+    "safety_notes": "STRICT WARNING: Never ignore Storage protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "safety_spray_024",
+    "layer": "layer3",
+    "category": "pesticide_safety",
+    "crop": "General",
+    "region": "India",
+    "safety_type": "Spray Timing",
+    "content": "Weather conditions such as rainfall play a decisive role in the successful management of pests and diseases in rural India. Spraying during peak heat or high wind speeds often leads to significant pesticide waste and environmental contamination. By strictly adhering to rainfall limits, farmers can ensure that the droplets reach the target pests without being diverted by strong gusts or dried out by the harsh tropical sun. Always check the local weather forecast before preparing your spray tanks to avoid unexpected rainfall interventions in the field.",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "wind_speed_limit": null,
+      "rainfall_limit": ">10 mm"
+    },
+    "risk": "Significant chemical wastage, high drift risk, and reduced pesticide effectiveness.",
+    "safety_notes": "STRICT WARNING: Never ignore Spray Timing protocols; it is critical for life safety.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  }
+]

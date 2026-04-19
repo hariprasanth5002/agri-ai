@@ -1,0 +1,1218 @@
+[
+    {
+        "id": "bell_pepper_bacterial_spot_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Bacterial spot in Indian bell pepper, caused by Xanthomonas euvesicatoria, initially presents as small, circular, water-soaked spots on the underside of leaves. As the disease progress, these lesions expand and become necrotic, often developing a prominent yellow halo. On the upper leaf surface, the spots appear slightly depressed and eventually turn dark brown to black. In severe Kharif outbreaks, the lesions coalesce, leading to extensive leaf yellowing and premature defoliation, which exposes developing fruits to sunscald. Diagnostic fruit symptoms include Raised, corky-textured spots that significantly reduce marketability. Frequent scouting during humid monsoon spells is critical for early identification before systemic colonization occurs within the canopy.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "High humidity post-monsoon showers",
+            "temperature_limits": "24-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Early symptoms on the underside of leaves are often missed; ensure deep canopy inspection during peak humidity.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "The etiology of bacterial spot in Indian bell pepper involves the Gram-negative bacterium Xanthomonas euvesicatoria. The pathogen is primarily seed-borne, surviving in or on the seed coat for extended periods under Indian storage conditions. Secondary spread occurs rapidly through wind-driven rain splashes and mechanical handling during cultivation. The bacteria enter the host tissue through natural openings like stomata or through wounds caused by insects and wind-blown sand. Environmental conditions such as high relative humidity exceeding 90% and moderate temperatures between 24 and 30\u00b0C are highly conducive for bacterial multiplication and rapid field dissemination. Surviving on infected crop debris and alternate solanaceous weed hosts, the pathogen poses a continuous threat across successive cropping seasons.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Rain splash dissemination",
+            "temperature_limits": "20-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Pathogen survival on contaminated pruning tools is a common source of secondary infection in intensive bell pepper farming.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Chemical management of bell pepper bacterial spot in India relies on the synergistic application of copper-based bactericides and antibiotics. A standard recommended protocol involves the use of Copper Oxychloride (50% WP) at 2.5 grams per liter combined with Streptocycline (90:10 combination of streptomycin sulfate and tetracycline hydrochloride) at 0.1 grams per liter. This combination provides both surface protection and localized systemic suppression of Xanthomonas euvesicatoria. Protective sprays should be initiated at the first sign of symptoms or during periods of anticipated high humidity. Ensuring uniform coverage of every leaf surfaces, particularly the abaxial side, is essential for mitigating the rapid spread of the inoculum during the monsoon season and ensuring crop health.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.6,
+            "grams_per_acre": 520,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 7
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Apply during dry window",
+            "temperature_limits": null,
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Continuous use of copper bactericides may lead to phytotoxicity; monitor for leaf bronze symptoms and rotate with Mancozeb.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "All",
+        "content": "Organic suppression of bacterial spot in Indian bell pepper systems emphasizes seed health and biological antagonism. Treating seeds with a 1% solution of Pseudomonas fluorescens or Bacillus subtilis (10g/kg seed) can significantly reduce seed-borne Xanthomonas inoculum. Foliar applications of these bio-agents at a dosage of 10 grams per liter create a biological barrier on the phyllosphere, competing with pathogens for space and nutrients. Additionally, botanical extracts such as Neem oil (1500 ppm) at 3 ml per liter act as mild prophylactics. Regular application of fermented buttermilk or dilute cow urine (1:10 ratio) has been traditionally used by Indian farmers to induce systemic resistance. These methods are most effective when integrated with strict field sanitation and the removal of infected plant debris post-harvest.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 8,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure 6-hour rain-free window",
+            "temperature_limits": "22-35C",
+            "wind_speed_limit": 4
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Apply bio-agents during late evening to protect microbial viability from intense Indian UV radiation.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Precise dosage of bactericidal agents is vital for managing Xanthomonas euvesicatoria during the sensitive flowering stage of bell pepper in India. The recommended dosage for Streptocycline is 6 grams per 60 liters of water (100 ppm), which should be mixed with Copper Oxychloride at 150 grams per 60 liters. For large-scale acreages, this translates to roughly 30 grams of Streptocycline and 750 grams of Copper Oxychloride per acre mixed in 300 liters of water. Maintaining these concentrations ensures optimal efficacy while minimizing the risk of floral drop or fruit staining. If weather conditions remain favorable for disease development, the spray interval should be shortened to 7 days. Always use a non-ionic spreader to improve the coverage and penetration through the dense crop canopy.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.6,
+            "grams_per_acre": 780,
+            "spray_interval_days": 7,
+            "pre_harvest_interval_days": 10
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Standard monsoon precautions",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Over-dosage of copper can cause leaf scorching and premature fruit fall during high-temperature spells.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Timing of bactericidal interventions for bell pepper bacterial spot in India is heavily influenced by moisture dynamics and the onset of the monsoon. Prophylactic sprays are essential if temperatures range between 24 and 30\u00b0C and high humidity is forecasted. The most critical window for protection begins at the first true leaf stage and continues through the peak harvest period. If lesions are observed on 5% of the leaves, immediate curative action with antibiotics is mandatory. For Indian Kharif crops, timing the spray immediately after a heavy rain spell is effective to neutralize bacteria splashed from the soil onto the foliage. Late-season applications are generally less economical once the primary fruit set has been harvested, provided the remaining crop maintains sufficient leaf area for maturity.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Spray during rainfall breaks",
+            "temperature_limits": "24-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Wait for foliage to dry after rain before applying copper to ensure proper film formation and efficacy.",
+        "source_type": "PAU"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "All",
+        "content": "Preventative strategies for bacterial spot in Indian bell pepper focus on utilizing certified pathogen-free seed and maintaining strict field hygiene. Prior to sowing, seeds should be treated with hot water (50-52\u00b0C for 25 minutes) or a 1% Sodium Hypochlorite solution to eliminate surface-borne bacteria. In the nursery, using raised beds and plastic mulching helps reduce soil splash and localized humidity. Crop rotation with non-solanaceous crops like cereals or legumes for at least three years is essential for reducing the residual soil inoculum of Xanthomonas euvesicatoria. Removing volunteer pepper plants and solanaceous weeds from field borders eliminates potential reservoirs. Proper spacing, such as 45x60 cm, ensures adequate airflow and rapid leaf drying, which significantly inhibits the establishment of the bacterial pathogen during humid spells.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain soil pH between 6.0 and 7.0 for optimal crop vigor and natural defense mechanisms.",
+        "safety_notes": "Avoid overhead irrigation as it facilitates bacterial spread; drip irrigation is highly recommended for pepper.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_stage_specific_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "Fruiting",
+        "season": "Kharif",
+        "content": "During the fruiting stage, bacterial spot management in Indian bell pepper becomes critical to prevent direct yield loss and quality degradation. Infection on young fruits manifests as small, water-soaked, slightly raised spots that eventually turn dark brown and develop a corky texture. These lesions do not only affect the aesthetic appearance but also provide entry points for secondary pathogens like soft rot bacteria (Erwinia spp.), leading to fruit collapse and foul odors in the field. Growers must maintain a rigorous bactericide schedule during this period, especially during intermittent monsoon rains. It is essential to ensure that the fungicide mixture reaches the fruit surfaces hidden within the canopy. Protective sprays should be continued until the final harvest to safeguard the photosynthetic capacity of the upper leaves.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "High rain splash risk",
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Fruits with even minor corky spots should be culled early to prevent spread and save plant energy for healthy fruits.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_resistance_management_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "resistance_management",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Managing resistance to bacterial spot in India involves a two-pronged approach: the use of resistant hybrids and the prevention of bactericide resistance in Xanthomonas populations. Utilizing bell pepper varieties with 'Bs2' or other polygenic resistance genes is the primary defense strategy. For chemical control, the repeated use of copper-only sprays or antibiotics like Streptocycline should be avoided to prevent the selection of resistant bacterial strains. Rotating copper treatments with Mancozeb (Group M3) or integrating biological agents into the spray schedule is mandatory. This practice reduces the selection pressure on any single molecule. Furthermore, ensuring that sprays are applied at the full recommended label rate is essential, as sub-lethal concentrations significantly accelerate the development of resistance in the bacterial population within localized Indian pepper-growing belts.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Standard spray precautions",
+            "temperature_limits": null,
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Monitor field efficacy carefully; if symptoms persist after two consecutive antibiotic sprays, switch immediately to purely copper-mancozeb rotations.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_bacterial_spot_monsoon_advisory_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "monsoon_advisory",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Bacterial Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "The Indian monsoon creates optimal conditions for bacterial spot outbreaks in bell pepper due to frequent rain splashes and high humidity. Farmers should monitor fields daily during cloudy periods when relative humidity remains above 85%. If heavy rainfall is predicted, a protective spray of Copper Oxychloride (2.5g/L) should be applied to create a microbial barrier. In the event of an outbreak, systemic Streptocycline (100 ppm) must be timed during dry windows of at least 4 hours to allow for adequate absorption. Ensuring proper field drainage is vital to prevent waterlogging, which stresses the plants and makes them more susceptible. It is also recommended to avoid any pruning or mechanical cultivation while the foliage is wet, as this rapidly spreads the bacteria throughout the field via contaminated water droplets.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 8,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure dry window post-spray",
+            "temperature_limits": "20-28C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": "Soil application of potassium (K) before monsoon onset improves leaf strength and bacterial resistance.",
+        "safety_notes": "Scout the lower leaves of plants located in the path of prevailing monsoon winds for earliest symptoms.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Phytophthora blight, caused by Phytophthora capsici, is one of the most destructive diseases for Indian bell pepper growers. Early symptoms include sudden wilting of the whole plant or specific branches without prior yellowing. A diagnostic feature is the appearance of dark brown to black, water-soaked lesions on the stem, typically at the soil line (crown rot) or at the nodes. These lesions rapidly expand, girdling the stem and leading to plant death. Leaf symptoms involve large, circular, or irregular water-soaked spots that turn light tan when dry. On fruits, the disease manifests as white, yeast-like mold growth over dark green water-soaked areas. Severe Kharif rains facilitate widespread infection across low-lying field areas, causing total crop failure if not managed with systemic fungicides and proper drainage.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High rain splash dependency",
+            "temperature_limits": "25-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Different from Fusarium wilt by the presence of external dark stem lesions and more rapid symptom progression.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "The oomycete pathogen Phytophthora capsici is the causal agent of Phytophthora blight in Indian bell pepper. It produces specialized soil-borne survival structures called oospores, which can persist in the soil for several years. Under conditions of saturated soil and high temperatures (25-30\u00b0C), these oospores germinate to produce sporangia, which then release motile zoospores. These zoospores swim in surface water to reach host roots or are splashed onto the foliage and fruit during heavy monsoon showers. The pathogen exhibits high variability and can infect a wide range of solanaceous and cucurbitaceous hosts common in Indian polyculture systems. The rapid reproductive cycle, often completed within 72 hours, allows for explosive epidemics during the Kharif season when drainage is poor and soil moisture is consistently high.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 100,
+            "rainfall_restriction": "Standing water in field",
+            "temperature_limits": "24-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The pathogen is highly aggressive and requires proactive management rather than reactive treatments.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Chemical management of Phytophthora capsici in Indian bell pepper requires a combination of soil drenching and foliar applications of specialized oomycete fungicides. Metalaxyl-M 4% + Mancozeb 64% WP (Ridomil Gold) at 2.5 grams per liter is the gold standard for both preventive and curative action. Soil drenching around the root zone at transplanting and during the early vegetative stage provides critical protection against crown rot. For foliar blight and fruit rot, systemic molecules such as Dimethomorph (50% WP) at 1 gram per liter or Azoxystrobin (23% SC) at 1 ml per liter are highly effective. Rotating FRAC groups is essential to prevent resistance. Applications must be timed before anticipated heavy rain events to establish a chemical barrier on the foliage and within the immediate root zone.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Ensure 4-hour dry window",
+            "temperature_limits": null,
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Prefer systemic fungicides with translaminar activity to ensure protection of fruit clusters and lower stem areas.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "All",
+        "content": "Organic management of Phytophthora blight in bell pepper relies on strengthening soil biology and using antagonistic microbial agents. Seed treatment with Trichoderma asperellum (10g/kg seed) provides significant early-season protection. For field management, soil application of Trichoderma-enriched FYM (Farm Yard Manure) at 5 tons per acre is recommended to competitively exclude Phytophthora capsici. Foliar sprays and soil drenching with Pseudomonas fluorescens (10g/L) have shown efficacy in suppressing zoospore activity. Additionally, menggunakan mulch organic such as rice husk or straw helps reduce soil splash onto the lower canopy. These interventions must be combined with proactive cultural controls, such as using raised beds (8-10 inches high) to improve drainage and prevent the waterlogged conditions that are essential for the survival and mobility of the oomycete zoospores in Indian Kharif conditions.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 7,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Avoid application in heavy rain",
+            "temperature_limits": "18-35C",
+            "wind_speed_limit": 4
+        },
+        "soil_adjustment": "Soil solarization for 4-6 weeks during peak summer can significantly reduce the population of resting oospores.",
+        "safety_notes": "Trichoderma species are highly effective but must be applied early in the season to establish dominance in the rhizosphere.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Accurate dosage for oomycete-specific fungicides is critical for suppressing Phytophthora capsici in Indian bell pepper crops. Metalaxyl 8% + Mancozeb 64% WP should be applied at 2.5 grams per liter, targeting a total volume of 500 grams per acre in 200 liters of water. For high-pressure situations, Dimethomorph 50% WP at 1 gram per liter or Mandipropamid 23.4% SC at 0.8 ml per liter provides excellent curative control. If drenching, use 100-200 ml of the fungicide solution per plant to ensure complete saturation of the root zone. Maintaining strict adherence to these dosages prevents the emergence of resistant strains and ensures that chemicals remain effective throughout the long Kharif season. Always use a wetting agent to ensure that the fungicide persists on the waxy surfaces of pepper stems and leaves.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 15
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Moderate rains acceptable if systemic is used",
+            "temperature_limits": "20-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Increase water volume to 300 liters per acre during the flowering and fruiting stages to ensure thorough canopy penetration.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "The timing of Phytophthora blight interventions in India is primarily governed by rainfall patterns and soil saturation levels. Prophylactic drenching should be performed within 3-5 days after transplanting, especially in fields with a history of the disease. Subsequent foliar sprays should be timed with the onset of the monsoon or when periods of 48-hour continuous leaf wetness occur. If the disease is detected in the field, immediate curative measures must be taken within 24 hours to halt the rapid spread of zoospores. The most critical period for protection is from the early vegetative stage through peak fruiting, as crown rot at this phase inevitably leads to plant loss. Late-season monitoring of fruit rot is essential if unseasonal rains occur during the final stages of crop maturity.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High rain splash potential",
+            "temperature_limits": "24-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Prioritize dawn or dusk for foliar application, but drenching can be done during daytime provided soil moisture is adequate.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "Long-term prevention of Phytophthora blight in Indian bell pepper necessitates a combination of variety selection and robust cultural practices. Utilizing resistant hybrids and grafting susceptible bell peppers onto resistant rootstocks (like Capiscum annuum var. glabriusculum) is highly effective. Field selection is paramount; avoid low-lying areas with poor drainage and high clay content. Implementing raised bed cultivation (8 inches high) with plastic mulch significantly reduces soil-to-plant splash and maintains drier crown areas. Rotating bell pepper with non-host crops like corn or wheat for 3-4 years is required to reduce oospore density in the soil. Maintaining strict field sanitation, including the immediate removal and destruction of infected plants, prevents the localized buildup of inoculum during the cropping season in high-risk Kharif zones.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Gypsum application can help improve soil structure and drainage in sodic soils, reducing zoospore mobility.",
+        "safety_notes": "Avoid moving soil from infected fields to clean areas via equipment or footwear, as this is a primary method of long-distance pathogen spread.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_stage_specific_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Flowering is a period of high metabolic stress for bell pepper, making it particularly vulnerable to the crown rot and stem blight forms of Phytophthora. If the oomycete infects the crown during flowering, the sudden wilting will lead to a total loss of the current fruit set and potential plant death. It is required to maintain a protective soil drench schedule during this stage, particularly if localized rainfall is heavy. Systemic fungicides like Metalaxyl should be used to provide internal protection. Furthermore, ensuring that no irrigation water from neighboring infected fields enters the pepper plot is essential, as zoospores are easily transported in moving water. Maintaining optimal nutrient status, especially calcium, can help strengthen cell walls against the enzymatic degradation used by Phytophthora to colonize host tissues.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High",
+            "temperature_limits": "24-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Monitor the 'soil-line' closely; early browning of the stem at this stage indicates the need for immediate drenching.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_resistance_management_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "resistance_management",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Resistance management for Phytophthora capsici in India is challenging due to the pathogen's ability to develop resistance to phenylamides (like Metalaxyl). To preserve fungicide efficacy, farmers must never use Metalaxyl alone; it should always be co-formulated or tank-mixed with multi-site contact fungicides like Mancozeb. Rotating Phenylamides (Group 4) with Carboxylic Acid Amides (Group 40, e.g., Dimethomorph) and Quinone Outside Inhibitors (Group 11, e.g., Azoxystrobin) is the standard ICAR recommendation. Additionally, utilizing different bell pepper hybrids with varying resistance genes in successive years slows the emergence of highly virulent Phytophthora races. Strict adherence to the recommended dosages and the use of integrated pest management (IPM) practices, including biological controls, further reduces the selection pressure on any single chemical mode of action within localized Indian pepper clusters.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Avoid sub-lethal dosing",
+            "temperature_limits": null,
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Sub-lethal dosing of Metalaxyl is the primary driver of resistance; always follow the label rate precisely.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_phytophthora_blight_monsoon_advisory_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "monsoon_advisory",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Phytophthora Blight",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "During the peak of the Indian monsoon, Phytophthora blight risk is at its zenith. The primary advisory for bell pepper growers is to maintain perfect field drainage; any standing water for more than 4 hours triggers zoospore release. In areas of high Kharif rainfall, pre-monsoon soil treatment with copper or Trichoderma is required. If continuous rain prevents foliar sprays, localized drenching of vulnerable plants in low-lying spots is a critical emergency measure. Farmers are advised to avoid any mechanical work during wet periods to minimize root wounding and pathogen spread. If unseasonal heavy rains occur during harvest, immediate application of a systemic oomycete fungicide is necessary to protect the remaining crop from explosive wilting and fruit rot. Regular monitoring of the crown and lower stem for dark lesions is the most reliable early warning.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 8,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 100,
+            "rainfall_restriction": "High rainfall",
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": "Increasing soil aeration through the addition of well-decomposed organic matter before the monsoon can reduce the impact of Phytophthora.",
+        "safety_notes": "Zoospores can travel uphill in very wet soil; do not assume higher ground is safe if the main field is infected.",
+        "source_type": "PAU"
+    },
+    {
+        "id": "bell_pepper_anthracnose_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Fruiting",
+        "season": "Summer",
+        "content": "Anthracnose, caused primarily by Colletotrichum capsici, is a major post-harvest and field disease of bell pepper in India. The most prominent symptoms appear on the fruits as circular, sunken lesions with defined margins. Under humid conditions, these lesions become covered with salmon-colored to orange masses of fungal spores (acervuli) typically arranged in concentric rings. On foliage, the disease presents as small, grayish-brown spots with dark margins, which may cause leaf blighting if severe. Stems can also develop elongated, dark lesions that lead to dieback. In Indian summer crops, the high temperature combined with high humidity favors rapid lesion expansion, turning the whole fruit into a soft, rotten mass. This significantly reduces the market value and leads to high losses during transportation to urban markets.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 80,
+            "rainfall_restriction": "High humidity post-irrigation/rain",
+            "temperature_limits": "28-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Often confused with sunscald, but the presence of concentric spore rings is a diagnostic marker for anthracnose.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_anthracnose_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "The fungal complex involving Colletotrichum species, notably C. capsici and C. gloeosporioides, is the cause of anthracnose in bell pepper across India. The pathogen is both seed-borne and survives on infected crop residues from previous seasons. It persists as mycelium or specialized survival structures like sclerotia in the soil. Spore dissemination is facilitated by wind-blown rain splashes and sprinkler irrigation. Spore germination and host penetration require free moisture on the plant surface and warm temperatures, typically between 27 and 32\u00b0C. The fungus can infect bell pepper at any growth stage, but fruit infection is the most economically damaging. Once established, the pathogen can remain latent in green fruits, only becoming visible as they ripen, which complicates disease management strategies during the peak harvest season in Indian conditions.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Rain-driven dispersal",
+            "temperature_limits": "25-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Weed hosts like Solanum nigrum act as critical off-season reservoirs for Colletotrichum in Indian agricultural landscapes.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_anthracnose_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Fruiting",
+        "season": "Summer",
+        "content": "Chemical management of bell pepper anthracnose in India involves a sequence of protective and systemic fungicides targeting the Colletotrichum fungal complex. Protective sprays using Mancozeb 75% WP (2.5g/L) or Chlorothalonil 75% WP (2g/L) should be initiated at the first sign of flowering. For curative action when fruit lesions appear, systemic fungicides such as Carbendazim 50% WP (1g/L) or Azoxystrobin 23% SC (1ml/L) are highly recommended. A newer group of strobilurins and triazole combinations, like Pyraclostrobin 133 g/l + Epoxiconazole 50 g/l, provides superior control during high-pressure summer heat. Ensuring thorough canopy penetration is essential, as spores often lurk in the inner foliage. Sprays should be continued up to 15 days before the final harvest to protect developing fruits and prevent post-harvest decay.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.0,
+            "grams_per_acre": 400,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Dry foliage during spray",
+            "temperature_limits": null,
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Rotate between carbamate (Mancozeb) and strobilurin (Azoxystrobin) to prevent the rapid development of fungicide resistance.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "bell_pepper_anthracnose_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "All",
+        "content": "Organic control of anthracnose in bell pepper emphasizes biological seed treatment and foliar protection using botanical extracts. Sowing seeds treated with Trichoderma viride or T. harzianum at 10 grams per kg of seed can significantly reduce early-season Colletotrichum colonization. Foliar applications of Pseudomonas fluorescens (10g/L) provide effective competition on the fruit surface. Botanical sprays based on Neem Seed Kernel Extract (NSKE) 5% or extracts of Eucalyptus and Garlic (10%) have shown promise in inhibiting spore germination during moderate disease pressure periods. Regular use of vermiwash or Jeevamrut as a foliar spray strengthens the plant's natural defense mechanisms. These organic interventions must be integrated with careful cultural management, such as removing any spotted leaves or fruits from the field immediately to prevent the local accumulation of infectious inoculum.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Ensure dry period post-application",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 4
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The efficacy of organic methods is highest when applied prophylactically before the peak fruiting stage begins.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "bell_pepper_anthracnose_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "All",
+        "content": "Proper dosage of specialized fungicides is crucial for the effective suppression of Colletotrichum and the preservation of fruit quality in Indian bell pepper. Azoxystrobin 18.2% + Difenoconazole 11.4% SC should be used at 1 ml per liter of water (200 ml per acre). If using the conventional Mancozeb 75% WP, a dosage of 2.5 grams per liter or 500 grams per acre is necessary. For the curative group, Propiconazole 25% EC is applied at 1 ml per liter. It is essential to mix these chemicals in enough water (typically 200 to 250 liters per acre) to ensure that the dense inner canopy and every developing fruit are thoroughly coated. Sub-optimal water volume or chemical dosage will lead to localized outbreaks, especially during humid Indian summer or post-monsoon spells.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Moderate rains manageable",
+            "temperature_limits": "25-33C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid spraying during the peak heat of the day to minimize the risk of fungicide-induced phytotoxicity on ripening bell peppers.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_anthracnose_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Summer",
+        "content": "Timing of anthracnose management in India follows a strict 'monitor and prevent' strategy starting from the early flowering stage. The first protective spray should be applied when the first flower buds appear, as this stage is highly attractive to the pathogen. If the weather remains cloudy with humidity over 80%, weekly applications are justified. The most critical period is from fruit set until colors begin to change (physiological maturity). If sporadic summer showers occur, spraying immediately after the rain is effective in neutralizing spores splashed from infected residues. Late-season spray timing is critical to ensure that no residues exceed safety limits while still protecting the fruit from rot during the final ripening phase and subsequent transport to wholesale markets.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "High humidity risk",
+            "temperature_limits": "27-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Scout the fruits in the lower half of the plant daily; early detection of a single sunken spot warrants immediate field-wide intervention.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_anthracnose_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "All",
+        "content": "Prevention of anthracnose in bell pepper across India is centered on maintaining clean seed sources and effective field sanitation. Only certified, disease-free seeds should be used, or seeds should be treated with Thiram or Carbendazim at 2g/kg seed. In the field, a three-year rotation with non-solanaceous crops is mandatory to break the fungal life cycle. Removing and burning all volunteer pepper plants and solanaceous weeds near the field eliminates vital inoculum sources. Proper plant spacing (typically 60x45cm) ensures good ventilation and minimizes leaf wetness duration. Avoiding overhead irrigation and opting for drip systems significantly reduces spore dissemination. Post-harvest management includes the complete removal of crop residues and deep summer ploughing to bury any remaining fungal structures, facilitating their decomposition under intense Indian heat.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Soil application of potash (K) helps strengthen the fruit cuticle, providing a better physical barrier against fungal penetration.",
+        "safety_notes": "Never leave rotten fruits in the field; they acting as 'spore factories' that will infect the remaining healthy crop within days.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_anthracnose_stage_specific_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Harvest",
+        "season": "All",
+        "content": "During the harvest stage, anthracnose management transition into ensuring post-harvest longevity and marketability of Indian bell pepper. It is critical to harvest fruits on dry days to minimize surface moisture. Even microscopic fungal infections at this stage can lead to massive decay during transit in hot, humid Indian weather. Ensuring that harvest crates and handling tools are sanitized with a chlorine solution prevents cross-contamination. Any fruits showing early signs of sunken spots must be strictly culled. Providing a pre-harvest systemic spray 10-14 days before the final pick can offer some residual protection during the movement to market. Maintaining a cool chain (10-12\u00b0C) immediately after harvest is the most effective way to slow down the development of latent anthracnose infections in bell peppers.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Ensure dry surface during harvest",
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid bruising the fruit during harvest; wounds are primary entry points for Colletotrichum and secondary soft-rot pathogens.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "bell_pepper_anthracnose_resistance_management_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "resistance_management",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Resistance management for Colletotrichum species in India requires a strict rotation of chemical MOAs to preserve the efficacy of modern systemic fungicides. Repeated use of strobilurins (Group 11 like Azoxystrobin) must be avoided, as these are high-risk for the development of fungal resistance. ICAR-IIHR guidelines recommend alternating strobilurins with DMI fungicides (Group 3 like Difenoconazole) or multi-site protectors like Chlorothalonil (Group M5). Furthermore, using bell pepper hybrids with varying levels of quantitative resistance can slow the build-up of virulent fungal populations. Farmers are encouraged to use integrated approaches, combining biologicals like Trichoderma during the early stages and reserved systemic chemicals during the high-pressure fruiting period, to manage the resistance profile effectively across different Indian pepper-growing clusters.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Avoid sub-lethal dosing",
+            "temperature_limits": null,
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Check for 'escape fruits' (fruits with lesions after spraying), which may indicate the early presence of resistant fungal strains in the field.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "bell_pepper_anthracnose_monsoon_advisory_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "monsoon_advisory",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Anthracnose risk during the Indian monsoon is elevated due to consistent moisture and wind-driven spore dispersal. For Kharif bell pepper, the advisory focuses on preventing moisture retention within the canopy. If persistent rains occur, farmers should avoid moving through the field when plants are wet to prevent spreading spores. A protective spray of Mancozeb (2.5g/L) before heavy monsoon spells is required. If symptoms are observed, switch immediately to a systemic combination like Azoxystrobin + Difenoconazole, ensuring a dry window of at least 4-6 hours for absorption. Removing any waterlogged areas and ensuring smooth field drainage prevents the humidity spikes that trigger explosive Colletotrichum sporulation. Pruning lower leaves can also improve airflow and reduce the humidity levels that favor early anthacnose establishment in the monsoon.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 8,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure dry period post-application",
+            "temperature_limits": "20-28C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": "Adequate calcium (Ca) fertilization before monsoon can improve fruit skin toughness and resistance to anthracnose fungal entry.",
+        "safety_notes": "Scout fruit surfaces hidden behind foliage, as these stay wet longer and are more prone to infection during the monsoon.",
+        "source_type": "PAU"
+    },
+    {
+        "id": "bell_pepper_powdery_mildew_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Summer",
+        "content": "Powdery mildew in Indian bell pepper, caused by Leveillula taurica, presents distinct symptoms from traditional powdery mildews. The disease initially appears as light green to yellow, irregular patches on the upper surface of older leaves. Correspondingly, a white, powdery fungal growth developed on the lower (abaxial) leaf surface. As the infection progresses, the yellow patches turn brown and necrotic, often leading to upward curling of the leaf margins and extensive defoliation. This leaf loss exposes developing fruits to sunscald, significantly reducing their quality. Unlike typical mildews, L. taurica is an endophytic pathogen, meaning it grows inside the leaf tissue before the white powder becomes visible, making early detection through careful underside inspection mandatory for Indian bell pepper growers.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 70,
+            "rainfall_restriction": "Dry, warm conditions preferred",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Upper surface yellowing is often mistaken for nutrient deficiency; looking for white powder below is the key diagnostic feature.",
+        "source_type": "IIHR"
+    },
+    {
+        "id": "bell_pepper_powdery_mildew_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Bell Pepper",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Leveillula taurica is the obligate fungal pathogen responsible for powdery mildew in bell pepper across India. This pathogen is unique as it is a hemi-endophyte, penetrating the leaf through stomata and colonizing the internal mesophyll tissue before producing external conidiophores and conidia on the underside of the leaf. These conidia are easily dispersed by wind Currents even in the absence of free moisture. The disease thrives in warm (15-32\u00b0C), relatively dry conditions interspersed with high humidity at night, which is characteristic of the Indian summer and Rabi seasons. The fungus survives as cleistothecia on fallen crop debris or as mycelium on alternative hosts like chilli, tomato, and eggplant. Its indoor-like life cycle allows it to spread rapidly in greenhouse and high-density field environments common in modern Indian horticulture.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 80,
+            "rainfall_restriction": "Rain can actually suppress spore spread",
+            "temperature_limits": "20-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Presence of multiple virulent races in India necessitates the use of broad-spectrum fungicides for effective management.",
+        "source_type": "ICAR"
+    },
+
+{
+    "id": "bell_pepper_powdery_mildew_chemical_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "chemical",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Powdery Mildew",
+    "region": "India",
+    "growth_stage": "Vegetative",
+    "season": "Summer",
+    "content": "Chemical management of Leveillula taurica in Indian bell pepper requires specialized systemic fungicides that can penetrate the leaf tissue to reach the internal mycelium. Applications of wettable sulfur (80% WP) at 3 grams per liter provide excellent protective control. For curative action, systemic molecules such as Myclobutanil (10% WP) at 0.5 grams per liter or Penconazole (10% EC) at 1 ml per liter are highly effective. Recently, strobilurins like Azoxystrobin or Kresoxim-methyl have shown superior efficacy in Indian field trials. It is critical to ensure thorough coverage of the leaf underside, as this is where the fungus sporulates. Sprays should be initiated as soon as the first yellow patches appear on the upper leaf surface during warm, dry spells characteristic of the Rabi and Summer seasons.",
+    "dosage_guidelines": {
+        "grams_per_liter": 3.0,
+        "grams_per_acre": 600,
+        "spray_interval_days": 12,
+        "pre_harvest_interval_days": 10
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": "Ensure 4 hours dry period",
+        "temperature_limits": "20-32C",
+        "wind_speed_limit": 5
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Avoid sulfur application when temperatures exceed 32C to prevent phytotoxicity (leaf scorch) on sensitive bell pepper varieties.",
+    "source_type": "CIB"
+},
+{
+    "id": "bell_pepper_cercospora_leaf_spot_symptom_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "symptom",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Cercospora Leaf Spot",
+    "region": "India",
+    "growth_stage": "Vegetative",
+    "season": "Kharif",
+    "content": "Cercospora leaf spot, caused by Cercospora capsici, is recognized by small, circular to oblong lesions with a characteristic light gray center and a prominent dark brown or reddish-brown border. These lesions, often referred to as 'frog-eye' spots, can reach up to 1 cm in diameter. As the disease severity increases, the lesions coalesce, causing the leaf tissue to turn yellow and eventually drop. In severe Indian Kharif outbreaks, extensive defoliation can occur, starting from the lower leaves and moving up the canopy. This significant loss of leaf area drastically reduces the plant's photosynthetic capacity, leading to smaller fruits and increased sunscald risk. On the stem and petioles, lesions appear as elongated grayish-brown streaks, which can weaken the plant architecture during periods of rapid growth.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": 90,
+        "rainfall_restriction": "High humidity post-monsoon",
+        "temperature_limits": "25-33C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Easily distinguished from bacterial spot by the larger, gray-centered lesions and lack of water-soaking on the leaf underside.",
+    "source_type": "IIHR"
+},
+{
+    "id": "bell_pepper_cercospora_leaf_spot_cause_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "cause",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Cercospora Leaf Spot",
+    "region": "India",
+    "growth_stage": "All",
+    "season": "All",
+    "content": "The fungal pathogen Cercospora capsici is the causal agent of Cercospora leaf spot in Indian bell pepper. The fungus survives as stromata or mycelium in infected plant debris and on alternate hosts in the Solanaceae family. Spore production and dissemination are highly dependent on high relative humidity and temperatures ranging between 25 and 33\u00b0C. Conidia are primarily spread by wind, splashing rain, and irrigation water. Once a spore lands on a pepper leaf, it requires a period of leaf wetness to germinate and invade the leaf tissue through stomata. The pathogen exhibits a relatively high reproductive rate in the humid tropical climates of South and Central India. Maintaining over-head irrigation or high-density planting can exacerbate the spread of the inoculum within the crop canopy during the peak Kharif season.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": 95,
+        "rainfall_restriction": "Rain splash dissemination",
+        "temperature_limits": "20-35C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "The fungus can survive on seed surfaces; however, residue-borne inoculum is the primary driver of field epidemics in India.",
+    "source_type": "ICAR"
+},
+{
+    "id": "bell_pepper_cercospora_leaf_spot_chemical_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "chemical",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Cercospora Leaf Spot",
+    "region": "India",
+    "growth_stage": "Vegetative",
+    "season": "Kharif",
+    "content": "Chemical management of Cercospora capsici in India utilizes broad-spectrum contact fungicides and systemic triazoles. A protective program starting with Mancozeb 75% WP at 2.5 grams per liter provides a reliable baseline defense. For active outbreaks once the gray-centered spots are visible, systemic intervention with Carbendazim 50% WP at 1 gram per liter or Difenoconazole 25% EC at 1 ml per liter is highly effective. The combination product of Carbendazim 12% + Mancozeb 63% WP (SAAF) at 2 grams per liter is popular among Indian farmers for its dual action. Sprays should focus on the lower canopy where the disease initiates. Maintaining a 10-12 day spray interval during periods of high humidity ensures continuous protection of new growth and prevents the disease from reaching the upper fruiting canopy.",
+    "dosage_guidelines": {
+        "grams_per_liter": 2.0,
+        "grams_per_acre": 400,
+        "spray_interval_days": 12,
+        "pre_harvest_interval_days": 14
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": "Ensure 4 hours dry period",
+        "temperature_limits": null,
+        "wind_speed_limit": 5
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Rotate between FRAC groups to prevent resistance development, particularly for Carbendazim.",
+    "source_type": "CIB"
+},
+{
+    "id": "bell_pepper_verticillium_wilt_symptom_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "symptom",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Verticillium Wilt",
+    "region": "India",
+    "growth_stage": "Flowering",
+    "season": "Rabi",
+    "content": "Verticillium wilt, caused by Verticillium dahliae, is a serious soil-borne disease of bell pepper in India, particularly in the cooler Rabi season. Early symptoms manifest as yellowing of the lower leaves, often in a characteristic V-shaped pattern starting from the leaf tip. Typically, only one side of the plant or even one side of a single leaf may show symptoms initially. As the fungus colonizes the vascular system, the plant exhibits wilting during the heat of the day, temporarily recovering at night. Eventually, the wilting becomes permanent, and the plant becomes stunted with small, chlorotic leaves. A diagnostic feature is the light brown discoloration of the xylem tissue, visible when the stem is cut crosswise at the soil line. Unlike Fusarium wilt, Verticillium symptoms progress more slowly but can cause significant yield declines in infested soils.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": "Soil moisture dependent",
+        "temperature_limits": "18-24C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Vascular browning is less intense compared to Fusarium wilt; use laboratory diagnosis for definitive confirmation in high-value pepper crops.",
+    "source_type": "IIHR"
+},
+{
+    "id": "bell_pepper_verticillium_wilt_cause_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "cause",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Verticillium Wilt",
+    "region": "India",
+    "growth_stage": "All",
+    "season": "Rabi",
+    "content": "Verticillium dahliae is the soil-borne fungal pathogen responsible for Verticillium wilt in Indian bell pepper. It survives in the soil for 10-15 years as microsclerotia, which are resistant to extreme environmental conditions. When a susceptible pepper root grows near these microsclerotia, they germinate, stimulated by root exudates, and the hyphae penetrate the root cortex to reach the xylem. Once inside the vascular system, the fungus produces conidia that are transported upwards by the transpiration stream. This colonization blocks the water-conducting tissues, leading to the characteristic wilting. The pathogen thrives in neutral to alkaline soils and prefers moderate temperatures below 24\u00b0C. It has a broad host range, including many vegetables and weeds across India, making it extremely difficult to eradicate once a field becomes broadly infested.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": null,
+        "temperature_limits": "15-25C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Irrigation water and movement of farm equipment are primary means of spreading microsclerotia between fields in Indian farming clusters.",
+    "source_type": "ICAR"
+},
+{
+    "id": "bell_pepper_verticillium_wilt_prevention_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "prevention",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Verticillium Wilt",
+    "region": "India",
+    "growth_stage": "Seedling",
+    "season": "Rabi",
+    "content": "Prevention of Verticillium wilt in bell pepper focus on soil health and avoiding the introduction of microsclerotia. Selection of field sites with no history of Verticillium is paramount. In infested areas, implementing a 5-6 year rotation with non-susceptible crops like cereals (maize, pearl millet) is required. Soil solarization during the peak Indian summer can reduce microsclerotia density in the top 15 cm of soil. Utilizing grafted bell pepper plants with resistant rootstocks is gaining popularity in high-value horticulture clusters. Maintaining balanced soil fertility, with an emphasis on potassium, helps the plant better tolerate the vascular stress. Rigorous field sanitation, including the immediate removal of wilted plants with their root systems, prevents the localize buildup of the pathogen that occurs as infected tissues decompose in the soil.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": null,
+        "temperature_limits": null,
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": "Maintain soil pH around 6.5; alkaline soils (pH > 7.5) often show higher Verticillium pressure in Indian conditions.",
+    "safety_notes": "Always use certified disease-free seedlings; nursery contamination is a major entry point for Verticillium into new field zones.",
+    "source_type": "IIHR"
+},
+{
+    "id": "bell_pepper_fusarium_wilt_symptom_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "symptom",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Fusarium Wilt",
+    "region": "India",
+    "growth_stage": "Fruiting",
+    "season": "Summer",
+    "content": "Fusarium wilt, caused by Fusarium oxysporum f. sp. capsici, is a devastating soil-borne disease for Indian bell pepper, particularly under the high-temperature conditions of the Summer and late-Rabi seasons. The initial symptom is a gradual yellowing of the lower leaves, typically on one side of the plant. As the disease progress, the wilting intensifies, starting with the younger leaves during the day. Unlike Phytophthora, there is no direct stem lesion at the soil line, but a cross-section of the stem reveals a deep reddish-brown to dark chocolate discoloration of the vascular tissues. Severe infection during the flowering or fruiting stages leads to premature plant death, with dead leaves often remaining attached to the shriveled stem. Fruits on infected plants remain small, poorly colored, and often shrivel due to the lack of water and nutrient transport.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": "Favored by dry periods and high soil temp",
+        "temperature_limits": "28-35C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Vascular browning extends further up the stem in Fusarium wilt compared to Verticillium wilt.",
+    "source_type": "ICAR"
+},
+{
+    "id": "bell_pepper_fusarium_wilt_cause_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "cause",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Fusarium Wilt",
+    "region": "India",
+    "growth_stage": "All",
+    "season": "All",
+    "content": "The fungal pathogen Fusarium oxysporum f. sp. capsici is host-specific to peppers and survives in Indian soils as thick-walled chlamydospores for many years. These spores germinate in the presence of root exudates, and the hyphae penetrate the root system, often aided by wounding from nematodes or mechanical damage. Once inside, the fungus colonizes the xylem vessels, producing microconidia that are carried upwards. The plant's defense response, combined with the fungal mycelium, clogs the vascular system, inducing the wilt symptoms. High temperatures (28-32\u00b0C) and acidic soil conditions significantly promote disease development. The pathogen can be easily spread via contaminated water, soil on farm tools, and through infected seeds or seedlings. Its ability to colonize the root cortex of non-host plants as a saprophyte further complicates eradication efforts in Indian crop rotation systems.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": null,
+        "temperature_limits": "25-35C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Heavy infestations of Root-knot nematodes (Meloidogyne spp.) drastically increase the incidence and severity of Fusarium wilt in bell pepper.",
+    "source_type": "TNAU"
+},
+{
+    "id": "bell_pepper_pep_mosaic_virus_symptom_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "symptom",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Pepper Mosaic Virus",
+    "region": "India",
+    "growth_stage": "Vegetative",
+    "season": "All",
+    "content": "Pepper Mosaic Virus (often caused by CMV or PepMoV) in Indian bell pepper is characterized by striking mottling and mosaic patterns of light and dark green on the leaves. Infected plants show significant stunting, especially if infection occurs during the early vegetative stage. Leaves often become small, distorted, or abnormally narrow (filiformy/shoestring effect). A key diagnostic marker is the presence of ring spots or oak-leaf patterns on the foliage. Fruits from infected plants are typically small, distorted, and exhibit mosaic-like mottling or bumpy surfaces, making them unmarketable. In severe cases, systemic necrosis of the stem or shoot tip may occur. Because the virus is spread by aphids, symptoms often appear in patches within the field, reflecting the movement of the vector during warm, dry spells in India.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": "Dry weather favors aphid vectors",
+        "temperature_limits": "20-30C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Early-season infection leads to total crop loss; monitor seedling health in the nursery vigorously.",
+    "source_type": "IIHR"
+},
+{
+    "id": "bell_pepper_pep_mosaic_virus_timing_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "timing",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Pepper Mosaic Virus",
+    "region": "India",
+    "growth_stage": "Seedling",
+    "season": "All",
+    "content": "The timing of management for Pepper Mosaic Virus in India focuses on the peak activity of its aphid vectors, primarily Aphis gossypii and Myzus persicae. Protection is most critical during the first 45 days after sowing, as early infection causes the greatest yield impact. Vector monitoring should begin in the nursery using yellow sticky traps. If more than 5 aphids are caught per trap per week, immediate insecticide application is necessary. In the main field, timing insecticide sprays (e.g., Imidacloprid) with the onset of dry, warm weather is required, as these conditions trigger rapid aphid multiplication. Late-season management is generally less effective for virus control but may be required to prevent vector migration to neighboring crops. Always prioritize evening sprays to protect beneficial predators and minimize the risk of insecticide-induced secondary pest outbreaks.",
+    "dosage_guidelines": {
+        "grams_per_liter": 0.3,
+        "grams_per_acre": 60,
+        "spray_interval_days": 10,
+        "pre_harvest_interval_days": 15
+    },
+    "weather_constraints": {
+        "humidity_threshold": 70,
+        "rainfall_restriction": "Monitor after heavy rain wash-off",
+        "temperature_limits": "20-32C",
+        "wind_speed_limit": 5
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Systemic insecticides are more effective when applied at the 'first sight' of colonizing aphids on tender shoot tips.",
+    "source_type": "ICAR"
+},
+{
+    "id": "bell_pepper_damping_off_symptom_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "symptom",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Damping Off",
+    "region": "India",
+    "growth_stage": "Seedling",
+    "season": "All",
+    "content": "Damping off in Indian bell pepper nurseries, caused by Pythium and Rhizoctonia species, occurs in two phases. Pre-emergence damping off results in poor germination as seeds rot before they can emerge. Post-emergence damping off is more visible and recognized by a water-soaked, shriveled lesion at the base of the succulent seedling stem (hypocotyl). This girdling cause the seedling to suddenly topple over while the leaves are still green. In high-density nurseries under humid Indian conditions, the disease spreads in circular patches, creating 'bald spots' in the seedbed. Sub-surface root rot may also occur, leading to stunted, chlorotic seedlings that fail to establish after transplanting. Ensuring proper seedling density and utilizing raised beds is critical to minimize the moisture buildup that favors these aquatic fungal-like pathogens.",
+    "dosage_guidelines": {
+        "grams_per_liter": null,
+        "grams_per_acre": null,
+        "spray_interval_days": null,
+        "pre_harvest_interval_days": null
+    },
+    "weather_constraints": {
+        "humidity_threshold": 95,
+        "rainfall_restriction": "High relative humidity in nursery",
+        "temperature_limits": "20-28C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Maintain strict sanitation; reusing old nursery trays without sterilization is a major source of damping-off inoculum.",
+    "source_type": "IIHR"
+},
+{
+    "id": "bell_pepper_damping_off_chemical_001",
+    "layer": "layer1",
+    "category": "disease",
+    "sub_category": "chemical",
+    "crop": "Bell Pepper",
+    "disease_or_issue": "Damping Off",
+    "region": "India",
+    "growth_stage": "Seedling",
+    "season": "All",
+    "content": "Chemical management of damping-off in bell pepper nurseries involves both seed treatment and soil drenching. Treating seeds with Metalaxyl 35% WS at 6 grams per kg of seed or Captaf/Thiram at 3 grams per kg provides a vital protective shield. If symptoms appear in the nursery bed, immediate soil drenching with Copper Oxychloride (2.5g/L) or Metalaxyl 8% + Mancozeb 64% WP (2g/L) is required. Ensure that the chemical solution reaches at least 2-3 inches into the soil to neutralize the subterranean mycelium. Maintaining a dry soil surface through controlled watering and improving ventilation around the beds significantly enhances the efficacy of these chemical treatments. For Indian farmers using pro-trays, drenching each cell thoroughly is mandatory to halt the rapid lateral spread of the pathogen between closely packed seedlings.",
+    "dosage_guidelines": {
+        "grams_per_liter": 2.5,
+        "grams_per_acre": null,
+        "spray_interval_days": 7,
+        "pre_harvest_interval_days": 0
+    },
+    "weather_constraints": {
+        "humidity_threshold": null,
+        "rainfall_restriction": "Ensure well-drained beds",
+        "temperature_limits": "20-30C",
+        "wind_speed_limit": null
+    },
+    "soil_adjustment": null,
+    "safety_notes": "Avoid over-drenching as excessive moisture can exacerbate Pythium activity; target a moist but not saturated soil profile.",
+    "source_type": "CIB"
+}
+]

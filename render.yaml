@@ -1,0 +1,27 @@
+# ───────────────────────────────────────────
+# Render Blueprint — Agri AI Backend
+# https://render.com/docs/blueprint-spec
+# ───────────────────────────────────────────
+services:
+  - type: web
+    name: agri-ai-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    region: singapore
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GROQ_API_KEY
+        sync: false
+      - key: MONGO_URI
+        sync: false
+      - key: VISION_API_URL
+        value: https://hari78943-agri-vision.hf.space/predict
+      - key: CORS_ORIGINS
+        value: "*"
+      - key: MAX_UPLOAD_SIZE_MB
+        value: "10"
+      - key: VOICE_SERVICE_URL
+        value: http://127.0.0.1:8002/transcribe

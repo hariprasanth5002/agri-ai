@@ -1,0 +1,812 @@
+[
+    {
+        "id": "peach_peach_leaf_curl_symptom_1",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Winter",
+        "content": "Peach leaf curl, caused by Taphrina deformans, is easily identified in Indian stone fruit orchards by the dramatic puckering, thickening, and curling of young foliage during spring emergence. Infected leaves initially show chlorotic areas that rapidly transition to vibrant red or purplish hues. As the fungal infection matures, a velvety white layer of asci develops on the leaf surface, releasing spores. Distorted leaves eventually become brittle, turn brown, and drop prematurely, causing significant defoliation. This loss of photosynthetic area weakens the tree, reduces fruit size, and can eventually lead to terminal dieback if left unmanaged across multiple consecutive seasons.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_cause_2",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "Dormant",
+        "season": "Winter",
+        "content": "The causative agent Taphrina deformans is a dimorphic fungus that survives the Indian summer and autumn as blastospores on the bark and within bud scales of peach trees. Primary infection occurs during early bud break when cool, wet weather persists. Rainfall is a critical driver, as it washes the overwintering spores into the expanding leaf tissue. The fungus induces hormonal imbalances, specifically an increase in auxins, leading to rapid, uncontrolled cell division and enlargement. This hypertrophy and hyperplasia result in the characteristic distorted leaf morphology. Temperatures between 10\u00b0C and 21\u00b0C are optimal for spore germination and subsequent tissue invasion.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_chemical_3",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "Dormant",
+        "season": "Winter",
+        "content": "Chemical control in India focuses on a single, high-efficacy dormant spray to eradicate overwintering spores before they infect emerging buds. Copper Oxychloride 50% WP is the standard recommendation, applied thoroughly to ensure all bark crevices and bud scales are coated. Alternatively, Ziram 76% WP can be used as a contact fungicide. For severe historical infestations, some growers employ a dual-spray strategy consisting of an autumn application at 50% leaf drop followed by a second spray in late winter just before bud swell. It is imperative to complete these applications before the green tip stage, as post-infection chemical treatments provide negligible control.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_organic_4",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Winter",
+        "content": "Organic management of peach leaf curl in Indian orchards necessitates a combination of preventative sanitation and approved mineral sprays. Lime sulfur or liquid sulfur applications during the dormant phase are effective in reducing the viable spore population on tree surfaces. Growers must meticulously prune out any symptomatic twigs and collect fallen, infected leaves for deep burial or off-site destruction. Promoting overall tree vigor through balanced organic fertilization and the application of seaweed-based bio-stimulants can help the tree recover from minor defoliation. Utilizing tolerant cultivars, though limited in commercial availability in India, remains a cornerstone of sustainable organic production in high-risk zones.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_dosage_5",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "Dormant",
+        "season": "Winter",
+        "content": "The recommended dosage for Copper Oxychloride 50% WP in managing peach leaf curl is 3.0 grams per liter of water, ensuring a high-volume spray for complete coverage. This typically translates to approximately 1.2 to 1.5 kilograms of product per acre, depending on tree age and orchard spacing. If using Ziram 76% WP, the dosage should be maintained at 2.5 grams per liter. For a 1% Bordeaux mixture, growers must prepare the solution carefully using high-quality copper sulfate and lime. A spray interval of 120 days is standard between autumn and winter dormant applications. Pre-harvest intervals are generally around 90 days due to early season application.",
+        "dosage_guidelines": {
+            "grams_per_liter": 3.0,
+            "grams_per_acre": 1200,
+            "spray_interval_days": 120,
+            "pre_harvest_interval_days": 90
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_timing_6",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "Dormant",
+        "season": "Winter",
+        "content": "Optimal timing for leaf curl management in the Himalayan foothills and North Indian plains is strictly confined to the dormant period, typically from late December through January. The fungicide must be present on the bud scales before the fungus enters the expanding tissue during bud burst. In India, the climatic window for infection is narrow, coinciding with early spring rains and rising humidity. If a grower misses this dormant window, subsequent applications after leaf emergence will not reverse the curling or stop the disease. Therefore, monitoring bud development stages and local weather forecasts for early spring rainfall is paramount for effective control timing.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_prevention_7",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention of peach leaf curl starts with maintaining a clean orchard environment and optimizing tree architecture. Correct pruning techniques that improve air circulation through the canopy can reduce the duration of leaf wetness, thereby hindering spore germination. Indian farmers should prioritize the removal of all leaf litter and prunings, as these can harbor the pathogen. Ensuring that irrigation does not wet the foliage during the sensitive bud break period is another critical preventative measure. While most high-yield commercial varieties are susceptible, maintaining high nutritional status prevents the secondary decline in tree health that often follows severe defoliation and subsequent carbohydrate depletion.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_stage_specific_8",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Rabi",
+        "content": "In nursery settings across Himachal Pradesh and Uttarakhand, peach seedlings are particularly prone to stunting from Taphrina deformans. Infected young trees lack the vigor needed for successful grafting and subsequent establishment in the orchard. Nurserymen must apply a protective dormant spray to all rootstocks and scion wood. If infection occurs in the nursery, the symptomatic leaves should be hand-picked immediately to reduce the local inoculum load, though this is only a stop-gap measure. Maintaining a low-humidity environment in poly-houses and ensuring adequate spacing between nursery rows is essential for reducing the rapid spread of spores among densely packed young seedlings.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_resistance_management_9",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "resistance_management",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "Dormant",
+        "season": "Winter",
+        "content": "Resistance management for peach leaf curl in India is managed by utilizing multi-site activity fungicides. Since only one or two applications are made annually, the selection pressure on the pathogen is relatively low compared to other fruit diseases. However, growers are advised to rotate between Copper Oxychloride (FRAC M01) and Ziram (FRAC M03) over successive years to prevent any potential adaptation by Taphrina deformans. Avoiding the use of single-site systemic fungicides for this specific disease helps preserve the efficacy of those chemicals for other pathogens. Ensuring complete coverage during application is also a form of resistance management, as it minimizes the survival of sub-populations.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "peach_peach_leaf_curl_monsoon_advisory_10",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "monsoon_advisory",
+        "crop": "Peach",
+        "disease_or_issue": "Peach Leaf Curl",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Monsoon",
+        "content": "The monsoon season in India provides a period for monitoring tree recovery and planning for the next dormant cycle. While active leaf curl infections do not occur during the hot monsoon months, the high humidity can promote other fungal pathogens that exacerbate the stress caused by earlier defoliation. Growers should focus on maintaining adequate nitrogen levels to support the second flush of leaves. Clearing any weed growth that increases micro-climate humidity around the lower canopy is advised. Post-monsoon, as the rains recede and trees enter dormancy, the focus shifts back to sanitation and the collection of fallen leaves to prepare for the critical winter dormant spray.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_symptom_1",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Summer",
+        "content": "Cherry leaf spot, primarily caused by the fungus Blumeriella jaapii, is a major defoliating disease in Indian cherry-growing regions. Symptoms first appear on the upper leaf surface as small, circular, purplish-to-red spots that gradually expand and merge. On the leaf underside, in high humidity, pale pink or white spore masses (acervuli) become visible. As the disease intensifies, the tissue around the spots turns yellow, leading to premature leaf drop. Severe early-season defoliation reduces fruit quality, decreases bud hardiness, and may result in the eventual death of the tree if left uncontrolled over multiple seasons.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_cause_2",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Summer",
+        "content": "The fungus Blumeriella jaapii overwinters in fallen cherry leaves on the orchard floor. During spring rains, ascospores are released and carried by wind or water splashes to newly emerging leaves. High humidity (above 85%) and leaf wetness duration exceeding 12 hours are critical for infection. Secondary spread occurs through conidia produced in the leaf spots, leading to rapid disease escalation during the Indian monsoon. Optimal temperatures for fungal development range from 15\u00b0C to 25\u00b0C. The pathogen specifically targets the stomata of the cherry leaves for entry, particularly once the leaves have reached full expansion and become physiologically susceptible.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_chemical_3",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "Fruit_Dev",
+        "season": "Summer",
+        "content": "Chemical control of cherry leaf spot in India utilizes broad-spectrum protectant fungicides. Chlorothalonil (6.0 g/L) is highly effective as a pre-bloom and early cover spray, though it cannot be used after shuck split on sweet cherries. Post-bloom, Indian growers transition to Copper Oxychloride or systemic fungicides like Myclobutanil (10% WP). Carbendazim 50% WP is also frequently employed to halt active infections during the monsoon peak. It is vital to maintain a protective barrier of fungicide on the foliage during periods of frequent rainfall to prevent secondary conidial spread and the subsequent catastrophic defoliation often seen in high-density orchards.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_organic_4",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Organic management strategies for cherry leaf spot focus heavily on sanitation and moisture control. Meticulous collection and removal of fallen leaves during autumn is the most effective way to eliminate the primary overwintering inoculum. Applying a thick layer of organic mulch or compost can physically block the spring release of ascospores. Copper-based products like Bordeaux mixture (1%) are approved for organic use in India and should be applied during the dormant phase and early vegetative growth. Maintaining an open canopy through proper pruning improves air flow and reduces leaf wetness duration, which is essential for organic growers who have fewer active chemical options for halting epidemic outbreaks.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_dosage_5",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "Fruit_Dev",
+        "season": "Summer",
+        "content": "The recommended dosage for Chlorothalonil in Indian cherry orchards is 2.5 to 3.0 grams per liter of water for effective leaf spot suppression. If using Myclobutanil 10% WP, the dosage should be 0.4 to 0.5 grams per liter. For copper oxychloride 50% WP, a rate of 3.0 grams per liter is advised for protective cover. Spray intervals during the active monsoon should be tightened to 7-10 days, while drier periods may allow for 14-day intervals. Growers must strictly observe a pre-harvest interval (PHI) of 14-21 days depending on the specific product to ensure no chemical residues persist on the delicate cherry fruit at maturity.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 1000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_timing_6",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Summer",
+        "content": "Timing is the most critical element of leaf spot control; the first spray must be applied when the first leaves are fully expanded and the first rain events of the spring occur. In India, this often coincides with the pre-monsoon showers. Continuous protection is required through the harvest period and into the post-harvest phase to ensure that the tree retains its leaves until natural senescence. Post-harvest sprays are often neglected by growers but are vital for maintaining tree health and ensuring adequate carbohydrate storage for the next season's bloom. Monitoring the weather for periods of prolonged leaf wetness helps in adjusting the spray schedule accordingly.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_prevention_7",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention of cherry leaf spot centers on breaking the disease cycle by managing the leaf litter on the orchard floor. Urea applications to fallen leaves in the late autumn can accelerate decomposition, thereby reducing the survival rate of the overwintering fungus. Selecting orchard sites with good air drainage and ensuring that tree spacing is sufficient for air movement through the rows are also effective preventative measures. Avoiding overhead irrigation, which extends leaf wetness duration, is highly recommended. While no commercial varieties are fully immune, some cultivars exhibit significantly lower susceptibility and should be prioritized for new plantings in high-disease-pressure zones of India.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_stage_specific_8",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "Fruit_Set",
+        "season": "Summer",
+        "content": "During the fruit set stage, cherry trees are highly sensitive to defoliation as they need maximum photosynthetic output to support fruit growth and development. Infection at this stage can lead to small, poorly flavored, and unevenly ripened fruit. In India, this stage often overlaps with the onset of the Kharif season's humidity. Growers must ensure that a strong protective fungicide layer is present. If the disease has already taken hold, curative systemic fungicides should be integrated to stop further lesion expansion. Careful attention must be paid to the pesticide label directions to avoid phytotoxicity on the developing fruit skin, which can occur with certain copper formulations.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_resistance_management_9",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "resistance_management",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "To manage fungicide resistance in Blumeriella jaapii, Indian cherry growers should strictly follow a rotation program between different FRAC groups. Reliance on DMI fungicides (like Myclobutanil or Tebuconazole) should be limited to two back-to-back applications before switching to a multi-site protectant like Chlorothalonil or Mancozeb. Tank-mixing systemic fungicides with protectants is also a recommended strategy to broaden the spectrum of control and minimize the survival of resistant strains. Since the fungus produces multiple generations during the rainy season, the risk of resistance buildup is high, making the inclusion of multi-site activity chemicals indispensable for long-term sustainable disease management.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "cherry_cherry_leaf_spot_monsoon_advisory_10",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "monsoon_advisory",
+        "crop": "Cherry",
+        "disease_or_issue": "Cherry Leaf Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Monsoon",
+        "content": "The Indian monsoon presents the greatest challenge for cherry leaf spot management due to frequent rain washing away chemical residues and maintaining high humidity. Growers are advised to use high-quality stickers or spreaders in their fungicide tank mixes to improve rainfastness. If heavy rainfall prevents ground application, aerial or mist-blower applications should be considered if feasible. Post-rain inspections are mandatory to detect any new lesion development. Maintaining effective drainage in the orchard is also critical during the monsoon to prevent waterlogging, which can stress the trees and make them more susceptible to fungal leaf pathogens and root-rot complexes simultaneously.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_symptom_1",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "Powdery mildew, caused by Podosphaera xanthii, is one of the most prevalent diseases affecting squash cultivation in India. Early symptoms include small, white, circular spots on the older leaves and stems, which rapidly expand to cover the entire surface with a talcum-like fungal growth. Under severe infection, the foliage becomes chlorotic, then brown and necrotic, leading to premature senescence. The loss of foliage significantly reduces the plant's photosynthetic capacity, resulting in lower yields, smaller fruit size, and poor quality fruit that lacks the appropriate sugar content and market attractiveness.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_cause_2",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "The fungus Podosphaera xanthii is an obligate parasite that overwinters on alternative hosts or crop debris. In the Indian climate, the disease is favored by high humidity (above 60%) and moderate temperatures between 20\u00b0C and 30\u00b0C. Unlike many other fungal pathogens, powdery mildew does not require free water on the leaf surface for infection; in fact, heavy rainfall can actually wash away the spores and inhibit development. The fungus produces vast quantities of wind-dispersed conidia, which facilitate rapid secondary spread throughout a field. Spore germination and subsequent penetration into the epidermal cells occur rapidly under favorable atmospheric conditions.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_chemical_3",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "All",
+        "content": "Chemical management of powdery mildew in Indian squash production involves the use of both protectant and systemic fungicides. Azoxystrobin (23% SC) and Difenoconazole (25% EC) are highly effective systemic options that provide both preventive and curative activity. Sulfur-based fungicides (Wettable Sulfur 80% WP) are excellent contact protectants but must be used with caution during high temperature periods to avoid phytotoxicity on the tender squash foliage. Growers are encouraged to initiate spray programs at the first sign of symptoms, as the disease can escalate quickly and cause total crop failure if intervention is delayed beyond the initial infection phase.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_organic_4",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Organic control of powdery mildew in squash emphasizes the use of biological agents and botanical extracts. Neem oil (3000 ppm) applied at regular intervals has been shown to effectively suppress fungal growth and spore germination in Indian trials. Potassium bicarbonate sprays are another approved organic option that alters the leaf surface pH, making it inhospitable for the powdery mildew fungus. Maintaining optimal plant spacing and ensuring good light penetration through the canopy helps reduce localized humidity and suppresses disease development. Utilizing resistant hybrids like those developed by IIHR can significantly reduce the need for heavy organic or chemical interventions.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_dosage_5",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "The recommended dosage for Azoxystrobin 23% SC in managing squash powdery mildew is 1.0 ml per liter of water. If using Difenoconazole 25% EC, the rate should be 0.5 ml per liter. Wettable sulfur should be applied at 2.5 to 3.0 grams per liter, ensuring thorough coverage of both upper and lower leaf surfaces. Spray intervals typically range from 7 to 14 days, depending on the prevailing weather and disease pressure. A pre-harvest interval (PHI) of 3 to 7 days is mandatory for most systemic chemicals used on cucurbits in India to ensure food safety and regulatory compliance.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 400,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 7
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_timing_6",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "Timing is crucial for managing powdery mildew effectively in India's varied agro-climatic zones. Preventive sprays should commence as soon as the plant starts to vine or when the first white spots are detected on the lower leaves. Early detection through regular scouting is essential, as once the disease covers the upper canopy, control becomes significantly more difficult and expensive. Monitoring local weather reports for periods of high humidity and low wind speeds, which favor conidial germination and dispersal, can help in predicting disease outbreaks. Late-season protection is also necessary to ensure that the fruit reaches full maturity without loss of quality.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_prevention_7",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention strategies for squash powdery mildew focus on host resistance and cultural practices. Selecting resistant or tolerant squash varieties is the most sustainable approach for Indian farmers. Proper orchard sanitation, including the removal of volunteer cucurbit weeds and old crop residues, can minimize the local inoculum source. Ensuring adequate nitrogen and water management prevents the over-vigorous, succulent growth that is often more susceptible to infection. Improving air circulation within the canopy through proper spacing and pruning of excess foliage helps keep the internal microclimate dry and less conducive to the rapid spread of the powdery mildew pathogen.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_stage_specific_8",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Fruit_Set",
+        "season": "All",
+        "content": "During the fruit set and early development stages, squash plants are particularly vulnerable to powdery mildew stress. Severe infection can lead to improper fruit filling and increased susceptibility to sunscald due to the loss of protective foliage. In India, this stage often coincides with the late Kharif or early Rabi seasons when nighttime humidity is rising. Growers must ensure that a robust fungicidal barrier is in place to protect the foliage during this high-demand growth phase. Using systemic fungicides with good translaminar movement ensures that the entire leaf, including the shaded parts of the canopy, receives adequate protection from the encroaching fungus.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_resistance_management_9",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "resistance_management",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "To prevent the development of fungicide resistance in Podosphaera xanthii, squash growers in India must adhere to strict FRAC guidelines. This includes rotating between different chemical classes, such as Qol fungicides (FRAC 11 like Azoxystrobin) and DMI fungicides (FRAC 3 like Difenoconazole). Including a multi-site protectant like Wettable Sulfur or Chlorothalonil in the rotation or as a tank-mix partner is highly recommended to minimize the risk of resistant strains emerging. Continuous use of any single systemic fungicide across multiple crop cycles should be avoided to preserve the long-term effectiveness of the available chemical toolkit for cucurbit disease management.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "squash_powdery_mildew_monsoon_advisory_10",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "monsoon_advisory",
+        "crop": "Squash",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Monsoon",
+        "content": "During the monsoon season in India, squash growers should be alert to the shifting dynamic between powdery and downy mildew. While powdery mildew is often less severe during continuous heavy rains, the high humidity between rain events remains favorable for its development. Monitoring the crop frequently when rain subsides is essential. Growers should ensure that their sprayers are well-calibrated and that they use rain-fast additives in their fungicide tank-mixes. Maintaining proper drainage in the squash field is also vital to prevent secondary soil-borne issues like root rot and bacterial wilt which can thrive in the waterlogged conditions typical of the Indian monsoon phase.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Follow safe handling procedures for all chemicals. Use protective gear. Observe PHI.",
+        "source_type": "ICAR"
+    }
+]

@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "environment_weather_001",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Strong wind",
+    "crop": "General",
+    "condition": "When strong wind is observed in the field context.",
+    "rule": "Do not proceed with standard operations if strong wind exceeds safety limits.",
+    "threshold": ">12",
+    "unit": "km/h",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from strong wind; proceed with caution.",
+    "content": "Assessing strong wind is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If strong wind exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for strong wind before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_002",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "Assessing dry soil is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If dry soil exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for dry soil before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_003",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "Assessing drought is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If drought exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for drought before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_004",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "High levels of drought pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor drought thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on drought are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_005",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "High levels of dry soil pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor dry soil thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on dry soil are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_006",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "High levels of high temperature pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor high temperature thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on high temperature are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_007",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "High levels of dry soil pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor dry soil thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on dry soil are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_008",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "Assessing dry soil is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If dry soil exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for dry soil before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_009",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "High levels of heavy rainfall pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor heavy rainfall thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on heavy rainfall are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_010",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "Assessing heavy rainfall is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If heavy rainfall exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for heavy rainfall before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_011",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "High levels of heavy rainfall pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor heavy rainfall thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on heavy rainfall are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_012",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "High levels of drought pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor drought thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on drought are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_013",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "Assessing drought is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If drought exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for drought before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_014",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "High levels of dry soil pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor dry soil thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on dry soil are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_015",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "Assessing high temperature is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If high temperature exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for high temperature before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_016",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Strong wind",
+    "crop": "General",
+    "condition": "When strong wind is observed in the field context.",
+    "rule": "Do not proceed with standard operations if strong wind exceeds safety limits.",
+    "threshold": ">12",
+    "unit": "km/h",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from strong wind; proceed with caution.",
+    "content": "Assessing strong wind is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If strong wind exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for strong wind before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_017",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "Assessing high temperature is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If high temperature exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for high temperature before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_018",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "High levels of high temperature pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor high temperature thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on high temperature are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_019",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "Assessing heavy rainfall is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If heavy rainfall exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for heavy rainfall before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_020",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "High levels of drought pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor drought thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on drought are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_021",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "High levels of drought pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor drought thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on drought are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_022",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "Assessing high temperature is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If high temperature exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for high temperature before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_023",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "Assessing dry soil is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If dry soil exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for dry soil before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_024",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "High levels of dry soil pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor dry soil thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on dry soil are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_025",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "Assessing dry soil is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If dry soil exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for dry soil before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_026",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "Assessing heavy rainfall is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If heavy rainfall exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for heavy rainfall before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_027",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "High levels of heavy rainfall pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor heavy rainfall thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on heavy rainfall are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_028",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "High levels of drought pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor drought thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on drought are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_029",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "Assessing high temperature is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If high temperature exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for high temperature before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_030",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "Assessing heavy rainfall is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If heavy rainfall exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for heavy rainfall before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_031",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "Assessing high temperature is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If high temperature exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for high temperature before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_032",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "Assessing drought is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If drought exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for drought before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_033",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "High levels of dry soil pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor dry soil thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on dry soil are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_034",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "Assessing dry soil is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If dry soil exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for dry soil before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_035",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "Assessing high temperature is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If high temperature exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for high temperature before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_036",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "High levels of high temperature pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor high temperature thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on high temperature are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_037",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "High levels of heavy rainfall pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor heavy rainfall thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on heavy rainfall are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_038",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "Assessing drought is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If drought exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for drought before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_039",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "Assessing heavy rainfall is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If heavy rainfall exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for heavy rainfall before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_040",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "Assessing drought is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If drought exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for drought before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_041",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "Assessing high temperature is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If high temperature exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for high temperature before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_042",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "High temperature",
+    "crop": "General",
+    "condition": "When high temperature is observed in the field context.",
+    "rule": "Do not proceed with standard operations if high temperature exceeds safety limits.",
+    "threshold": ">38",
+    "unit": "\u00b0C",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from high temperature; proceed with caution.",
+    "content": "Assessing high temperature is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If high temperature exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for high temperature before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_043",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Dry soil",
+    "crop": "General",
+    "condition": "When dry soil is observed in the field context.",
+    "rule": "Do not proceed with standard operations if dry soil exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from dry soil; proceed with caution.",
+    "content": "High levels of dry soil pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor dry soil thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on dry soil are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_044",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Heavy rainfall",
+    "crop": "General",
+    "condition": "When heavy rainfall is observed in the field context.",
+    "rule": "Do not proceed with standard operations if heavy rainfall exceeds safety limits.",
+    "threshold": ">15",
+    "unit": "mm",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from heavy rainfall; proceed with caution.",
+    "content": "High levels of heavy rainfall pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor heavy rainfall thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on heavy rainfall are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_045",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "Assessing drought is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If drought exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for drought before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_046",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "High levels of drought pose a significant threat to the efficacy of agricultural inputs and the overall health of the tropical landscape in India. Under these stress conditions, plants may experience reduced absorption, and chemicals could become volatile, leading to unintended environmental exposure. It is crucial to monitor drought thresholds to minimize environmental risk and avoid costly spray restrictions that might be triggered by adverse climate variability. Practical field-level adjustments based on drought are essential for maintaining ecological balance and optimizing yield in smallholder farming systems.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_weather_047",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Weather",
+    "factor": "Drought",
+    "crop": "General",
+    "condition": "When drought is observed in the field context.",
+    "rule": "Do not proceed with standard operations if drought exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from drought; proceed with caution.",
+    "content": "Assessing drought is a fundamental step in environmental risk management for Indian agriculture, particularly during the intense monsoon season. If drought exceeds the recommended threshold, it can lead to severe nutrient leaching or chemical runoff into nearby ecosystems. Farmers must evaluate the local weather forecast specifically for drought before proceeding with any planned field operations like spraying or fertilization. Implementing an environmental risk strategy helps in preventing soil degradation and ensures that all recommendations are sustainable and safe for the surrounding environment.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_001",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil erosion",
+    "crop": "General",
+    "condition": "When soil erosion is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil erosion exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from soil erosion; proceed with caution.",
+    "content": "Soil moisture conditions and soil erosion are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil erosion is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil erosion helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil erosion is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_002",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil moisture",
+    "crop": "General",
+    "condition": "When soil moisture is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil moisture exceeds safety limits.",
+    "threshold": "<20",
+    "unit": "%",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from soil moisture; proceed with caution.",
+    "content": "Soil moisture conditions and soil moisture are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil moisture is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil moisture helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil moisture is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_003",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Salinity",
+    "crop": "General",
+    "condition": "When salinity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if salinity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from salinity; proceed with caution.",
+    "content": "Environmental risk associated with salinity can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, salinity can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and salinity levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_004",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil moisture",
+    "crop": "General",
+    "condition": "When soil moisture is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil moisture exceeds safety limits.",
+    "threshold": "<20",
+    "unit": "%",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from soil moisture; proceed with caution.",
+    "content": "Environmental risk associated with soil moisture can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, soil moisture can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and soil moisture levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_005",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil erosion",
+    "crop": "General",
+    "condition": "When soil erosion is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil erosion exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from soil erosion; proceed with caution.",
+    "content": "Soil moisture conditions and soil erosion are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil erosion is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil erosion helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil erosion is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_006",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Salinity",
+    "crop": "General",
+    "condition": "When salinity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if salinity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from salinity; proceed with caution.",
+    "content": "Environmental risk associated with salinity can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, salinity can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and salinity levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_007",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Waterlogging",
+    "crop": "General",
+    "condition": "When waterlogging is observed in the field context.",
+    "rule": "Do not proceed with standard operations if waterlogging exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from waterlogging; proceed with caution.",
+    "content": "Soil moisture conditions and waterlogging are primary factors that dictate the safety and timing of chemical applications in Indian fields. When waterlogging is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of waterlogging helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing waterlogging is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_008",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Salinity",
+    "crop": "General",
+    "condition": "When salinity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if salinity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from salinity; proceed with caution.",
+    "content": "Soil moisture conditions and salinity are primary factors that dictate the safety and timing of chemical applications in Indian fields. When salinity is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of salinity helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing salinity is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_009",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil moisture",
+    "crop": "General",
+    "condition": "When soil moisture is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil moisture exceeds safety limits.",
+    "threshold": "<20",
+    "unit": "%",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from soil moisture; proceed with caution.",
+    "content": "Soil moisture conditions and soil moisture are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil moisture is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil moisture helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil moisture is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_010",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil moisture",
+    "crop": "General",
+    "condition": "When soil moisture is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil moisture exceeds safety limits.",
+    "threshold": "<20",
+    "unit": "%",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from soil moisture; proceed with caution.",
+    "content": "Soil moisture conditions and soil moisture are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil moisture is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil moisture helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil moisture is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_011",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil erosion",
+    "crop": "General",
+    "condition": "When soil erosion is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil erosion exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from soil erosion; proceed with caution.",
+    "content": "Environmental risk associated with soil erosion can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, soil erosion can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and soil erosion levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_012",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil compaction",
+    "crop": "General",
+    "condition": "When soil compaction is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil compaction exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from soil compaction; proceed with caution.",
+    "content": "Soil moisture conditions and soil compaction are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil compaction is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil compaction helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil compaction is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_013",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil compaction",
+    "crop": "General",
+    "condition": "When soil compaction is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil compaction exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from soil compaction; proceed with caution.",
+    "content": "Soil moisture conditions and soil compaction are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil compaction is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil compaction helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil compaction is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_014",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil moisture",
+    "crop": "General",
+    "condition": "When soil moisture is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil moisture exceeds safety limits.",
+    "threshold": "<20",
+    "unit": "%",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from soil moisture; proceed with caution.",
+    "content": "Soil moisture conditions and soil moisture are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil moisture is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil moisture helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil moisture is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_015",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil moisture",
+    "crop": "General",
+    "condition": "When soil moisture is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil moisture exceeds safety limits.",
+    "threshold": "<20",
+    "unit": "%",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from soil moisture; proceed with caution.",
+    "content": "Soil moisture conditions and soil moisture are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil moisture is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil moisture helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil moisture is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_016",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil compaction",
+    "crop": "General",
+    "condition": "When soil compaction is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil compaction exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from soil compaction; proceed with caution.",
+    "content": "Soil moisture conditions and soil compaction are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil compaction is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil compaction helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil compaction is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_017",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Salinity",
+    "crop": "General",
+    "condition": "When salinity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if salinity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from salinity; proceed with caution.",
+    "content": "Soil moisture conditions and salinity are primary factors that dictate the safety and timing of chemical applications in Indian fields. When salinity is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of salinity helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing salinity is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_018",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil erosion",
+    "crop": "General",
+    "condition": "When soil erosion is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil erosion exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from soil erosion; proceed with caution.",
+    "content": "Environmental risk associated with soil erosion can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, soil erosion can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and soil erosion levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_019",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Waterlogging",
+    "crop": "General",
+    "condition": "When waterlogging is observed in the field context.",
+    "rule": "Do not proceed with standard operations if waterlogging exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from waterlogging; proceed with caution.",
+    "content": "Soil moisture conditions and waterlogging are primary factors that dictate the safety and timing of chemical applications in Indian fields. When waterlogging is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of waterlogging helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing waterlogging is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_020",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil erosion",
+    "crop": "General",
+    "condition": "When soil erosion is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil erosion exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from soil erosion; proceed with caution.",
+    "content": "Environmental risk associated with soil erosion can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, soil erosion can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and soil erosion levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_021",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Waterlogging",
+    "crop": "General",
+    "condition": "When waterlogging is observed in the field context.",
+    "rule": "Do not proceed with standard operations if waterlogging exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from waterlogging; proceed with caution.",
+    "content": "Soil moisture conditions and waterlogging are primary factors that dictate the safety and timing of chemical applications in Indian fields. When waterlogging is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of waterlogging helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing waterlogging is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_022",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Salinity",
+    "crop": "General",
+    "condition": "When salinity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if salinity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from salinity; proceed with caution.",
+    "content": "Soil moisture conditions and salinity are primary factors that dictate the safety and timing of chemical applications in Indian fields. When salinity is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of salinity helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing salinity is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_023",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil moisture",
+    "crop": "General",
+    "condition": "When soil moisture is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil moisture exceeds safety limits.",
+    "threshold": "<20",
+    "unit": "%",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from soil moisture; proceed with caution.",
+    "content": "Soil moisture conditions and soil moisture are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil moisture is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil moisture helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil moisture is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_024",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Waterlogging",
+    "crop": "General",
+    "condition": "When waterlogging is observed in the field context.",
+    "rule": "Do not proceed with standard operations if waterlogging exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from waterlogging; proceed with caution.",
+    "content": "Soil moisture conditions and waterlogging are primary factors that dictate the safety and timing of chemical applications in Indian fields. When waterlogging is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of waterlogging helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing waterlogging is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_025",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Salinity",
+    "crop": "General",
+    "condition": "When salinity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if salinity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from salinity; proceed with caution.",
+    "content": "Environmental risk associated with salinity can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, salinity can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and salinity levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_026",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Waterlogging",
+    "crop": "General",
+    "condition": "When waterlogging is observed in the field context.",
+    "rule": "Do not proceed with standard operations if waterlogging exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from waterlogging; proceed with caution.",
+    "content": "Environmental risk associated with waterlogging can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, waterlogging can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and waterlogging levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_027",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil compaction",
+    "crop": "General",
+    "condition": "When soil compaction is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil compaction exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from soil compaction; proceed with caution.",
+    "content": "Environmental risk associated with soil compaction can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, soil compaction can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and soil compaction levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_028",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Waterlogging",
+    "crop": "General",
+    "condition": "When waterlogging is observed in the field context.",
+    "rule": "Do not proceed with standard operations if waterlogging exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from waterlogging; proceed with caution.",
+    "content": "Soil moisture conditions and waterlogging are primary factors that dictate the safety and timing of chemical applications in Indian fields. When waterlogging is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of waterlogging helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing waterlogging is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_029",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Waterlogging",
+    "crop": "General",
+    "condition": "When waterlogging is observed in the field context.",
+    "rule": "Do not proceed with standard operations if waterlogging exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from waterlogging; proceed with caution.",
+    "content": "Soil moisture conditions and waterlogging are primary factors that dictate the safety and timing of chemical applications in Indian fields. When waterlogging is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of waterlogging helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing waterlogging is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_030",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Salinity",
+    "crop": "General",
+    "condition": "When salinity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if salinity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from salinity; proceed with caution.",
+    "content": "Environmental risk associated with salinity can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, salinity can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and salinity levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_031",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil compaction",
+    "crop": "General",
+    "condition": "When soil compaction is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil compaction exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from soil compaction; proceed with caution.",
+    "content": "Soil moisture conditions and soil compaction are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil compaction is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil compaction helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil compaction is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_032",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Waterlogging",
+    "crop": "General",
+    "condition": "When waterlogging is observed in the field context.",
+    "rule": "Do not proceed with standard operations if waterlogging exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from waterlogging; proceed with caution.",
+    "content": "Environmental risk associated with waterlogging can have lasting impacts on the productivity of agricultural lands in various regions of India. For instance, waterlogging can limit the ability of the crop to utilize nutrients, leading to wasteful runoff and potential environmental contamination. Extension services emphasize the need to validate soil conditions and waterlogging levels before approving any intensive field operations. By setting clear soil moisture condition rules, farmers can mitigate the risks of salinity and erosion, thereby promoting a more resilient and eco-friendly farming practice across the country.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_033",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Soil erosion",
+    "crop": "General",
+    "condition": "When soil erosion is observed in the field context.",
+    "rule": "Do not proceed with standard operations if soil erosion exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from soil erosion; proceed with caution.",
+    "content": "Soil moisture conditions and soil erosion are primary factors that dictate the safety and timing of chemical applications in Indian fields. When soil erosion is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of soil erosion helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing soil erosion is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_soil_034",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Soil",
+    "factor": "Salinity",
+    "crop": "General",
+    "condition": "When salinity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if salinity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from salinity; proceed with caution.",
+    "content": "Soil moisture conditions and salinity are primary factors that dictate the safety and timing of chemical applications in Indian fields. When salinity is present, it can significantly alter the physical structure of the soil, leading to increased erosion or reduced chemical penetration. Addressing these soil risks through careful monitoring of salinity helps farmers avoid groundwater contamination and ensures that herbicides or fertilizers are used efficiently. A proactive approach to managing salinity is recommended by ICAR to protect long-term soil health and ensure that the agricultural recommendations are environmentally sound.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_001",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Leaching",
+    "crop": "General",
+    "condition": "When leaching is observed in the field context.",
+    "rule": "Do not proceed with standard operations if leaching exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from leaching; proceed with caution.",
+    "content": "Water contamination risk from leaching remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring leaching helps in reducing the environmental footprint of modern agricultural practices. When leaching is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_002",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Groundwater contamination",
+    "crop": "General",
+    "condition": "When groundwater contamination is observed in the field context.",
+    "rule": "Do not proceed with standard operations if groundwater contamination exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from groundwater contamination; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If groundwater contamination occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing groundwater contamination are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing groundwater contamination correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_003",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Canal safety",
+    "crop": "General",
+    "condition": "When canal safety is observed in the field context.",
+    "rule": "Do not proceed with standard operations if canal safety exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from canal safety; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If canal safety occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing canal safety are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing canal safety correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_004",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Leaching",
+    "crop": "General",
+    "condition": "When leaching is observed in the field context.",
+    "rule": "Do not proceed with standard operations if leaching exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from leaching; proceed with caution.",
+    "content": "Water contamination risk from leaching remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring leaching helps in reducing the environmental footprint of modern agricultural practices. When leaching is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_005",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Water bodies proximity",
+    "crop": "General",
+    "condition": "When water bodies proximity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if water bodies proximity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from water bodies proximity; proceed with caution.",
+    "content": "Water contamination risk from water bodies proximity remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring water bodies proximity helps in reducing the environmental footprint of modern agricultural practices. When water bodies proximity is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_006",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Groundwater contamination",
+    "crop": "General",
+    "condition": "When groundwater contamination is observed in the field context.",
+    "rule": "Do not proceed with standard operations if groundwater contamination exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from groundwater contamination; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If groundwater contamination occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing groundwater contamination are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing groundwater contamination correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_007",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Water bodies proximity",
+    "crop": "General",
+    "condition": "When water bodies proximity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if water bodies proximity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from water bodies proximity; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If water bodies proximity occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing water bodies proximity are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing water bodies proximity correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_008",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Water bodies proximity",
+    "crop": "General",
+    "condition": "When water bodies proximity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if water bodies proximity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from water bodies proximity; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If water bodies proximity occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing water bodies proximity are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing water bodies proximity correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_009",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Leaching",
+    "crop": "General",
+    "condition": "When leaching is observed in the field context.",
+    "rule": "Do not proceed with standard operations if leaching exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from leaching; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If leaching occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing leaching are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing leaching correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water resources are protected from harmful chemical residues.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_010",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Groundwater contamination",
+    "crop": "General",
+    "condition": "When groundwater contamination is observed in the field context.",
+    "rule": "Do not proceed with standard operations if groundwater contamination exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from groundwater contamination; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If groundwater contamination occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing groundwater contamination are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing groundwater contamination correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_011",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Leaching",
+    "crop": "General",
+    "condition": "When leaching is observed in the field context.",
+    "rule": "Do not proceed with standard operations if leaching exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from leaching; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If leaching occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing leaching are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing leaching correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water resources are protected from harmful chemical residues.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_012",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Water bodies proximity",
+    "crop": "General",
+    "condition": "When water bodies proximity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if water bodies proximity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from water bodies proximity; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If water bodies proximity occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing water bodies proximity are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing water bodies proximity correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_013",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Canal safety",
+    "crop": "General",
+    "condition": "When canal safety is observed in the field context.",
+    "rule": "Do not proceed with standard operations if canal safety exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from canal safety; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If canal safety occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing canal safety are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing canal safety correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_014",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Runoff",
+    "crop": "General",
+    "condition": "When runoff is observed in the field context.",
+    "rule": "Do not proceed with standard operations if runoff exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from runoff; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If runoff occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing runoff are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing runoff correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water resources are protected from harmful chemical residues.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_015",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Runoff",
+    "crop": "General",
+    "condition": "When runoff is observed in the field context.",
+    "rule": "Do not proceed with standard operations if runoff exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from runoff; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If runoff occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing runoff are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing runoff correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water resources are protected from harmful chemical residues.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_016",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Groundwater contamination",
+    "crop": "General",
+    "condition": "When groundwater contamination is observed in the field context.",
+    "rule": "Do not proceed with standard operations if groundwater contamination exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from groundwater contamination; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If groundwater contamination occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing groundwater contamination are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing groundwater contamination correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_017",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Canal safety",
+    "crop": "General",
+    "condition": "When canal safety is observed in the field context.",
+    "rule": "Do not proceed with standard operations if canal safety exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from canal safety; proceed with caution.",
+    "content": "Water contamination risk from canal safety remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring canal safety helps in reducing the environmental footprint of modern agricultural practices. When canal safety is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_018",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Canal safety",
+    "crop": "General",
+    "condition": "When canal safety is observed in the field context.",
+    "rule": "Do not proceed with standard operations if canal safety exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from canal safety; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If canal safety occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing canal safety are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing canal safety correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_019",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Leaching",
+    "crop": "General",
+    "condition": "When leaching is observed in the field context.",
+    "rule": "Do not proceed with standard operations if leaching exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from leaching; proceed with caution.",
+    "content": "Water contamination risk from leaching remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring leaching helps in reducing the environmental footprint of modern agricultural practices. When leaching is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_020",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Runoff",
+    "crop": "General",
+    "condition": "When runoff is observed in the field context.",
+    "rule": "Do not proceed with standard operations if runoff exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from runoff; proceed with caution.",
+    "content": "Water contamination risk from runoff remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring runoff helps in reducing the environmental footprint of modern agricultural practices. When runoff is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_021",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Canal safety",
+    "crop": "General",
+    "condition": "When canal safety is observed in the field context.",
+    "rule": "Do not proceed with standard operations if canal safety exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from canal safety; proceed with caution.",
+    "content": "Water contamination risk from canal safety remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring canal safety helps in reducing the environmental footprint of modern agricultural practices. When canal safety is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_022",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Groundwater contamination",
+    "crop": "General",
+    "condition": "When groundwater contamination is observed in the field context.",
+    "rule": "Do not proceed with standard operations if groundwater contamination exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from groundwater contamination; proceed with caution.",
+    "content": "Water contamination risk from groundwater contamination remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring groundwater contamination helps in reducing the environmental footprint of modern agricultural practices. When groundwater contamination is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_023",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Runoff",
+    "crop": "General",
+    "condition": "When runoff is observed in the field context.",
+    "rule": "Do not proceed with standard operations if runoff exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from runoff; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If runoff occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing runoff are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing runoff correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water resources are protected from harmful chemical residues.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_024",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Canal safety",
+    "crop": "General",
+    "condition": "When canal safety is observed in the field context.",
+    "rule": "Do not proceed with standard operations if canal safety exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from canal safety; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If canal safety occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing canal safety are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing canal safety correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_025",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Leaching",
+    "crop": "General",
+    "condition": "When leaching is observed in the field context.",
+    "rule": "Do not proceed with standard operations if leaching exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from leaching; proceed with caution.",
+    "content": "Preventing water contamination risk is a top priority for sustainable farming in India, especially when working near sensitive water bodies like irrigation canals. If leaching occurs, there is a high probability of agricultural chemicals entering the groundwater or surface water systems, posing risks to public health and biodiversity. Rules governing leaching are designed to enforce a safe buffer zone and restrict spraying when runoff risks are elevated due to impending rainfall. Managing leaching correctly is a core requirement for ICAR-certified environmental risk protocols, ensuring that local water resources are protected from harmful chemical residues.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_026",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Canal safety",
+    "crop": "General",
+    "condition": "When canal safety is observed in the field context.",
+    "rule": "Do not proceed with standard operations if canal safety exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from canal safety; proceed with caution.",
+    "content": "Water contamination risk from canal safety remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring canal safety helps in reducing the environmental footprint of modern agricultural practices. When canal safety is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_water_027",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Water",
+    "factor": "Leaching",
+    "crop": "General",
+    "condition": "When leaching is observed in the field context.",
+    "rule": "Do not proceed with standard operations if leaching exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from leaching; proceed with caution.",
+    "content": "Water contamination risk from leaching remains a critical challenge for Indian farmers who rely on communal water sources for both irrigation and domestic use. Implementing specific rainfall threshold rules and monitoring leaching helps in reducing the environmental footprint of modern agricultural practices. When leaching is detected, recommendations must be modified or blocked to prevent the transport of pesticides into the local river systems. Adhering to these water safety guidelines is essential for the ecological safety of the entire village and helps in maintaining a healthy groundwater table for future generations.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_001",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Chemical volatility",
+    "crop": "General",
+    "condition": "When chemical volatility is observed in the field context.",
+    "rule": "Do not proceed with standard operations if chemical volatility exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from chemical volatility; proceed with caution.",
+    "content": "Environmental risk from air-borne pollutants and chemical volatility is a major concern during the peak chemical application seasons in India. When chemical volatility exceeds the machine-readable thresholds, it triggers a spray restriction to prevent the movement of hazardous chemicals into the broader environment. Monitoring the atmosphere for chemical volatility allows for better drift prevention and protects biodiversity-sensitive zones from unintended exposure. Farmers are advised to use low-drift nozzles and adjust their application timing to avoid periods of high volatility and extreme air chemical volatility conditions for the safety of the community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_002",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Air turbulence",
+    "crop": "General",
+    "condition": "When air turbulence is observed in the field context.",
+    "rule": "Do not proceed with standard operations if air turbulence exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from air turbulence; proceed with caution.",
+    "content": "Environmental risk from air-borne pollutants and air turbulence is a major concern during the peak chemical application seasons in India. When air turbulence exceeds the machine-readable thresholds, it triggers a spray restriction to prevent the movement of hazardous chemicals into the broader environment. Monitoring the atmosphere for air turbulence allows for better drift prevention and protects biodiversity-sensitive zones from unintended exposure. Farmers are advised to use low-drift nozzles and adjust their application timing to avoid periods of high volatility and extreme air air turbulence conditions for the safety of the community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_003",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Spray drift",
+    "crop": "General",
+    "condition": "When spray drift is observed in the field context.",
+    "rule": "Do not proceed with standard operations if spray drift exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from spray drift; proceed with caution.",
+    "content": "Environmental risk from air-borne pollutants and spray drift is a major concern during the peak chemical application seasons in India. When spray drift exceeds the machine-readable thresholds, it triggers a spray restriction to prevent the movement of hazardous chemicals into the broader environment. Monitoring the atmosphere for spray drift allows for better drift prevention and protects biodiversity-sensitive zones from unintended exposure. Farmers are advised to use low-drift nozzles and adjust their application timing to avoid periods of high volatility and extreme air spray drift conditions for the safety of the community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_004",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Spray drift",
+    "crop": "General",
+    "condition": "When spray drift is observed in the field context.",
+    "rule": "Do not proceed with standard operations if spray drift exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from spray drift; proceed with caution.",
+    "content": "Drift prevention and the management of spray drift are essential for protecting the air quality and non-target crops in the densely populated rural sectors of India. High spray drift levels can lead to significant volatile chemical loss, where fine droplets are carried away to nearby residential zones or livestock areas. Enforcing a strict wind speed limit for all spraying activities is a key environmental risk mitigation strategy recommended by SAUs. By ensuring that spray drift stays within safe limits, farmers can maximize the efficiency of their pest control measures while.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_005",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Wind speed",
+    "crop": "General",
+    "condition": "When wind speed is observed in the field context.",
+    "rule": "Do not proceed with standard operations if wind speed exceeds safety limits.",
+    "threshold": ">12",
+    "unit": "km/h",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from wind speed; proceed with caution.",
+    "content": "Drift prevention and the management of wind speed are essential for protecting the air quality and non-target crops in the densely populated rural sectors of India. High wind speed levels can lead to significant volatile chemical loss, where fine droplets are carried away to nearby residential zones or livestock areas. Enforcing a strict wind speed limit for all spraying activities is a key environmental risk mitigation strategy recommended by SAUs. By ensuring that wind speed stays within safe limits, farmers can maximize the efficiency of their pest control measures while.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_006",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Air turbulence",
+    "crop": "General",
+    "condition": "When air turbulence is observed in the field context.",
+    "rule": "Do not proceed with standard operations if air turbulence exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from air turbulence; proceed with caution.",
+    "content": "Environmental risk from air-borne pollutants and air turbulence is a major concern during the peak chemical application seasons in India. When air turbulence exceeds the machine-readable thresholds, it triggers a spray restriction to prevent the movement of hazardous chemicals into the broader environment. Monitoring the atmosphere for air turbulence allows for better drift prevention and protects biodiversity-sensitive zones from unintended exposure. Farmers are advised to use low-drift nozzles and adjust their application timing to avoid periods of high volatility and extreme air air turbulence conditions for the safety of the community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_007",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Chemical volatility",
+    "crop": "General",
+    "condition": "When chemical volatility is observed in the field context.",
+    "rule": "Do not proceed with standard operations if chemical volatility exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from chemical volatility; proceed with caution.",
+    "content": "Drift prevention and the management of chemical volatility are essential for protecting the air quality and non-target crops in the densely populated rural sectors of India. High chemical volatility levels can lead to significant volatile chemical loss, where fine droplets are carried away to nearby residential zones or livestock areas. Enforcing a strict wind speed limit for all spraying activities is a key environmental risk mitigation strategy recommended by SAUs. By ensuring that chemical volatility stays within safe limits, farmers can maximize the efficiency of their pest control measures while.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_008",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Chemical volatility",
+    "crop": "General",
+    "condition": "When chemical volatility is observed in the field context.",
+    "rule": "Do not proceed with standard operations if chemical volatility exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from chemical volatility; proceed with caution.",
+    "content": "Environmental risk from air-borne pollutants and chemical volatility is a major concern during the peak chemical application seasons in India. When chemical volatility exceeds the machine-readable thresholds, it triggers a spray restriction to prevent the movement of hazardous chemicals into the broader environment. Monitoring the atmosphere for chemical volatility allows for better drift prevention and protects biodiversity-sensitive zones from unintended exposure. Farmers are advised to use low-drift nozzles and adjust their application timing to avoid periods of high volatility and extreme air chemical volatility conditions for the safety of the community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_009",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Chemical volatility",
+    "crop": "General",
+    "condition": "When chemical volatility is observed in the field context.",
+    "rule": "Do not proceed with standard operations if chemical volatility exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from chemical volatility; proceed with caution.",
+    "content": "Environmental risk from air-borne pollutants and chemical volatility is a major concern during the peak chemical application seasons in India. When chemical volatility exceeds the machine-readable thresholds, it triggers a spray restriction to prevent the movement of hazardous chemicals into the broader environment. Monitoring the atmosphere for chemical volatility allows for better drift prevention and protects biodiversity-sensitive zones from unintended exposure. Farmers are advised to use low-drift nozzles and adjust their application timing to avoid periods of high volatility and extreme air chemical volatility conditions for the safety of the community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_010",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Wind speed",
+    "crop": "General",
+    "condition": "When wind speed is observed in the field context.",
+    "rule": "Do not proceed with standard operations if wind speed exceeds safety limits.",
+    "threshold": ">12",
+    "unit": "km/h",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from wind speed; proceed with caution.",
+    "content": "Drift prevention and the management of wind speed are essential for protecting the air quality and non-target crops in the densely populated rural sectors of India. High wind speed levels can lead to significant volatile chemical loss, where fine droplets are carried away to nearby residential zones or livestock areas. Enforcing a strict wind speed limit for all spraying activities is a key environmental risk mitigation strategy recommended by SAUs. By ensuring that wind speed stays within safe limits, farmers can maximize the efficiency of their pest control measures while.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_011",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Wind speed",
+    "crop": "General",
+    "condition": "When wind speed is observed in the field context.",
+    "rule": "Do not proceed with standard operations if wind speed exceeds safety limits.",
+    "threshold": ">12",
+    "unit": "km/h",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from wind speed; proceed with caution.",
+    "content": "Drift prevention and the management of wind speed are essential for protecting the air quality and non-target crops in the densely populated rural sectors of India. High wind speed levels can lead to significant volatile chemical loss, where fine droplets are carried away to nearby residential zones or livestock areas. Enforcing a strict wind speed limit for all spraying activities is a key environmental risk mitigation strategy recommended by SAUs. By ensuring that wind speed stays within safe limits, farmers can maximize the efficiency of their pest control measures while.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_012",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Air turbulence",
+    "crop": "General",
+    "condition": "When air turbulence is observed in the field context.",
+    "rule": "Do not proceed with standard operations if air turbulence exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from air turbulence; proceed with caution.",
+    "content": "Environmental risk from air-borne pollutants and air turbulence is a major concern during the peak chemical application seasons in India. When air turbulence exceeds the machine-readable thresholds, it triggers a spray restriction to prevent the movement of hazardous chemicals into the broader environment. Monitoring the atmosphere for air turbulence allows for better drift prevention and protects biodiversity-sensitive zones from unintended exposure. Farmers are advised to use low-drift nozzles and adjust their application timing to avoid periods of high volatility and extreme air air turbulence conditions for the safety of the community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_air_013",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Air",
+    "factor": "Spray drift",
+    "crop": "General",
+    "condition": "When spray drift is observed in the field context.",
+    "rule": "Do not proceed with standard operations if spray drift exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from spray drift; proceed with caution.",
+    "content": "Drift prevention and the management of spray drift are essential for protecting the air quality and non-target crops in the densely populated rural sectors of India. High spray drift levels can lead to significant volatile chemical loss, where fine droplets are carried away to nearby residential zones or livestock areas. Enforcing a strict wind speed limit for all spraying activities is a key environmental risk mitigation strategy recommended by SAUs. By ensuring that spray drift stays within safe limits, farmers can maximize the efficiency of their pest control measures while.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_001",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Beneficial insects",
+    "crop": "General",
+    "condition": "When beneficial insects is observed in the field context.",
+    "rule": "Do not proceed with standard operations if beneficial insects exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from beneficial insects; proceed with caution.",
+    "content": "Ecological safety is frequently compromised by beneficial insects when safety protocols are ignored during the application of agricultural chemicals in India. Factors like pollinator activity and beneficial insects must be carefully evaluated to prevent the accidental poisoning of essential farm-level helper species. Environmental risk management strategies include creating buffer zones around biodiversity-sensitive areas and restricting certain actions when beneficial insects is likely to occur. By prioritizing beneficial insects awareness, farmers can contribute to a more sustainable agricultural system that supports the health of both the crop and the wider ecological community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_002",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Biodiversity",
+    "crop": "General",
+    "condition": "When biodiversity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if biodiversity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from biodiversity; proceed with caution.",
+    "content": "Ecological safety is frequently compromised by biodiversity when safety protocols are ignored during the application of agricultural chemicals in India. Factors like pollinator activity and biodiversity must be carefully evaluated to prevent the accidental poisoning of essential farm-level helper species. Environmental risk management strategies include creating buffer zones around biodiversity-sensitive areas and restricting certain actions when biodiversity is likely to occur. By prioritizing biodiversity awareness, farmers can contribute to a more sustainable agricultural system that supports the health of both the crop and the wider ecological community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_003",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Pollinator activity",
+    "crop": "General",
+    "condition": "When pollinator activity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if pollinator activity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from pollinator activity; proceed with caution.",
+    "content": "Protecting ecological safety by monitoring pollinator activity is a vital part of integrated pest management and environmental risk assessment in India. Many beneficial insects and pollinators are highly sensitive to pollinator activity, and their protection is crucial for maintaining a healthy and productive agricultural ecosystem. ICAR advisories highlight the importance of timing field operations to avoid peak activity periods of these organisms when pollinator activity is a concern. Implementing rules to protect nearby livestock and beneficial insects helps in preserving the local biodiversity and ensures that farming practices do not.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_004",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Livestock exposure",
+    "crop": "General",
+    "condition": "When livestock exposure is observed in the field context.",
+    "rule": "Do not proceed with standard operations if livestock exposure exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from livestock exposure; proceed with caution.",
+    "content": "Protecting ecological safety by monitoring livestock exposure is a vital part of integrated pest management and environmental risk assessment in India. Many beneficial insects and pollinators are highly sensitive to livestock exposure, and their protection is crucial for maintaining a healthy and productive agricultural ecosystem. ICAR advisories highlight the importance of timing field operations to avoid peak activity periods of these organisms when livestock exposure is a concern. Implementing rules to protect nearby livestock and beneficial insects helps in preserving the local biodiversity and ensures that farming practices do not.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_005",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Biodiversity",
+    "crop": "General",
+    "condition": "When biodiversity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if biodiversity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from biodiversity; proceed with caution.",
+    "content": "Protecting ecological safety by monitoring biodiversity is a vital part of integrated pest management and environmental risk assessment in India. Many beneficial insects and pollinators are highly sensitive to biodiversity, and their protection is crucial for maintaining a healthy and productive agricultural ecosystem. ICAR advisories highlight the importance of timing field operations to avoid peak activity periods of these organisms when biodiversity is a concern. Implementing rules to protect nearby livestock and beneficial insects helps in preserving the local biodiversity and ensures that farming practices do not harm the delicate balance of nature.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_006",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Biodiversity",
+    "crop": "General",
+    "condition": "When biodiversity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if biodiversity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from biodiversity; proceed with caution.",
+    "content": "Ecological safety is frequently compromised by biodiversity when safety protocols are ignored during the application of agricultural chemicals in India. Factors like pollinator activity and biodiversity must be carefully evaluated to prevent the accidental poisoning of essential farm-level helper species. Environmental risk management strategies include creating buffer zones around biodiversity-sensitive areas and restricting certain actions when biodiversity is likely to occur. By prioritizing biodiversity awareness, farmers can contribute to a more sustainable agricultural system that supports the health of both the crop and the wider ecological community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_007",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Biodiversity",
+    "crop": "General",
+    "condition": "When biodiversity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if biodiversity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from biodiversity; proceed with caution.",
+    "content": "Ecological safety is frequently compromised by biodiversity when safety protocols are ignored during the application of agricultural chemicals in India. Factors like pollinator activity and biodiversity must be carefully evaluated to prevent the accidental poisoning of essential farm-level helper species. Environmental risk management strategies include creating buffer zones around biodiversity-sensitive areas and restricting certain actions when biodiversity is likely to occur. By prioritizing biodiversity awareness, farmers can contribute to a more sustainable agricultural system that supports the health of both the crop and the wider ecological community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_008",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Biodiversity",
+    "crop": "General",
+    "condition": "When biodiversity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if biodiversity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from biodiversity; proceed with caution.",
+    "content": "Ecological safety is frequently compromised by biodiversity when safety protocols are ignored during the application of agricultural chemicals in India. Factors like pollinator activity and biodiversity must be carefully evaluated to prevent the accidental poisoning of essential farm-level helper species. Environmental risk management strategies include creating buffer zones around biodiversity-sensitive areas and restricting certain actions when biodiversity is likely to occur. By prioritizing biodiversity awareness, farmers can contribute to a more sustainable agricultural system that supports the health of both the crop and the wider ecological community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_009",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Beneficial insects",
+    "crop": "General",
+    "condition": "When beneficial insects is observed in the field context.",
+    "rule": "Do not proceed with standard operations if beneficial insects exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from beneficial insects; proceed with caution.",
+    "content": "Ecological safety is frequently compromised by beneficial insects when safety protocols are ignored during the application of agricultural chemicals in India. Factors like pollinator activity and beneficial insects must be carefully evaluated to prevent the accidental poisoning of essential farm-level helper species. Environmental risk management strategies include creating buffer zones around biodiversity-sensitive areas and restricting certain actions when beneficial insects is likely to occur. By prioritizing beneficial insects awareness, farmers can contribute to a more sustainable agricultural system that supports the health of both the crop and the wider ecological community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_010",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Livestock exposure",
+    "crop": "General",
+    "condition": "When livestock exposure is observed in the field context.",
+    "rule": "Do not proceed with standard operations if livestock exposure exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Low",
+    "safety_notes": "High risk of environmental degradation from livestock exposure; proceed with caution.",
+    "content": "Protecting ecological safety by monitoring livestock exposure is a vital part of integrated pest management and environmental risk assessment in India. Many beneficial insects and pollinators are highly sensitive to livestock exposure, and their protection is crucial for maintaining a healthy and productive agricultural ecosystem. ICAR advisories highlight the importance of timing field operations to avoid peak activity periods of these organisms when livestock exposure is a concern. Implementing rules to protect nearby livestock and beneficial insects helps in preserving the local biodiversity and ensures that farming practices do not.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_011",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Beneficial insects",
+    "crop": "General",
+    "condition": "When beneficial insects is observed in the field context.",
+    "rule": "Do not proceed with standard operations if beneficial insects exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Block action",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from beneficial insects; proceed with caution.",
+    "content": "Protecting ecological safety by monitoring beneficial insects is a vital part of integrated pest management and environmental risk assessment in India. Many beneficial insects and pollinators are highly sensitive to beneficial insects, and their protection is crucial for maintaining a healthy and productive agricultural ecosystem. ICAR advisories highlight the importance of timing field operations to avoid peak activity periods of these organisms when beneficial insects is a concern. Implementing rules to protect nearby livestock and beneficial insects helps in preserving the local biodiversity and ensures that farming practices do not.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_012",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Biodiversity",
+    "crop": "General",
+    "condition": "When biodiversity is observed in the field context.",
+    "rule": "Do not proceed with standard operations if biodiversity exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Warn user",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from biodiversity; proceed with caution.",
+    "content": "Protecting ecological safety by monitoring biodiversity is a vital part of integrated pest management and environmental risk assessment in India. Many beneficial insects and pollinators are highly sensitive to biodiversity, and their protection is crucial for maintaining a healthy and productive agricultural ecosystem. ICAR advisories highlight the importance of timing field operations to avoid peak activity periods of these organisms when biodiversity is a concern. Implementing rules to protect nearby livestock and beneficial insects helps in preserving the local biodiversity and ensures that farming practices do not harm the delicate balance of nature.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_013",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Livestock exposure",
+    "crop": "General",
+    "condition": "When livestock exposure is observed in the field context.",
+    "rule": "Do not proceed with standard operations if livestock exposure exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Delay",
+    "severity": "High",
+    "safety_notes": "High risk of environmental degradation from livestock exposure; proceed with caution.",
+    "content": "Protecting ecological safety by monitoring livestock exposure is a vital part of integrated pest management and environmental risk assessment in India. Many beneficial insects and pollinators are highly sensitive to livestock exposure, and their protection is crucial for maintaining a healthy and productive agricultural ecosystem. ICAR advisories highlight the importance of timing field operations to avoid peak activity periods of these organisms when livestock exposure is a concern. Implementing rules to protect nearby livestock and beneficial insects helps in preserving the local biodiversity and ensures that farming practices do not.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  },
+  {
+    "id": "environment_ecological_014",
+    "layer": "layer3",
+    "category": "environmental_risk",
+    "risk_type": "Ecological",
+    "factor": "Livestock exposure",
+    "crop": "General",
+    "condition": "When livestock exposure is observed in the field context.",
+    "rule": "Do not proceed with standard operations if livestock exposure exceeds safety limits.",
+    "threshold": "Descriptive",
+    "unit": "descriptive",
+    "action_if_triggered": "Modify recommendation",
+    "severity": "Medium",
+    "safety_notes": "High risk of environmental degradation from livestock exposure; proceed with caution.",
+    "content": "Ecological safety is frequently compromised by livestock exposure when safety protocols are ignored during the application of agricultural chemicals in India. Factors like pollinator activity and livestock exposure must be carefully evaluated to prevent the accidental poisoning of essential farm-level helper species. Environmental risk management strategies include creating buffer zones around biodiversity-sensitive areas and restricting certain actions when livestock exposure is likely to occur. By prioritizing livestock exposure awareness, farmers can contribute to a more sustainable agricultural system that supports the health of both the crop and the wider ecological community.",
+    "source_type": [
+      "ICAR",
+      "Extension"
+    ]
+  }
+]
