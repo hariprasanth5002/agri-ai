@@ -1,6 +1,16 @@
 # ───────────────────────────────────────────
 # Agri AI Backend — Production Dockerfile
 # ───────────────────────────────────────────
+
+# Stage 1: Build the React/Vite Frontend
+FROM node:20-alpine AS build-frontend
+WORKDIR /app/frontend
+COPY frontend/package*.json ./
+RUN npm install
+COPY frontend/ ./
+RUN npm run build
+
+# Stage 2: Build the FastAPI Backend
 FROM python:3.11-slim
 
 # Prevent Python from writing .pyc and enable unbuffered logs
@@ -33,6 +43,9 @@ COPY rag/ ./rag/
 COPY nlp/ ./nlp/
 COPY utils/ ./utils/
 COPY knowledge_base/ ./knowledge_base/
+
+# Copy compiled frontend from Stage 1 into the backend's expected directory
+COPY --from=build-frontend /app/frontend/dist /app/frontend
 
 # Expose port (Render sets PORT env var)
 EXPOSE 10000
