@@ -71,7 +71,7 @@ class WeatherFetcher:
 
                 if res.status_code != 200:
                     logger.warning(f"Combined Fetch error (Status {res.status_code}): {res.text}")
-                    return None, None
+                    res.raise_for_status()
 
                 try:
                     data = res.json()
@@ -175,7 +175,7 @@ class WeatherFetcher:
                 
                 if res.status_code != 200:
                     logger.warning(f"WeatherFetcher error (Status {res.status_code}): {res.text}")
-                    return None
+                    res.raise_for_status()
 
                 try:
                     data = res.json()
@@ -222,7 +222,7 @@ class WeatherFetcher:
 
                 if res.status_code != 200:
                     logger.warning(f"Forecast error (Status {res.status_code}): {res.text}")
-                    return None
+                    res.raise_for_status()
 
                 try:
                     data = res.json()
@@ -284,7 +284,7 @@ class WeatherFetcher:
 
                 if res.status_code != 200:
                     logger.warning(f"Geocoding status error {res.status_code}: {res.text}")
-                    return None, None
+                    res.raise_for_status()
                 
                 try:
                     data = res.json()
