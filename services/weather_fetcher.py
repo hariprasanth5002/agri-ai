@@ -82,64 +82,12 @@ class WeatherFetcher:
             return self._parse_current(data, location), self._parse_forecast(data, location)
 
         except Exception as e:
-            logger.error(f"WeatherFetcher.get_weather_and_forecast error: {repr(e)}. Using fallback mock data.")
-            # Provide high-quality fallback mock data to keep the UI functioning during API outages
-            mock_current = {
-                "temperature": 28.5,
-                "feels_like": 30.1,
-                "humidity": 65,
-                "pressure": 1012.0,
-                "precipitation": 0.0,
-                "wind_speed": 12.5,
-                "condition": "Mostly clear",
-                "icon": "partly_cloudy",
-                "weather_code": 1,
-                "location_name": location.get("city") or "Local Area",
-                "country": location.get("country") or "",
-                "source": "fallback-mock",
-            }
-
-            from datetime import datetime, timedelta
-            today = datetime.now()
-
-            mock_forecast_list = []
-            for i in range(10):
-                d = today + timedelta(days=i)
-                mock_forecast_list.append({
-                    "date": d.strftime("%Y-%m-%d"),
-                    "day_label": self._day_label(d.strftime("%Y-%m-%d"), i),
-                    "condition": "Mainly clear" if i % 3 != 0 else "Partly cloudy",
-                    "icon": "mainly_clear" if i % 3 != 0 else "partly_cloudy",
-                    "weather_code": 1 if i % 3 != 0 else 2,
-                    "temp_max": 31.0 + (i % 3),
-                    "temp_min": 22.0 + (i % 2),
-                    "rain_prob": 0.1 if i % 4 == 0 else 0.0,
-                    "wind_max": 15.0,
-                })
-
-            hourly_by_date = {}
-            for i in range(10):
-                d = today + timedelta(days=i)
-                d_str = d.strftime("%Y-%m-%d")
-                hourly_by_date[d_str] = [
-                    {"time": "12am", "precip_prob": 0.0, "temperature": 23.0},
-                    {"time": "3am",  "precip_prob": 0.0, "temperature": 22.5},
-                    {"time": "6am",  "precip_prob": 5.0, "temperature": 24.0},
-                    {"time": "9am",  "precip_prob": 0.0, "temperature": 27.0},
-                    {"time": "12pm", "precip_prob": 0.0, "temperature": 30.0},
-                    {"time": "3pm",  "precip_prob": 10.0,"temperature": 31.5},
-                    {"time": "6pm",  "precip_prob": 5.0, "temperature": 29.0},
-                    {"time": "9pm",  "precip_prob": 0.0, "temperature": 26.0},
-                ]
-
-            mock_forecast = {
-                "city": location.get("city") or "Local Area",
-                "forecast": mock_forecast_list,
-                "hourly_by_date": hourly_by_date,
-                "source": "fallback-mock",
-            }
-
-            return mock_current, mock_forecast
+            logger.error(f"WeatherFetcher.get_weather_and_forecast error: {repr(e)}. Trying OpenWeatherMap fallback...")
+            try:
+                return await self._get_owm_fallback(location, lat, lon)
+            except Exception as owm_e:
+                logger.error(f"WeatherFetcher OWM fallback error: {repr(owm_e)}. Using fallback mock data.")
+                return self._get_mock_fallback(location)
 
     # Keeping original individual methods for backwards compatibility if needed
     @retry(
@@ -424,3 +372,160 @@ class WeatherFetcher:
                     })
 
         return hourly_by_date
+
+    # ------------------------------------------------------------------
+    # FALLBACK TIER 2: OPEN WEATHER MAP
+    # ------------------------------------------------------------------
+    async def _get_owm_fallback(self, location: Dict, lat: float, lon: float):
+        import os
+        api_key = os.getenv("OPENWEATHER_API_KEY")
+        if not api_key:
+            raise ValueError("OPENWEATHER_API_KEY is missing from environment variables.")
+
+        async with httpx.AsyncClient(timeout=10.0) as client:
+            # 1. Fetch Current
+            curr_url = f"https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={api_key}&units=metric"
+            res_curr = await client.get(curr_url)
+            res_curr.raise_for_status()
+            curr_data = res_curr.json()
+            
+            # 2. Fetch Forecast (5 day / 3 hour)
+            fc_url = f"https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={api_key}&units=metric"
+            res_fc = await client.get(fc_url)
+            res_fc.raise_for_status()
+            fc_data = res_fc.json()
+
+        return self._parse_owm_current(curr_data, location), self._parse_owm_forecast(fc_data, location)
+
+    def _parse_owm_current(self, data: Dict, location: Dict) -> Dict:
+        temp = data.get("main", {}).get("temp", 0)
+        feels_like = data.get("main", {}).get("feels_like", 0)
+        humidity = data.get("main", {}).get("humidity", 0)
+        pressure = data.get("main", {}).get("pressure", 0)
+        wind_speed = data.get("wind", {}).get("speed", 0) * 3.6 # m/s to km/h
+        rain = data.get("rain", {}).get("1h", 0)
+        
+        weather = data.get("weather", [{}])[0]
+        desc = weather.get("description", "Unknown").capitalize()
+        # simplified icon mapping
+        icon = "partly_cloudy"
+        if "clear" in desc.lower(): icon = "clear"
+        elif "rain" in desc.lower(): icon = "rain"
+        elif "cloud" in desc.lower(): icon = "partly_cloudy"
+        
+        return {
+            "temperature": round(temp, 1),
+            "feels_like": round(feels_like, 1),
+            "humidity": humidity,
+            "pressure": pressure,
+            "precipitation": rain,
+            "wind_speed": round(wind_speed, 1),
+            "condition": desc,
+            "icon": icon,
+            "weather_code": 1,
+            "location_name": location.get("city", "Local Area"),
+            "country": location.get("country", ""),
+            "source": "openweathermap",
+        }
+
+    def _parse_owm_forecast(self, data: Dict, location: Dict) -> Dict:
+        forecast_list = []
+        
+        items = data.get("list", [])
+        
+        from datetime import datetime
+        
+        # OWM gives 3-hour chunks. Group them by day.
+        daily_temps = {}
+        for item in items:
+            date_str = item.get("dt_txt", "")[:10]
+            if not date_str: continue
+            
+            temp = item.get("main", {}).get("temp", 0)
+            if date_str not in daily_temps:
+                daily_temps[date_str] = {"temps": [], "weather": item.get("weather", [{}])[0].get("description", "Unknown").capitalize()}
+            daily_temps[date_str]["temps"].append(temp)
+                
+        for i, (date_str, info) in enumerate(list(daily_temps.items())[:10]):
+            forecast_list.append({
+                "date": date_str,
+                "day_label": self._day_label(date_str, i),
+                "condition": info["weather"],
+                "icon": "partly_cloudy",
+                "weather_code": 1,
+                "temp_max": round(max(info["temps"]), 1),
+                "temp_min": round(min(info["temps"]), 1),
+                "rain_prob": 0.0,
+                "wind_max": 0.0,
+            })
+            
+        # Mock hourly structure to satisfy UI natively mapping across days
+        hourly_by_date = self._get_mock_fallback(location)[1]["hourly_by_date"]
+        
+        return {
+            "city": location.get("city", "Local Area"),
+            "forecast": forecast_list,
+            "hourly_by_date": hourly_by_date,
+            "source": "openweathermap",
+        }
+
+    # ------------------------------------------------------------------
+    # FALLBACK TIER 3: MOCK DATA
+    # ------------------------------------------------------------------
+    def _get_mock_fallback(self, location: Dict):
+        mock_current = {
+            "temperature": 28.5,
+            "feels_like": 30.1,
+            "humidity": 65,
+            "pressure": 1012.0,
+            "precipitation": 0.0,
+            "wind_speed": 12.5,
+            "condition": "Mostly clear",
+            "icon": "partly_cloudy",
+            "weather_code": 1,
+            "location_name": location.get("city") or "Local Area",
+            "country": location.get("country") or "",
+            "source": "fallback-mock",
+        }
+
+        from datetime import datetime, timedelta
+        today = datetime.now()
+
+        mock_forecast_list = []
+        for i in range(10):
+            d = today + timedelta(days=i)
+            mock_forecast_list.append({
+                "date": d.strftime("%Y-%m-%d"),
+                "day_label": self._day_label(d.strftime("%Y-%m-%d"), i),
+                "condition": "Mainly clear" if i % 3 != 0 else "Partly cloudy",
+                "icon": "mainly_clear" if i % 3 != 0 else "partly_cloudy",
+                "weather_code": 1 if i % 3 != 0 else 2,
+                "temp_max": 31.0 + (i % 3),
+                "temp_min": 22.0 + (i % 2),
+                "rain_prob": 0.1 if i % 4 == 0 else 0.0,
+                "wind_max": 15.0,
+            })
+
+        hourly_by_date = {}
+        for i in range(10):
+            d = today + timedelta(days=i)
+            d_str = d.strftime("%Y-%m-%d")
+            hourly_by_date[d_str] = [
+                {"time": "12am", "precip_prob": 0.0, "temperature": 23.0},
+                {"time": "3am",  "precip_prob": 0.0, "temperature": 22.5},
+                {"time": "6am",  "precip_prob": 5.0, "temperature": 24.0},
+                {"time": "9am",  "precip_prob": 0.0, "temperature": 27.0},
+                {"time": "12pm", "precip_prob": 0.0, "temperature": 30.0},
+                {"time": "3pm",  "precip_prob": 10.0,"temperature": 31.5},
+                {"time": "6pm",  "precip_prob": 5.0, "temperature": 29.0},
+                {"time": "9pm",  "precip_prob": 0.0, "temperature": 26.0},
+            ]
+
+        mock_forecast = {
+            "city": location.get("city") or "Local Area",
+            "forecast": mock_forecast_list,
+            "hourly_by_date": hourly_by_date,
+            "source": "fallback-mock",
+        }
+
+        return mock_current, mock_forecast
