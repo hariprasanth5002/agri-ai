@@ -68,7 +68,8 @@ function App() {
     // 2. Prepare FormData — always send ENGLISH text to backend
     const backendText = text;
     const formData = new FormData();
-    const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8001";
+    const rawApiUrl = import.meta.env.VITE_API_BASE_URL || "http://localhost:8001";
+    const API_BASE_URL = rawApiUrl.replace(/\/+$/, "");
     let endpoint = `${API_BASE_URL}/multimodal`;
 
     if (coords) {
