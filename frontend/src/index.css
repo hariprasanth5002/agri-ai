@@ -32,7 +32,10 @@ body {
   -webkit-font-smoothing: antialiased;
   position: relative;
   height: 100vh;
+  height: 100dvh; /* Dynamic viewport: shrinks when mobile keyboard opens */
   width: 100vw;
+  overscroll-behavior: none; /* Prevent pull-to-refresh and bounce on mobile */
+  -webkit-text-size-adjust: 100%; /* Prevent iOS auto font size adjustment */
 }
 
 body::before {
@@ -75,9 +78,11 @@ body::after {
 #root {
   width: 100vw;
   height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   position: relative;
+  overflow: hidden;
 }
 
 /* Custom Scrollbar - Dark */

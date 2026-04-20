@@ -169,7 +169,8 @@ const MessageBubble = ({ role, content, images, originalContent, voiceLang }) =>
                 return;
             }
             const chunk = chunks[currentIdx];
-            const url = `http://localhost:8001/tts?lang=${shortLang}&text=${encodeURIComponent(chunk)}`;
+            const apiBase = (import.meta.env.VITE_API_BASE_URL || "http://localhost:8001").replace(/\/+$/, "");
+            const url = `${apiBase}/tts?lang=${shortLang}&text=${encodeURIComponent(chunk)}`;
             const audio = new Audio(url);
             currentAudioRef.current = audio;
             
