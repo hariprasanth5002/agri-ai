@@ -40,22 +40,11 @@ app.add_middleware(
 )
 
 # ---------------------------
-# SERVE FRONTEND
+# ROOT ENDPOINT
 # ---------------------------
-if os.path.exists("frontend"):
-    if os.path.exists("frontend/assets"):
-        app.mount("/assets", StaticFiles(directory="frontend/assets"), name="assets")
-        
-    # We still mount /frontend as a fallback in case legacy paths are used
-    app.mount("/frontend", StaticFiles(directory="frontend"), name="frontend")
-    
-    @app.get("/")
-    async def read_index():
-        return FileResponse("frontend/index.html")
-else:
-    @app.get("/")
-    async def read_index():
-        return {"message": "API is running. Frontend build not deployed."}
+@app.get("/")
+async def read_index():
+    return {"status": "Agri AI API is running! Frontend is hosted separately."}
 
 
 router = MultimodalRouter()
