@@ -69,36 +69,45 @@ class LocationResolver:
 
     async def _reverse_geocode(self, lat: float, lon: float) -> str:
         """
-        Reverse geocode lat/lon to get a city name using Open-Meteo.
-        Returns city name or 'Local Area' as fallback.
+        Reverse geocode lat/lon to get a city name.
+        Returns city name or 'Your Location' as fallback.
         """
+        import os
+        api_key = os.getenv("OPENWEATHER_API_KEY")
+
         try:
-            url = "https://geocoding-api.open-meteo.com/v1/search"
             async with httpx.AsyncClient(timeout=5.0) as client:
-                # Search for nearest location by coords using a small bounding box
-                res = await client.get(
-                    "https://api.open-meteo.com/v1/forecast",
-                    params={"latitude": lat, "longitude": lon, "current_weather": "true"}
-                )
-                # Open-Meteo forecast doesn't return city, so try nominatim as lightweight fallback
+                # 1. Try OpenWeatherMap Reverse Geocoding (Most Reliable)
+                if api_key:
+                    owm_url = f"http://api.openweathermap.org/geo/1.0/reverse?lat={lat}&lon={lon}&limit=1&appid={api_key}"
+                    res = await client.get(owm_url)
+                    if res.status_code == 200:
+                        data = res.json()
+                        if data and len(data) > 0:
+                            return data[0].get("name", "Your Location")
+
+                # 2. Try Nominatim (Strict rate limits, easily returns HTML 403)
                 nominatim_url = f"https://nominatim.openstreetmap.org/reverse?lat={lat}&lon={lon}&format=json&zoom=10"
                 res = await client.get(
                     nominatim_url,
-                    headers={"User-Agent": "AgriAI/1.0"}
+                    headers={"User-Agent": "AgriAI/1.0 (hariprasanth5002@gmail.com)"}
                 )
-                data = res.json()
-                address = data.get("address", {})
-                city = (
-                    address.get("city")
-                    or address.get("town")
-                    or address.get("village")
-                    or address.get("county")
-                    or "Local Area"
-                )
-                return city
+                if res.status_code == 200:
+                    data = res.json()
+                    address = data.get("address", {})
+                    city = (
+                        address.get("city")
+                        or address.get("town")
+                        or address.get("village")
+                        or address.get("county")
+                        or "Your Location"
+                    )
+                    return city
+                
+                return "Your Location"
         except Exception as e:
             logger.error(f"Reverse geocode error: {repr(e)}")
-            return "Local Area"
+            return "Your Location"
 
     async def _geocode(self, city: str):
         """
