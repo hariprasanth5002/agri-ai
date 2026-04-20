@@ -137,7 +137,7 @@ const ChatInput = ({ onSend, isLoading }) => {
             disabled={isLoading}
           />
 
-          <div style={{ display: 'flex', gap: '0.5rem' }}>
+          <div style={{ display: 'flex', gap: '0.25rem', flexShrink: 0 }}>
             <VoiceRecorder 
               onTranscription={handleVoiceTranscription} 
             />

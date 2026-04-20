@@ -221,6 +221,15 @@
   transform: scale(1.1);
 }
 
+/* Input container — wraps the form inside input-section */
+.input-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
 /* Floating Input Pill */
 .input-section {
   padding: 0.75rem 0.5rem;
