@@ -223,14 +223,16 @@
 
 /* Floating Input Pill */
 .input-section {
-  padding: 0.75rem 0;
-  padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px)); /* iPhone notch safe area */
+  padding: 0.75rem 0.5rem;
+  padding-bottom: calc(0.75rem + env(safe-area-inset-bottom, 0px));
   display: flex;
   justify-content: center;
   position: relative;
   background: transparent;
   z-index: 10;
   flex-shrink: 0;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .chat-input-form {
@@ -241,9 +243,10 @@
   flex-direction: column;
   padding: 0.5rem 1.4rem;
   width: 800px;
-  max-width: 90%;
+  max-width: calc(100% - 1rem);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
   transition: box-shadow 0.3s ease;
+  box-sizing: border-box;
 }
 
 .chat-input-form.has-attachment {
@@ -393,26 +396,32 @@
   }
 
   .input-section {
-    padding: 0.5rem 0;
+    padding: 0.5rem 0.5rem;
     padding-bottom: calc(0.5rem + env(safe-area-inset-bottom, 0px));
   }
 
   .chat-input-form {
-    max-width: 95%;
-    padding: 0.4rem 1rem;
+    max-width: calc(100% - 0.5rem);
+    padding: 0.4rem 0.8rem;
     border-radius: 24px;
   }
 
   .input-controls {
-    gap: 0.4rem;
+    gap: 0.3rem;
   }
 
   .text-input {
-    font-size: 0.9rem;
+    font-size: 0.88rem;
+    min-width: 0;
   }
 
   .text-input::placeholder {
-    font-size: 0.82rem;
+    font-size: 0.78rem;
+  }
+
+  /* Hide the voice language selector on phones to save space */
+  .voice-lang-select {
+    display: none !important;
   }
 
   .watermark-logo {
@@ -422,6 +431,12 @@
   /* Message action footer (translate/speak) — stack vertically on mobile */
   .message-actions-footer {
     gap: 0.5rem !important;
+  }
+
+  .icon-btn.circle-btn,
+  .send-btn {
+    width: 34px;
+    height: 34px;
   }
 }
 
@@ -469,19 +484,23 @@
   }
 
   .chat-input-form {
-    max-width: 98%;
-    padding: 0.35rem 0.75rem;
+    max-width: calc(100% - 0.25rem);
+    padding: 0.3rem 0.6rem;
     border-radius: 20px;
   }
 
   .input-controls {
-    gap: 0.3rem;
+    gap: 0.2rem;
   }
 
   .icon-btn.circle-btn,
   .send-btn {
-    width: 32px;
-    height: 32px;
+    width: 30px;
+    height: 30px;
+  }
+
+  .icon-btn.image-icon {
+    padding: 0.3rem;
   }
 
   .image-preview {

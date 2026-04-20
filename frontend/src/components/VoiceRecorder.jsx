@@ -104,6 +104,7 @@ const VoiceRecorder = ({ onTranscription }) => {
         value={voiceLang}
         onChange={(e) => setVoiceLang(e.target.value)}
         title="Voice input language"
+        className="voice-lang-select"
         style={{
           background: '#121524',
           color: '#94a3b8',
