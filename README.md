@@ -7,7 +7,7 @@
 <div align="center">
   <i>An advanced, microservice-based AI ecosystem designed to empower farmers with real-time agronomic insights, highly resilient multimodal disease detection, and hyper-local weather intelligence.</i>
   <br/><br/>
-  <a href="https://agri-ai-indol.vercel.app?_vercel_share=bLfLZs92zI3bHnH9KPNZWaiikxuay5YY"><b>🚀 View Live Production Demo</b></a>
+  <a href="https://agri-ai-five-iota.vercel.app?_vercel_share=WF12kiNAVgjIQAkLaSQjYX3OdFT6A4qm"><b>🚀 View Live Production Demo</b></a>
 </div>
 
 ---
