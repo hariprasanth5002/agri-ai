@@ -31,7 +31,11 @@ class LocationResolver:
             frontend_lon:  Longitude from browser geolocation API
         """
 
-        # Priority 1: Frontend browser geolocation (most accurate)
+        # Priority 1: User-provided city name (geocode to get lat/lon)
+        if user_location:
+            return await self._parse_user_location(user_location)
+
+        # Priority 2: Frontend browser geolocation (most accurate for current location)
         if frontend_lat is not None and frontend_lon is not None:
             city = await self._reverse_geocode(frontend_lat, frontend_lon)
             logger.info(f"LocationResolver: Using browser geolocation → {city} ({frontend_lat}, {frontend_lon})")
@@ -43,10 +47,6 @@ class LocationResolver:
                 "lon":     frontend_lon,
                 "source":  "browser_geolocation",
             }
-
-        # Priority 2: User-provided city name (geocode to get lat/lon)
-        if user_location:
-            return await self._parse_user_location(user_location)
 
         # No location available
         logger.warning("LocationResolver: No location source available")

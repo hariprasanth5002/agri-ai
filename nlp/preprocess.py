@@ -134,6 +134,14 @@ class AgriculturalNLPModule:
         entities["weather"] = find_entities(self.weather, text)
         entities["location"] = find_entities(self.locations, text)
 
+        # Dynamic location extraction (e.g. "weather in coimbatore")
+        match = re.search(r'\b(?:in|at|for)\s+([a-z]+(?:\s+[a-z]+)?)\b', text)
+        if match:
+            potential_loc = match.group(1).strip()
+            ignore_list = ["the", "morning", "evening", "afternoon", "night", "future", "advance", "detail", "a", "an"]
+            if potential_loc not in ignore_list and potential_loc not in entities["location"]:
+                entities["location"].append(potential_loc)
+
         return entities
 
     # -----------------------------
@@ -245,7 +253,7 @@ class AgriculturalNLPModule:
 
 # REALTIME
         if clean_text in ["weather", "weather today"] or (
-          "weather" in clean_text and len(tokens) <= 3
+          "weather" in clean_text and len(tokens) <= 5 and not any(p in clean_text for p in rain_patterns) and not any(f in clean_text for f in future_words)
         ):
             return "weather_realtime", 1.0
 

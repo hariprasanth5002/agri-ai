@@ -162,9 +162,17 @@ class MultimodalRouter:
         # FAST PATHS
         # ─────────────────────────────────────────────────────────
 
+        user_loc = None
+        if nlp_result["entities"].get("location"):
+            user_loc = nlp_result["entities"]["location"][0]
+
         # 🌦️ Weather
         if intent in ("weather_realtime", "weather_forecast"):
-            location = await self.location_resolver.resolve(frontend_lat=lat, frontend_lon=lon)
+            location = await self.location_resolver.resolve(
+                user_location=user_loc,
+                frontend_lat=lat,
+                frontend_lon=lon
+            )
 
             if not location:
                 return {
@@ -232,7 +240,11 @@ class MultimodalRouter:
         weather  = None
 
         if routing["needs_location"]:
-            location = await self.location_resolver.resolve(frontend_lat=lat, frontend_lon=lon)
+            location = await self.location_resolver.resolve(
+                user_location=user_loc,
+                frontend_lat=lat,
+                frontend_lon=lon
+            )
 
         if routing["needs_weather"] and location:
             weather = await self.weather_fetcher.get_weather(location)
