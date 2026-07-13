@@ -1,3 +1,4 @@
+````markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Agri+AI" alt="Agri AI Typing SVG" />
 </div>
@@ -13,55 +14,77 @@
 ---
 
 ## 📖 Executive Summary & Motivation
+
 Agriculture remains the backbone of the global economy, yet thousands of farmers suffer devastating crop losses simply due to misidentified diseases, unpredictable weather shifts, and systemic lack of access to agricultural experts. While commercial farms leverage expensive IoT sensors and drones, smallholder and rural farmers are often left behind with nothing but a basic smartphone.
 
-**The Vision:** Build a world-class agronomist, meteorologist, and diagnostic laboratory strictly accessible through an intuitive, low-bandwidth mobile interface. 
+**The Vision:** Build a world-class agronomist, meteorologist, and diagnostic laboratory strictly accessible through an intuitive, low-bandwidth mobile interface.
 
 This project bridges the technology gap by bringing sophisticated **Multimodal AI (Voice, Vision, and Text)** to the palms of farmers. Designed with deep resilience and hybrid-fallback architectures, the platform ensures rapid intelligence delivery regardless of API rate limits, out-of-domain interactions, or language barriers.
 
 ---
 
-## ⚙️ Core Architecture & Component Deep Dive
+# ⚙️ Core Architecture & Component Deep Dive
+
 This repository doesn't just feature a basic chatbot; it represents a **full-stack asynchronous microservices architecture** built to handle complex edge cases and real-time processing.
 
-### 1. Intelligent Input Routing (NLP Engine)
+## 1. Intelligent Input Routing (NLP Engine)
+
 At the heart of the system is a proprietary NLP module `AgriculturalNLPModule` that instantly classifies user intent.
-- **Dynamic Entity Extraction:** Automatically detects crops, diseases, and dynamically catches target locations (e.g., *"weather in Chennai"*) using custom Regex engines to bypass faulty mobile IP-address geolocation.
-- **Strict OOD Gating:** Employs comprehensive "Out-of-Domain" (OOD) filtering to politely reject non-agricultural prompts (e.g., sports, politics, media), saving LLM token expenditure and maintaining context integrity.
 
-### 2. Multimodal Processing Pipelines
-- **Computer Vision (Disease Diagnostics):** Uploaded leaf images are streamed into a dedicated Vision endpoint. Results pass through a strict **Confidence Tiering Gate**. If a user uploads a selfie or a random object, the system detects the anomaly (`confidence < 0.10`) and securely rejects the input, instructing the LLM to guide the farmer to take a valid leaf photo.
-- **Native Voice Dictation:** Farmers can interact via localized voice processing. The mobile frontend relies on a dynamic, asynchronous "Tap-to-Toggle" recording interface designed specifically to circumvent Android/iOS event-dropping issues. The backend proxy intelligently handles audio format conversions and feeds it to the LLM.
+- Dynamic Entity Extraction using custom Regex engines.
+- Automatic crop, disease, and location detection.
+- Strict Out-of-Domain (OOD) filtering.
+- Context-aware agricultural intent routing.
 
-### 3. Real-Time RAG (Retrieval-Augmented Generation)
-- Instead of relying on LLM hallucinations, agronomic queries trigger a sophisticated RAG pipeline.
-- The user's query is vectorized using local `SentenceTransformers` and matched against a curated, dense knowledge base hosted on **MongoDB Atlas Vector Search**.
-- Top-K semantic matches are dynamically injected into the LLM context window alongside the Vision module's disease predictions.
+## 2. Multimodal Processing Pipelines
 
-### 4. Hyper-Resilient Weather Intelligence
-The weather service guarantees zero downtime using a custom 3-Tier Fallback Chain:
-1. **Primary Layer:** Securely queries *Open-Meteo* for highly accurate, free 10-day forecasts and hourly precipitation matrices.
-2. **Secondary Fallback:** If rate limits are triggered (HTTP 429), it automatically fails over to a parsed `wttr.in` text-based endpoint using HTTpx.
-3. **Tertiary Fallback:** Generates synthetically realistic mock forecasts based on geographic trends to permanently prevent frontend crashes.
+### Computer Vision
 
-### 5. Large Language Model (LLM) Engine
-- Powered by an ultra-fast **Groq (Llama 3)** primary inference node for zero-latency streaming.
-- Employs a fully automated fallback to **Google Gemini 1.5** in the event of upstream Groq timeouts.
-- Injects a complete contextual payload into the prompt, containing: `[NLP Intent] + [Vector RAG Context] + [Vision Classifications] + [Extracted Hyperlocal Weather Data]`.
+- Leaf disease detection.
+- Confidence-based prediction filtering.
+- Invalid image rejection.
+- Guided image recapture.
+
+### Voice AI
+
+- Localized speech recognition.
+- Cross-platform recording support.
+- Backend audio preprocessing.
+- AI-powered transcription.
+
+## 3. Retrieval-Augmented Generation (RAG)
+
+- MongoDB Atlas Vector Search.
+- SentenceTransformers embeddings.
+- Semantic document retrieval.
+- Context injection into LLM.
+
+## 4. Hyper-Resilient Weather Intelligence
+
+Three-tier weather fallback system:
+
+1. Open-Meteo API
+2. wttr.in fallback
+3. Intelligent synthetic forecast generation
+
+## 5. Large Language Model
+
+- Groq (Llama 3) primary inference
+- Google Gemini fallback
+- Context-aware prompt orchestration
+- Weather + Vision + RAG + NLP synthesis
 
 ---
 
-## 🏗️ System Architecture Models
+# 🏗️ System Architecture Models
 
-### 1. High-Level Architecture Diagram
-The architecture is designed for extreme low latency, modular isolation, and robust scaling across independent FastAPI microservices.
+## High-Level Architecture
 
 <div align="center">
-  <img src="./architecture_diagram.jpg" alt="Agri AI Architecture Diagram" width="100%" />
+  <img src="./architecture_diagram.jpg" alt="Architecture Diagram" width="100%" />
 </div>
 
-### 2. Data Flow (DF) Diagram
-The pipeline ensures that user intent and multimodal context are carried securely through every execution layer before converging at the LLM synthesis node.
+## Data Flow Diagram
 
 <div align="center">
   <img src="./df_diagram.jpeg" alt="Data Flow Diagram" width="100%" />
@@ -69,64 +92,165 @@ The pipeline ensures that user intent and multimodal context are carried securel
 
 ---
 
-## 🛠️ Technology Stack
-This platform implements modern, production-grade tools aligned with strict industry standards.
+# 🛠 Technology Stack
 
-### Frontend Application
-- **Core:** `React.js` (Vite)
-- **Styling Architecture:** Mobile-first, responsive Glassmorphic UI with advanced Flex-containers (`100dvh` bound, dynamic `useEffect` adaptive sizing for dynamic LLM content).
-- **Safety:** Real-time CSS truncation, markdown bounding, and robust cross-platform dictation support.
-- **Hosting:** Vercel Global Edge Network.
+## Frontend
 
-### Backend Microservices
-- **Core:** `FastAPI` + `Python 3.10+` running fully asynchronous (`httpx`, `asyncio`, `Tenacity` retries).
-- **AI/ML Layer:** HuggingFace `transformers`, Google `genai`, Groq ultra-fast inference.
-- **Vector Database:** `MongoDB Atlas Vector Search` (Cloud-hosted NoSQL).
-- **External Dependencies:** Open-Meteo, GTx Voice APIs.
-- **Hosting:** Render Cloud Infrastructure.
+- React.js (Vite)
+- JavaScript
+- HTML5
+- CSS3
+- Responsive Mobile UI
+- Markdown Rendering
+- Speech Recognition API
+- Vercel
+
+## Backend
+
+- FastAPI
+- Python 3.10+
+- AsyncIO
+- HTTPX
+- Tenacity
+- HuggingFace Transformers
+- Groq API
+- Google Gemini
+- MongoDB Atlas
+- Open-Meteo API
+- Render
 
 ---
 
-## 🚀 Setting Up Locally
+# 🚀 Local Installation
 
-**System Prerequisites:** `Python 3.10+` | `Node.js 18+` | `Git`
+## Requirements
 
-**1. Clone the repository**
+- Python 3.10+
+- Node.js 18+
+- Git
+
+## Clone Repository
+
 ```bash
 git clone https://github.com/your-username/agri-ai.git
 cd agri-ai
-```
+````
 
-**2. Backend Setup**
+## Backend
+
 ```bash
-# Initialize virtual environment structure
 python -m venv venv
-source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
-# Install critical dependencies
+# Windows
+venv\Scripts\activate
+
+# Linux / macOS
+source venv/bin/activate
+
 pip install -r requirements.txt
 
-# Start the asynchronous FastAPI mesh
 python run_api.py
 ```
 
-**3. Frontend Setup**
+## Frontend
+
 ```bash
 cd frontend
+
 npm install
 
-# Boot development server
 npm run dev
 ```
 
 ---
 
-## 📜 Open Source
-This system represents a robust technical demonstration of AI applied to socio-economic challenges. It is completely open-source and free to explore.
+# 🔒 License & Copyright
 
-<br/>
-<br/>
+**Copyright © 2026 Hariprasanth U. All Rights Reserved.**
+
+This repository and all associated materials are proprietary intellectual property owned exclusively by **Hariprasanth U**.
+
+This project is made publicly available **only for viewing, learning about its architecture, and portfolio evaluation**.
+
+## Permitted Use
+
+You may:
+
+* View the repository on GitHub.
+* Evaluate the project for educational, recruitment, or portfolio purposes.
+
+## Prohibited Without Written Permission
+
+You may **NOT**:
+
+* Copy any source code.
+* Clone and redistribute this repository.
+* Modify the project.
+* Create derivative works.
+* Re-upload this project anywhere.
+* Publish the source code.
+* Sell or commercialize any part of this software.
+* Use this project in commercial, production, or academic submissions.
+* Remove copyright notices.
+* Reverse engineer proprietary implementations.
+* Train AI models using this repository or its contents.
+* Copy the UI/UX, architecture, workflows, prompts, APIs, documentation, images, assets, or branding.
+
+## Protected Intellectual Property
+
+The following are protected and remain the exclusive property of the copyright holder:
+
+* Complete source code
+* Backend architecture
+* Frontend implementation
+* AI workflows
+* NLP engine
+* Vision pipeline
+* Weather intelligence system
+* RAG implementation
+* Database design
+* API architecture
+* UI/UX design
+* Documentation
+* Images
+* Graphics
+* Icons
+* Branding
+* Logos
+* Project name
+* Technical documentation
+
+Any unauthorized copying, reproduction, modification, redistribution, deployment, or commercial use of this software, in whole or in part, is strictly prohibited and may result in legal action under applicable copyright and intellectual property laws.
+
+---
+
+# 📄 License
+
+This repository is distributed under a **Proprietary "All Rights Reserved" License**.
+
+No license is granted to use, modify, copy, distribute, sublicense, or commercialize this software.
+
+For licensing inquiries, commercial partnerships, or permission requests, please contact the copyright holder before using any part of this project.
+
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=2000&color=666666&center=true&vCenter=true&width=300&lines=code+.create+.connect" alt="Slogan Typing SVG" />
+
+### ⚠ Repository Notice
+
+This repository is publicly visible for **portfolio demonstration and technical evaluation only**.
+
+**It is NOT Open Source.**
+
+No permission is granted to copy, modify, redistribute, reuse, or deploy this project without the explicit written consent of **Hariprasanth U**.
+
+**© 2026 Hariprasanth U. All Rights Reserved.**
+
 </div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&pause=2000&color=666666&center=true&vCenter=true&width=300&lines=code+.create+.connect" alt="Typing SVG" />
+</div>
+```
