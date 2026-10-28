@@ -1,0 +1,2318 @@
+[
+  {
+    "id": "dosage_mancozeb_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0-2.5 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Application of Mancozeb must be strictly limited to the safe range of 2.0-2.5 g/L to avoid environmental toxicity. Excessive usage beyond the 2.5 g/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 3-4 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mancozeb_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0-2.5 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "For effective control, Mancozeb should be applied at 2.0-2.5 g/L per liter of water. Exceeding the maximum threshold of 2.5 g/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 3-4 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 3-4 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mancozeb_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0-2.5 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Using Mancozeb in the recommended dosage of 2.0-2.5 g/L is vital for sustainable agriculture in India. Going over the upper safe limit of 2.5 g/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 3-4 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mancozeb_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0-2.5 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "To prevent overdose and subsequent crop damage, Mancozeb must be used at a rate of 2.0-2.5 g/L. The maximum limit of 2.5 g/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 3-4 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 3-4 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mancozeb_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0-2.5 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Indian farmers are advised to use Mancozeb within the safe bracket of 2.0-2.5 g/L. Exceeding the 2.5 g/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 3-4 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 3-4 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mancozeb_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0-2.5 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "The prescribed dosage for Mancozeb is 2.0-2.5 g/L, with a strict maximum limit of 2.5 g/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 3-4 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 3-4 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_chlorothalonil_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Chlorothalonil",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Application of Chlorothalonil must be strictly limited to the safe range of 2.0 g/L to avoid environmental toxicity. Excessive usage beyond the 2.5 g/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_chlorothalonil_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Chlorothalonil",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "For effective control, Chlorothalonil should be applied at 2.0 g/L per liter of water. Exceeding the maximum threshold of 2.5 g/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_chlorothalonil_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Chlorothalonil",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Using Chlorothalonil in the recommended dosage of 2.0 g/L is vital for sustainable agriculture in India. Going over the upper safe limit of 2.5 g/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_chlorothalonil_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Chlorothalonil",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "To prevent overdose and subsequent crop damage, Chlorothalonil must be used at a rate of 2.0 g/L. The maximum limit of 2.5 g/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_chlorothalonil_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Chlorothalonil",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Indian farmers are advised to use Chlorothalonil within the safe bracket of 2.0 g/L. Exceeding the 2.5 g/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_chlorothalonil_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Chlorothalonil",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "The prescribed dosage for Chlorothalonil is 2.0 g/L, with a strict maximum limit of 2.5 g/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_coc_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Copper Oxychloride",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.5-3.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "Application of Copper Oxychloride must be strictly limited to the safe range of 2.5-3.0 g/L to avoid environmental toxicity. Excessive usage beyond the 3.0 g/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_coc_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Copper Oxychloride",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.5-3.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "For effective control, Copper Oxychloride should be applied at 2.5-3.0 g/L per liter of water. Exceeding the maximum threshold of 3.0 g/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 3 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_coc_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Copper Oxychloride",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.5-3.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "Using Copper Oxychloride in the recommended dosage of 2.5-3.0 g/L is vital for sustainable agriculture in India. Going over the upper safe limit of 3.0 g/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_coc_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Copper Oxychloride",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.5-3.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "To prevent overdose and subsequent crop damage, Copper Oxychloride must be used at a rate of 2.5-3.0 g/L. The maximum limit of 3.0 g/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 3 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_coc_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Copper Oxychloride",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.5-3.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "Indian farmers are advised to use Copper Oxychloride within the safe bracket of 2.5-3.0 g/L. Exceeding the 3.0 g/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 3 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_coc_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Copper Oxychloride",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.5-3.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "The prescribed dosage for Copper Oxychloride is 2.5-3.0 g/L, with a strict maximum limit of 3.0 g/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 3 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_metalaxyl_mancozeb_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Metalaxyl + Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Application of Metalaxyl + Mancozeb must be strictly limited to the safe range of 2.0 g/L to avoid environmental toxicity. Excessive usage beyond the 2.5 g/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_metalaxyl_mancozeb_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Metalaxyl + Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "For effective control, Metalaxyl + Mancozeb should be applied at 2.0 g/L per liter of water. Exceeding the maximum threshold of 2.5 g/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_metalaxyl_mancozeb_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Metalaxyl + Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Using Metalaxyl + Mancozeb in the recommended dosage of 2.0 g/L is vital for sustainable agriculture in India. Going over the upper safe limit of 2.5 g/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_metalaxyl_mancozeb_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Metalaxyl + Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "To prevent overdose and subsequent crop damage, Metalaxyl + Mancozeb must be used at a rate of 2.0 g/L. The maximum limit of 2.5 g/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_metalaxyl_mancozeb_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Metalaxyl + Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "Indian farmers are advised to use Metalaxyl + Mancozeb within the safe bracket of 2.0 g/L. Exceeding the 2.5 g/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_metalaxyl_mancozeb_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Metalaxyl + Mancozeb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "2.5 g/L",
+    "content": "The prescribed dosage for Metalaxyl + Mancozeb is 2.0 g/L, with a strict maximum limit of 2.5 g/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_azoxystrobin_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Azoxystrobin",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 ml/L",
+    "max_limit": "1.5 ml/L",
+    "content": "Application of Azoxystrobin must be strictly limited to the safe range of 1.0 ml/L to avoid environmental toxicity. Excessive usage beyond the 1.5 ml/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_azoxystrobin_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Azoxystrobin",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 ml/L",
+    "max_limit": "1.5 ml/L",
+    "content": "For effective control, Azoxystrobin should be applied at 1.0 ml/L per liter of water. Exceeding the maximum threshold of 1.5 ml/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_azoxystrobin_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Azoxystrobin",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 ml/L",
+    "max_limit": "1.5 ml/L",
+    "content": "Using Azoxystrobin in the recommended dosage of 1.0 ml/L is vital for sustainable agriculture in India. Going over the upper safe limit of 1.5 ml/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_azoxystrobin_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Azoxystrobin",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 ml/L",
+    "max_limit": "1.5 ml/L",
+    "content": "To prevent overdose and subsequent crop damage, Azoxystrobin must be used at a rate of 1.0 ml/L. The maximum limit of 1.5 ml/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_azoxystrobin_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Azoxystrobin",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 ml/L",
+    "max_limit": "1.5 ml/L",
+    "content": "Indian farmers are advised to use Azoxystrobin within the safe bracket of 1.0 ml/L. Exceeding the 1.5 ml/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_azoxystrobin_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Azoxystrobin",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 ml/L",
+    "max_limit": "1.5 ml/L",
+    "content": "The prescribed dosage for Azoxystrobin is 1.0 ml/L, with a strict maximum limit of 1.5 ml/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_difenoconazole_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Difenoconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.5 ml/L",
+    "max_limit": "1.0 ml/L",
+    "content": "Application of Difenoconazole must be strictly limited to the safe range of 0.5 ml/L to avoid environmental toxicity. Excessive usage beyond the 1.0 ml/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_difenoconazole_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Difenoconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.5 ml/L",
+    "max_limit": "1.0 ml/L",
+    "content": "For effective control, Difenoconazole should be applied at 0.5 ml/L per liter of water. Exceeding the maximum threshold of 1.0 ml/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_difenoconazole_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Difenoconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.5 ml/L",
+    "max_limit": "1.0 ml/L",
+    "content": "Using Difenoconazole in the recommended dosage of 0.5 ml/L is vital for sustainable agriculture in India. Going over the upper safe limit of 1.0 ml/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_difenoconazole_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Difenoconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.5 ml/L",
+    "max_limit": "1.0 ml/L",
+    "content": "To prevent overdose and subsequent crop damage, Difenoconazole must be used at a rate of 0.5 ml/L. The maximum limit of 1.0 ml/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_difenoconazole_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Difenoconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.5 ml/L",
+    "max_limit": "1.0 ml/L",
+    "content": "Indian farmers are advised to use Difenoconazole within the safe bracket of 0.5 ml/L. Exceeding the 1.0 ml/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_difenoconazole_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Difenoconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.5 ml/L",
+    "max_limit": "1.0 ml/L",
+    "content": "The prescribed dosage for Difenoconazole is 0.5 ml/L, with a strict maximum limit of 1.0 ml/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_tebuconazole_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Tebuconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5 ml/L",
+    "max_limit": "2.0 ml/L",
+    "content": "Application of Tebuconazole must be strictly limited to the safe range of 1.5 ml/L to avoid environmental toxicity. Excessive usage beyond the 2.0 ml/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_tebuconazole_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Tebuconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5 ml/L",
+    "max_limit": "2.0 ml/L",
+    "content": "For effective control, Tebuconazole should be applied at 1.5 ml/L per liter of water. Exceeding the maximum threshold of 2.0 ml/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_tebuconazole_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Tebuconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5 ml/L",
+    "max_limit": "2.0 ml/L",
+    "content": "Using Tebuconazole in the recommended dosage of 1.5 ml/L is vital for sustainable agriculture in India. Going over the upper safe limit of 2.0 ml/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_tebuconazole_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Tebuconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5 ml/L",
+    "max_limit": "2.0 ml/L",
+    "content": "To prevent overdose and subsequent crop damage, Tebuconazole must be used at a rate of 1.5 ml/L. The maximum limit of 2.0 ml/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_tebuconazole_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Tebuconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5 ml/L",
+    "max_limit": "2.0 ml/L",
+    "content": "Indian farmers are advised to use Tebuconazole within the safe bracket of 1.5 ml/L. Exceeding the 2.0 ml/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_tebuconazole_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Tebuconazole",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5 ml/L",
+    "max_limit": "2.0 ml/L",
+    "content": "The prescribed dosage for Tebuconazole is 1.5 ml/L, with a strict maximum limit of 2.0 ml/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_carbendazim_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Carbendazim",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 g/L",
+    "max_limit": "1.5 g/L",
+    "content": "Application of Carbendazim must be strictly limited to the safe range of 1.0 g/L to avoid environmental toxicity. Excessive usage beyond the 1.5 g/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_carbendazim_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Carbendazim",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 g/L",
+    "max_limit": "1.5 g/L",
+    "content": "For effective control, Carbendazim should be applied at 1.0 g/L per liter of water. Exceeding the maximum threshold of 1.5 g/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_carbendazim_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Carbendazim",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 g/L",
+    "max_limit": "1.5 g/L",
+    "content": "Using Carbendazim in the recommended dosage of 1.0 g/L is vital for sustainable agriculture in India. Going over the upper safe limit of 1.5 g/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_carbendazim_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Carbendazim",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 g/L",
+    "max_limit": "1.5 g/L",
+    "content": "To prevent overdose and subsequent crop damage, Carbendazim must be used at a rate of 1.0 g/L. The maximum limit of 1.5 g/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_carbendazim_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Carbendazim",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 g/L",
+    "max_limit": "1.5 g/L",
+    "content": "Indian farmers are advised to use Carbendazim within the safe bracket of 1.0 g/L. Exceeding the 1.5 g/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_carbendazim_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Carbendazim",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.0 g/L",
+    "max_limit": "1.5 g/L",
+    "content": "The prescribed dosage for Carbendazim is 1.0 g/L, with a strict maximum limit of 1.5 g/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_propineb_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Propineb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "Application of Propineb must be strictly limited to the safe range of 2.0 g/L to avoid environmental toxicity. Excessive usage beyond the 3.0 g/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_propineb_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Propineb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "For effective control, Propineb should be applied at 2.0 g/L per liter of water. Exceeding the maximum threshold of 3.0 g/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 3 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_propineb_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Propineb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "Using Propineb in the recommended dosage of 2.0 g/L is vital for sustainable agriculture in India. Going over the upper safe limit of 3.0 g/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_propineb_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Propineb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "To prevent overdose and subsequent crop damage, Propineb must be used at a rate of 2.0 g/L. The maximum limit of 3.0 g/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 3 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_propineb_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Propineb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "Indian farmers are advised to use Propineb within the safe bracket of 2.0 g/L. Exceeding the 3.0 g/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 3 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_propineb_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Propineb",
+    "application_type": "Fungicide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "2.0 g/L",
+    "max_limit": "3.0 g/L",
+    "content": "The prescribed dosage for Propineb is 2.0 g/L, with a strict maximum limit of 3.0 g/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 3 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 3 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_imidacloprid_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Imidacloprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3 ml/L",
+    "max_limit": "0.5 ml/L",
+    "content": "Application of Imidacloprid must be strictly limited to the safe range of 0.3 ml/L to avoid environmental toxicity. Excessive usage beyond the 0.5 ml/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_imidacloprid_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Imidacloprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3 ml/L",
+    "max_limit": "0.5 ml/L",
+    "content": "For effective control, Imidacloprid should be applied at 0.3 ml/L per liter of water. Exceeding the maximum threshold of 0.5 ml/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_imidacloprid_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Imidacloprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3 ml/L",
+    "max_limit": "0.5 ml/L",
+    "content": "Using Imidacloprid in the recommended dosage of 0.3 ml/L is vital for sustainable agriculture in India. Going over the upper safe limit of 0.5 ml/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_imidacloprid_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Imidacloprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3 ml/L",
+    "max_limit": "0.5 ml/L",
+    "content": "To prevent overdose and subsequent crop damage, Imidacloprid must be used at a rate of 0.3 ml/L. The maximum limit of 0.5 ml/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_imidacloprid_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Imidacloprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3 ml/L",
+    "max_limit": "0.5 ml/L",
+    "content": "Indian farmers are advised to use Imidacloprid within the safe bracket of 0.3 ml/L. Exceeding the 0.5 ml/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_imidacloprid_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Imidacloprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3 ml/L",
+    "max_limit": "0.5 ml/L",
+    "content": "The prescribed dosage for Imidacloprid is 0.3 ml/L, with a strict maximum limit of 0.5 ml/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_thiamethoxam_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Thiamethoxam",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3-0.5 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "Application of Thiamethoxam must be strictly limited to the safe range of 0.3-0.5 g/L to avoid environmental toxicity. Excessive usage beyond the 0.5 g/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_thiamethoxam_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Thiamethoxam",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3-0.5 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "For effective control, Thiamethoxam should be applied at 0.3-0.5 g/L per liter of water. Exceeding the maximum threshold of 0.5 g/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_thiamethoxam_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Thiamethoxam",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3-0.5 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "Using Thiamethoxam in the recommended dosage of 0.3-0.5 g/L is vital for sustainable agriculture in India. Going over the upper safe limit of 0.5 g/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_thiamethoxam_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Thiamethoxam",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3-0.5 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "To prevent overdose and subsequent crop damage, Thiamethoxam must be used at a rate of 0.3-0.5 g/L. The maximum limit of 0.5 g/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_thiamethoxam_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Thiamethoxam",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3-0.5 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "Indian farmers are advised to use Thiamethoxam within the safe bracket of 0.3-0.5 g/L. Exceeding the 0.5 g/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_thiamethoxam_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Thiamethoxam",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.3-0.5 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "The prescribed dosage for Thiamethoxam is 0.3-0.5 g/L, with a strict maximum limit of 0.5 g/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB"
+    ]
+  },
+  {
+    "id": "dosage_acetamiprid_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Acetamiprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.2-0.4 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "Application of Acetamiprid must be strictly limited to the safe range of 0.2-0.4 g/L to avoid environmental toxicity. Excessive usage beyond the 0.5 g/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_acetamiprid_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Acetamiprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.2-0.4 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "For effective control, Acetamiprid should be applied at 0.2-0.4 g/L per liter of water. Exceeding the maximum threshold of 0.5 g/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 2 sprays per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_acetamiprid_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Acetamiprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.2-0.4 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "Using Acetamiprid in the recommended dosage of 0.2-0.4 g/L is vital for sustainable agriculture in India. Going over the upper safe limit of 0.5 g/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_acetamiprid_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Acetamiprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.2-0.4 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "To prevent overdose and subsequent crop damage, Acetamiprid must be used at a rate of 0.2-0.4 g/L. The maximum limit of 0.5 g/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 2 sprays per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_acetamiprid_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Acetamiprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.2-0.4 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "Indian farmers are advised to use Acetamiprid within the safe bracket of 0.2-0.4 g/L. Exceeding the 0.5 g/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 2 sprays per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_acetamiprid_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Acetamiprid",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "0.2-0.4 g/L",
+    "max_limit": "0.5 g/L",
+    "content": "The prescribed dosage for Acetamiprid is 0.2-0.4 g/L, with a strict maximum limit of 0.5 g/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 2 sprays per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 2 sprays per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_fipronil_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Fipronil",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5-2.0 ml/L",
+    "max_limit": "2.5 ml/L",
+    "content": "Application of Fipronil must be strictly limited to the safe range of 1.5-2.0 ml/L to avoid environmental toxicity. Excessive usage beyond the 2.5 ml/L limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Max 1 spray per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_fipronil_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Fipronil",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5-2.0 ml/L",
+    "max_limit": "2.5 ml/L",
+    "content": "For effective control, Fipronil should be applied at 1.5-2.0 ml/L per liter of water. Exceeding the maximum threshold of 2.5 ml/L often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Max 1 spray per season to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Max 1 spray per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_fipronil_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Fipronil",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5-2.0 ml/L",
+    "max_limit": "2.5 ml/L",
+    "content": "Using Fipronil in the recommended dosage of 1.5-2.0 ml/L is vital for sustainable agriculture in India. Going over the upper safe limit of 2.5 ml/L can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Max 1 spray per season",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_fipronil_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Fipronil",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5-2.0 ml/L",
+    "max_limit": "2.5 ml/L",
+    "content": "To prevent overdose and subsequent crop damage, Fipronil must be used at a rate of 1.5-2.0 ml/L. The maximum limit of 2.5 ml/L should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Max 1 spray per season is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Max 1 spray per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_fipronil_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Fipronil",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5-2.0 ml/L",
+    "max_limit": "2.5 ml/L",
+    "content": "Indian farmers are advised to use Fipronil within the safe bracket of 1.5-2.0 ml/L. Exceeding the 2.5 ml/L dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Max 1 spray per season rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Max 1 spray per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_fipronil_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Fipronil",
+    "application_type": "Insecticide",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "1.5-2.0 ml/L",
+    "max_limit": "2.5 ml/L",
+    "content": "The prescribed dosage for Fipronil is 1.5-2.0 ml/L, with a strict maximum limit of 2.5 ml/L. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Max 1 spray per season should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Max 1 spray per season",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_urea_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Urea",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "45-60 kg/acre",
+    "max_limit": "65 kg/acre",
+    "content": "Application of Urea must be strictly limited to the safe range of 45-60 kg/acre to avoid environmental toxicity. Excessive usage beyond the 65 kg/acre limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Split application (2-3 times)",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_urea_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Urea",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "45-60 kg/acre",
+    "max_limit": "65 kg/acre",
+    "content": "For effective control, Urea should be applied at 45-60 kg/acre per liter of water. Exceeding the maximum threshold of 65 kg/acre often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Split application (2-3 times) to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Split application (2-3 times)",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_urea_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Urea",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "45-60 kg/acre",
+    "max_limit": "65 kg/acre",
+    "content": "Using Urea in the recommended dosage of 45-60 kg/acre is vital for sustainable agriculture in India. Going over the upper safe limit of 65 kg/acre can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Split application (2-3 times)",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_urea_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Urea",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "45-60 kg/acre",
+    "max_limit": "65 kg/acre",
+    "content": "To prevent overdose and subsequent crop damage, Urea must be used at a rate of 45-60 kg/acre. The maximum limit of 65 kg/acre should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Split application (2-3 times) is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Split application (2-3 times)",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_urea_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Urea",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "45-60 kg/acre",
+    "max_limit": "65 kg/acre",
+    "content": "Indian farmers are advised to use Urea within the safe bracket of 45-60 kg/acre. Exceeding the 65 kg/acre dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Split application (2-3 times) rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Split application (2-3 times)",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_urea_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "Urea",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "45-60 kg/acre",
+    "max_limit": "65 kg/acre",
+    "content": "The prescribed dosage for Urea is 45-60 kg/acre, with a strict maximum limit of 65 kg/acre. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Split application (2-3 times) should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Split application (2-3 times)",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_dap_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "DAP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "40-50 kg/acre",
+    "max_limit": "55 kg/acre",
+    "content": "Application of DAP must be strictly limited to the safe range of 40-50 kg/acre to avoid environmental toxicity. Excessive usage beyond the 55 kg/acre limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Basal application common",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_dap_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "DAP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "40-50 kg/acre",
+    "max_limit": "55 kg/acre",
+    "content": "For effective control, DAP should be applied at 40-50 kg/acre per liter of water. Exceeding the maximum threshold of 55 kg/acre often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Basal application common to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Basal application common",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_dap_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "DAP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "40-50 kg/acre",
+    "max_limit": "55 kg/acre",
+    "content": "Using DAP in the recommended dosage of 40-50 kg/acre is vital for sustainable agriculture in India. Going over the upper safe limit of 55 kg/acre can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Basal application common",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_dap_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "DAP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "40-50 kg/acre",
+    "max_limit": "55 kg/acre",
+    "content": "To prevent overdose and subsequent crop damage, DAP must be used at a rate of 40-50 kg/acre. The maximum limit of 55 kg/acre should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Basal application common is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Basal application common",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_dap_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "DAP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "40-50 kg/acre",
+    "max_limit": "55 kg/acre",
+    "content": "Indian farmers are advised to use DAP within the safe bracket of 40-50 kg/acre. Exceeding the 55 kg/acre dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Basal application common rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Basal application common",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_dap_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "DAP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "40-50 kg/acre",
+    "max_limit": "55 kg/acre",
+    "content": "The prescribed dosage for DAP is 40-50 kg/acre, with a strict maximum limit of 55 kg/acre. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Basal application common should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Basal application common",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mop_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "MOP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "20-30 kg/acre",
+    "max_limit": "40 kg/acre",
+    "content": "Application of MOP must be strictly limited to the safe range of 20-30 kg/acre to avoid environmental toxicity. Excessive usage beyond the 40 kg/acre limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Split or basal application",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mop_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "MOP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "20-30 kg/acre",
+    "max_limit": "40 kg/acre",
+    "content": "For effective control, MOP should be applied at 20-30 kg/acre per liter of water. Exceeding the maximum threshold of 40 kg/acre often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Split or basal application to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Split or basal application",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mop_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "MOP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "20-30 kg/acre",
+    "max_limit": "40 kg/acre",
+    "content": "Using MOP in the recommended dosage of 20-30 kg/acre is vital for sustainable agriculture in India. Going over the upper safe limit of 40 kg/acre can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Split or basal application",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mop_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "MOP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "20-30 kg/acre",
+    "max_limit": "40 kg/acre",
+    "content": "To prevent overdose and subsequent crop damage, MOP must be used at a rate of 20-30 kg/acre. The maximum limit of 40 kg/acre should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Split or basal application is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Split or basal application",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mop_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "MOP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "20-30 kg/acre",
+    "max_limit": "40 kg/acre",
+    "content": "Indian farmers are advised to use MOP within the safe bracket of 20-30 kg/acre. Exceeding the 40 kg/acre dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Split or basal application rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Split or basal application",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_mop_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "MOP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "20-30 kg/acre",
+    "max_limit": "40 kg/acre",
+    "content": "The prescribed dosage for MOP is 20-30 kg/acre, with a strict maximum limit of 40 kg/acre. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Split or basal application should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Split or basal application",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_ssp_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "SSP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "50-100 kg/acre",
+    "max_limit": "120 kg/acre",
+    "content": "Application of SSP must be strictly limited to the safe range of 50-100 kg/acre to avoid environmental toxicity. Excessive usage beyond the 120 kg/acre limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Basal application only",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_ssp_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "SSP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "50-100 kg/acre",
+    "max_limit": "120 kg/acre",
+    "content": "For effective control, SSP should be applied at 50-100 kg/acre per liter of water. Exceeding the maximum threshold of 120 kg/acre often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Basal application only to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Basal application only",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_ssp_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "SSP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "50-100 kg/acre",
+    "max_limit": "120 kg/acre",
+    "content": "Using SSP in the recommended dosage of 50-100 kg/acre is vital for sustainable agriculture in India. Going over the upper safe limit of 120 kg/acre can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Basal application only",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_ssp_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "SSP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "50-100 kg/acre",
+    "max_limit": "120 kg/acre",
+    "content": "To prevent overdose and subsequent crop damage, SSP must be used at a rate of 50-100 kg/acre. The maximum limit of 120 kg/acre should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Basal application only is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Basal application only",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_ssp_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "SSP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "50-100 kg/acre",
+    "max_limit": "120 kg/acre",
+    "content": "Indian farmers are advised to use SSP within the safe bracket of 50-100 kg/acre. Exceeding the 120 kg/acre dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Basal application only rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Basal application only",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_ssp_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "SSP",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "50-100 kg/acre",
+    "max_limit": "120 kg/acre",
+    "content": "The prescribed dosage for SSP is 50-100 kg/acre, with a strict maximum limit of 120 kg/acre. Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Basal application only should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on the leaf surfaces faster than usual.",
+    "frequency_limit": "Basal application only",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_npk_001",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "NPK",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "5 g/L (foliar) or 50 kg/acre",
+    "max_limit": "7 g/L (foliar)",
+    "content": "Application of NPK must be strictly limited to the safe range of 5 g/L (foliar) or 50 kg/acre to avoid environmental toxicity. Excessive usage beyond the 7 g/L (foliar) limit can result in immediate phytotoxicity, characterized by yellowing of leaves and significant yield loss in sensitive Indian crops. Farmers are advised to maintain a strict interval of 10-15 days between doses to ensure soil health and prevent chemical runoff during the monsoon season. Regular monitoring of crop response is essential for safety.",
+    "frequency_limit": "Monthly intervals for foliar",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_npk_002",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "NPK",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "5 g/L (foliar) or 50 kg/acre",
+    "max_limit": "7 g/L (foliar)",
+    "content": "For effective control, NPK should be applied at 5 g/L (foliar) or 50 kg/acre per liter of water. Exceeding the maximum threshold of 7 g/L (foliar) often leads to chemical burns on tender foliage, especially under high temperature conditions in central India. It is critical to follow the frequency limit of Monthly intervals for foliar to minimize the risk of pathogen resistance. Overdose not only damages the current crop but also disrupts the local ecosystem by harming beneficial soil microorganisms and predatory insects.",
+    "frequency_limit": "Monthly intervals for foliar",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_npk_003",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "NPK",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "5 g/L (foliar) or 50 kg/acre",
+    "max_limit": "7 g/L (foliar)",
+    "content": "Using NPK in the recommended dosage of 5 g/L (foliar) or 50 kg/acre is vital for sustainable agriculture in India. Going over the upper safe limit of 7 g/L (foliar) can cause cumulative soil damage and alter the pH balance, affecting future crop cycles. Farmers must wait at least two weeks before re-applying this chemical to prevent heavy residue accumulation on harvested produce. High temperatures above 35 degrees Celsius increase the risk of leaf burn when dosages are even slightly above the recommended range for these specific crops.",
+    "frequency_limit": "Monthly intervals for foliar",
+    "weather_constraints": {
+      "temperature_limit": "35\u00b0C",
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_npk_004",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "NPK",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "5 g/L (foliar) or 50 kg/acre",
+    "max_limit": "7 g/L (foliar)",
+    "content": "To prevent overdose and subsequent crop damage, NPK must be used at a rate of 5 g/L (foliar) or 50 kg/acre. The maximum limit of 7 g/L (foliar) should never be breached, as it initiates severe chlorosis and growth retardation in various cereal and vegetable crops. Adhering to the spray frequency of Monthly intervals for foliar is mandatory for managing resistance levels effectively. Proper calibration of spraying equipment is recommended to ensure uniform distribution and avoid localized patches of chemical concentration that could lead to localized toxicity and patchiness.",
+    "frequency_limit": "Monthly intervals for foliar",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_npk_005",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "NPK",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "5 g/L (foliar) or 50 kg/acre",
+    "max_limit": "7 g/L (foliar)",
+    "content": "Indian farmers are advised to use NPK within the safe bracket of 5 g/L (foliar) or 50 kg/acre. Exceeding the 7 g/L (foliar) dosage threshold triggers adverse physiological responses in plants, including stunted root development and reduced chlorophyll production. This chemical's application must be timed carefully, avoiding periods of heavy rainfall to prevent wash-off into water bodies. Following the Monthly intervals for foliar rule ensures that the chemical remains cost-effective while providing maximum protection without compromising the safety of the environment or the health of the consumers.",
+    "frequency_limit": "Monthly intervals for foliar",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": "Avoid before heavy rain"
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  },
+  {
+    "id": "dosage_npk_006",
+    "layer": "layer3",
+    "category": "dosage_limits",
+    "chemical": "NPK",
+    "application_type": "Fertilizer",
+    "crop": "General",
+    "region": "India",
+    "safe_range": "5 g/L (foliar) or 50 kg/acre",
+    "max_limit": "7 g/L (foliar)",
+    "content": "The prescribed dosage for NPK is 5 g/L (foliar) or 50 kg/acre, with a strict maximum limit of 7 g/L (foliar). Over-application beyond this point is known to cause severe leaf drop and fruit spotting, which can drop the market value of the harvest significantly. To ensure safety, a maximum of Monthly intervals for foliar should be observed throughout the cropping cycle. Farmers should prioritize soil testing before applying such high concentrations, especially during the Rabi season when lower humidity can concentrate the chemical on.",
+    "frequency_limit": "Monthly intervals for foliar",
+    "weather_constraints": {
+      "temperature_limit": null,
+      "rainfall_limit": null
+    },
+    "safety_notes": "Strict warning about overdose consequences. May cause phytotoxicity and soil damage.",
+    "source_type": [
+      "CIB",
+      "ICAR"
+    ]
+  }
+]

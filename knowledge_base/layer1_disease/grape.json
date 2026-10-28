@@ -1,0 +1,1568 @@
+[
+    {
+        "id": "grape_downy_mildew_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Early symptoms of Grape Downy Mildew (Plasmopara viticola) appear as yellowish, oily spots ('oil spots') on the upper surface of the leaves. During humid weather, a white, downy fungal growth consisting of sporangia and sporangiophores appears on the corresponding lower surface. As technical markers, these spots eventually turn necrotic and brown. If infection occurs early, the young shoots and tendrils become thickened and curled. In the 'berry' phase, infected young berries turn grayish-white and are covered with downy growth, eventually shriveling and turning dark brown (mummy berries).",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Distinguish from powdery mildew by checking for the 'downy' growth strictly on the lower surface in the early stages.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Plasmopara viticola is an obligate oomycete pathogen. In Indian vineyards, the primary infection is initiated by oospores that survive in fallen leaves and soil during the dry period. These oospores germinate in the presence of free water (monsoon rains) to produce macrosporangia, which release motile zoospores. These zoospores are splashed onto the lower leaves, where they encyst near stomata and infect the tissue. The '10-10-10' rule (10mm rain, 10C temperature, 10cm shoot growth) is a critical threshold for the first primary infection in regions like Maharashtra and Karnataka.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Free water (rain/dew) mandatory for zoospore movement",
+            "temperature_limits": "10-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Effective sanitation (removal of fallen leaves) is mandatory to reduce the primary oospore inoculum in the soil.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Reproductive",
+        "season": "Rabi",
+        "content": "Powdery mildew (Erysiphe necator) is characterized by a white-to-grayish powdery growth on both surfaces of the leaves, shoots, and young berries. Unlike downy mildew, this growth is superficial. Affected leaves may become distorted and stunted. The most critical damage occurs in the berries; young berries become covered with white mycelium, and as they grow, the skin loses elasticity and cracks, exposing the seeds. This 'berry cracking' is a diagnostic technical symptom that leads to secondary infections and complete crop loss in varieties like Thompson Seedless.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": "High humidity without rain is optimal; rain can actually wash away the spores",
+            "temperature_limits": "20-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Early morning scouting for white patches on the upper leaf surface is mandatory for early detection before the berry phase.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Rabi",
+        "content": "Chemical management of powdery mildew in Indian viticulture relies on sulfur-based products and systemic triazoles. Wettable sulfur (80% WP) at 2.0-3.0 g/L is the foundational preventative. For curative action, triazoles like Myclobutanil 10% WP at 0.4 g/L or newer chemistry like Fluopyram + Tebuconazole (Luna Experience) at 0.5 ml/L are highly effective. To prevent resistance, rotating these with strobilurins like Azoxystrobin is mandatory. These chemicals must be applied with high-pressure air-blast sprayers to ensure complete coverage of the dense grapevine canopy.",
+        "dosage_guidelines": {
+            "grams_per_liter": 0.5,
+            "grams_per_acre": 100,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Sulfur can cause phytotoxicity if temperatures exceed 32C",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Adhere strictly to CIB guidelines for MRL (Maximum Residue Limit) compliance, especially for export-quality grapes.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_anthracnose_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Grape",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Grape Anthracnose (Elsinoe ampelina), also known as 'bird's eye rot', manifests as small, circular, reddish-brown spots with gray centers and dark margins on leaves. On shoots and canes, the lesions are sunken and elliptical with grayish centers, often leading to 'pitting' of the wood. The most characteristic symptom is on the berries, where small, dark brown spots develop into circular lesions with ash-gray centers, resembling a bird's eye. Severely infected shoots often become brittle and break easily, and the 'shot-hole' appearance on leaves occurs as the necrotic centers drop out.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Pitting of the canes is a sign of permanent inoculum buildup; such canes must be removed during pruning.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_anthracnose_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Grape",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Dormancy to Vegetative",
+        "season": "Kharif",
+        "content": "For anthracnose, a dormant spray of 10% Ferrous Sulfate + 1% Sulfuric Acid is a traditional practice to burn off the overwintering sclerotia on canes. During the vegetative phase, protective sprays of Carbendazim 50% WP at 1.0 g/L or combination products like Carbendazim + Mancozeb (Saaf) at 2.0 g/L are effective. Newer systemic fungicides like Difenoconazole 25% EC at 0.5 ml/L provide excellent curative action during the rapid shoot growth phase of the Kharif season. Ensuring thorough coverage of the node areas is mandatory as this is where the pathogen first establishes.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Ensure at least 4 hours of dry weather after application",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Do not mix Ferrous Sulfate with other fungicides; it is a specialized dormant application only.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_bacterial_leaf_spot_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Grape",
+        "disease_or_issue": "Bacterial Leaf Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Bacterial Leaf Spot (Xanthomonas axonopodis pv. viticola) creates small, angular, water-soaked spots on the leaves that later turn black and necrotic. A key technical diagnostic is the 'yellow halo' surrounding the black spots. On shoots, it causes longitudinal black cankers, which can lead to vine dieback. On berries, the spots are initially circular and water-soaked, later turning black and causing the berries to crack or fail to ripen. This disease is particularly devastating in the Sangli and Nashik regions during heavy monsoon periods with high wind speeds.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High wind and rain splash are the primary dispersal mechanisms",
+            "temperature_limits": "25-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Bacterial spots are often Confused with anthracnose; the yellow halo and the black color (rather than brown) are distinguishing features.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_bacterial_leaf_spot_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Grape",
+        "disease_or_issue": "Bacterial Leaf Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Management of Xanthomonas in Indian vineyards is primarily through bacteriostatic chemicals. Streptocycline (90:10 Streptomycin sulfate-Tetracycline hydrochloride) at 100-200 ppm (0.1-0.2 g/L) is the most effective treatment. Combining this with Copper Oxychloride (COC) at 2.5 g/L provides a synergistic effect by creating a protective copper barrier on the leaf surface. It is mandatory to initiate sprays at the first sign of water-soaked spots on the lower leaves. Two to three sprays at 10-day intervals are typically required during the peak monsoon window to prevent systemic movement into the canes.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Avoid application during heavy rain; apply during dry spells in the monsoon",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Copper fungicides can cause russeting on some grape varieties if applied during the flowering stage.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_rust_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Grape",
+        "disease_or_issue": "Grape Rust",
+        "region": "India",
+        "growth_stage": "Post-Harvest",
+        "season": "Post-Monsoon",
+        "content": "Grape Rust (Cerotelium fici) appears as small, yellowish-orange pustules (uredinia) on the lower surface of the leaves. Corresponding yellow spots develop on the upper surface. In severe infections, the entire lower leaf surface is covered with orange-red dust (spores). This leads to premature defoliation of the vines. In the Indian context, rust is often a 'late-season' disease occurring after the main harvest, but it can significantly reduce the vine's ability to store reserves for the next season's growth, leading to weak sprouting in the subsequent Rabi prune.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 80,
+            "rainfall_restriction": null,
+            "temperature_limits": "18-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Do not ignore post-harvest rust; defoliation before the dormancy period weakens the vine's long-term health.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_rust_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Grape",
+        "disease_or_issue": "Grape Rust",
+        "region": "India",
+        "growth_stage": "Vegetative/Post-Harvest",
+        "season": "Post-Monsoon",
+        "content": "Foliar application of Chlorothalonil 75% WP at 2.0 g/L or Bitertanol 25% WP at 1.0 g/L is effective against cerotelium rust. In most Indian vineyard schedules, rust is managed concurrently with downy and powdery mildew. Combination fungicides like Pyraclostrobin + Metiram (Cabrio Top) at 1.5 g/L provide broad-spectrum control including rust. A single application at 12-15 day intervals during the high-humidity post-monsoon period is generally sufficient for preventing significant defoliation.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.5,
+            "grams_per_acre": 300,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 30
+        },
+        "weather_constraints": {
+            "humidity_threshold": 80,
+            "rainfall_restriction": "Rust spores require a thin film of water for germination",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Rotate with non-strobilurin fungicides to prevent buildup of resistant rust populations.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_downy_mildew_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Organic management of grape downy mildew in India emphasizes cultural sanitation and bio-agent application. Mandatory practice includes the removal and deep burial of fallen leaves and pruned twigs which harbor oospores. Foliar spray of Bordeaux mixture (1%) is the most important organic-approved preventative. Additionally, use of Trichoderma harzianum at 5-10 g/L as a foliar spray helps colonize the leaf surface and out-compete the pathogen. Integrating these with proper canopy management (thinning) to increase air circulation is mandatory to reduce the humidity levels that Plasmopara viticola thrives in.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Re-apply after heavy rain to maintain bio-agent population",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Bordeaux mixture can cause scorching if applied during extremely high temperatures (above 35C).",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Rabi",
+        "content": "For organic control of powdery mildew, foliar application of 0.5% Neem oil or 5% NSKE (Neem Seed Kernel Extract) acts as a physical barrier against spore attachment. Biological antagonists like Ampelomyces quisqualis, a hyperparasite of Erysiphe necator, should be applied at 5 g/L during periods of high humidity. Potassium bicarbonate (5 g/L) can also be used as a contact curative, as it creates an alkaline pH on the leaf surface that collapses the fungal hyphae. Maintaining an open canopy through regular shoot positioning and leaf removal around the clusters (bunch thinning) is the most critical cultural prevention step.",
+        "dosage_guidelines": {
+            "grams_per_liter": 5,
+            "grams_per_acre": 1000,
+            "spray_interval_days": 7,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": "Ensure 6-hour dry window after application",
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid high concentrations of bicarbonates which can leave white residues on table grapes, affecting marketability.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "For systemic protection against Downy Mildew in high-rainfall zones of India, dosage for Metalaxyl 8% + Mancozeb 64% WP is 2.5 g per liter of water. During the peak monsoon, newer chemistries like Dimethomorph 50% WP at 1.0 g/L or Iprovalicarb + Propineb (Melody Duo) at 2.0 g/L provide superior rain-fastness. It is mandatory to use a spray volume of 400-600 L/ha depending on the vine age. High-volume hydraulic sprayers or air-assisted boom sprayers are required to ensure that the fungicide reaches the cluster interior and the undersides of the leaves.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 30
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Apply at least 4 hours before expected rainfall",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Adhere to the 66-day safety interval for Metalaxyl if grapes are intended for export to the EU.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_anthracnose_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Grape",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Dormancy",
+        "season": "Kharif",
+        "content": "Prevention of anthracnose in Indian vineyards centers on the 'April pruning' (Kharif pruning) sanitation. Mandatory removal of all previous season's infected canes, dried leaves, and mummified berries from the vine and the ground is the first line of defense. Following pruning, a pasty application of Bordeaux paste (10%) on the cut ends and a single spray of 10% Ferrous Sulfate + 1% H2SO4 kills the overwintering sclerotia. Maintaining an open canopy through frequent 'nipping' of the lateral shoots prevents the buildup of the micro-humidity that allows Elsinoe conidia to germinate.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain balanced Nitrogen (N) levels; excessive N leads to succulent growth that is highly susceptible to anthracnose pitting.",
+        "safety_notes": "Handle sulfuric acid with extreme care and wear protective gear during dormant spray preparation.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Pre-bloom to Fruit Set",
+        "season": "Rabi",
+        "content": "Timing for powdery mildew control is most critical between the '3-leaf stage' and 'fruit set'. In the Indian Rabi season, this usually falls in November-December. If the temperature remains between 20C and 28C with minimal morning dew, a preventative spray must be initiated even if symptoms are not yet visible. Delayed application (after fruit set) often results in berry cracking, which is irreversible. A second critical window occurs during the 'sugar accumulation' (veraison) phase, as the cluster is once again vulnerable to late-season infection if night temperatures drop and humidity rises.",
+        "dosage_guidelines": {
+            "grams_per_liter": 0.5,
+            "grams_per_acre": 100,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": "Most active during dry, cloudy days",
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Scout the interior of the cluster daily after fruit set; once 'dusting' is seen on the berries, curative options are limited.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_bacterial_leaf_spot_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Grape",
+        "disease_or_issue": "Bacterial Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Prevention of Xanthomonas in Indian vineyards is mandatory through 'clean planting material'. Using cuttings only from certified, bacteria-free nurseries in non-endemic regions is the foundation. Cultural practices include avoiding high-pressure irrigation (sprinklers) that splashes bacteria and removing all infected plant parts as soon as symptoms appear. In areas with high wind risk, planting windbreaks around the vineyard can reduce the physical micro-wounds that allow bacterial entry. A 3% Neem oil spray during the monsoon withdrawal phase creates a physical barrier that may reduce the rate of new infections.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "25-35C",
+            "wind_speed_limit": 15
+        },
+        "soil_adjustment": "Avoid excess nitrogen during the monsoon, which promotes soft leaf tissue prone to bacterial penetration.",
+        "safety_notes": "Discard pruning tools after use on infected vines or sanitize them in 1% potassium permanganate solution.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_fanleaf_virus_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Grape",
+        "disease_or_issue": "Fanleaf Virus",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "Grapevine Fanleaf Virus (GFLV) symptoms include a characteristic 'distortion' of the leaves, which become fan-shaped with abnormally wide open petiolar sinuses and sharp teeth. This is often accompanied by yellow mottling (chrome-yellow) or 'vein banding' along the primary leaf veins. Technical indicators include shortened internodes (zigzag growth) and poor fruit set (millerandage), where the clusters are small and contain many seedless berries. These symptoms are most pronounced in the early spring/summer flush and may become masked as temperatures rise above 35C.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Virus is transmitted by the nematode Xiphinema index; soil testing for nematodes is mandatory before replanting infected vineyards.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_black_rot_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Grape",
+        "disease_or_issue": "Black Rot",
+        "region": "India",
+        "growth_stage": "Vegetative to Berry Maturation",
+        "season": "Kharif",
+        "content": "Black Rot (Guignardia bidwellii) symptoms initially appear as small, circular, tan spots on the leaves with dark brown borders. As the spots age, tiny black dots (pycnidia) appear arranged in a ring. On berries, the infection starts as a small whitish point that rapidly expands to cover the entire berry, which turns brown and then shrivels into a hard, black, wrinkled mummy. These mummies remain firmly attached to the cluster. This mummification is a critical technical differentiator from other fruit rots; the presence of pycnidia on the surface of the mummy confirms the diagnosis.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Early removal of mummified berries is mandatory as they are the primary source of overwintering ascospores.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Weather conditions for Grape Downy Mildew in India are strictly governed by the '3x10' Rule: 10mm of rainfall, 10C minimum temperature, and 10cm of new shoot growth. Epidemic development requires a high relative humidity (above 90%) and leaf wetness duration of at least 2-4 hours for sporangia germination. In regions like Nashik, the 'cloudy-wet' spells during June-July are the highest risk periods. If temperatures rise above 30C during the day with low humidity, the sporulation is suppressed, but the pathogen can survive and re-activate as soon as the next rain event occurs.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High dependency on 'monsoon splash' for primary infection",
+            "temperature_limits": "10-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Monitor the weather forecast for 'continuous drizzle' periods, which are more dangerous than short heavy downpours for downy mildew spread.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Rabi",
+        "content": "Unlike downy mildew, Grape Powdery Mildew in India (Rabi season) thrives in 'dry-humid' conditions. Optimal development occurs at temperatures between 20C and 27C with relative humidity between 40% and 100%. Direct sunlight inhibits the fungus, which is why the disease is most severe in the shaded interior of dense vine canopies. Rainfall is actually detrimental to the pathogen as it can physically wash away the conidia and cause them to burst. In the Sangli-Solapur belt, the peak infection window is during the cloudy days of December-January when the canopy is most dense and the air is still.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": "Spore germination inhibited by direct liquid water on leaf",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid the misconception that absence of rain means absence of mildew; the Rabi season is the peak danger phase for Erysiphe necator.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_anthracnose_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Grape",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Anthracnose in Indian vineyards is highly sensitive to 'saturated humidity'. Epidemics are triggered when rainfall is frequent and the relative humidity remains above 85% for several days. The conidia are produced in acervuli only when the surface is wet. Temperatures between 20C and 30C are optimal. In the humid tropical climate of Southern India, the disease can persist year-round if moisture is available. High-velocity winds during monsoon storms significantly increase the rate of spread by causing leaf-to-leaf contact and creating micro-wounds through which the fungus enters.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Required for inoculum splash and tissue penetration",
+            "temperature_limits": "15-35C",
+            "wind_speed_limit": 15
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Post-monsoon pruning (October) is a critical time to scout for anthracnose lesions on the canes that may have survived the Kharif rains.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_bacterial_leaf_spot_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Grape",
+        "disease_or_issue": "Bacterial Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Xanthomonas in Indian grapes is a 'storm-driven' disease. The bacteria enter the plant through stomata or wounds caused by wind, hail, or mechanical injury. High temperatures (25-35C) combined with excessive rainfall and wind speeds above 10 km/h are the primary drivers of outbreaks. In the Hyderabad and Bijapur regions, the disease is most severe during the 'monsoon waves' when several days of continuous wind-rain complexes occur. Unlike fungal pathogens, the bacteria can multiply extremely rapidly within the water film on the leaf surface during these periods.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High correlation with 'heavy rain + strong wind' events",
+            "temperature_limits": "20-40C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "If a hail storm occurs, a preventative bactericidal spray within 12 hours is mandatory to protect the fresh wounds.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_rust_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Grape",
+        "disease_or_issue": "Grape Rust",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Post-Monsoon",
+        "content": "Grape rust (Cerotelium fici) in India is favored by moderate temperatures (18-28C) and high relative humidity (above 80%). The transition period between the end of the monsoon and the beginning of the winter (September-October) is the peak period for rust in Maharashtra. Heavy dew during the early morning hours provides the necessary liquid water film for the yellow urediniospores to germinate and infect. If night temperatures drop below 12C, the rate of infection slows down significantly, making the disease less of a threat during the core winter months.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 80,
+            "rainfall_restriction": "High dependency on 'morning dew duration'",
+            "temperature_limits": "12-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Monitor the 'dew duration' using sensors if available; more than 6 hours of dew is a high-risk indicator for rust.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_black_rot_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Grape",
+        "disease_or_issue": "Black Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Weather constraints for Grape Black Rot focus on the continuous leaf wetness duration. At temperatures of 20-25C, only 7 hours of leaf wetness are required for infection. If the temperature rises to 27C, infection can occur with only 6 hours of wetness. In the high-rainfall belts of the Konkan and parts of Kerala where grapes are grown, the long duration of wet canopy during the monsoon makes black rot a persistent threat. The pathogen's ascospores are released from the mummified berries on the ground shortly after the first rains begin in June.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Required for primary ascospore release and secondary conidia spread",
+            "temperature_limits": "10-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Remove the mummies from the ground before the first monsoon shower to break the primary infection cycle.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_soil_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "soil_adjustment",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Soil management for downy mildew in India focuses on reducing the humidity at the vine base. Maintaining a weed-free basin and using organic mulches that improve drainage are mandatory. Soil application of Potash (K) to maintain a leaf K:Mg ratio of 2:1 helps in thickening the leaf cuticle, providing physical resistance against zoospore penetration. In the heavy black soils (Vertisols) of Maharashtra, improving vertical drainage through sub-soiling is required to prevent waterlogging, which otherwise creates a humid micro-climate near the ground level that triggers oospore germination.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "10-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Apply Potassium Sulfate (K2SO4) through fertigation at 5-10 kg/acre during the fruit set stage to enhance systemic resistance.",
+        "safety_notes": "Avoid excessive Nitrogen application during the monsoon; soft, fast-growing tissue is most vulnerable to Plasmopara.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_fanleaf_virus_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Grape",
+        "disease_or_issue": "Fanleaf Virus",
+        "region": "India",
+        "growth_stage": "Pre-planting",
+        "season": "All",
+        "content": "The most critical prevention for Grape Fanleaf Virus (GFLV) is soil-based. Mandatory soil testing for the nematode vector (Xiphinema index) must be done before planting new vines. If nematodes are present, the land must be left fallow or planted with non-host crops for at least 3-4 years to ensure the nematode population dies out. Using resistant rootstocks like 110R or Dogridge, while widely used in India for salinity tolerance, provides only partial protection; absolute prevention requires using 'Virus-Free' certified planting material originated from tissue culture meristem propagation.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Soil solarization for 4-6 weeks during the peak Indian summer (May) can significantly reduce the population of Xiphinema index in the upper 20cm of soil.",
+        "safety_notes": "Nematodes can travel through irrigation water; ensure the water source for the nursery is also testing negative for daggger nematodes.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_dosage_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Veraison (Sugar Accumulation)",
+        "season": "Rabi",
+        "content": "For late-season powdery mildew management on berries in India, use of specialized fungicides like Penconazole 10% EC at 0.5 ml/L or Tetraconazole 3.8% w/w (4% w/v) EW at 0.75 ml/L is recommended. These are dosed to provide curative action against the fungal mycelium growing on the berry surface. A spray volume of 600-800 L/ha is mandatory for thorough cluster coverage. To avoid residue issues during export, these should be applied no later than 30 days before the anticipated harvest date. Sulfur dusting (at 10-15 kg/acre) is a fallback option but may leave visible residues on table grapes.",
+        "dosage_guidelines": {
+            "grams_per_liter": 0.5,
+            "grams_per_acre": 100,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 30
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": "Ensure dry weather for at least 8 hours to allow for systemic uptake",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Check for fruit sensitivity to triazoles in certain varieties (e.g., Red Globe) before large-scale application.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_downy_mildew_stage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Pre-bloom to Fruit Set",
+        "season": "Kharif/Rabi",
+        "content": "The 'Pre-bloom' to 'Fruit Set' period is the most critical stage for Grape Downy Mildew in India. Infection during this stage can lead to total crop loss as the pathogen aggressively colonizes the flower clusters (rachis), causing them to turn brown and shrivel. This is called 'Bunch Downy'. Even if the berries have already formed, they remain highly susceptible until they reach 4-5 mm in size. Once berries are larger, they develop 'ontogenic resistance' as the stomata on the berry surface become non-functional lenticels, but the rachis and the leaves remain susceptible throughout the season.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High risk of 'Bunch Downy' during monsoon pre-bloom stage",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Focus the spray strictly on the cluster zone during this growth stage to ensure maximum protection of the future yield.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_cause_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Secondary spread of Plasmopara viticola in Indian vineyards is driven by sporangia produced on the lower leaf surface. These sporangia are highly sensitive to sunlight and dehydration; they are typically produced during the night when humidity exceeds 95% and are released as the humidity drops in the morning. Wind then carries these sporangia to neighboring vines. Once they land on a wet leaf, they release 50-100 motile zoospores. This 'explosive' second-cycle potential is why downy mildew can cover an entire 10-acre vineyard in less than 48 hours during the monsoon.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Chemical intervention must target the morning 'spore-release' window to be most effective at preventing secondary infection.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Rabi",
+        "content": "Erysiphe necator, the powdery mildew fungus, is an ectoparasite that lives mostly on the outside of the grape tissue, sending specialized roots called haustoria into the host cells to extract nutrients. In the Indian Rabi season, the fungus produces massive quantities of conidia which give the characteristic 'powdery' appearance. These conidia do not require free water to germinate; in fact, they can germinate at relative humidity as low as 40%. The pathogen overwinters as mycelium inside the dormant 'flag shoots' (infected buds), which provide the primary inoculum for the next season's growth.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": "Dry, overcast weather is optimal for conidia survival",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Early removal of 'flag shoots' during the first week of sprouting is mandatory to reduce the primary infection pressure.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_anthracnose_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Grape",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "The fungus Elsinoe ampelina causes anthracnose in Indian grapes. It produces two types of spores: sexual ascospores and asexual conidia. The conidia are produced in a sticky mass within the acervuli, which requires splashing rain or heavy dew for dissemination. The fungus survives the dry season as sclerotia or dormant mycelium within the 'pitted' lesions on the canes. When warm, wet weather returns during the April pruning phase, these sclerotia germinate to produce new conidia, initiating the Kharif disease cycle. This survival mechanism makes the pathogen extremely persistent once established in an older vineyard.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Canes with deep 'pitting' must be pruned out and burned; do not use them for composting or as mulch.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_bacterial_leaf_spot_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Grape",
+        "disease_or_issue": "Bacterial Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Xanthomonas axonopodis pv. viticola is the bacterium responsible for this disease in India. It is a highly host-specific pathogen that survives primarily on the vine in cankers on the canes or on the leaf surface. The bacteria are spread within and between vineyards by wind-blown rain and irrigation water. They gain entry through natural openings like stomata and hydathodes or through mechanical wounds and insect feeding sites. Once inside the tissue, the bacteria multiply in the intercellular spaces, producing xanthan gums that block the vascular flow and cause the characteristic angular, water-soaked lesions.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Spreads rapidly during monsoon storms with wind speeds > 15 km/h",
+            "temperature_limits": "25-38C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The bacteria can also be spread by pruning shears; dip tools in 1% sodium hypochlorite after working on a suspected vine.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_black_rot_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Grape",
+        "disease_or_issue": "Black Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Guignardia bidwellii, the causal fungus of Black Rot, overwinter as mummified berries containing fruiting bodies (perithecia). In the spring or early monsoon, in the presence of water, these perithecia release ascospores into the air. These ascospores are the primary inoculum that infects the young leaves. Subsequently, the fungus produces pycnidia on the leaf spots, which release conidia for social secondary spread. The disease cycle is relatively slow compared to downy mildew, but the fungus is extremely efficient at mummifying the fruit, ensuring its survival for the next season.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Required for both primary and secondary spore release",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Mummified berries on the ground are the 'engine' of this disease; removal is the most effective preventative measure.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_prevention_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Cultural prevention of downy mildew in Indian viticulture focuses on canopy aeration and water management. Maintaining a high 'leaf-to-cluster' ratio while ensuring that the bunches are not masked by excessive foliage is mandatory. Use of training systems like the 'Y-Trellis' provides better air circulation than the traditional 'Bower' system in high-humidity zones. If possible, avoid flood irrigation during the monsoon withdrawal phase; use drip irrigation to keep the canopy and the ground surface around the trunk dry, which prevents the secondary splash of conidia from the ground to the lower leaves.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain soil phosphorus levels; deficiency can lead to early senescence and increased susceptibility of the leaves.",
+        "safety_notes": "Scout the lower leaves of the vines periodically (7 AM to 10 AM) to look for the first 'oil spots'.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_prevention_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Reproductive",
+        "season": "Rabi",
+        "content": "Prevention of powdery mildew during the fruit-set stage focuses on'cluster exposure'. Mandatory removal of the two leaves closest to each cluster (leaf thinning) improves air movement and ensures that sulfur dust or triazole sprays can reach the berry surface directly. In the Rabi season, applying a 1% Sulfur dust on the bower (overhead trellis) creates a 'sulfur cloud' that inhibits spore germination within the shaded interior. Avoiding excessive vine vigor through balanced nitrogen fertilization is also required, as dense, succulent growth is the ideal habitat for Erysiphe conidia.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Be careful with late-season sulfur application on table grapes intended for cold storage, as it can cause bleaching or off-flavors.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_anthracnose_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Grape",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "April Pruning",
+        "season": "Kharif",
+        "content": "A critical timing for anthracnose management in India is within 48 hours following the 'April Pruning'. The fresh pruning wounds are the primary entry points for the first wave of fungal conidia released by early monsoon showers. A prophylactic spray of Copper Oxychloride (2.5 g/L) immediately after pruning is mandatory. A second critical timing occurs when the new shoots are 10-15 cm long; if the humidity is above 85%, a systemic triazole spray should be applied to protect the tender nodes from the 'pitting' that causes long-term damage to the vine's structural integrity.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Critical window is during the first monsoon showers",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Do not skip the post-pruning spray even if the weather appears dry; the goal is to seal the wounds against any latent inoculum.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_safety_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "safety_notes",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Safety protocols for chemical downy mildew control in Indian vineyards emphasize managing chemical resistance and residue. It is mandatory to switch between fungicide groups (e.g., Phenylamides like Metalaxyl and Carboxylic Acid Amides like Dimethomorph) to prevent the pathogen from developing resistance. For grapes being grown for the 'Residue-Free' or export markets, all systemic applications must cease at the 'pea-sized' berry stage. Post that, only contact fungicides like Copper-based products or Potassium phosphonate should be used, adhering strictly to the Pre-Harvest Interval (PHI) as specified in the CIB Grapenet portal.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "10-38C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Always check the current PHI (Pre-Harvest Interval) for each chemical on the APEDA Grapenet portal before the final sprays.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_bacterial_leaf_spot_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Grape",
+        "disease_or_issue": "Bacterial Leaf Spot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Dosage for bacterial leaf spot management in India involves the use of antibiotic-copper combinations. The recommended dose for Streptocycline is 100 mg per 1 liter (100 ppm) of water. This should be tank-mixed with Copper Oxychloride 50% WP at 2.5 grams per liter. For high-intensity outbreaks, the Streptocycline dose can be safely increased to 200 ppm, but it must not exceed this level to avoid phytotoxicity on young leaves. A spray volume of 500 liters/ha is required for full canopy coverage. It is mandatory to apply this as a coarse spray to ensure it penetrates the stomatal openings where the bacteria reside.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.6,
+            "grams_per_acre": 520,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure at least 6 hours of dry weather for the antibiotic to be absorbed",
+            "temperature_limits": "20-38C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Streptocycline is only for use against bacterial pathogens; it has zero efficacy against fungal mildews or anthracnose.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Post-Pruning",
+        "season": "Kharif",
+        "content": "Timing for the first preventative spray of downy mildew in India is critical during the first 15 days after the 'April Pruning'. As soon as the new shoots reach 10 cm in length (3-5 leaf stage) and the first monsoon showers occur, a protective spray of Copper Oxychloride (2.5 g/L) or a combination of Iprovalicarb + Propineb must be applied. Delaying this first application until oil spots are visible on the leaves often leads to 'Bunch Downy' at the flowering stage, which is far more difficult to control and directly impacts yield.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Critical to apply just before or immediately after the first monsoon shower",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Scout the vineyard at sunrise; symptoms of downy mildew (oil spots) are most diagnostic in early morning light.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_soil_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "soil_adjustment",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Rabi",
+        "content": "Soil nutritional balance in Indian viticulture directly influences powdery mildew susceptibility. Soils high in available Nitrogen (N) promote rank, succulent growth which is highly attractive to Erysiphe necator. It is mandatory to maintain soil Potash (K) levels at 300-400 kg/ha to ensure early leaf maturation and a thicker cuticle. Additionally, soil application of Silicon-based fertilizers (25 kg/ha) has been shown to be deposited in the epidermal cells, creating a physical barrier that prevents the fungal haustoria from successfully penetrating the host cells.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Apply Potassium Schoenite (K-Mg-S) to ensure that trace element deficiencies do not weaken the vine's natural resistance mechanisms.",
+        "safety_notes": "Avoid late-season excessive Nitrogen fertigation, especially as the canopy becomes dense during the Rabi season.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_anthracnose_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Grape",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "For anthracnose (Elsinoe ampelina) management in Indian vineyards, the standardized dosage for Carbendazim 12% + Mancozeb 63% WP is 2.0 grams per liter of water. In cases of acute pitting on young canes, a curative spray of Difenoconazole 25% EC at 0.5 ml/L is required. It is mandatory to use a spray volume of 500 L/ha for full grown vines. For the dormant spray used during April pruning, the Ferrous Sulfate dosage is 100 grams per liter (10% solution), mixed with 10 ml of concentrated Sulfuric acid per liter, applied strictly to the woody parts only.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.0,
+            "grams_per_acre": 400,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Ensure at least 6 hours of rain-free weather following Carbendazim application",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Sulfuric acid must be added to water, never water to acid, during the preparation of the dormant spray solution.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_bacterial_leaf_spot_stage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Grape",
+        "disease_or_issue": "Bacterial Leaf Spot",
+        "region": "India",
+        "growth_stage": "Veraison (Sugar Accumulation)",
+        "season": "Kharif",
+        "content": "Stage-specific vulnerability to Xanthomonas is highest during the late Kharif season when berries are near veraison. Infection at this stage causes the berries to develop dark, cracking lesions that render them unfit for the table grape market. Systemic movement of the bacteria from leaf spots to the pedicel (berry attachment point) often results in 'berry drop'. Management during this stage must rely strictly on Copper-based contact bactericides as antibiotics like Streptocycline have long PHIs and should be avoided close to harvest to prevent residue violations.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High damage potential during 'unseasonal late-monsoon rain' events",
+            "temperature_limits": "25-35C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Berries that have already cracked due to bacterial spot must be removed manually to prevent subsequent fruit fly infestations.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_rust_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Grape",
+        "disease_or_issue": "Grape Rust",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Post-Monsoon",
+        "content": "Prevention of Grape Rust in India focuses on managing the 'green bridge' between seasons. Rust (Cerotelium fici) spores can survive on alternative hosts such as garden Fig (Ficus carica). It is mandatory to remove any wild fig plants near the vineyard. Cultural practices like avoiding excessive trellis density help keep the lower canopy humidity below 80%, which is the threshold for rust pustule eruption. In vulnerable varieties like Vitis vinifera hybrids, a preventative spray of Chlorothalonil should be applied at the end of the monsoon even if no symptoms are observed, as the disease is polycyclic and builds up rapidly.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.0,
+            "grams_per_acre": 400,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 80,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain soil magnesium (Mg) levels; deficiency often mimics rust-induced chlorosis, leading to incorrect diagnosis.",
+        "safety_notes": "Rust pustules release millions of spores; avoid walking through infected blocks during the morning when dew is drying, as this facilitates spread.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_black_rot_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Grape",
+        "disease_or_issue": "Black Rot",
+        "region": "India",
+        "growth_stage": "Vegetative to Fruit Set",
+        "season": "Kharif",
+        "content": "For managing Black Rot (Guignardia bidwellii) in humid Indian viticulture zones, the dosage for Azoxystrobin 23% SC is 1.0 ml per liter. Another effective systemic option is Myclobutanil 10% WP at 0.4 grams per liter. It is mandatory to start applications at the bunch emergence stage and continue at 12-day intervals until berries are 5mm in diameter. Ensure that the clusters receive full hydraulic coverage. For organic vineyards, the dosage for Copper Oxychloride is 2.5 g/L, which provides good surface protection but requires re-application after every significant rain event.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Spore release is triggered by 1-2 mm of rain",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Do not wait for berry mummification; the target is the invisible primary infection on the young leaves and flower clusters.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_powdery_mildew_organic_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Reproductive",
+        "season": "Rabi",
+        "content": "An advanced organic management strategy for powdery mildew in India involves the use of 'Milk Sprays' or Whey. Raw milk diluted at 1:10 with water creates an environment where free radicals are produced under sunlight that collapse the Erysiphe spores. Additionally, use of Bacillus subtilis specialized formulations at 10 ml/L provides biological antagonism. It is mandatory to maintain an open canopy (Bower system thinning) so that UV light can reach the interior of the vine, as UV-B radiation is naturally detrimental to the surface-dwelling powdery mildew fungus.",
+        "dosage_guidelines": {
+            "grams_per_liter": 100,
+            "grams_per_acre": 20000,
+            "spray_interval_days": 7,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": "Ensure bright sunny weather for maximum efficacy of milk-based sprays",
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Milk sprays should not be used on grapes intended for very long-term cold storage due to potential odor issues.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_dosage_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Post-Monsoon",
+        "content": "For late-season downy mildew management during the October-Pruning sprout in India, the dosage for Cymoxanil 8% + Mancozeb 64% WP is 2.5 grams per liter. This combination provides a strong kick-back (curative) action alongside protective coverage. Another specialized dosage for high humidity periods is Mandipropamid 23.4% SC at 0.8 ml per liter. A spray volume of 400-500 L/ha is mandatory. These dosages are calibrated to manage the rapid secondary spread that occurs during the monsoon withdrawal showers.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 8,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Mandipropamid is exceptionally rain-fast (2 hours)",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Cymoxanil has a short residual life (3-4 days); ensure a tight spray schedule if used during active disease cycles.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_fanleaf_virus_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Grape",
+        "disease_or_issue": "Fanleaf Virus",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Grapevine Fanleaf Virus (GFLV) is a Nepovirus transmitted by the soil-dwelling dagger nematode Xiphinema index. In India, the virus is also frequently spread through vegetative propagation of infected cuttings. The virus resides in the plant's vascular system and cannot be controlled by chemical sprays. The nematode vector acquires the virus by feeding on the roots of an infected vine and can retain it for several months. Once introduced into a vineyard soil, the GFLV-nematode complex creates 'patches' of declining vines that slowly expand each year as the nematodes move through the soil water.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "10-38C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Soil health must be maintained with high organic matter to support predatory nematodes that compete with Xiphinema.",
+        "safety_notes": "The virus is not spread by pruning tools like bacterial leaf spot, but machinery can move the GFLV-carrying nematodes via muddy tires.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_organic_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "An alternative organic preventative for Downy Mildew in India is foliar application of Potassium Phosphonate (0.4%). While not a direct fungicide, it acts as a 'Plant Defense Inducer' (PDI), stimulating the vine's systemic acquired resistance (SAR). Use of sea-weed extracts (2 ml/L) or Humic acid (5 ml/L) during the vegetative flush also improves the general resilience of the vines. It is mandatory to combine these with strict cultural hygiene: weeding the 'bunds' (embankments) around the vineyard to remove alternative host plants and ensuring that the lower 30cm of the vine trunk is kept clear of leaves to minimize ground-to-canopy splash.",
+        "dosage_guidelines": {
+            "grams_per_liter": 4,
+            "grams_per_acre": 800,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Potassium Phosphonate is highly effective as a preventative but has zero curative action once sporangia are visible.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_timing_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Pre-harvest",
+        "season": "Rabi",
+        "content": "Timing for 'late-clearing' powdery mildew sprays in India is mandatory during the February-March window for late-pruned vineyards. Even if the berries are near maturity, a sudden rise in day temperatures above 25C with high evening humidity can trigger a 'surface explosion' of Erysiphe mycelium. This late infection does not cause cracking but affects the cosmetic appearance and shelf life. Using safe, low-residue chemistries like Potassium Bicarbonate or specialized biologicals is mandatory at this stage to ensure MRL compliance for the end consumer.",
+        "dosage_guidelines": {
+            "grams_per_liter": 5.0,
+            "grams_per_acre": 1000,
+            "spray_interval_days": 7,
+            "pre_harvest_interval_days": 1
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Do not use sulfur dust within 15 days of harvest if the grapes are for wine making, as it can interfere with the fermentation process.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_stage_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Post-Harvest (Kharif Pruning Sprout)",
+        "season": "Post-Monsoon",
+        "content": "Stage-specific management of downy mildew after the Kharif harvest (June-July) is often neglected in India, but it is critical for the next year's productivity. The new vegetative flush that occurs after harvest must be protected to ensure that the vine can store enough carbohydrates in the canes. If the vines are defoliated by downy mildew during August-September, the 'foundation pruning' (October) will result in weak, uneven sprouting and poor bunch counts for the following Rabi season.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 15,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Critical during the receding monsoon showers",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Even if there is no fruit on the vine, maintaining leaf health until the October pruning is mandatory for long-term vineyard health.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_anthracnose_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Grape",
+        "region": "India",
+        "disease_or_issue": "Anthracnose",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Organic anthracnose management in India relies heavily on preventive copper applications and mineral balance. Regular foliar sprays of 1% Bordeaux mixture provide a strong protective layer that inhibits Elsinoe conidia germination. Use of 'Dashparni Ark' (a 10-leaf fermented herb extract) at 20 ml/L is also common in Indian natural farming to increase plant immunity. Mandatory cultural prevention involves 'Niiping' of the growing tips during the monsoon to prevent them from trailing on the ground, where soil-borne inoculum can easily splash-infect the tender young tissue.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Bordeaux mixture should be freshly prepared; stale mixture loses its adhesive properties and efficacy against anthracnose.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_bacterial_leaf_spot_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Grape",
+        "disease_or_issue": "Bacterial Leaf Spot",
+        "region": "India",
+        "growth_stage": "Rapid Shoot Growth",
+        "season": "Kharif",
+        "content": "The window for bacterial leaf spot timing is most critical during 'high-wind monsoon days' in July and August. In the Indian context, the bacteria spread rapidly when rainfall is accompanied by winds exceeding 10 km/h. Prophylactic sprays of Copper Oxychloride must be timed to precede these storm events. If a Vineyard experiences hail, a 'within-6-hour' spray of Streptocycline (100 ppm) is mandatory to seal the microscopic wounds before the Xanthomonas bacteria can colonize the damaged leaf and shoot tissue.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 7,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure at least 4 hours of drying time for copper to fix to the leaf surface",
+            "temperature_limits": "25-35C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Monitor the wind direction; bacterial spot often spreads 'downwind' from an initial infection focus in the vineyard.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_rust_stage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Grape",
+        "disease_or_issue": "Grape Rust",
+        "region": "India",
+        "growth_stage": "Leaf Senescence (Pre-Dormancy)",
+        "season": "Post-Monsoon",
+        "content": "Stage-specific rust impact is most severe during the 'leaf-aging' phase in October. As the leaves naturally begin to senesce before the foundation pruning, they become technically more susceptible to Cerotelium fici. In India, this late-season rust can cause premature leaf drop, which triggers the vine to attempt a new sprout before the actual pruning date. This 'false sprout' wastes the energy reserves (starch) stored in the canes. Management must focus on keeping the foundation leaves healthy until the intended pruning date to ensure a high-quality Rabi crop.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.0,
+            "grams_per_acre": 400,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 80,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Differentiate rust from late-season downy mildew; rust produces orange-yellow dust, whereas downy mildew produces white growth on the lower surface.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_black_rot_prevention_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Grape",
+        "region": "India",
+        "disease_or_issue": "Black Rot",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Long-term prevention of Black Rot in Indian vineyards requires a 'soil-sanitation' approach. Beyond removing clusters, any wild Vitis species or host weeds growing on the vineyard perimeter must be eradicated. Maintaining a clear space between the lowest wire of the trellis and the ground is mandatory to prevent ascospores from splashing directly onto the fruit zone. In regions with a history of black rot, early-season protective sprays of Mancozeb (2.5 g/L) are highly effective at suppressing the primary leaf-spot phase before the fruit becomes susceptible.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 60
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Incorporate organic matter into the soil post-harvest to speed up the decomposition of any missed mummified berries.",
+        "safety_notes": "Do not leave mummified fruit on the trellis; they are more dangerous than those on the ground as they are perfectly positioned for rain-splash onto new clusters.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_fanleaf_virus_stage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Grape",
+        "disease_or_issue": "Fanleaf Virus",
+        "region": "India",
+        "growth_stage": "Sprouting (Bud-burst)",
+        "season": "All",
+        "content": "Stage-specific detection of GFLV is easiest during the first 30 days of sprout growth. In Indian vineyards, the zig-zag growth, fan-like leaves, and characteristic chrome-yellow mottling are most visible when the tissue is young and the air temperatures have not yet reached the summer peak of 40C. As the season progresses into the hot summer months (March-May), these viral symptoms often become 'masked' or less distinct, even though the virus is still present and actively reducing the vine's health and fruit set potential.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Tag symptomatic vines during the spring flush for later removal or testing; do not rely on late-season symptom observation.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_downy_mildew_soil_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "soil_adjustment",
+        "crop": "Grape",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Dormancy",
+        "season": "All",
+        "content": "Soil application of Copper-based salts during the dormant period is a technique used in some Indian vineyards to reduce the viable population of oospores in the topsoil. While foliar protection is primary, deep-plowing the fallen leaves early in the season to a depth of 15cm effectively buries the oospores, preventing them from reaching the surface where they could germinate. Maintaining high soil biological activity (through vermicompost) aids in the natural degradation of the fungal cell walls of the overwintering oospores, reducing the primary inoculum pressure for the next Kharif season.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "10-40C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Soil application of Trichoderma viride (2 kg/acre) mixed with farmyard manure helps in the biological suppression of soil-borne fungal stages.",
+        "safety_notes": "Do not over-apply copper to the soil as it can lead to heavy-metal toxicity and inhibit beneficial soil microbial life over long periods.",
+        "source_type": "NRCG"
+    },
+    {
+        "id": "grape_powdery_mildew_dosage_003",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Grape",
+        "disease_or_issue": "Powdery Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Rabi",
+        "content": "A high-precision dosage for powdery mildew management in Indian vineyards is the use of Metrafenone 300 g/l SC at 0.25 to 0.3 ml per liter. This chemical has a unique mode of action ('vapour phase' activity) that allows it to reach the internal shadowed parts of the canopy. It is mandatory to use a spray volume of 600 L/ha for full canopy penetration. For the early 'bud-break' stage, a lower dosage of Wettable Sulfur (2 g/L) is sufficient, but as the vine enters the rapid vegetative stage in November, the transition to systemic triazoles or newer benzophenones like metrafenone is mandatory for reliable control.",
+        "dosage_guidelines": {
+            "grams_per_liter": 0.3,
+            "grams_per_acre": 60,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 30
+        },
+        "weather_constraints": {
+            "humidity_threshold": 40,
+            "rainfall_restriction": "Vapour phase activity is most effective in still air",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Rotate with Flusilazole or Tebuconazole to maintain the effectiveness of the newer metrafenone chemistry.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "grape_anthracnose_stage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Grape",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Early Shoot Development (up to 40 days)",
+        "season": "Kharif",
+        "content": "Anthracnose vulnerability is highest during the first 40 days of shoot development in the Kharif season. During this stage, the tissues are extremely succulent and have a thin cuticle, making it easy for Elsinoe spores to penetrate via rain-splash. If 'pin-head' sized spots appear on the shoots during this window, it is mandatory to apply a systemic curative immediately. If the infection is allowed to progress past this stage into the 'cane-hardening' phase, the fungus becomes embedded in the wood (pitting), creating a semi-permanent reservoir of inoculum that will persist for the life of the vine.",
+        "dosage_guidelines": {
+            "grams_per_liter": 0.5,
+            "grams_per_acre": 100,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The goal is to stop the 'pitting' before the wood hardens; curative sprays are far less effective once lesions have sunken into the xylem.",
+        "source_type": "NRCG"
+    }
+]

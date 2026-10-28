@@ -1,0 +1,69 @@
+--- GEMINI START ---
+[2026-04-05 17:02:46] [LLMService] [INFO] Gemini status: 429
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+    stream.write(msg + self.terminator)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 67: character maps to <undefined>
+Call stack:
+  File "C:\Users\LENOVO\Downloads\CAPSTONE PROJECT\debug_llms.py", line 21, in <module>
+    asyncio.run(debug_llms())
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\LENOVO\Downloads\CAPSTONE PROJECT\debug_llms.py", line 8, in debug_llms
+    res1 = await llm._call_gemini("Hello from Gemini")
+  File "C:\Users\LENOVO\Downloads\CAPSTONE PROJECT\services\llm_service.py", line 110, in _call_gemini
+    logger.warning("Gemini rate limit hit \u2192 retrying in 2s...")
+Message: 'Gemini rate limit hit \u2192 retrying in 2s...'
+Arguments: ()
+[2026-04-05 17:02:49] [LLMService] [INFO] Gemini retry status: 429
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\logging\__init__.py", line 1113, in emit
+    stream.write(msg + self.terminator)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2192' in position 70: character maps to <undefined>
+Call stack:
+  File "C:\Users\LENOVO\Downloads\CAPSTONE PROJECT\debug_llms.py", line 21, in <module>
+    asyncio.run(debug_llms())
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 190, in run
+    return runner.run(main)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 641, in run_until_complete
+    self.run_forever()
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\windows_events.py", line 321, in run_forever
+    super().run_forever()
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 608, in run_forever
+    self._run_once()
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 1936, in _run_once
+    handle._run()
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python311\Lib\asyncio\events.py", line 84, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\LENOVO\Downloads\CAPSTONE PROJECT\debug_llms.py", line 8, in debug_llms
+    res1 = await llm._call_gemini("Hello from Gemini")
+  File "C:\Users\LENOVO\Downloads\CAPSTONE PROJECT\services\llm_service.py", line 122, in _call_gemini
+    logger.warning("Gemini retry also failed \u2192 falling back to Groq")
+Message: 'Gemini retry also failed \u2192 falling back to Groq'
+Arguments: ()
+GEMINI_RES: None
+--- GROQ START ---
+[2026-04-05 17:02:55] [LLMService] [INFO] Groq status: 200
+GROQ_RES: Hello from the other side. It's nice to meet you, Groq. Is there something I can help you with or would you like to chat?

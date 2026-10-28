@@ -1,0 +1,2402 @@
+[
+    {
+        "id": "pest_aphid_001",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #001: APHID VECTOR VIRUS TRANSMISSION: Aphids are critical vectors for viral diseases such as Potato Leaf Roll Virus and Cucumber Mosaic Virus in Indian agriculture. These sap-sucking insects transmit viruses in a non-persistent or persistent manner through their stylets during feeding. When weather conditions are mild and humid, aphid populations can explode rapidly on succulent young leaves. Farmers should monitor their fields early and initiate control using Neem oil or Imidacloprid before the first signs of virus transmission appear. Strategic timing of insecticide application significantly reduces the spread of systemic viral infections across commercial vegetable crops in varied agro-climatic zones. This is especially important for commercial farming in",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_002",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #002: APHID VECTOR CONTROL TIMING: The critical window for aphid vector management in lentils and pulses occurs during the early vegetative stage when the crop is most vulnerable to viral stuntedness. Aphids spread viruses like Bean Common Mosaic Virus effectively during this phase. Indian farmers should prioritize prophylactic sprays of Neem-based products if mild weather persists. Once a virus is introduced into a field by aphids, it cannot be cured, making vector control the only viable prevention strategy. Regular field monitoring and the removal of secondary weed hosts are essential steps in reducing the localized reservoir of viruses that these insects carry and transmit. Correcting vector issues early",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_003",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #003: APHID VECTOR VIRUS TRANSMISSION: Aphids are critical vectors for viral diseases such as Potato Leaf Roll Virus and Cucumber Mosaic Virus in Indian agriculture. These sap-sucking insects transmit viruses in a non-persistent or persistent manner through their stylets during feeding. When weather conditions are mild and humid, aphid populations can explode rapidly on succulent young leaves. Farmers should monitor their fields early and initiate control using Neem oil or Imidacloprid before the first signs of virus transmission appear. Strategic timing of insecticide application significantly reduces the spread of systemic viral infections across commercial vegetable crops in varied agro-climatic zones. Optimizing the IPM balance is the most direct",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_004",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #004: APHID MANAGEMENT IN POTATO: Managing aphids is mandatory for preventing the transmission of Potato Leaf Roll Virus, which is a major yield-robbing disease in Punjab and Uttar Pradesh. Aphids acquire the virus from infected tubers or alternate hosts and spread it systematically during feeding. Farmers should use reflective mulching to repel aphids during the early growth stages and apply Thiamethoxam if the pest population reaches the economic threshold level. Integrated pest management, combining cultural practices with targeted chemical sprays, is the most effective way for Indian potato farmers to maintain seed-grade quality and ensure overall productivity in the fertile Indo-Gangetic plains. Optimizing the IPM balance is the",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_005",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #005: APHID VECTOR CONTROL TIMING: The critical window for aphid vector management in lentils and pulses occurs during the early vegetative stage when the crop is most vulnerable to viral stuntedness. Aphids spread viruses like Bean Common Mosaic Virus effectively during this phase. Indian farmers should prioritize prophylactic sprays of Neem-based products if mild weather persists. Once a virus is introduced into a field by aphids, it cannot be cured, making vector control the only viable prevention strategy. Regular field monitoring and the removal of secondary weed hosts are essential steps in reducing the localized reservoir of viruses that these insects carry and transmit. Correcting vector issues early",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_006",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #006: APHID OUTBREAK AND DISEASE SPREAD: A sudden surge in aphid populations during the early spring months in North India significantly increases the risk of Barley Yellow Dwarf Virus transmission. These pests thrive in mild temperatures and high humidity, forming dense colonies on the undersides of leaves. As they migrate from infected weeds to healthy crops, they spread persistent viruses that cause stunting and yield loss. To prevent this vector-borne threat, Indian farmers must scout fields for wingless aphids and use yellow sticky traps for monitoring. Prompt intervention with systemic insecticides ensures the protection of the crop's vascular system and prevents epidemic viral spread. Regular cleaning of monitoring",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_007",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #007: APHID OUTBREAK AND DISEASE SPREAD: A sudden surge in aphid populations during the early spring months in North India significantly increases the risk of Barley Yellow Dwarf Virus transmission. These pests thrive in mild temperatures and high humidity, forming dense colonies on the undersides of leaves. As they migrate from infected weeds to healthy crops, they spread persistent viruses that cause stunting and yield loss. To prevent this vector-borne threat, Indian farmers must scout fields for wingless aphids and use yellow sticky traps for monitoring. Prompt intervention with systemic insecticides ensures the protection of the crop's vascular system and prevents epidemic viral spread. Optimizing the IPM balance",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_008",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #008: APHID VECTOR CONTROL TIMING: The critical window for aphid vector management in lentils and pulses occurs during the early vegetative stage when the crop is most vulnerable to viral stuntedness. Aphids spread viruses like Bean Common Mosaic Virus effectively during this phase. Indian farmers should prioritize prophylactic sprays of Neem-based products if mild weather persists. Once a virus is introduced into a field by aphids, it cannot be cured, making vector control the only viable prevention strategy. Regular field monitoring and the removal of secondary weed hosts are essential steps in reducing the localized reservoir of viruses that these insects carry and transmit. Strategic chemical and biological",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_009",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #009: APHID OUTBREAK AND DISEASE SPREAD: A sudden surge in aphid populations during the early spring months in North India significantly increases the risk of Barley Yellow Dwarf Virus transmission. These pests thrive in mild temperatures and high humidity, forming dense colonies on the undersides of leaves. As they migrate from infected weeds to healthy crops, they spread persistent viruses that cause stunting and yield loss. To prevent this vector-borne threat, Indian farmers must scout fields for wingless aphids and use yellow sticky traps for monitoring. Prompt intervention with systemic insecticides ensures the protection of the crop's vascular system and prevents epidemic viral spread. Sustainable agricultural extension services",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_010",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #010: APHID OUTBREAK AND DISEASE SPREAD: A sudden surge in aphid populations during the early spring months in North India significantly increases the risk of Barley Yellow Dwarf Virus transmission. These pests thrive in mild temperatures and high humidity, forming dense colonies on the undersides of leaves. As they migrate from infected weeds to healthy crops, they spread persistent viruses that cause stunting and yield loss. To prevent this vector-borne threat, Indian farmers must scout fields for wingless aphids and use yellow sticky traps for monitoring. Prompt intervention with systemic insecticides ensures the protection of the crop's vascular system and prevents epidemic viral spread. This is especially important",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_011",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #011: APHID VECTOR VIRUS TRANSMISSION: Aphids are critical vectors for viral diseases such as Potato Leaf Roll Virus and Cucumber Mosaic Virus in Indian agriculture. These sap-sucking insects transmit viruses in a non-persistent or persistent manner through their stylets during feeding. When weather conditions are mild and humid, aphid populations can explode rapidly on succulent young leaves. Farmers should monitor their fields early and initiate control using Neem oil or Imidacloprid before the first signs of virus transmission appear. Strategic timing of insecticide application significantly reduces the spread of systemic viral infections across commercial vegetable crops in varied agro-climatic zones. Regular cleaning of monitoring traps is recommended for",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_012",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #012: NON-PERSISTENT VIRUS TRANSMISSION BY APHIDS: Many viral diseases in Indian cucurbits are transmitted by aphids in a non-persistent manner, meaning the insect can pick up and deposit the virus in just a few seconds of probing. This rapid transmission makes traditional insecticide sprays alone insufficient for control. Farmers are advised to use reflective silver mulches to confuse the flying vectors and prevent them from landing on the seedlings. Additionally, maintaining a pesticide barrier using chemicals like Acetamiprid can provide limited protection. However, the most effective strategy involves removing symptomatic plants immediately as they serve as the primary source of infection for the winged aphid vectors. Field-level precision",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_013",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #013: APHID VECTOR VIRUS TRANSMISSION: Aphids are critical vectors for viral diseases such as Potato Leaf Roll Virus and Cucumber Mosaic Virus in Indian agriculture. These sap-sucking insects transmit viruses in a non-persistent or persistent manner through their stylets during feeding. When weather conditions are mild and humid, aphid populations can explode rapidly on succulent young leaves. Farmers should monitor their fields early and initiate control using Neem oil or Imidacloprid before the first signs of virus transmission appear. Strategic timing of insecticide application significantly reduces the spread of systemic viral infections across commercial vegetable crops in varied agro-climatic zones. Optimizing the IPM balance is the most direct",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_014",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #014: APHID VECTOR VIRUS TRANSMISSION: Aphids are critical vectors for viral diseases such as Potato Leaf Roll Virus and Cucumber Mosaic Virus in Indian agriculture. These sap-sucking insects transmit viruses in a non-persistent or persistent manner through their stylets during feeding. When weather conditions are mild and humid, aphid populations can explode rapidly on succulent young leaves. Farmers should monitor their fields early and initiate control using Neem oil or Imidacloprid before the first signs of virus transmission appear. Strategic timing of insecticide application significantly reduces the spread of systemic viral infections across commercial vegetable crops in varied agro-climatic zones. This is especially important for marginal farming in",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_015",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #015: APHID MANAGEMENT IN POTATO: Managing aphids is mandatory for preventing the transmission of Potato Leaf Roll Virus, which is a major yield-robbing disease in Punjab and Uttar Pradesh. Aphids acquire the virus from infected tubers or alternate hosts and spread it systematically during feeding. Farmers should use reflective mulching to repel aphids during the early growth stages and apply Thiamethoxam if the pest population reaches the economic threshold level. Integrated pest management, combining cultural practices with targeted chemical sprays, is the most effective way for Indian potato farmers to maintain seed-grade quality and ensure overall productivity in the fertile Indo-Gangetic plains. Field-level precision is the hallmark of",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_016",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #016: APHID OUTBREAK AND DISEASE SPREAD: A sudden surge in aphid populations during the early spring months in North India significantly increases the risk of Barley Yellow Dwarf Virus transmission. These pests thrive in mild temperatures and high humidity, forming dense colonies on the undersides of leaves. As they migrate from infected weeds to healthy crops, they spread persistent viruses that cause stunting and yield loss. To prevent this vector-borne threat, Indian farmers must scout fields for wingless aphids and use yellow sticky traps for monitoring. Prompt intervention with systemic insecticides ensures the protection of the crop's vascular system and prevents epidemic viral spread. Correcting vector issues early",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_017",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #017: APHID OUTBREAK AND DISEASE SPREAD: A sudden surge in aphid populations during the early spring months in North India significantly increases the risk of Barley Yellow Dwarf Virus transmission. These pests thrive in mild temperatures and high humidity, forming dense colonies on the undersides of leaves. As they migrate from infected weeds to healthy crops, they spread persistent viruses that cause stunting and yield loss. To prevent this vector-borne threat, Indian farmers must scout fields for wingless aphids and use yellow sticky traps for monitoring. Prompt intervention with systemic insecticides ensures the protection of the crop's vascular system and prevents epidemic viral spread. Sustainable agricultural extension services",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_018",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #018: APHID OUTBREAK AND DISEASE SPREAD: A sudden surge in aphid populations during the early spring months in North India significantly increases the risk of Barley Yellow Dwarf Virus transmission. These pests thrive in mild temperatures and high humidity, forming dense colonies on the undersides of leaves. As they migrate from infected weeds to healthy crops, they spread persistent viruses that cause stunting and yield loss. To prevent this vector-borne threat, Indian farmers must scout fields for wingless aphids and use yellow sticky traps for monitoring. Prompt intervention with systemic insecticides ensures the protection of the crop's vascular system and prevents epidemic viral spread. Optimizing the IPM balance",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_019",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #019: APHID VECTOR VIRUS TRANSMISSION: Aphids are critical vectors for viral diseases such as Potato Leaf Roll Virus and Cucumber Mosaic Virus in Indian agriculture. These sap-sucking insects transmit viruses in a non-persistent or persistent manner through their stylets during feeding. When weather conditions are mild and humid, aphid populations can explode rapidly on succulent young leaves. Farmers should monitor their fields early and initiate control using Neem oil or Imidacloprid before the first signs of virus transmission appear. Strategic timing of insecticide application significantly reduces the spread of systemic viral infections across commercial vegetable crops in varied agro-climatic zones. Adopting these SOPs protects the crop's vascular system",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_aphid_020",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #020: NON-PERSISTENT VIRUS TRANSMISSION BY APHIDS: Many viral diseases in Indian cucurbits are transmitted by aphids in a non-persistent manner, meaning the insect can pick up and deposit the virus in just a few seconds of probing. This rapid transmission makes traditional insecticide sprays alone insufficient for control. Farmers are advised to use reflective silver mulches to confuse the flying vectors and prevent them from landing on the seedlings. Additionally, maintaining a pesticide barrier using chemicals like Acetamiprid can provide limited protection. However, the most effective strategy involves removing symptomatic plants immediately as they serve as the primary source of infection for the winged aphid vectors. Adopting these",
+        "vector_type": "Aphid",
+        "weather_constraints": {
+            "humidity_threshold": ">70%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wear protective gear when spraying Imidacloprid.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_001",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #001: REFLECTIVE MULCHING FOR WHITEFLY PREVENTION: Using silver or yellow reflective mulches is a highly effective ICAR-recommended cultural practice for preventing whitefly-mediated virus transmission in North Indian vegetable farms. The light reflected from the mulch surface disorients the flying insect vectors, preventing them from colonizing the young seedlings. This simple physical barrier is especially important during the first 30 days of the crop cycle when viral infection leads to the most severe yield losses. Combined with yellow sticky traps for monitoring, reflective mulching provides a sustainable and pesticide-free way to manage the whitefly vector population and protect the crop from incurable begomoviruses throughout the season. Strategic chemical and",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_002",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #002: BEGOMOVIRUS TRANSMISSION BY WHITEFLIES: Begomoviruses are a diverse group of plant viruses transmitted persistently by whiteflies onto numerous Indian crops like cotton, chili, and okra. The vectors transmit these viruses through their salivary glands during the long feeding periods on the leaf undersides. To prevent wide-scale begomovirus epidemics, farmers must focus on destroying the localized whitefly breeding grounds. Using systemic insecticides like Thiamethoxam during the early growth stage provides internal plant protection against the vector. Regular crop scouting and the removal of infected host plants are critical for breaking the transmission cycle and safeguarding the yield of high-value Indian horticultural crops. Sustainable agricultural extension services recommend these",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_003",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #003: REFLECTIVE MULCHING FOR WHITEFLY PREVENTION: Using silver or yellow reflective mulches is a highly effective ICAR-recommended cultural practice for preventing whitefly-mediated virus transmission in North Indian vegetable farms. The light reflected from the mulch surface disorients the flying insect vectors, preventing them from colonizing the young seedlings. This simple physical barrier is especially important during the first 30 days of the crop cycle when viral infection leads to the most severe yield losses. Combined with yellow sticky traps for monitoring, reflective mulching provides a sustainable and pesticide-free way to manage the whitefly vector population and protect the crop from incurable begomoviruses throughout the season. Sustainable agricultural extension",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_004",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #004: WHITEFLY VECTOR AND TYLCV RISK: Whiteflies, particularly Bemisia tabaci, are the primary vectors for Tomato Yellow Leaf Curl Virus (TYLCV) in India. These pests thrive in warm and humid conditions, and their population surges often coincide with the flowering stage of vegetable crops. During feeding, they inject begomoviruses into the plant's phloem, leading to severe leaf curling and stunted growth. Farmers should install yellow sticky traps at a density of at least 15 per acre to monitor and mass-trap adult whiteflies. Early application of Spirotetramat or Fipronil is recommended to keep the vector population below the damage threshold and protect the harvest. Strategic chemical and biological inputs",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_005",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #005: WHITEFLY VECTOR AND TYLCV RISK: Whiteflies, particularly Bemisia tabaci, are the primary vectors for Tomato Yellow Leaf Curl Virus (TYLCV) in India. These pests thrive in warm and humid conditions, and their population surges often coincide with the flowering stage of vegetable crops. During feeding, they inject begomoviruses into the plant's phloem, leading to severe leaf curling and stunted growth. Farmers should install yellow sticky traps at a density of at least 15 per acre to monitor and mass-trap adult whiteflies. Early application of Spirotetramat or Fipronil is recommended to keep the vector population below the damage threshold and protect the harvest. Field-level precision is the hallmark",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_006",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #006: WHITEFLY VECTOR AND TYLCV RISK: Whiteflies, particularly Bemisia tabaci, are the primary vectors for Tomato Yellow Leaf Curl Virus (TYLCV) in India. These pests thrive in warm and humid conditions, and their population surges often coincide with the flowering stage of vegetable crops. During feeding, they inject begomoviruses into the plant's phloem, leading to severe leaf curling and stunted growth. Farmers should install yellow sticky traps at a density of at least 15 per acre to monitor and mass-trap adult whiteflies. Early application of Spirotetramat or Fipronil is recommended to keep the vector population below the damage threshold and protect the harvest. Sustainable agricultural extension services recommend",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_007",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #007: WHITEFLY VECTOR AND TYLCV RISK: Whiteflies, particularly Bemisia tabaci, are the primary vectors for Tomato Yellow Leaf Curl Virus (TYLCV) in India. These pests thrive in warm and humid conditions, and their population surges often coincide with the flowering stage of vegetable crops. During feeding, they inject begomoviruses into the plant's phloem, leading to severe leaf curling and stunted growth. Farmers should install yellow sticky traps at a density of at least 15 per acre to monitor and mass-trap adult whiteflies. Early application of Spirotetramat or Fipronil is recommended to keep the vector population below the damage threshold and protect the harvest. This is especially important for",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_008",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #008: WHITEFLY VECTOR AND TYLCV RISK: Whiteflies, particularly Bemisia tabaci, are the primary vectors for Tomato Yellow Leaf Curl Virus (TYLCV) in India. These pests thrive in warm and humid conditions, and their population surges often coincide with the flowering stage of vegetable crops. During feeding, they inject begomoviruses into the plant's phloem, leading to severe leaf curling and stunted growth. Farmers should install yellow sticky traps at a density of at least 15 per acre to monitor and mass-trap adult whiteflies. Early application of Spirotetramat or Fipronil is recommended to keep the vector population below the damage threshold and protect the harvest. Adopting these SOPs protects the",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_009",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #009: REFLECTIVE MULCHING FOR WHITEFLY PREVENTION: Using silver or yellow reflective mulches is a highly effective ICAR-recommended cultural practice for preventing whitefly-mediated virus transmission in North Indian vegetable farms. The light reflected from the mulch surface disorients the flying insect vectors, preventing them from colonizing the young seedlings. This simple physical barrier is especially important during the first 30 days of the crop cycle when viral infection leads to the most severe yield losses. Combined with yellow sticky traps for monitoring, reflective mulching provides a sustainable and pesticide-free way to manage the whitefly vector population and protect the crop from incurable begomoviruses throughout the season. Optimizing the IPM",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_010",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #010: WHITEFLY OUTBREAK CONDITIONS: Understanding the environmental triggers for whitefly outbreaks is key for Indian farmers practicing precision pest management. High temperatures between 30\u00b0C and 35\u00b0C combined with humidity over 80% create an ideal environment for rapid whitefly multiplication and migration. During these periods, the risk of mosaic and curl viruses increases exponentially. Farmers should proactively apply repellent sprays of Neem oil and ensure adequate field drainage to lower the localized humidity. Implementing a community-wide vector control program ensures that the pests do not just migrate from one farm to another, providing a more robust defense against the devastating viral diseases carried by these insects. Regular cleaning of",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": ">75%",
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_011",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #011: WHITEFLY VECTOR AND TYLCV RISK: Whiteflies, particularly Bemisia tabaci, are the primary vectors for Tomato Yellow Leaf Curl Virus (TYLCV) in India. These pests thrive in warm and humid conditions, and their population surges often coincide with the flowering stage of vegetable crops. During feeding, they inject begomoviruses into the plant's phloem, leading to severe leaf curling and stunted growth. Farmers should install yellow sticky traps at a density of at least 15 per acre to monitor and mass-trap adult whiteflies. Early application of Spirotetramat or Fipronil is recommended to keep the vector population below the damage threshold and protect the harvest. This is especially important for",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_012",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #012: CASSAVA MOSAIC VIRUS AND WHITEFLY CONTROL: In Southern India, whiteflies are the dangerous vectors responsible for the spread of Cassava Mosaic Virus, which can lead to complete crop failure if not managed. The vector population explodes in warm weather with humidity above 75%, allowing for rapid viral spread between fields. Farmers should prioritize the use of virus-free planting material and implement a strict whitefly management protocol using Neem-based sprays. Integrated pest management, including the use of net-houses for nurseries and reflective mulches in open fields, is essential for reducing the vector pressure and ensuring the long-term sustainability of cassava cultivation in tribal and commercial belts. Adopting these",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_013",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #013: CASSAVA MOSAIC VIRUS AND WHITEFLY CONTROL: In Southern India, whiteflies are the dangerous vectors responsible for the spread of Cassava Mosaic Virus, which can lead to complete crop failure if not managed. The vector population explodes in warm weather with humidity above 75%, allowing for rapid viral spread between fields. Farmers should prioritize the use of virus-free planting material and implement a strict whitefly management protocol using Neem-based sprays. Integrated pest management, including the use of net-houses for nurseries and reflective mulches in open fields, is essential for reducing the vector pressure and ensuring the long-term sustainability of cassava cultivation in tribal and commercial belts. Sustainable agricultural",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_014",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #014: BEGOMOVIRUS TRANSMISSION BY WHITEFLIES: Begomoviruses are a diverse group of plant viruses transmitted persistently by whiteflies onto numerous Indian crops like cotton, chili, and okra. The vectors transmit these viruses through their salivary glands during the long feeding periods on the leaf undersides. To prevent wide-scale begomovirus epidemics, farmers must focus on destroying the localized whitefly breeding grounds. Using systemic insecticides like Thiamethoxam during the early growth stage provides internal plant protection against the vector. Regular crop scouting and the removal of infected host plants are critical for breaking the transmission cycle and safeguarding the yield of high-value Indian horticultural crops. Optimizing the IPM balance is the",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_015",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #015: REFLECTIVE MULCHING FOR WHITEFLY PREVENTION: Using silver or yellow reflective mulches is a highly effective ICAR-recommended cultural practice for preventing whitefly-mediated virus transmission in North Indian vegetable farms. The light reflected from the mulch surface disorients the flying insect vectors, preventing them from colonizing the young seedlings. This simple physical barrier is especially important during the first 30 days of the crop cycle when viral infection leads to the most severe yield losses. Combined with yellow sticky traps for monitoring, reflective mulching provides a sustainable and pesticide-free way to manage the whitefly vector population and protect the crop from incurable begomoviruses throughout the season. Adopting these SOPs",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_016",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #016: REFLECTIVE MULCHING FOR WHITEFLY PREVENTION: Using silver or yellow reflective mulches is a highly effective ICAR-recommended cultural practice for preventing whitefly-mediated virus transmission in North Indian vegetable farms. The light reflected from the mulch surface disorients the flying insect vectors, preventing them from colonizing the young seedlings. This simple physical barrier is especially important during the first 30 days of the crop cycle when viral infection leads to the most severe yield losses. Combined with yellow sticky traps for monitoring, reflective mulching provides a sustainable and pesticide-free way to manage the whitefly vector population and protect the crop from incurable begomoviruses throughout the season. Field-level precision is",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_017",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #017: CASSAVA MOSAIC VIRUS AND WHITEFLY CONTROL: In Southern India, whiteflies are the dangerous vectors responsible for the spread of Cassava Mosaic Virus, which can lead to complete crop failure if not managed. The vector population explodes in warm weather with humidity above 75%, allowing for rapid viral spread between fields. Farmers should prioritize the use of virus-free planting material and implement a strict whitefly management protocol using Neem-based sprays. Integrated pest management, including the use of net-houses for nurseries and reflective mulches in open fields, is essential for reducing the vector pressure and ensuring the long-term sustainability of cassava cultivation in tribal and commercial belts. Optimizing the",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_018",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #018: WHITEFLY OUTBREAK CONDITIONS: Understanding the environmental triggers for whitefly outbreaks is key for Indian farmers practicing precision pest management. High temperatures between 30\u00b0C and 35\u00b0C combined with humidity over 80% create an ideal environment for rapid whitefly multiplication and migration. During these periods, the risk of mosaic and curl viruses increases exponentially. Farmers should proactively apply repellent sprays of Neem oil and ensure adequate field drainage to lower the localized humidity. Implementing a community-wide vector control program ensures that the pests do not just migrate from one farm to another, providing a more robust defense against the devastating viral diseases carried by these insects. This is especially",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": ">75%",
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_019",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #019: WHITEFLY OUTBREAK CONDITIONS: Understanding the environmental triggers for whitefly outbreaks is key for Indian farmers practicing precision pest management. High temperatures between 30\u00b0C and 35\u00b0C combined with humidity over 80% create an ideal environment for rapid whitefly multiplication and migration. During these periods, the risk of mosaic and curl viruses increases exponentially. Farmers should proactively apply repellent sprays of Neem oil and ensure adequate field drainage to lower the localized humidity. Implementing a community-wide vector control program ensures that the pests do not just migrate from one farm to another, providing a more robust defense against the devastating viral diseases carried by these insects. Correcting vector issues",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": ">75%",
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_whitefly_020",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #020: WHITEFLY OUTBREAK CONDITIONS: Understanding the environmental triggers for whitefly outbreaks is key for Indian farmers practicing precision pest management. High temperatures between 30\u00b0C and 35\u00b0C combined with humidity over 80% create an ideal environment for rapid whitefly multiplication and migration. During these periods, the risk of mosaic and curl viruses increases exponentially. Farmers should proactively apply repellent sprays of Neem oil and ensure adequate field drainage to lower the localized humidity. Implementing a community-wide vector control program ensures that the pests do not just migrate from one farm to another, providing a more robust defense against the devastating viral diseases carried by these insects. Field-level precision is",
+        "vector_type": "Whitefly",
+        "weather_constraints": {
+            "humidity_threshold": ">75%",
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Time Fipronil sprays for late evening for safety.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_001",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #001: THRIPS MONITORING WITH STICKY TRAPS: Effective management of thrips as viral vectors in India begins with the deployment of blue sticky traps throughout the field canopy. Thrips are specifically attracted to the blue wavelength, allowing farmers to detect their arrival long before physical damage is visible on the crop. Placing at least 20 traps per hectare at the level of the crop crown provides a reliable early-warning system for Tospovirus risk. If trap counts show an upward trend, immediate preventative sprays of Spirotetramat are necessary. Consistent monitoring and early intervention are the cornerpoints of successful vector management in commercial horticultural systems across diverse Indian states. Optimizing the",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_002",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #002: HOT DRY WEATHER AND THRIPS SURGE: A sudden rise in temperature above 32\u00b0C during the Indian summer creates the perfect environmental trigger for a thrips population explosion. These pests take shelter in the folds of young leaves and flower buds, where they feed and transmit devastating viruses. In crops like chili and groundnut, thrips-mediated viral transmission can lead to 50 percent yield reduction if ignored. Farmers are advised to provide light and frequent irrigation to increase the microclimate humidity, which naturally suppresses thrips multiplication. Combining water management with targeted sprays of Acetamiprid ensures that the thrips vector remains under control during the peak heat susceptibility period. Sustainable",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_003",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #003: THRIPS AS TOSPOVIRUS VECTORS: Thrips are specialized vectors for Tospoviruses like Tomato Spotted Wilt Virus and Groundnut Bud Necrosis Virus in India. These minute insects acquire the virus during their larval stage and transmit it permanently once they reach adulthood. Thrips outbreaks are typically triggered by hot and dry weather conditions, with temperatures exceeding 33\u00b0C. Farmers should use blue sticky traps for monitoring thrips populations and apply Fipronil or Imidacloprid if counts exceed five per leaf. Strategic vector control during the early vegetative and flowering stages is vital for preventing the systemic spread of tospoviruses which cause characteristic ring-spots and terminal leaf necrosis. This is especially important",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_004",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #004: HOT DRY WEATHER AND THRIPS SURGE: A sudden rise in temperature above 32\u00b0C during the Indian summer creates the perfect environmental trigger for a thrips population explosion. These pests take shelter in the folds of young leaves and flower buds, where they feed and transmit devastating viruses. In crops like chili and groundnut, thrips-mediated viral transmission can lead to 50 percent yield reduction if ignored. Farmers are advised to provide light and frequent irrigation to increase the microclimate humidity, which naturally suppresses thrips multiplication. Combining water management with targeted sprays of Acetamiprid ensures that the thrips vector remains under control during the peak heat susceptibility period. Correcting",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_005",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #005: THRIPS CONTROL IN CHILI: Managing Thrips palmi and Scirtothrips dorsalis is crucial for chili farmers in Andhra Pradesh and Telangana to prevent the deadly Chili Leaf Curl complex. Thrips feed by rasping the leaf surfaces and transmitting viruses that cause upward curling and stunting. Indian agricultural extension services recommend a combination of biological control using predatory mites and judicious sprays of Thiamethoxam. Avoiding excessive nitrogenous fertilizers also helps in making the crop less attractive to these sap-sucking vectors. Integrated pest management, focusing on both the insect vector and its environmental triggers, is essential for maintaining the high-quality production of red and green chilies in the region. Field-level",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_006",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #006: THRIPS MONITORING WITH STICKY TRAPS: Effective management of thrips as viral vectors in India begins with the deployment of blue sticky traps throughout the field canopy. Thrips are specifically attracted to the blue wavelength, allowing farmers to detect their arrival long before physical damage is visible on the crop. Placing at least 20 traps per hectare at the level of the crop crown provides a reliable early-warning system for Tospovirus risk. If trap counts show an upward trend, immediate preventative sprays of Spirotetramat are necessary. Consistent monitoring and early intervention are the cornerpoints of successful vector management in commercial horticultural systems across diverse Indian states. Optimizing the",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_007",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #007: THRIPS CONTROL IN CHILI: Managing Thrips palmi and Scirtothrips dorsalis is crucial for chili farmers in Andhra Pradesh and Telangana to prevent the deadly Chili Leaf Curl complex. Thrips feed by rasping the leaf surfaces and transmitting viruses that cause upward curling and stunting. Indian agricultural extension services recommend a combination of biological control using predatory mites and judicious sprays of Thiamethoxam. Avoiding excessive nitrogenous fertilizers also helps in making the crop less attractive to these sap-sucking vectors. Integrated pest management, focusing on both the insect vector and its environmental triggers, is essential for maintaining the high-quality production of red and green chilies in the region. Adopting",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_008",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #008: HOT DRY WEATHER AND THRIPS SURGE: A sudden rise in temperature above 32\u00b0C during the Indian summer creates the perfect environmental trigger for a thrips population explosion. These pests take shelter in the folds of young leaves and flower buds, where they feed and transmit devastating viruses. In crops like chili and groundnut, thrips-mediated viral transmission can lead to 50 percent yield reduction if ignored. Farmers are advised to provide light and frequent irrigation to increase the microclimate humidity, which naturally suppresses thrips multiplication. Combining water management with targeted sprays of Acetamiprid ensures that the thrips vector remains under control during the peak heat susceptibility period. Sustainable",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_009",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #009: HOT DRY WEATHER AND THRIPS SURGE: A sudden rise in temperature above 32\u00b0C during the Indian summer creates the perfect environmental trigger for a thrips population explosion. These pests take shelter in the folds of young leaves and flower buds, where they feed and transmit devastating viruses. In crops like chili and groundnut, thrips-mediated viral transmission can lead to 50 percent yield reduction if ignored. Farmers are advised to provide light and frequent irrigation to increase the microclimate humidity, which naturally suppresses thrips multiplication. Combining water management with targeted sprays of Acetamiprid ensures that the thrips vector remains under control during the peak heat susceptibility period. Optimizing",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_010",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #010: HOT DRY WEATHER AND THRIPS SURGE: A sudden rise in temperature above 32\u00b0C during the Indian summer creates the perfect environmental trigger for a thrips population explosion. These pests take shelter in the folds of young leaves and flower buds, where they feed and transmit devastating viruses. In crops like chili and groundnut, thrips-mediated viral transmission can lead to 50 percent yield reduction if ignored. Farmers are advised to provide light and frequent irrigation to increase the microclimate humidity, which naturally suppresses thrips multiplication. Combining water management with targeted sprays of Acetamiprid ensures that the thrips vector remains under control during the peak heat susceptibility period. Regular",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_011",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #011: THRIPS MONITORING WITH STICKY TRAPS: Effective management of thrips as viral vectors in India begins with the deployment of blue sticky traps throughout the field canopy. Thrips are specifically attracted to the blue wavelength, allowing farmers to detect their arrival long before physical damage is visible on the crop. Placing at least 20 traps per hectare at the level of the crop crown provides a reliable early-warning system for Tospovirus risk. If trap counts show an upward trend, immediate preventative sprays of Spirotetramat are necessary. Consistent monitoring and early intervention are the cornerpoints of successful vector management in commercial horticultural systems across diverse Indian states. Field-level precision",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_012",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #012: THRIPS AS TOSPOVIRUS VECTORS: Thrips are specialized vectors for Tospoviruses like Tomato Spotted Wilt Virus and Groundnut Bud Necrosis Virus in India. These minute insects acquire the virus during their larval stage and transmit it permanently once they reach adulthood. Thrips outbreaks are typically triggered by hot and dry weather conditions, with temperatures exceeding 33\u00b0C. Farmers should use blue sticky traps for monitoring thrips populations and apply Fipronil or Imidacloprid if counts exceed five per leaf. Strategic vector control during the early vegetative and flowering stages is vital for preventing the systemic spread of tospoviruses which cause characteristic ring-spots and terminal leaf necrosis. Optimizing the IPM balance",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_013",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #013: THRIPS CONTROL IN CHILI: Managing Thrips palmi and Scirtothrips dorsalis is crucial for chili farmers in Andhra Pradesh and Telangana to prevent the deadly Chili Leaf Curl complex. Thrips feed by rasping the leaf surfaces and transmitting viruses that cause upward curling and stunting. Indian agricultural extension services recommend a combination of biological control using predatory mites and judicious sprays of Thiamethoxam. Avoiding excessive nitrogenous fertilizers also helps in making the crop less attractive to these sap-sucking vectors. Integrated pest management, focusing on both the insect vector and its environmental triggers, is essential for maintaining the high-quality production of red and green chilies in the region. This",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_014",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #014: HOT DRY WEATHER AND THRIPS SURGE: A sudden rise in temperature above 32\u00b0C during the Indian summer creates the perfect environmental trigger for a thrips population explosion. These pests take shelter in the folds of young leaves and flower buds, where they feed and transmit devastating viruses. In crops like chili and groundnut, thrips-mediated viral transmission can lead to 50 percent yield reduction if ignored. Farmers are advised to provide light and frequent irrigation to increase the microclimate humidity, which naturally suppresses thrips multiplication. Combining water management with targeted sprays of Acetamiprid ensures that the thrips vector remains under control during the peak heat susceptibility period. Field-level",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_thrips_015",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #015: THRIPS AS TOSPOVIRUS VECTORS: Thrips are specialized vectors for Tospoviruses like Tomato Spotted Wilt Virus and Groundnut Bud Necrosis Virus in India. These minute insects acquire the virus during their larval stage and transmit it permanently once they reach adulthood. Thrips outbreaks are typically triggered by hot and dry weather conditions, with temperatures exceeding 33\u00b0C. Farmers should use blue sticky traps for monitoring thrips populations and apply Fipronil or Imidacloprid if counts exceed five per leaf. Strategic vector control during the early vegetative and flowering stages is vital for preventing the systemic spread of tospoviruses which cause characteristic ring-spots and terminal leaf necrosis. Field-level precision is the",
+        "vector_type": "Thrips",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Avoid spraying if honeybees are active in the field.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_001",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #001: RICE TUNGRO VIRUS AND LEAFHOPPERS: The green leafhopper (Nephotettix virescens) is the primary vector for Rice Tungro Virus in Southern and Eastern regions of India. This disease causes severe yellowing and stunting of rice plants, transmitted persistently by the leafhopper vector. Outbreaks often occur when warm weather and high humidity coincide with the early vegetative stage of the rice crop. Farmers should implement integrated pest management, including the use of resistant rice varieties and synchronized planting, to reduce the vector pressure. In case of an outbreak, applying Thiamethoxam to the nursery or main field can provide a robust shield against the leafhopper-mediated viral transmission. Correcting vector issues",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_002",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #002: LEAFHOPPER OUTBREAKS IN WARM WEATHER: Rapid increases in ambient temperature during the Indian transition seasons create ideal conditions for leafhopper outbreaks in diverse crops like cotton and okra. These pests are highly mobile and can spread diseases like phytoplasma over large areas in a short time. Farmers should monitor the field edges where leafhoppers often colonize first from surrounding weeds. Strategic spraying of Imidacloprid during the initial stages of infestation prevents the vector from establishing a strong population in the field. Maintaining field sanitation and removing infected crop residues are essential practices for managing the long-term risk posed by these mobile insect vectors in India. Correcting vector",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_003",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #003: LEAFHOPPER VECTOR CONTROL TIMING: Early detection and control of leafhoppers are vital for preventing the spread of persistent viruses and phytoplasmas in Indian vegetable clusters. The threshold for intervention is generally very low because even a few leafhoppers can transmit a high volume of pathogens across the field. Agricultural extension services in India recommend the use of light traps to monitor adult migration and the application of systemic insecticides at the first sign of pest arrival. Protecting the crop during the first 45 days is crucial as young plants are most susceptible to permanent damage from vector-borne diseases. Precision timing of insecticide sprays ensures high efficacy and",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_004",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #004: PHLOEM FEEDING AND VIRUS TRANSMISSION: Leafhoppers are specialized phloem-feeders that use their piercing-sucking mouthparts to reach the nutrient-rich sap of the plant's vascular system. This behavior makes them efficient vectors for viruses and phytoplasmas that reside within the phloem. In Indian agricultural systems, managing leafhoppers requires systemic insecticides that travel through the plant's sap, ensuring the insect is poisoned specifically during feeding. Farmers should prioritize products like Thiamethoxam for high-value crops. Understanding the biology of leafhopper feeding is essential for selecting the right pest control strategy that targets the vector while it is most vulnerable during the transmission of deadly agricultural diseases. Regular cleaning of monitoring traps",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_005",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #005: PHLOEM FEEDING AND VIRUS TRANSMISSION: Leafhoppers are specialized phloem-feeders that use their piercing-sucking mouthparts to reach the nutrient-rich sap of the plant's vascular system. This behavior makes them efficient vectors for viruses and phytoplasmas that reside within the phloem. In Indian agricultural systems, managing leafhoppers requires systemic insecticides that travel through the plant's sap, ensuring the insect is poisoned specifically during feeding. Farmers should prioritize products like Thiamethoxam for high-value crops. Understanding the biology of leafhopper feeding is essential for selecting the right pest control strategy that targets the vector while it is most vulnerable during the transmission of deadly agricultural diseases. Field-level precision is the hallmark",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_006",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #006: RICE TUNGRO VIRUS AND LEAFHOPPERS: The green leafhopper (Nephotettix virescens) is the primary vector for Rice Tungro Virus in Southern and Eastern regions of India. This disease causes severe yellowing and stunting of rice plants, transmitted persistently by the leafhopper vector. Outbreaks often occur when warm weather and high humidity coincide with the early vegetative stage of the rice crop. Farmers should implement integrated pest management, including the use of resistant rice varieties and synchronized planting, to reduce the vector pressure. In case of an outbreak, applying Thiamethoxam to the nursery or main field can provide a robust shield against the leafhopper-mediated viral transmission. This is especially",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_007",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #007: LEAFHOPPER OUTBREAKS IN WARM WEATHER: Rapid increases in ambient temperature during the Indian transition seasons create ideal conditions for leafhopper outbreaks in diverse crops like cotton and okra. These pests are highly mobile and can spread diseases like phytoplasma over large areas in a short time. Farmers should monitor the field edges where leafhoppers often colonize first from surrounding weeds. Strategic spraying of Imidacloprid during the initial stages of infestation prevents the vector from establishing a strong population in the field. Maintaining field sanitation and removing infected crop residues are essential practices for managing the long-term risk posed by these mobile insect vectors in India. Strategic chemical",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_008",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #008: RICE TUNGRO VIRUS AND LEAFHOPPERS: The green leafhopper (Nephotettix virescens) is the primary vector for Rice Tungro Virus in Southern and Eastern regions of India. This disease causes severe yellowing and stunting of rice plants, transmitted persistently by the leafhopper vector. Outbreaks often occur when warm weather and high humidity coincide with the early vegetative stage of the rice crop. Farmers should implement integrated pest management, including the use of resistant rice varieties and synchronized planting, to reduce the vector pressure. In case of an outbreak, applying Thiamethoxam to the nursery or main field can provide a robust shield against the leafhopper-mediated viral transmission. Field-level precision is",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_009",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #009: LEAFHOPPER TRANSMISSION OF PHYTOPLASMA: Leafhoppers are established vectors for Phytoplasma diseases, such as Little Leaf of Brinjal and Sesame Phyllody, in North India. These insects transmit the specialized bacteria-like pathogens as they feed on the phloem tissues of host plants. Population surges of leafhoppers usually occur during warm weather when temperatures remain between 28\u00b0C and 32\u00b0C. Farmers are advised to use yellow sticky traps for monitoring and initiate control measures using Acetamiprid if the population exceeds two per leaf. Removing symptomatic plants and alternate weed hosts is a critical step in reducing the reservoir of Phytoplasma available to the leafhopper vector. Strategic chemical and biological inputs protect",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_010",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #010: LEAFHOPPER OUTBREAKS IN WARM WEATHER: Rapid increases in ambient temperature during the Indian transition seasons create ideal conditions for leafhopper outbreaks in diverse crops like cotton and okra. These pests are highly mobile and can spread diseases like phytoplasma over large areas in a short time. Farmers should monitor the field edges where leafhoppers often colonize first from surrounding weeds. Strategic spraying of Imidacloprid during the initial stages of infestation prevents the vector from establishing a strong population in the field. Maintaining field sanitation and removing infected crop residues are essential practices for managing the long-term risk posed by these mobile insect vectors in India. Field-level precision",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_011",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #011: PHLOEM FEEDING AND VIRUS TRANSMISSION: Leafhoppers are specialized phloem-feeders that use their piercing-sucking mouthparts to reach the nutrient-rich sap of the plant's vascular system. This behavior makes them efficient vectors for viruses and phytoplasmas that reside within the phloem. In Indian agricultural systems, managing leafhoppers requires systemic insecticides that travel through the plant's sap, ensuring the insect is poisoned specifically during feeding. Farmers should prioritize products like Thiamethoxam for high-value crops. Understanding the biology of leafhopper feeding is essential for selecting the right pest control strategy that targets the vector while it is most vulnerable during the transmission of deadly agricultural diseases. Optimizing the IPM balance is",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_012",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #012: LEAFHOPPER TRANSMISSION OF PHYTOPLASMA: Leafhoppers are established vectors for Phytoplasma diseases, such as Little Leaf of Brinjal and Sesame Phyllody, in North India. These insects transmit the specialized bacteria-like pathogens as they feed on the phloem tissues of host plants. Population surges of leafhoppers usually occur during warm weather when temperatures remain between 28\u00b0C and 32\u00b0C. Farmers are advised to use yellow sticky traps for monitoring and initiate control measures using Acetamiprid if the population exceeds two per leaf. Removing symptomatic plants and alternate weed hosts is a critical step in reducing the reservoir of Phytoplasma available to the leafhopper vector. Strategic chemical and biological inputs protect",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_013",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #013: PHLOEM FEEDING AND VIRUS TRANSMISSION: Leafhoppers are specialized phloem-feeders that use their piercing-sucking mouthparts to reach the nutrient-rich sap of the plant's vascular system. This behavior makes them efficient vectors for viruses and phytoplasmas that reside within the phloem. In Indian agricultural systems, managing leafhoppers requires systemic insecticides that travel through the plant's sap, ensuring the insect is poisoned specifically during feeding. Farmers should prioritize products like Thiamethoxam for high-value crops. Understanding the biology of leafhopper feeding is essential for selecting the right pest control strategy that targets the vector while it is most vulnerable during the transmission of deadly agricultural diseases. Field-level precision is the hallmark",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_014",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #014: RICE TUNGRO VIRUS AND LEAFHOPPERS: The green leafhopper (Nephotettix virescens) is the primary vector for Rice Tungro Virus in Southern and Eastern regions of India. This disease causes severe yellowing and stunting of rice plants, transmitted persistently by the leafhopper vector. Outbreaks often occur when warm weather and high humidity coincide with the early vegetative stage of the rice crop. Farmers should implement integrated pest management, including the use of resistant rice varieties and synchronized planting, to reduce the vector pressure. In case of an outbreak, applying Thiamethoxam to the nursery or main field can provide a robust shield against the leafhopper-mediated viral transmission. Regular cleaning of",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_leafhopper_015",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #015: RICE TUNGRO VIRUS AND LEAFHOPPERS: The green leafhopper (Nephotettix virescens) is the primary vector for Rice Tungro Virus in Southern and Eastern regions of India. This disease causes severe yellowing and stunting of rice plants, transmitted persistently by the leafhopper vector. Outbreaks often occur when warm weather and high humidity coincide with the early vegetative stage of the rice crop. Farmers should implement integrated pest management, including the use of resistant rice varieties and synchronized planting, to reduce the vector pressure. In case of an outbreak, applying Thiamethoxam to the nursery or main field can provide a robust shield against the leafhopper-mediated viral transmission. This is especially",
+        "vector_type": "Leafhopper",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Follow ICAR pre-harvest intervals for all chemicals.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_001",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #001: AIRBORNE VECTOR MIGRATION RULES: Monitoring the seasonal migration of winged insect vectors is critical for timing the application of preventive sprays in Indian agriculture. Large-scale movement of aphids and whiteflies often follows specific thermal and wind gradients during the transition from winter to summer. Farmers should utilize regional agromet advisories that track vector migration patterns to plan their early-season interventions. Applying a protective systemic insecticide layer before the peak migration window can prevent the initial viral inoculation of the crop. This proactive approach is far more effective than trying to manage the vector after a large-scale field infestation has already occurred and the viruses are spread. Strategic",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_002",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #002: HUMIDITY AND APHID MULTIPLICATION: High atmospheric humidity exceeding 75% in the Indian plains significantly accelerates the reproduction rate of aphid populations. Damp and mild conditions allow for more generations per season, increasing the density of vectors available for virus transmission. Farmers should prioritize proactive spraying of Neem oil during humid spells to keep the aphid population in check. Additionally, ensuring proper plant spacing and avoiding waterlogging can help in reducing the micro-humidity within the crop canopy. This environmental management approach naturally suppresses the vector growth and minimizes the risk of sudden viral outbreaks that often follow high-humidity weather patterns. Strategic chemical and biological inputs protect the harvest",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_003",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #003: HUMIDITY AND APHID MULTIPLICATION: High atmospheric humidity exceeding 75% in the Indian plains significantly accelerates the reproduction rate of aphid populations. Damp and mild conditions allow for more generations per season, increasing the density of vectors available for virus transmission. Farmers should prioritize proactive spraying of Neem oil during humid spells to keep the aphid population in check. Additionally, ensuring proper plant spacing and avoiding waterlogging can help in reducing the micro-humidity within the crop canopy. This environmental management approach naturally suppresses the vector growth and minimizes the risk of sudden viral outbreaks that often follow high-humidity weather patterns. This is especially important for commercial farming in",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_004",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #004: HUMIDITY AND APHID MULTIPLICATION: High atmospheric humidity exceeding 75% in the Indian plains significantly accelerates the reproduction rate of aphid populations. Damp and mild conditions allow for more generations per season, increasing the density of vectors available for virus transmission. Farmers should prioritize proactive spraying of Neem oil during humid spells to keep the aphid population in check. Additionally, ensuring proper plant spacing and avoiding waterlogging can help in reducing the micro-humidity within the crop canopy. This environmental management approach naturally suppresses the vector growth and minimizes the risk of sudden viral outbreaks that often follow high-humidity weather patterns. Correcting vector issues early is essential for ensuring",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_005",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #005: HUMIDITY AND APHID MULTIPLICATION: High atmospheric humidity exceeding 75% in the Indian plains significantly accelerates the reproduction rate of aphid populations. Damp and mild conditions allow for more generations per season, increasing the density of vectors available for virus transmission. Farmers should prioritize proactive spraying of Neem oil during humid spells to keep the aphid population in check. Additionally, ensuring proper plant spacing and avoiding waterlogging can help in reducing the micro-humidity within the crop canopy. This environmental management approach naturally suppresses the vector growth and minimizes the risk of sudden viral outbreaks that often follow high-humidity weather patterns. Correcting vector issues early is essential for ensuring",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_006",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #006: HIGH TEMPERATURE AND THRIPS ACTIVITY: Intensive heat with temperatures rising above 35\u00b0C in North India triggers a surge in thrips activity and their migration into young crop canopies. High temperatures shorten the thrips life cycle, leading to rapid population growth and more frequent viral transmission events. Farmers should use overhead irrigation or misting systems to cool the crop environment and increase humidity, which naturally deters thrips. Monitoring with blue sticky traps is essential during heatwaves to detect the localized movement of these vectors. Strategic water management, combined with evening sprays of Fipronil, provides the most effective defense against heat-driven thrips epidemics in commercial farms. This is especially",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_007",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #007: HIGH TEMPERATURE AND THRIPS ACTIVITY: Intensive heat with temperatures rising above 35\u00b0C in North India triggers a surge in thrips activity and their migration into young crop canopies. High temperatures shorten the thrips life cycle, leading to rapid population growth and more frequent viral transmission events. Farmers should use overhead irrigation or misting systems to cool the crop environment and increase humidity, which naturally deters thrips. Monitoring with blue sticky traps is essential during heatwaves to detect the localized movement of these vectors. Strategic water management, combined with evening sprays of Fipronil, provides the most effective defense against heat-driven thrips epidemics in commercial farms. Field-level precision is",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_008",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #008: HUMIDITY AND APHID MULTIPLICATION: High atmospheric humidity exceeding 75% in the Indian plains significantly accelerates the reproduction rate of aphid populations. Damp and mild conditions allow for more generations per season, increasing the density of vectors available for virus transmission. Farmers should prioritize proactive spraying of Neem oil during humid spells to keep the aphid population in check. Additionally, ensuring proper plant spacing and avoiding waterlogging can help in reducing the micro-humidity within the crop canopy. This environmental management approach naturally suppresses the vector growth and minimizes the risk of sudden viral outbreaks that often follow high-humidity weather patterns. Correcting vector issues early is essential for ensuring",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_009",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #009: HUMIDITY AND APHID MULTIPLICATION: High atmospheric humidity exceeding 75% in the Indian plains significantly accelerates the reproduction rate of aphid populations. Damp and mild conditions allow for more generations per season, increasing the density of vectors available for virus transmission. Farmers should prioritize proactive spraying of Neem oil during humid spells to keep the aphid population in check. Additionally, ensuring proper plant spacing and avoiding waterlogging can help in reducing the micro-humidity within the crop canopy. This environmental management approach naturally suppresses the vector growth and minimizes the risk of sudden viral outbreaks that often follow high-humidity weather patterns. Field-level precision is the hallmark of modern digital",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_010",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #010: HIGH TEMPERATURE AND THRIPS ACTIVITY: Intensive heat with temperatures rising above 35\u00b0C in North India triggers a surge in thrips activity and their migration into young crop canopies. High temperatures shorten the thrips life cycle, leading to rapid population growth and more frequent viral transmission events. Farmers should use overhead irrigation or misting systems to cool the crop environment and increase humidity, which naturally deters thrips. Monitoring with blue sticky traps is essential during heatwaves to detect the localized movement of these vectors. Strategic water management, combined with evening sprays of Fipronil, provides the most effective defense against heat-driven thrips epidemics in commercial farms. Strategic chemical and",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_011",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #011: MONSOON REDUCING SOME PEST POPULATIONS: Heavy monsoon rainfall in India exceeding 20 mm in a single day can have a significant 'wash-off' effect on certain pest populations like aphids and thrips. Intense rain physically removes these small insects from the foliage and can lead to a temporary decline in their numbers. However, farmers must be cautious as the high humidity following the rain often triggers a secondary resurgence of whiteflies and fungal-thrips complexes. Monitoring the field as soon as it dries is necessary to assess the real impact of the monsoon on the vector population. Integrated pest management requires this dynamic observation and adjustment based on actual",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_012",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #012: MONSOON REDUCING SOME PEST POPULATIONS: Heavy monsoon rainfall in India exceeding 20 mm in a single day can have a significant 'wash-off' effect on certain pest populations like aphids and thrips. Intense rain physically removes these small insects from the foliage and can lead to a temporary decline in their numbers. However, farmers must be cautious as the high humidity following the rain often triggers a secondary resurgence of whiteflies and fungal-thrips complexes. Monitoring the field as soon as it dries is necessary to assess the real impact of the monsoon on the vector population. Integrated pest management requires this dynamic observation and adjustment based on actual",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_013",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #013: HUMIDITY AND APHID MULTIPLICATION: High atmospheric humidity exceeding 75% in the Indian plains significantly accelerates the reproduction rate of aphid populations. Damp and mild conditions allow for more generations per season, increasing the density of vectors available for virus transmission. Farmers should prioritize proactive spraying of Neem oil during humid spells to keep the aphid population in check. Additionally, ensuring proper plant spacing and avoiding waterlogging can help in reducing the micro-humidity within the crop canopy. This environmental management approach naturally suppresses the vector growth and minimizes the risk of sudden viral outbreaks that often follow high-humidity weather patterns. Strategic chemical and biological inputs protect the harvest",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_014",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #014: AIRBORNE VECTOR MIGRATION RULES: Monitoring the seasonal migration of winged insect vectors is critical for timing the application of preventive sprays in Indian agriculture. Large-scale movement of aphids and whiteflies often follows specific thermal and wind gradients during the transition from winter to summer. Farmers should utilize regional agromet advisories that track vector migration patterns to plan their early-season interventions. Applying a protective systemic insecticide layer before the peak migration window can prevent the initial viral inoculation of the crop. This proactive approach is far more effective than trying to manage the vector after a large-scale field infestation has already occurred and the viruses are spread. Field-level",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_015",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #015: AIRBORNE VECTOR MIGRATION RULES: Monitoring the seasonal migration of winged insect vectors is critical for timing the application of preventive sprays in Indian agriculture. Large-scale movement of aphids and whiteflies often follows specific thermal and wind gradients during the transition from winter to summer. Farmers should utilize regional agromet advisories that track vector migration patterns to plan their early-season interventions. Applying a protective systemic insecticide layer before the peak migration window can prevent the initial viral inoculation of the crop. This proactive approach is far more effective than trying to manage the vector after a large-scale field infestation has already occurred and the viruses are spread. Field-level",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_016",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #016: AIRBORNE VECTOR MIGRATION RULES: Monitoring the seasonal migration of winged insect vectors is critical for timing the application of preventive sprays in Indian agriculture. Large-scale movement of aphids and whiteflies often follows specific thermal and wind gradients during the transition from winter to summer. Farmers should utilize regional agromet advisories that track vector migration patterns to plan their early-season interventions. Applying a protective systemic insecticide layer before the peak migration window can prevent the initial viral inoculation of the crop. This proactive approach is far more effective than trying to manage the vector after a large-scale field infestation has already occurred and the viruses are spread. This",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_017",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #017: AIRBORNE VECTOR MIGRATION RULES: Monitoring the seasonal migration of winged insect vectors is critical for timing the application of preventive sprays in Indian agriculture. Large-scale movement of aphids and whiteflies often follows specific thermal and wind gradients during the transition from winter to summer. Farmers should utilize regional agromet advisories that track vector migration patterns to plan their early-season interventions. Applying a protective systemic insecticide layer before the peak migration window can prevent the initial viral inoculation of the crop. This proactive approach is far more effective than trying to manage the vector after a large-scale field infestation has already occurred and the viruses are spread. Sustainable",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_018",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #018: MONSOON REDUCING SOME PEST POPULATIONS: Heavy monsoon rainfall in India exceeding 20 mm in a single day can have a significant 'wash-off' effect on certain pest populations like aphids and thrips. Intense rain physically removes these small insects from the foliage and can lead to a temporary decline in their numbers. However, farmers must be cautious as the high humidity following the rain often triggers a secondary resurgence of whiteflies and fungal-thrips complexes. Monitoring the field as soon as it dries is necessary to assess the real impact of the monsoon on the vector population. Integrated pest management requires this dynamic observation and adjustment based on actual",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_019",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #019: MONSOON REDUCING SOME PEST POPULATIONS: Heavy monsoon rainfall in India exceeding 20 mm in a single day can have a significant 'wash-off' effect on certain pest populations like aphids and thrips. Intense rain physically removes these small insects from the foliage and can lead to a temporary decline in their numbers. However, farmers must be cautious as the high humidity following the rain often triggers a secondary resurgence of whiteflies and fungal-thrips complexes. Monitoring the field as soon as it dries is necessary to assess the real impact of the monsoon on the vector population. Integrated pest management requires this dynamic observation and adjustment based on actual",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_weather_020",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #020: AIRBORNE VECTOR MIGRATION RULES: Monitoring the seasonal migration of winged insect vectors is critical for timing the application of preventive sprays in Indian agriculture. Large-scale movement of aphids and whiteflies often follows specific thermal and wind gradients during the transition from winter to summer. Farmers should utilize regional agromet advisories that track vector migration patterns to plan their early-season interventions. Applying a protective systemic insecticide layer before the peak migration window can prevent the initial viral inoculation of the crop. This proactive approach is far more effective than trying to manage the vector after a large-scale field infestation has already occurred and the viruses are spread. Strategic",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor wind direction to avoid dangerous spray drift.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_001",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #001: HARVEST STAGE VECTOR MANAGEMENT: While the yield might be formed by the late growth stages, managing vectors during the harvest period is still important to prevent the spread of diseases to neighboring crops and the next season's nursery. In many Indian vegetable clusters, insect vectors like leafhoppers can persist on old crop residues and migrate to fresh fields. Farmers should practice 'field sanitation' by removing and destroying old stems and leaves immediately after the final picking. This reduces the over-wintering or over-summering population of viral vectors, ensuring a cleaner start for the subsequent cropping cycle. Managing the 'pest-bridge' between seasons is a vital component of community-level integrated",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_002",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #002: SEEDLING STAGE VIRUS VULNERABILITY: The seedling stage is the most critical period for managing viral vectors in Indian agriculture, as young plants have minimal natural resistance to systemic infections. Viral inoculation by aphids or whiteflies during the first 20 days of growth often leads to total crop failure or severe stunting. Farmers are advised to use insect-proof net nurseries and treat seeds with Thiamethoxam to provide early internal protection. This 'nursery-shield' protocol ensures that seedlings are healthy when transplanted into the main field. Protecting the vulnerable young plant from initial vector attacks is the most cost-effective way to ensure long-term yield and vegetable quality. Regular cleaning of",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_003",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #003: FLOWERING STAGE INSECT ATTACK: Many insect vectors, especially thrips and whiteflies, are highly attracted to the flowering stage of Indian crops due to the presence of pollen and nutrient-rich flower buds. Vector-borne viral transmission at this stage can cause flower drop and physical deformities in the developing fruit. Farmers should be extremely cautious with chemical sprays during flowering to protect beneficial pollinators. Using pollinator-safe biologicals or specific systemic insecticides like Spirotetramat during the late evening is recommended. Maintaining a low vector count during the reproductive phase ensures that the energy of the plant is directed toward fruit development rather than fighting systemic infections. Field-level precision is the",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_004",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #004: YOUNG LEAVES ATTRACTING SAP SUCKERS: The appearance of fresh, succulent young leaves after irrigation or fertilization in Indian fields acts as a natural magnet for sap-sucking insect vectors like aphids and leafhoppers. These soft tissues are easier for the insects to pierce with their stylets, facilitating rapid virus transmission. Farmers should synchronize their pest monitoring and control activities with the emergence of new foliage. A preventative application of Neem oil during the peak flushing period provides a safe and effective barrier against these colonizing vectors. Adhering to this growth-stage-based SOP is essential for managing the localized population of insect vectors and preventing yield-robbing viral colonization. Sustainable agricultural",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_005",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #005: YOUNG LEAVES ATTRACTING SAP SUCKERS: The appearance of fresh, succulent young leaves after irrigation or fertilization in Indian fields acts as a natural magnet for sap-sucking insect vectors like aphids and leafhoppers. These soft tissues are easier for the insects to pierce with their stylets, facilitating rapid virus transmission. Farmers should synchronize their pest monitoring and control activities with the emergence of new foliage. A preventative application of Neem oil during the peak flushing period provides a safe and effective barrier against these colonizing vectors. Adhering to this growth-stage-based SOP is essential for managing the localized population of insect vectors and preventing yield-robbing viral colonization. This is",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_006",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #006: VEGETATIVE STAGE VECTOR MONITORING: Intense field scouting for insect vectors should begin as soon as the crop enters the active vegetative phase across different Indian agro-climatic zones. This is the period of maximum translocation, meaning any virus introduced by vectors will spread quickly throughout the entire plant system. Farmers should check the terminal buds and the undersides of the top three leaves where pests like whiteflies and thrips often congregate. Using a magnifying lense to identify early vector arrival allows for small-scale, targeted interventions that save on chemical costs and protect the wider field environment. This stage-specific precision is a key requirement for modern RAG-based AI advisory",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_007",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #007: HARVEST STAGE VECTOR MANAGEMENT: While the yield might be formed by the late growth stages, managing vectors during the harvest period is still important to prevent the spread of diseases to neighboring crops and the next season's nursery. In many Indian vegetable clusters, insect vectors like leafhoppers can persist on old crop residues and migrate to fresh fields. Farmers should practice 'field sanitation' by removing and destroying old stems and leaves immediately after the final picking. This reduces the over-wintering or over-summering population of viral vectors, ensuring a cleaner start for the subsequent cropping cycle. Managing the 'pest-bridge' between seasons is a vital component of community-level integrated",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_008",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #008: YOUNG LEAVES ATTRACTING SAP SUCKERS: The appearance of fresh, succulent young leaves after irrigation or fertilization in Indian fields acts as a natural magnet for sap-sucking insect vectors like aphids and leafhoppers. These soft tissues are easier for the insects to pierce with their stylets, facilitating rapid virus transmission. Farmers should synchronize their pest monitoring and control activities with the emergence of new foliage. A preventative application of Neem oil during the peak flushing period provides a safe and effective barrier against these colonizing vectors. Adhering to this growth-stage-based SOP is essential for managing the localized population of insect vectors and preventing yield-robbing viral colonization. Adopting these",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_009",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #009: VEGETATIVE STAGE VECTOR MONITORING: Intense field scouting for insect vectors should begin as soon as the crop enters the active vegetative phase across different Indian agro-climatic zones. This is the period of maximum translocation, meaning any virus introduced by vectors will spread quickly throughout the entire plant system. Farmers should check the terminal buds and the undersides of the top three leaves where pests like whiteflies and thrips often congregate. Using a magnifying lense to identify early vector arrival allows for small-scale, targeted interventions that save on chemical costs and protect the wider field environment. This stage-specific precision is a key requirement for modern RAG-based AI advisory",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_010",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #010: SEEDLING STAGE VIRUS VULNERABILITY: The seedling stage is the most critical period for managing viral vectors in Indian agriculture, as young plants have minimal natural resistance to systemic infections. Viral inoculation by aphids or whiteflies during the first 20 days of growth often leads to total crop failure or severe stunting. Farmers are advised to use insect-proof net nurseries and treat seeds with Thiamethoxam to provide early internal protection. This 'nursery-shield' protocol ensures that seedlings are healthy when transplanted into the main field. Protecting the vulnerable young plant from initial vector attacks is the most cost-effective way to ensure long-term yield and vegetable quality. This is especially",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_011",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #011: SEEDLING STAGE VIRUS VULNERABILITY: The seedling stage is the most critical period for managing viral vectors in Indian agriculture, as young plants have minimal natural resistance to systemic infections. Viral inoculation by aphids or whiteflies during the first 20 days of growth often leads to total crop failure or severe stunting. Farmers are advised to use insect-proof net nurseries and treat seeds with Thiamethoxam to provide early internal protection. This 'nursery-shield' protocol ensures that seedlings are healthy when transplanted into the main field. Protecting the vulnerable young plant from initial vector attacks is the most cost-effective way to ensure long-term yield and vegetable quality. Optimizing the IPM",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_012",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #012: HARVEST STAGE VECTOR MANAGEMENT: While the yield might be formed by the late growth stages, managing vectors during the harvest period is still important to prevent the spread of diseases to neighboring crops and the next season's nursery. In many Indian vegetable clusters, insect vectors like leafhoppers can persist on old crop residues and migrate to fresh fields. Farmers should practice 'field sanitation' by removing and destroying old stems and leaves immediately after the final picking. This reduces the over-wintering or over-summering population of viral vectors, ensuring a cleaner start for the subsequent cropping cycle. Managing the 'pest-bridge' between seasons is a vital component of community-level integrated",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_013",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #013: VEGETATIVE STAGE VECTOR MONITORING: Intense field scouting for insect vectors should begin as soon as the crop enters the active vegetative phase across different Indian agro-climatic zones. This is the period of maximum translocation, meaning any virus introduced by vectors will spread quickly throughout the entire plant system. Farmers should check the terminal buds and the undersides of the top three leaves where pests like whiteflies and thrips often congregate. Using a magnifying lense to identify early vector arrival allows for small-scale, targeted interventions that save on chemical costs and protect the wider field environment. This stage-specific precision is a key requirement for modern RAG-based AI advisory",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_014",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #014: SEEDLING STAGE VIRUS VULNERABILITY: The seedling stage is the most critical period for managing viral vectors in Indian agriculture, as young plants have minimal natural resistance to systemic infections. Viral inoculation by aphids or whiteflies during the first 20 days of growth often leads to total crop failure or severe stunting. Farmers are advised to use insect-proof net nurseries and treat seeds with Thiamethoxam to provide early internal protection. This 'nursery-shield' protocol ensures that seedlings are healthy when transplanted into the main field. Protecting the vulnerable young plant from initial vector attacks is the most cost-effective way to ensure long-term yield and vegetable quality. Field-level precision is",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_crop_stage_015",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #015: SEEDLING STAGE VIRUS VULNERABILITY: The seedling stage is the most critical period for managing viral vectors in Indian agriculture, as young plants have minimal natural resistance to systemic infections. Viral inoculation by aphids or whiteflies during the first 20 days of growth often leads to total crop failure or severe stunting. Farmers are advised to use insect-proof net nurseries and treat seeds with Thiamethoxam to provide early internal protection. This 'nursery-shield' protocol ensures that seedlings are healthy when transplanted into the main field. Protecting the vulnerable young plant from initial vector attacks is the most cost-effective way to ensure long-term yield and vegetable quality. Strategic chemical and",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure drift-free application near harvestable crops.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_001",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #001: NEEM OIL SPRAYS FOR VECTOR REPELLENCY: Regular foliar application of 3000 PPM Neem oil is a cornerstone of organic and integrated pest management for sap-sucking vectors in India. Neem acts as a natural repellent, antifeedant, and growth regulator, preventing pests like whiteflies and aphids from feeding and transmitting systemic viruses. For the best results, farmers should combine Neem oil with a small amount of liquid detergent to improve its spread and adherence on the leaf surface. Applying Neem sprays during the late evening ensures that the active Azadirachtin is not degraded by direct sunlight. This safe and biologically-derived SOP provides long-term protection without the risk of pesticide",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_002",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #002: REFLECTIVE MULCHING FOR PEST REDUCTION: Reflective silver or yellow plastic mulching is a state-of-the-art IPM technique used by progressive Indian farmers to repel flying insect vectors like whiteflies and thrips. The high-intensity light reflected from the mulch surface interferes with the vector's landing mechanism and vision, effectively pushing them away from the crop rows. This cultural control method reduces the initial virus inoculation of young plants and can eliminate the need for several chemical sprays during the early season. When combined with drip irrigation, reflective mulching also improves water use efficiency and weed control, making it a highly profitable investment for commercial vegetable and fruit production. Regular",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_003",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #003: NEEM OIL SPRAYS FOR VECTOR REPELLENCY: Regular foliar application of 3000 PPM Neem oil is a cornerstone of organic and integrated pest management for sap-sucking vectors in India. Neem acts as a natural repellent, antifeedant, and growth regulator, preventing pests like whiteflies and aphids from feeding and transmitting systemic viruses. For the best results, farmers should combine Neem oil with a small amount of liquid detergent to improve its spread and adherence on the leaf surface. Applying Neem sprays during the late evening ensures that the active Azadirachtin is not degraded by direct sunlight. This safe and biologically-derived SOP provides long-term protection without the risk of pesticide",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_004",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #004: YELLOW STICKY TRAPS FOR APHIDS: Installing yellow sticky traps is a fundamental ICAR-recommended Integrated Pest Management (IPM) practice for monitoring and mass-trapping aphids in Indian vegetable and field crops. Aphids are naturally attracted to the bright yellow color, which mimics the visual signature of fresh, succulent host plants. Placing 15 to 20 traps per acre at the level of the crop canopy provides a pesticide-free way to reduce the winged vector population. This practice is especially effective in greenhouses and open-field nurseries. Monitoring the traps daily allows farmers to track the vector arrival patterns and time their botanical or chemical interventions with scientific precision and cost-effectiveness. Field-level",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_005",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #005: INTERCROPPING FOR PEST REDUCTION: Strategic intercropping with tall, non-host border crops like maize, sorghum, or pearl millet is a highly effective IPM barrier for reducing the movement of flying insect vectors into sensitive Indian vegetable fields. These 'barrier crops' obstruct the flight path of aphids and whiteflies and can physically 'filter' out a significant portion of the incoming vector population. Furthermore, intercropping increases the overall biodiversity of the field, attracting natural predators of the sap-sucking pests. Farmers should implement a 4:1 row ratio of main crop to barrier crop for the best results. This traditional yet technically sound practice is essential for low-cost and sustainable vector management.",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_006",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #006: BIOLOGICAL CONTROL USING LADY BEETLES: Promoting the presence of natural predators like lady beetles (Coccinellids) is a powerful biological control strategy for managing aphid vectors in the Indian agricultural landscape. A single lady beetle can consume hundreds of aphids during its lifetime, significantly lowering the vector pressure. Farmers should avoid broad-spectrum insecticides that kill these beneficial insects and instead use selective biopesticides like Neem oil. Maintaining diverse field margins with flowering plants provides shelter and alternative food for these natural predators. Encouraging biological control agents is the cornerstone of sustainable and eco-friendly farming, reducing the dependency on expensive and toxic chemical interventions for vector management. This is",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_007",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #007: BIOLOGICAL CONTROL USING LADY BEETLES: Promoting the presence of natural predators like lady beetles (Coccinellids) is a powerful biological control strategy for managing aphid vectors in the Indian agricultural landscape. A single lady beetle can consume hundreds of aphids during its lifetime, significantly lowering the vector pressure. Farmers should avoid broad-spectrum insecticides that kill these beneficial insects and instead use selective biopesticides like Neem oil. Maintaining diverse field margins with flowering plants provides shelter and alternative food for these natural predators. Encouraging biological control agents is the cornerstone of sustainable and eco-friendly farming, reducing the dependency on expensive and toxic chemical interventions for vector management. Strategic chemical",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_008",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #008: YELLOW STICKY TRAPS FOR APHIDS: Installing yellow sticky traps is a fundamental ICAR-recommended Integrated Pest Management (IPM) practice for monitoring and mass-trapping aphids in Indian vegetable and field crops. Aphids are naturally attracted to the bright yellow color, which mimics the visual signature of fresh, succulent host plants. Placing 15 to 20 traps per acre at the level of the crop canopy provides a pesticide-free way to reduce the winged vector population. This practice is especially effective in greenhouses and open-field nurseries. Monitoring the traps daily allows farmers to track the vector arrival patterns and time their botanical or chemical interventions with scientific precision and cost-effectiveness. Adopting",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_009",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #009: YELLOW STICKY TRAPS FOR APHIDS: Installing yellow sticky traps is a fundamental ICAR-recommended Integrated Pest Management (IPM) practice for monitoring and mass-trapping aphids in Indian vegetable and field crops. Aphids are naturally attracted to the bright yellow color, which mimics the visual signature of fresh, succulent host plants. Placing 15 to 20 traps per acre at the level of the crop canopy provides a pesticide-free way to reduce the winged vector population. This practice is especially effective in greenhouses and open-field nurseries. Monitoring the traps daily allows farmers to track the vector arrival patterns and time their botanical or chemical interventions with scientific precision and cost-effectiveness. Regular",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_010",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #010: INTERCROPPING FOR PEST REDUCTION: Strategic intercropping with tall, non-host border crops like maize, sorghum, or pearl millet is a highly effective IPM barrier for reducing the movement of flying insect vectors into sensitive Indian vegetable fields. These 'barrier crops' obstruct the flight path of aphids and whiteflies and can physically 'filter' out a significant portion of the incoming vector population. Furthermore, intercropping increases the overall biodiversity of the field, attracting natural predators of the sap-sucking pests. Farmers should implement a 4:1 row ratio of main crop to barrier crop for the best results. This traditional yet technically sound practice is essential for low-cost and sustainable vector management.",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_011",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #011: YELLOW STICKY TRAPS FOR APHIDS: Installing yellow sticky traps is a fundamental ICAR-recommended Integrated Pest Management (IPM) practice for monitoring and mass-trapping aphids in Indian vegetable and field crops. Aphids are naturally attracted to the bright yellow color, which mimics the visual signature of fresh, succulent host plants. Placing 15 to 20 traps per acre at the level of the crop canopy provides a pesticide-free way to reduce the winged vector population. This practice is especially effective in greenhouses and open-field nurseries. Monitoring the traps daily allows farmers to track the vector arrival patterns and time their botanical or chemical interventions with scientific precision and cost-effectiveness. This",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_012",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #012: INTERCROPPING FOR PEST REDUCTION: Strategic intercropping with tall, non-host border crops like maize, sorghum, or pearl millet is a highly effective IPM barrier for reducing the movement of flying insect vectors into sensitive Indian vegetable fields. These 'barrier crops' obstruct the flight path of aphids and whiteflies and can physically 'filter' out a significant portion of the incoming vector population. Furthermore, intercropping increases the overall biodiversity of the field, attracting natural predators of the sap-sucking pests. Farmers should implement a 4:1 row ratio of main crop to barrier crop for the best results. This traditional yet technically sound practice is essential for low-cost and sustainable vector management.",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_013",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #013: INTERCROPPING FOR PEST REDUCTION: Strategic intercropping with tall, non-host border crops like maize, sorghum, or pearl millet is a highly effective IPM barrier for reducing the movement of flying insect vectors into sensitive Indian vegetable fields. These 'barrier crops' obstruct the flight path of aphids and whiteflies and can physically 'filter' out a significant portion of the incoming vector population. Furthermore, intercropping increases the overall biodiversity of the field, attracting natural predators of the sap-sucking pests. Farmers should implement a 4:1 row ratio of main crop to barrier crop for the best results. This traditional yet technically sound practice is essential for low-cost and sustainable vector management.",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_014",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #014: YELLOW STICKY TRAPS FOR APHIDS: Installing yellow sticky traps is a fundamental ICAR-recommended Integrated Pest Management (IPM) practice for monitoring and mass-trapping aphids in Indian vegetable and field crops. Aphids are naturally attracted to the bright yellow color, which mimics the visual signature of fresh, succulent host plants. Placing 15 to 20 traps per acre at the level of the crop canopy provides a pesticide-free way to reduce the winged vector population. This practice is especially effective in greenhouses and open-field nurseries. Monitoring the traps daily allows farmers to track the vector arrival patterns and time their botanical or chemical interventions with scientific precision and cost-effectiveness. Field-level",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    },
+    {
+        "id": "pest_ipm_015",
+        "layer": "layer2",
+        "category": "pest_vector",
+        "crop": "General",
+        "region": "India",
+        "content": "VECTOR ADVISORY #015: INTERCROPPING FOR PEST REDUCTION: Strategic intercropping with tall, non-host border crops like maize, sorghum, or pearl millet is a highly effective IPM barrier for reducing the movement of flying insect vectors into sensitive Indian vegetable fields. These 'barrier crops' obstruct the flight path of aphids and whiteflies and can physically 'filter' out a significant portion of the incoming vector population. Furthermore, intercropping increases the overall biodiversity of the field, attracting natural predators of the sap-sucking pests. Farmers should implement a 4:1 row ratio of main crop to barrier crop for the best results. This traditional yet technically sound practice is essential for low-cost and sustainable vector management.",
+        "vector_type": "General",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Clean and replace sticky traps every 15 to 21 days.",
+        "source_type": [
+            "ICAR",
+            "Agricultural Extension"
+        ]
+    }
+]

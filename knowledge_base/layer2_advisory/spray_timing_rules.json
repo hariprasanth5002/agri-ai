@@ -1,0 +1,2402 @@
+[
+    {
+        "id": "spray_rain_001",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC VS CONTACT RAIN RULES: Choosing between systemic and contact pesticides depends heavily on the upcoming weather forecast during the Indian monsoon. Systemic products are preferred when intermittent light rain is expected as they are absorbed into the vascular system within 2 hours of application. Contact products, conversely, remain on the leaf surface and are highly susceptible to wash-off if rain exceeds 5 mm. Farmers should utilize stickers or adjuvants to improve rainfastness when spraying during the humid months. Ensuring that the chemical 'rainfast' window is respected protects the crop and prevents the leaching of toxic chemicals into the localized water bodies. Precise timing of chemical inputs remains the most",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_002",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DROPLET SIZE AND DRIFT CONTROL: Managing droplet size is the most effective way for farmers to combat wind-induced pesticide drift in commercial farming systems. Fine droplets are highly susceptible to drift even at moderate wind speeds of 10 km/h. By selecting nozzles that produce medium to coarse droplets, farmers can ensure that over 90% of the sprayed solution reaches the target foliage. This is especially important when applying non-selective herbicides or toxic insecticides near sensitive water bodies. Always monitor wind direction using simple farm tools like flags or wind vanes before starting the tractor-mounted or drone-based spray equipment in the field. Adopting these scientifically-backed spray timing protocols helps in making",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_003",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVENING SPRAYING ADVANTAGES: Evening spray operations after 6 PM are highly recommended during the Indian summer to mitigate the negative effects of high temperature and low humidity. Lower evening temperatures significantly reduce the risk of pesticide vaporization and photo-degradation, allowing the chemical to remain active on the foliage for a longer duration. Furthermore, evening spraying is safer for beneficial insects like honeybees and pollinators that are active during the daylight hours. Farmers should ensure that the crop canopy is dry before evening spraying to prevent the buildup of anaerobic conditions or fungal risks. This practice is a standard ICAR-recommended SOP for sustainable vegetable farming. Adopting these scientifically-backed spray timing protocols",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_004",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DELTA T AND SPRAY SURVIVAL: Delta T, the difference between dry and wet bulb temperatures, is a critical metric for Indian farmers to determine the survival of spray droplets. An ideal Delta T for pesticide application ranges from 2 to 8. If the Delta T is above 10, indicating low humidity and high temperature, droplets evaporate rapidly, leading to high drift and poor chemical absorption. Conversely, a Delta T below 2 indicates very high humidity where droplets may not dry properly, leading to leaching. Using this metric allows farmers to time their sprays precisely, ensuring that the maximum amount of pesticide reaches the target pest without environmental degradation. Historical observations",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_005",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MORNING DEW DILUTION RISK: Heavy morning dew on crop foliage can significantly dilute the concentration of applied pesticides, leading to sub-lethal dosing and poor pest control. If the leaf canopy is dripping with dew, farmers should postpone spraying until the leaves have dried completely, usually by late morning. Applying chemicals on wet foliage also increases the risk of the product running off the leaf surface and into the soil, causing waste and potential groundwater contamination. Integrated pest management guidelines in India suggest that the 'dry leaf' rule is non-negotiable for contact insecticides to ensure that the chemical film adheres firmly to the target pests. Integrating localized agromet data into daily",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_006",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WINTER FOG DISEASE RISK: Dense winter fog across North India traps high volumes of moisture within the crop canopy, creating ideal conditions for Late Blight and Alternaria outbreaks. Fog functions similarly to light rain, leading to prolonged leaf wetness that prevents pesticides from drying and adhering correctly. Farmers are advised to avoid spray operations during thick fog as the droplets will likely merge with fog particles and drift away or drip off the foliage. Ideally, wait for the fog to lift and for the sun to emerge before initiating a fungicidal application. This ensures that the chemical forms a stable film on the leaf surface for maximum protection. Adopting these",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_007",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "PHOTO-STABLE CHEMICAL CHOICES: When daytime spraying is unavoidable due to large field sizes or labor constraints, Indian farmers should select pesticides that are formulated with UV stabilizers. These additives protect the active ingredients from rapid photo-degradation under the intense South Asian sun. However, even with stabilized products, the biological efficacy is still superior when applied during the cooler morning hours. Farmers should also consider using nozzles that produce larger droplets, which are less prone to rapid evaporation and UV-induced chemical breakdown. Ensuring a robust and stable chemical film on the plant surface is the key to managing persistent pests like thrips and aphids during the bright summer months. Precise timing",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_008",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_009",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC VS CONTACT RAIN RULES: Choosing between systemic and contact pesticides depends heavily on the upcoming weather forecast during the Indian monsoon. Systemic products are preferred when intermittent light rain is expected as they are absorbed into the vascular system within 2 hours of application. Contact products, conversely, remain on the leaf surface and are highly susceptible to wash-off if rain exceeds 5 mm. Farmers should utilize stickers or adjuvants to improve rainfastness when spraying during the humid months. Ensuring that the chemical 'rainfast' window is respected protects the crop and prevents the leaching of toxic chemicals into the localized water bodies. Historical observations across diverse Indian agricultural zones confirm",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_010",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "CALM WINDS AND INVERSION RISKS: While high winds cause drift, extremely calm conditions with wind speeds below 3 km/h can also be hazardous due to temperature inversions. Inversions can trap fine pesticide droplets in a concentrated cloud near the ground, allowing them to drift long distances horizontally. Indian farmers should avoid spraying during the early morning or late evening if smoke from farm fires hangs flat in the air. Ideally, wait for a light breeze of at least 4 km/h to ensure proper vertical mixing and canopy penetration. This balance between wind speed and atmospheric stability is vital for efficient and safe chemical application. Adopting these scientifically-backed spray timing protocols",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_011",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "LOW TEMPERATURE SPRAY RULES: During the peak winter months in Punjab and Haryana, atmospheric temperatures often drop below 12\u00b0C, which can hinder the effectiveness of systemic pesticides. Plant metabolism slows down significantly in cold weather, leading to reduced absorption and translocation of systemic chemicals like Triazoles. Farmers should postpone spraying until the sun is up and the ambient temperature rises above 15\u00b0C. For contact-based products, ensure that the frost on the leaves has completely melted before application to prevent dilution. Choosing the right thermal window for spraying is essential for maintaining crop health and avoiding wasted chemical inputs during the Rabi season. Precise timing of chemical inputs remains the most",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": "<12\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_012",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY-DRIVEN DISEASE RISK: Farmers in India should prioritize prophylactic fungicide sprays when the 24-hour average humidity stays above 80%, as this environment is highly conducive to mildew and blight outbreaks. Spraying before the peak humidity period allows the chemical to establish a protective layer on the plant surface. If spraying must occur during high humidity, using surfactants or spreaders is recommended to improve the uniformity of the coverage. Avoiding irrigation just before a planned spray also helps in managing the microclimate humidity within the field. This proactive timing is essential for preventing rapid disease spread and ensuring yield stability in monsoon-grown vegetable crops. Following ICAR's recommended Best Management Practices (BMP)",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_013",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW AND FUNGAL INFECTION: The presence of heavy dew for more than 8 consecutive hours creates a high-risk window for fungal infections in sensitive Indian crops like wheat. Dew provides the necessary free water for spores to germinate and infect plant tissues. Farmers are advised to time their fungicide applications to occur just after the morning dew has evaporated to provide a fresh protective layer for the coming night. Gently shaking the crop with a rope can help in removing excess dew if early morning spraying is mandatory due to upcoming high winds. Ensuring a dry surface before application is the most reliable way to prevent yield-robbing fungal epidemics. Integrating",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_014",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "FOG-BASED SPRAY DELAY: Farmers should implement a strict 'fog-clear' rule for all pesticide and fungicide applications during the Rabi season in North India. Spraying should only begin once the visibility exceeds 500 meters and the leaf surface shows signs of drying. Persistent fog not only hampers the efficacy of the chemical but also poses a severe health risk to the operator due to the concentrated moisture in the air. Waiting for the localized microclimate to warm up after the fog clears also ensures better plant metabolism, which is essential for the effective absorption of systemic fungicides. This technical precision is vital for managing disease risks like potato blight. Historical observations",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_015",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "PHOTO-STABLE CHEMICAL CHOICES: When daytime spraying is unavoidable due to large field sizes or labor constraints, Indian farmers should select pesticides that are formulated with UV stabilizers. These additives protect the active ingredients from rapid photo-degradation under the intense South Asian sun. However, even with stabilized products, the biological efficacy is still superior when applied during the cooler morning hours. Farmers should also consider using nozzles that produce larger droplets, which are less prone to rapid evaporation and UV-induced chemical breakdown. Ensuring a robust and stable chemical film on the plant surface is the key to managing persistent pests like thrips and aphids during the bright summer months. Precise timing",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_016",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVAPORATION CONTROL AT NIGHT: One of the primary reasons for the success of night-time spraying in tropical regions like India is the drastic reduction in the evaporation rate of the chemical droplets. During the day, high temperatures and low humidity can cause up to 50% of the spray to evaporate before it can be effective. At night, the naturally high humidity and still air allow the droplets to stay in a liquid state for longer, facilitating better absorption and coverage on the leaf surface. This improved efficiency allows farmers to use lower volumes of water and reduces the frequency of re-spraying, leading to significant savings in labor and chemical costs",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_017",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POST-RAIN SPRAY DECISION: After a heavy rainfall event in the Kharif season, the risk of fungal disease outbreaks increases due to high soil moisture and leaf wetness. However, farmers should wait until the crop foliage is dry before initiating a corrective spray operation. Spraying on wet leaves can lead to pesticide dilution and poor adherence, reducing the treatment's lethality against pests. Additionally, if the previous application was followed by more than 25 mm of rain within 24 hours, a re-application of contact fungicides is generally required to maintain protection. Integrated pest management requires this careful timing to ensure crop health in India. Adopting these scientifically-backed spray timing protocols helps in",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_018",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WIND SPEED AND DRIFT SAFETY: Pesticide spraying should be immediately halted if wind speeds exceed 15 km/h to prevent dangerous chemical drift to non-target crops or residential areas in India. High winds cause spray droplets to move away from the intended canopy, leading to uneven pest control and potential litigation from neighboring farmers. Ideally, spray operations should be conducted when wind velocities are between 5 to 10 km/h, blowing away from sensitive zones. Farmers are advised to maintain the lowest possible boom height and use low-drift nozzles to minimize the formation of fine droplets that are easily carried by terminal wind currents. Adopting these scientifically-backed spray timing protocols helps in",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_019",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVENING SPRAYING ADVANTAGES: Evening spray operations after 6 PM are highly recommended during the Indian summer to mitigate the negative effects of high temperature and low humidity. Lower evening temperatures significantly reduce the risk of pesticide vaporization and photo-degradation, allowing the chemical to remain active on the foliage for a longer duration. Furthermore, evening spraying is safer for beneficial insects like honeybees and pollinators that are active during the daylight hours. Farmers should ensure that the crop canopy is dry before evening spraying to prevent the buildup of anaerobic conditions or fungal risks. This practice is a standard ICAR-recommended SOP for sustainable vegetable farming. Historical observations across diverse Indian agricultural",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_020",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "ABSORPTION UNDER HIGH HUMIDITY: Systemic pesticide absorption is generally enhanced under conditions of high relative humidity because the plant stomata remain open for longer durations. This allows the active ingredients to penetrate the leaf cuticle more efficiently compared to dry, hot conditions. However, farmers must ensure that the humidity is not so high that it leads to heavy dew formation, which can dilute the pesticide. The best spray window is usually when the humidity is around 70% with a light breeze. This balance ensures that the chemical 'sets' on the leaf without excessive evaporation, providing a robust barrier against pests and diseases in tropical farming systems. Regional agricultural universities emphasize",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_021",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MORNING DEW DILUTION RISK: Heavy morning dew on crop foliage can significantly dilute the concentration of applied pesticides, leading to sub-lethal dosing and poor pest control. If the leaf canopy is dripping with dew, farmers should postpone spraying until the leaves have dried completely, usually by late morning. Applying chemicals on wet foliage also increases the risk of the product running off the leaf surface and into the soil, causing waste and potential groundwater contamination. Integrated pest management guidelines in India suggest that the 'dry leaf' rule is non-negotiable for contact insecticides to ensure that the chemical film adheres firmly to the target pests. Timely intervention during the optimal weather",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_022",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "REDUCED ADHERENCE DURING FOG: Applying pesticides in foggy conditions leads to highly inefficient chemical usage because the high atmospheric moisture prevents the droplets from reaching the target pests. Furthermore, the droplets that do land on the crop often fail to dry, resulting in poor adherence and rapid run-off. In the Indo-Gangetic plains, winter fog can persist for several hours, making it necessary for farmers to reschedule their spray activities to the midday window. If spraying is critical during a light fog, increasing the pesticide concentration slightly and using high-quality spreaders may help, but postponing is generally the safer and more cost-effective agricultural decision for Indian farmers. Following ICAR's recommended Best",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_023",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "PHOTO-STABLE CHEMICAL CHOICES: When daytime spraying is unavoidable due to large field sizes or labor constraints, Indian farmers should select pesticides that are formulated with UV stabilizers. These additives protect the active ingredients from rapid photo-degradation under the intense South Asian sun. However, even with stabilized products, the biological efficacy is still superior when applied during the cooler morning hours. Farmers should also consider using nozzles that produce larger droplets, which are less prone to rapid evaporation and UV-induced chemical breakdown. Ensuring a robust and stable chemical film on the plant surface is the key to managing persistent pests like thrips and aphids during the bright summer months. Integrating localized",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_024",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVAPORATION CONTROL AT NIGHT: One of the primary reasons for the success of night-time spraying in tropical regions like India is the drastic reduction in the evaporation rate of the chemical droplets. During the day, high temperatures and low humidity can cause up to 50% of the spray to evaporate before it can be effective. At night, the naturally high humidity and still air allow the droplets to stay in a liquid state for longer, facilitating better absorption and coverage on the leaf surface. This improved efficiency allows farmers to use lower volumes of water and reduces the frequency of re-spraying, leading to significant savings in labor and chemical costs",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_025",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "RAINFASTNESS AND SPRAY TIMING: Spraying pesticides or fungicides just before a heavy monsoon downfall exceeding 10 mm leads to significant chemical wash-off and environmental contamination. For contact-based products, a dry period of at least 4 to 6 hours is essential for the chemical to set on the foliage. Systemic fungicides require approximately 2 to 3 hours for effective absorption into the plant tissue before being considered rain-safe. Farmers should monitor local IMD alerts and postpone spraying if a cloudburst or heavy precipitation is anticipated within the next few hours to ensure product efficacy and reduce input costs. Adopting these scientifically-backed spray timing protocols helps in making data-driven decisions that benefit",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_026",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "CALM WINDS AND INVERSION RISKS: While high winds cause drift, extremely calm conditions with wind speeds below 3 km/h can also be hazardous due to temperature inversions. Inversions can trap fine pesticide droplets in a concentrated cloud near the ground, allowing them to drift long distances horizontally. Indian farmers should avoid spraying during the early morning or late evening if smoke from farm fires hangs flat in the air. Ideally, wait for a light breeze of at least 4 km/h to ensure proper vertical mixing and canopy penetration. This balance between wind speed and atmospheric stability is vital for efficient and safe chemical application. Regional agricultural universities emphasize that adhering",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_027",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "LOW TEMPERATURE SPRAY RULES: During the peak winter months in Punjab and Haryana, atmospheric temperatures often drop below 12\u00b0C, which can hinder the effectiveness of systemic pesticides. Plant metabolism slows down significantly in cold weather, leading to reduced absorption and translocation of systemic chemicals like Triazoles. Farmers should postpone spraying until the sun is up and the ambient temperature rises above 15\u00b0C. For contact-based products, ensure that the frost on the leaves has completely melted before application to prevent dilution. Choosing the right thermal window for spraying is essential for maintaining crop health and avoiding wasted chemical inputs during the Rabi season. Integrating localized agromet data into daily farm operations",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": "<12\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_028",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "ABSORPTION UNDER HIGH HUMIDITY: Systemic pesticide absorption is generally enhanced under conditions of high relative humidity because the plant stomata remain open for longer durations. This allows the active ingredients to penetrate the leaf cuticle more efficiently compared to dry, hot conditions. However, farmers must ensure that the humidity is not so high that it leads to heavy dew formation, which can dilute the pesticide. The best spray window is usually when the humidity is around 70% with a light breeze. This balance ensures that the chemical 'sets' on the leaf without excessive evaporation, providing a robust barrier against pests and diseases in tropical farming systems. Adopting these scientifically-backed spray",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_029",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MORNING DEW DILUTION RISK: Heavy morning dew on crop foliage can significantly dilute the concentration of applied pesticides, leading to sub-lethal dosing and poor pest control. If the leaf canopy is dripping with dew, farmers should postpone spraying until the leaves have dried completely, usually by late morning. Applying chemicals on wet foliage also increases the risk of the product running off the leaf surface and into the soil, causing waste and potential groundwater contamination. Integrated pest management guidelines in India suggest that the 'dry leaf' rule is non-negotiable for contact insecticides to ensure that the chemical film adheres firmly to the target pests. Regional agricultural universities emphasize that adhering",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_030",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WINTER FOG DISEASE RISK: Dense winter fog across North India traps high volumes of moisture within the crop canopy, creating ideal conditions for Late Blight and Alternaria outbreaks. Fog functions similarly to light rain, leading to prolonged leaf wetness that prevents pesticides from drying and adhering correctly. Farmers are advised to avoid spray operations during thick fog as the droplets will likely merge with fog particles and drift away or drip off the foliage. Ideally, wait for the fog to lift and for the sun to emerge before initiating a fungicidal application. This ensures that the chemical forms a stable film on the leaf surface for maximum protection. Regional agricultural",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_031",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SUNBURN RISK AFTER SPRAYING: Certain oils and concentrated pesticides can increase the crop's sensitivity to sunlight, leading to physical sunburn or Sunscald on the fruit and leaves. This 'lensing' effect occurs when spray droplets act as small magnifiers for the intense midday UV rays. To prevent this, farmers should avoid spraying during the hottest part of the day and ensure that the spray solution is properly diluted according to ICAR guidelines. Evening spraying is the safest alternative as it allows the chemical to dry and be absorbed overnight, minimizing the risk of photo-toxic reactions the following day. This practice is especially critical for sensitive horticultural crops like tomatoes and capsicums.",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_032",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVAPORATION CONTROL AT NIGHT: One of the primary reasons for the success of night-time spraying in tropical regions like India is the drastic reduction in the evaporation rate of the chemical droplets. During the day, high temperatures and low humidity can cause up to 50% of the spray to evaporate before it can be effective. At night, the naturally high humidity and still air allow the droplets to stay in a liquid state for longer, facilitating better absorption and coverage on the leaf surface. This improved efficiency allows farmers to use lower volumes of water and reduces the frequency of re-spraying, leading to significant savings in labor and chemical costs",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_033",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "RAINFASTNESS AND SPRAY TIMING: Spraying pesticides or fungicides just before a heavy monsoon downfall exceeding 10 mm leads to significant chemical wash-off and environmental contamination. For contact-based products, a dry period of at least 4 to 6 hours is essential for the chemical to set on the foliage. Systemic fungicides require approximately 2 to 3 hours for effective absorption into the plant tissue before being considered rain-safe. Farmers should monitor local IMD alerts and postpone spraying if a cloudburst or heavy precipitation is anticipated within the next few hours to ensure product efficacy and reduce input costs. Precise timing of chemical inputs remains the most effective tool for Indian farmers",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_034",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DROPLET SIZE AND DRIFT CONTROL: Managing droplet size is the most effective way for farmers to combat wind-induced pesticide drift in commercial farming systems. Fine droplets are highly susceptible to drift even at moderate wind speeds of 10 km/h. By selecting nozzles that produce medium to coarse droplets, farmers can ensure that over 90% of the sprayed solution reaches the target foliage. This is especially important when applying non-selective herbicides or toxic insecticides near sensitive water bodies. Always monitor wind direction using simple farm tools like flags or wind vanes before starting the tractor-mounted or drone-based spray equipment in the field. Timely intervention during the optimal weather window is the",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_035",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HEAT STRESS AND SPRAY TIMING: Applying pesticides when temperatures exceed 35\u00b0C in North India can lead to significant phytotoxicity, causing leaf scorch and reduced crop yields. High temperatures also accelerate the evaporation and volatilization of the chemical droplets before they even reach the leaf surface. Farmers are advised to conduct spray operations during the cooler hours of the early morning or late evening when the ambient temperature is below 30\u00b0C. This timing improves droplet survival and ensures that the pesticide has a longer duration of liquid phase contact with the pest, leading to much higher biological efficacy and safety. Historical observations across diverse Indian agricultural zones confirm that weather-based timing",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_036",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "ABSORPTION UNDER HIGH HUMIDITY: Systemic pesticide absorption is generally enhanced under conditions of high relative humidity because the plant stomata remain open for longer durations. This allows the active ingredients to penetrate the leaf cuticle more efficiently compared to dry, hot conditions. However, farmers must ensure that the humidity is not so high that it leads to heavy dew formation, which can dilute the pesticide. The best spray window is usually when the humidity is around 70% with a light breeze. This balance ensures that the chemical 'sets' on the leaf without excessive evaporation, providing a robust barrier against pests and diseases in tropical farming systems. Farmers should prioritize these",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_037",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MORNING DEW DILUTION RISK: Heavy morning dew on crop foliage can significantly dilute the concentration of applied pesticides, leading to sub-lethal dosing and poor pest control. If the leaf canopy is dripping with dew, farmers should postpone spraying until the leaves have dried completely, usually by late morning. Applying chemicals on wet foliage also increases the risk of the product running off the leaf surface and into the soil, causing waste and potential groundwater contamination. Integrated pest management guidelines in India suggest that the 'dry leaf' rule is non-negotiable for contact insecticides to ensure that the chemical film adheres firmly to the target pests. Adopting these scientifically-backed spray timing protocols",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_038",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WINTER FOG DISEASE RISK: Dense winter fog across North India traps high volumes of moisture within the crop canopy, creating ideal conditions for Late Blight and Alternaria outbreaks. Fog functions similarly to light rain, leading to prolonged leaf wetness that prevents pesticides from drying and adhering correctly. Farmers are advised to avoid spray operations during thick fog as the droplets will likely merge with fog particles and drift away or drip off the foliage. Ideally, wait for the fog to lift and for the sun to emerge before initiating a fungicidal application. This ensures that the chemical forms a stable film on the leaf surface for maximum protection. Precise timing",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_039",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "PHOTO-STABLE CHEMICAL CHOICES: When daytime spraying is unavoidable due to large field sizes or labor constraints, Indian farmers should select pesticides that are formulated with UV stabilizers. These additives protect the active ingredients from rapid photo-degradation under the intense South Asian sun. However, even with stabilized products, the biological efficacy is still superior when applied during the cooler morning hours. Farmers should also consider using nozzles that produce larger droplets, which are less prone to rapid evaporation and UV-induced chemical breakdown. Ensuring a robust and stable chemical film on the plant surface is the key to managing persistent pests like thrips and aphids during the bright summer months. Adopting these",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_040",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVAPORATION CONTROL AT NIGHT: One of the primary reasons for the success of night-time spraying in tropical regions like India is the drastic reduction in the evaporation rate of the chemical droplets. During the day, high temperatures and low humidity can cause up to 50% of the spray to evaporate before it can be effective. At night, the naturally high humidity and still air allow the droplets to stay in a liquid state for longer, facilitating better absorption and coverage on the leaf surface. This improved efficiency allows farmers to use lower volumes of water and reduces the frequency of re-spraying, leading to significant savings in labor and chemical costs",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_041",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "RAIN-SAFE SPRAYING ADVISORY: Effective spray timing during the Indian monsoon hinges on the rainfastness of the selected pesticide. If unexpected rainfall occurs within 1 hour of application, the farmer should evaluate the rain intensity. Intense rain over 15 mm typically washes away over 80% of contact-based residues. In such cases, a repeat application is mandatory once the weather clears to prevent pest resurgence. For better results, prioritize spraying during the early morning hours when the probability of sudden convective rain is statistically lower. This strategic timing ensures that the chemical has sufficient 'dwell time' on the leaf surface for maximum biological impact. Farmers should prioritize these specific decision rules when",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_042",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "BOOM HEIGHT AND WIND MANAGEMENT: To reduce the risk of spray drift during windy conditions in the Indo-Gangetic plains, farmers must adjust their equipment settings precisely. Maintaining a boom height within 50 cm of the crop canopy significantly narrows the window for wind-induced droplet travel. If wind speeds are fluctuating between 12 and 18 km/h, using air-induction nozzles that produce coarser droplets is a recommended technical SOP. This ensures that the pesticide reaches the target pests even under marginal atmospheric conditions. Avoiding spray operations during gusty or variable wind directions is critical for the safety of both the operator and the local environment. Farmers should prioritize these specific decision rules",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_043",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVENING SPRAYING ADVANTAGES: Evening spray operations after 6 PM are highly recommended during the Indian summer to mitigate the negative effects of high temperature and low humidity. Lower evening temperatures significantly reduce the risk of pesticide vaporization and photo-degradation, allowing the chemical to remain active on the foliage for a longer duration. Furthermore, evening spraying is safer for beneficial insects like honeybees and pollinators that are active during the daylight hours. Farmers should ensure that the crop canopy is dry before evening spraying to prevent the buildup of anaerobic conditions or fungal risks. This practice is a standard ICAR-recommended SOP for sustainable vegetable farming. Precise timing of chemical inputs remains",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_044",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY-DRIVEN DISEASE RISK: Farmers in India should prioritize prophylactic fungicide sprays when the 24-hour average humidity stays above 80%, as this environment is highly conducive to mildew and blight outbreaks. Spraying before the peak humidity period allows the chemical to establish a protective layer on the plant surface. If spraying must occur during high humidity, using surfactants or spreaders is recommended to improve the uniformity of the coverage. Avoiding irrigation just before a planned spray also helps in managing the microclimate humidity within the field. This proactive timing is essential for preventing rapid disease spread and ensuring yield stability in monsoon-grown vegetable crops. Integrating localized agromet data into daily farm",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_045",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW AND FUNGAL INFECTION: The presence of heavy dew for more than 8 consecutive hours creates a high-risk window for fungal infections in sensitive Indian crops like wheat. Dew provides the necessary free water for spores to germinate and infect plant tissues. Farmers are advised to time their fungicide applications to occur just after the morning dew has evaporated to provide a fresh protective layer for the coming night. Gently shaking the crop with a rope can help in removing excess dew if early morning spraying is mandatory due to upcoming high winds. Ensuring a dry surface before application is the most reliable way to prevent yield-robbing fungal epidemics. Integrating",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_046",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WINTER FOG DISEASE RISK: Dense winter fog across North India traps high volumes of moisture within the crop canopy, creating ideal conditions for Late Blight and Alternaria outbreaks. Fog functions similarly to light rain, leading to prolonged leaf wetness that prevents pesticides from drying and adhering correctly. Farmers are advised to avoid spray operations during thick fog as the droplets will likely merge with fog particles and drift away or drip off the foliage. Ideally, wait for the fog to lift and for the sun to emerge before initiating a fungicidal application. This ensures that the chemical forms a stable film on the leaf surface for maximum protection. Farmers should",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_047",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MIDDAY SPRAY INEFFICIENCY: High solar intensity during the Indian summer creates strong thermal updrafts that carry pesticide droplets up and away from the target field. This 'volatilization' not only wastes expensive chemicals but also leads to poor coverage and potential environmental contamination. Midday spraying is statistically the least efficient time for chemical application due to the combined effects of high temperature, low humidity, and intense UV radiation. Farmers should prioritize early morning sprays when the air is still and the atmospheric conditions are optimized for droplet survival. Adhering to this timing rule can reduce the number of required sprays per season by improving the efficacy of each application. Regional agricultural",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_048",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_049",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POST-RAIN SPRAY DECISION: After a heavy rainfall event in the Kharif season, the risk of fungal disease outbreaks increases due to high soil moisture and leaf wetness. However, farmers should wait until the crop foliage is dry before initiating a corrective spray operation. Spraying on wet leaves can lead to pesticide dilution and poor adherence, reducing the treatment's lethality against pests. Additionally, if the previous application was followed by more than 25 mm of rain within 24 hours, a re-application of contact fungicides is generally required to maintain protection. Integrated pest management requires this careful timing to ensure crop health in India. Integrating localized agromet data into daily farm operations",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_050",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "CALM WINDS AND INVERSION RISKS: While high winds cause drift, extremely calm conditions with wind speeds below 3 km/h can also be hazardous due to temperature inversions. Inversions can trap fine pesticide droplets in a concentrated cloud near the ground, allowing them to drift long distances horizontally. Indian farmers should avoid spraying during the early morning or late evening if smoke from farm fires hangs flat in the air. Ideally, wait for a light breeze of at least 4 km/h to ensure proper vertical mixing and canopy penetration. This balance between wind speed and atmospheric stability is vital for efficient and safe chemical application. Precise timing of chemical inputs remains",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_051",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVENING SPRAYING ADVANTAGES: Evening spray operations after 6 PM are highly recommended during the Indian summer to mitigate the negative effects of high temperature and low humidity. Lower evening temperatures significantly reduce the risk of pesticide vaporization and photo-degradation, allowing the chemical to remain active on the foliage for a longer duration. Furthermore, evening spraying is safer for beneficial insects like honeybees and pollinators that are active during the daylight hours. Farmers should ensure that the crop canopy is dry before evening spraying to prevent the buildup of anaerobic conditions or fungal risks. This practice is a standard ICAR-recommended SOP for sustainable vegetable farming. Adopting these scientifically-backed spray timing protocols",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_052",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY AND FUNGICIDE EFFICACY: Atmospheric humidity levels exceeding 85% significantly influence the effectiveness of fungicide applications in humid coastal regions of India. High humidity slows down the drying time of the spray droplets, which can be beneficial for the absorption of systemic products but increases the risk of run-off for contact chemicals. Furthermore, persistent high humidity is a primary trigger for fungal spore germination and disease spread. Farmers should aim for a protective spray when the relative humidity is between 60% and 80% to ensure optimal coverage and adherence. Monitoring the wet-bulb temperature or Delta T is a reliable way to assess these atmospheric conditions accurately. Integrating localized agromet data",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_053",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "LEAF WETNESS SPRAY DELAY: Accurate tracking of leaf wetness duration is vital for determining the optimal spray timing for North Indian fruit and vegetable crops. If the leaf surface is wet from dew or light drizzle, the pesticide coverage becomes uneven, and the active ingredients may fail to dry properly. Most chemical labels in India require a 'stay-dry' period after application to ensure rainfastness. Spraying on dewy leaves violates this requirement and can lead to immediate wash-off even without actual rain. Farmers should aim for a clear window of at least 4 to 6 hours after the morning dew clears to ensure that the pesticide is fully absorbed and effective.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_054",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC UPTAKE AND FOG: While systemic pesticides are eventually absorbed by the plant, their initial application during dense fog is highly discouraged due to the risk of droplet dilution and physical drift. The high humidity associated with fog can temporarily close the stomata or coat them with moisture, hindering the entry of the active ingredients into the plant's vascular system. Indian farmers should prioritize spraying when the sun provides enough heat to drive the transpiration process, which aids in the rapid uptake of systemic chemicals. This ensures that the crop is protected from the inside out against the fungal pathogens that thrive during the damp, foggy North Indian winter months.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_055",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MIDDAY SPRAY INEFFICIENCY: High solar intensity during the Indian summer creates strong thermal updrafts that carry pesticide droplets up and away from the target field. This 'volatilization' not only wastes expensive chemicals but also leads to poor coverage and potential environmental contamination. Midday spraying is statistically the least efficient time for chemical application due to the combined effects of high temperature, low humidity, and intense UV radiation. Farmers should prioritize early morning sprays when the air is still and the atmospheric conditions are optimized for droplet survival. Adhering to this timing rule can reduce the number of required sprays per season by improving the efficacy of each application. Following ICAR's",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_056",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_057",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC VS CONTACT RAIN RULES: Choosing between systemic and contact pesticides depends heavily on the upcoming weather forecast during the Indian monsoon. Systemic products are preferred when intermittent light rain is expected as they are absorbed into the vascular system within 2 hours of application. Contact products, conversely, remain on the leaf surface and are highly susceptible to wash-off if rain exceeds 5 mm. Farmers should utilize stickers or adjuvants to improve rainfastness when spraying during the humid months. Ensuring that the chemical 'rainfast' window is respected protects the crop and prevents the leaching of toxic chemicals into the localized water bodies. Integrating localized agromet data into daily farm operations",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_058",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WIND SPEED AND DRIFT SAFETY: Pesticide spraying should be immediately halted if wind speeds exceed 15 km/h to prevent dangerous chemical drift to non-target crops or residential areas in India. High winds cause spray droplets to move away from the intended canopy, leading to uneven pest control and potential litigation from neighboring farmers. Ideally, spray operations should be conducted when wind velocities are between 5 to 10 km/h, blowing away from sensitive zones. Farmers are advised to maintain the lowest possible boom height and use low-drift nozzles to minimize the formation of fine droplets that are easily carried by terminal wind currents. Historical observations across diverse Indian agricultural zones confirm",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_059",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVENING SPRAYING ADVANTAGES: Evening spray operations after 6 PM are highly recommended during the Indian summer to mitigate the negative effects of high temperature and low humidity. Lower evening temperatures significantly reduce the risk of pesticide vaporization and photo-degradation, allowing the chemical to remain active on the foliage for a longer duration. Furthermore, evening spraying is safer for beneficial insects like honeybees and pollinators that are active during the daylight hours. Farmers should ensure that the crop canopy is dry before evening spraying to prevent the buildup of anaerobic conditions or fungal risks. This practice is a standard ICAR-recommended SOP for sustainable vegetable farming. Adopting these scientifically-backed spray timing protocols",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_060",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY-DRIVEN DISEASE RISK: Farmers in India should prioritize prophylactic fungicide sprays when the 24-hour average humidity stays above 80%, as this environment is highly conducive to mildew and blight outbreaks. Spraying before the peak humidity period allows the chemical to establish a protective layer on the plant surface. If spraying must occur during high humidity, using surfactants or spreaders is recommended to improve the uniformity of the coverage. Avoiding irrigation just before a planned spray also helps in managing the microclimate humidity within the field. This proactive timing is essential for preventing rapid disease spread and ensuring yield stability in monsoon-grown vegetable crops. Following ICAR's recommended Best Management Practices (BMP)",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_061",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW-DRIVEN PEST SCOUTING: Farmers should use the presence of heavy morning dew as a signal for intense pest and disease scouting in the field. High dew levels are often associated with the early stages of rust and blight outbreaks in North India. If scouting reveals early symptoms, a corrective spray should be planned for the period immediately following dew evaporation. Using a surfactant in the spray mix can improve the chemical's ability to penetrate any lingering moisture and adhere to the leaf surface. This strategic timing ensures that the farmer intervenes at the most critical point of the disease cycle, preventing a large-scale field infection and saving on input costs.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_062",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "FOG-BASED SPRAY DELAY: Farmers should implement a strict 'fog-clear' rule for all pesticide and fungicide applications during the Rabi season in North India. Spraying should only begin once the visibility exceeds 500 meters and the leaf surface shows signs of drying. Persistent fog not only hampers the efficacy of the chemical but also poses a severe health risk to the operator due to the concentrated moisture in the air. Waiting for the localized microclimate to warm up after the fog clears also ensures better plant metabolism, which is essential for the effective absorption of systemic fungicides. This technical precision is vital for managing disease risks like potato blight. Regional agricultural",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_063",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SUNBURN RISK AFTER SPRAYING: Certain oils and concentrated pesticides can increase the crop's sensitivity to sunlight, leading to physical sunburn or Sunscald on the fruit and leaves. This 'lensing' effect occurs when spray droplets act as small magnifiers for the intense midday UV rays. To prevent this, farmers should avoid spraying during the hottest part of the day and ensure that the spray solution is properly diluted according to ICAR guidelines. Evening spraying is the safest alternative as it allows the chemical to dry and be absorbed overnight, minimizing the risk of photo-toxic reactions the following day. This practice is especially critical for sensitive horticultural crops like tomatoes and capsicums.",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_064",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "NIGHT SPRAYING OPERATIONAL SAFETY: While night spraying is effective, it requires rigorous operational safety standards to prevent accidents and ensure accurate application. Farmers must ensure that the tractor or drone mounted sprayers are equipped with high-intensity LED lights that provide 360-degree visibility of the field and the boom. It is also essential to have a clear understanding of the field topography to avoid obstacles like irrigation pipes or electrical poles in the dark. Always have a second person present for safety and monitor for sudden changes in wind direction or dew formation. Adhering to these safety protocols makes night spraying a reliable and highly productive technique for modern commercial agriculture",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_065",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "RAIN-SAFE SPRAYING ADVISORY: Effective spray timing during the Indian monsoon hinges on the rainfastness of the selected pesticide. If unexpected rainfall occurs within 1 hour of application, the farmer should evaluate the rain intensity. Intense rain over 15 mm typically washes away over 80% of contact-based residues. In such cases, a repeat application is mandatory once the weather clears to prevent pest resurgence. For better results, prioritize spraying during the early morning hours when the probability of sudden convective rain is statistically lower. This strategic timing ensures that the chemical has sufficient 'dwell time' on the leaf surface for maximum biological impact. Following ICAR's recommended Best Management Practices (BMP) for",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_066",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DROPLET SIZE AND DRIFT CONTROL: Managing droplet size is the most effective way for farmers to combat wind-induced pesticide drift in commercial farming systems. Fine droplets are highly susceptible to drift even at moderate wind speeds of 10 km/h. By selecting nozzles that produce medium to coarse droplets, farmers can ensure that over 90% of the sprayed solution reaches the target foliage. This is especially important when applying non-selective herbicides or toxic insecticides near sensitive water bodies. Always monitor wind direction using simple farm tools like flags or wind vanes before starting the tractor-mounted or drone-based spray equipment in the field. Following ICAR's recommended Best Management Practices (BMP) for pest",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_067",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HEAT STRESS AND SPRAY TIMING: Applying pesticides when temperatures exceed 35\u00b0C in North India can lead to significant phytotoxicity, causing leaf scorch and reduced crop yields. High temperatures also accelerate the evaporation and volatilization of the chemical droplets before they even reach the leaf surface. Farmers are advised to conduct spray operations during the cooler hours of the early morning or late evening when the ambient temperature is below 30\u00b0C. This timing improves droplet survival and ensures that the pesticide has a longer duration of liquid phase contact with the pest, leading to much higher biological efficacy and safety. Timely intervention during the optimal weather window is the key to",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_068",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DELTA T AND SPRAY SURVIVAL: Delta T, the difference between dry and wet bulb temperatures, is a critical metric for Indian farmers to determine the survival of spray droplets. An ideal Delta T for pesticide application ranges from 2 to 8. If the Delta T is above 10, indicating low humidity and high temperature, droplets evaporate rapidly, leading to high drift and poor chemical absorption. Conversely, a Delta T below 2 indicates very high humidity where droplets may not dry properly, leading to leaching. Using this metric allows farmers to time their sprays precisely, ensuring that the maximum amount of pesticide reaches the target pest without environmental degradation. Precise timing",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_069",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MORNING DEW DILUTION RISK: Heavy morning dew on crop foliage can significantly dilute the concentration of applied pesticides, leading to sub-lethal dosing and poor pest control. If the leaf canopy is dripping with dew, farmers should postpone spraying until the leaves have dried completely, usually by late morning. Applying chemicals on wet foliage also increases the risk of the product running off the leaf surface and into the soil, causing waste and potential groundwater contamination. Integrated pest management guidelines in India suggest that the 'dry leaf' rule is non-negotiable for contact insecticides to ensure that the chemical film adheres firmly to the target pests. Adopting these scientifically-backed spray timing protocols",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_070",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "REDUCED ADHERENCE DURING FOG: Applying pesticides in foggy conditions leads to highly inefficient chemical usage because the high atmospheric moisture prevents the droplets from reaching the target pests. Furthermore, the droplets that do land on the crop often fail to dry, resulting in poor adherence and rapid run-off. In the Indo-Gangetic plains, winter fog can persist for several hours, making it necessary for farmers to reschedule their spray activities to the midday window. If spraying is critical during a light fog, increasing the pesticide concentration slightly and using high-quality spreaders may help, but postponing is generally the safer and more cost-effective agricultural decision for Indian farmers. Timely intervention during the",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_071",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "UV DEGRADATION AND STABILITY: Many modern pesticides used in India are highly sensitive to ultraviolet (UV) radiation from intense sunlight. Applying these chemicals during the peak midday hours between 11 AM and 3 PM can lead to rapid degradation of the active ingredients, rendering the treatment ineffective. UV light breaks the chemical bonds of products like pyrethroids and certain biopesticides, significantly shortening their residual life. Farmers are advised to schedule their spray operations during the early morning or evening hours to protect the chemical integrity. This timing ensures that the pesticide remains active on the foliage for the maximum possible duration, providing reliable pest control for the crop. Farmers should",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_072",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_073",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC VS CONTACT RAIN RULES: Choosing between systemic and contact pesticides depends heavily on the upcoming weather forecast during the Indian monsoon. Systemic products are preferred when intermittent light rain is expected as they are absorbed into the vascular system within 2 hours of application. Contact products, conversely, remain on the leaf surface and are highly susceptible to wash-off if rain exceeds 5 mm. Farmers should utilize stickers or adjuvants to improve rainfastness when spraying during the humid months. Ensuring that the chemical 'rainfast' window is respected protects the crop and prevents the leaching of toxic chemicals into the localized water bodies. Historical observations across diverse Indian agricultural zones confirm",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_074",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WIND SPEED AND DRIFT SAFETY: Pesticide spraying should be immediately halted if wind speeds exceed 15 km/h to prevent dangerous chemical drift to non-target crops or residential areas in India. High winds cause spray droplets to move away from the intended canopy, leading to uneven pest control and potential litigation from neighboring farmers. Ideally, spray operations should be conducted when wind velocities are between 5 to 10 km/h, blowing away from sensitive zones. Farmers are advised to maintain the lowest possible boom height and use low-drift nozzles to minimize the formation of fine droplets that are easily carried by terminal wind currents. Regional agricultural universities emphasize that adhering to these",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_075",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HEAT STRESS AND SPRAY TIMING: Applying pesticides when temperatures exceed 35\u00b0C in North India can lead to significant phytotoxicity, causing leaf scorch and reduced crop yields. High temperatures also accelerate the evaporation and volatilization of the chemical droplets before they even reach the leaf surface. Farmers are advised to conduct spray operations during the cooler hours of the early morning or late evening when the ambient temperature is below 30\u00b0C. This timing improves droplet survival and ensures that the pesticide has a longer duration of liquid phase contact with the pest, leading to much higher biological efficacy and safety. Adopting these scientifically-backed spray timing protocols helps in making data-driven decisions",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_076",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DELTA T AND SPRAY SURVIVAL: Delta T, the difference between dry and wet bulb temperatures, is a critical metric for Indian farmers to determine the survival of spray droplets. An ideal Delta T for pesticide application ranges from 2 to 8. If the Delta T is above 10, indicating low humidity and high temperature, droplets evaporate rapidly, leading to high drift and poor chemical absorption. Conversely, a Delta T below 2 indicates very high humidity where droplets may not dry properly, leading to leaching. Using this metric allows farmers to time their sprays precisely, ensuring that the maximum amount of pesticide reaches the target pest without environmental degradation. Precise timing",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_077",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW AND FUNGAL INFECTION: The presence of heavy dew for more than 8 consecutive hours creates a high-risk window for fungal infections in sensitive Indian crops like wheat. Dew provides the necessary free water for spores to germinate and infect plant tissues. Farmers are advised to time their fungicide applications to occur just after the morning dew has evaporated to provide a fresh protective layer for the coming night. Gently shaking the crop with a rope can help in removing excess dew if early morning spraying is mandatory due to upcoming high winds. Ensuring a dry surface before application is the most reliable way to prevent yield-robbing fungal epidemics. Integrating",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_078",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC UPTAKE AND FOG: While systemic pesticides are eventually absorbed by the plant, their initial application during dense fog is highly discouraged due to the risk of droplet dilution and physical drift. The high humidity associated with fog can temporarily close the stomata or coat them with moisture, hindering the entry of the active ingredients into the plant's vascular system. Indian farmers should prioritize spraying when the sun provides enough heat to drive the transpiration process, which aids in the rapid uptake of systemic chemicals. This ensures that the crop is protected from the inside out against the fungal pathogens that thrive during the damp, foggy North Indian winter months.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_079",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MIDDAY SPRAY INEFFICIENCY: High solar intensity during the Indian summer creates strong thermal updrafts that carry pesticide droplets up and away from the target field. This 'volatilization' not only wastes expensive chemicals but also leads to poor coverage and potential environmental contamination. Midday spraying is statistically the least efficient time for chemical application due to the combined effects of high temperature, low humidity, and intense UV radiation. Farmers should prioritize early morning sprays when the air is still and the atmospheric conditions are optimized for droplet survival. Adhering to this timing rule can reduce the number of required sprays per season by improving the efficacy of each application. Following ICAR's",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_080",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_081",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "RAINFASTNESS AND SPRAY TIMING: Spraying pesticides or fungicides just before a heavy monsoon downfall exceeding 10 mm leads to significant chemical wash-off and environmental contamination. For contact-based products, a dry period of at least 4 to 6 hours is essential for the chemical to set on the foliage. Systemic fungicides require approximately 2 to 3 hours for effective absorption into the plant tissue before being considered rain-safe. Farmers should monitor local IMD alerts and postpone spraying if a cloudburst or heavy precipitation is anticipated within the next few hours to ensure product efficacy and reduce input costs. Precise timing of chemical inputs remains the most effective tool for Indian farmers",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_082",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DROPLET SIZE AND DRIFT CONTROL: Managing droplet size is the most effective way for farmers to combat wind-induced pesticide drift in commercial farming systems. Fine droplets are highly susceptible to drift even at moderate wind speeds of 10 km/h. By selecting nozzles that produce medium to coarse droplets, farmers can ensure that over 90% of the sprayed solution reaches the target foliage. This is especially important when applying non-selective herbicides or toxic insecticides near sensitive water bodies. Always monitor wind direction using simple farm tools like flags or wind vanes before starting the tractor-mounted or drone-based spray equipment in the field. Regional agricultural universities emphasize that adhering to these measurable",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_083",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HEAT STRESS AND SPRAY TIMING: Applying pesticides when temperatures exceed 35\u00b0C in North India can lead to significant phytotoxicity, causing leaf scorch and reduced crop yields. High temperatures also accelerate the evaporation and volatilization of the chemical droplets before they even reach the leaf surface. Farmers are advised to conduct spray operations during the cooler hours of the early morning or late evening when the ambient temperature is below 30\u00b0C. This timing improves droplet survival and ensures that the pesticide has a longer duration of liquid phase contact with the pest, leading to much higher biological efficacy and safety. Following ICAR's recommended Best Management Practices (BMP) for pest control is",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_084",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY AND FUNGICIDE EFFICACY: Atmospheric humidity levels exceeding 85% significantly influence the effectiveness of fungicide applications in humid coastal regions of India. High humidity slows down the drying time of the spray droplets, which can be beneficial for the absorption of systemic products but increases the risk of run-off for contact chemicals. Furthermore, persistent high humidity is a primary trigger for fungal spore germination and disease spread. Farmers should aim for a protective spray when the relative humidity is between 60% and 80% to ensure optimal coverage and adherence. Monitoring the wet-bulb temperature or Delta T is a reliable way to assess these atmospheric conditions accurately. Historical observations across diverse",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_085",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW AND FUNGAL INFECTION: The presence of heavy dew for more than 8 consecutive hours creates a high-risk window for fungal infections in sensitive Indian crops like wheat. Dew provides the necessary free water for spores to germinate and infect plant tissues. Farmers are advised to time their fungicide applications to occur just after the morning dew has evaporated to provide a fresh protective layer for the coming night. Gently shaking the crop with a rope can help in removing excess dew if early morning spraying is mandatory due to upcoming high winds. Ensuring a dry surface before application is the most reliable way to prevent yield-robbing fungal epidemics. Precise",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_086",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "FOG-BASED SPRAY DELAY: Farmers should implement a strict 'fog-clear' rule for all pesticide and fungicide applications during the Rabi season in North India. Spraying should only begin once the visibility exceeds 500 meters and the leaf surface shows signs of drying. Persistent fog not only hampers the efficacy of the chemical but also poses a severe health risk to the operator due to the concentrated moisture in the air. Waiting for the localized microclimate to warm up after the fog clears also ensures better plant metabolism, which is essential for the effective absorption of systemic fungicides. This technical precision is vital for managing disease risks like potato blight. Timely intervention",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_087",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SUNBURN RISK AFTER SPRAYING: Certain oils and concentrated pesticides can increase the crop's sensitivity to sunlight, leading to physical sunburn or Sunscald on the fruit and leaves. This 'lensing' effect occurs when spray droplets act as small magnifiers for the intense midday UV rays. To prevent this, farmers should avoid spraying during the hottest part of the day and ensure that the spray solution is properly diluted according to ICAR guidelines. Evening spraying is the safest alternative as it allows the chemical to dry and be absorbed overnight, minimizing the risk of photo-toxic reactions the following day. This practice is especially critical for sensitive horticultural crops like tomatoes and capsicums.",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_088",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "NIGHT SPRAYING BENEFITS: Conducting pesticide spray operations during the night or late evening offers several agronomic advantages for Indian farmers, including cooler temperatures and higher relative humidity. These conditions significantly reduce the risk of droplet evaporation and pesticide volatilization, ensuring that a higher percentage of the chemical reaches the target pests. Furthermore, night spraying is highly effective for controlling nocturnal pests like Spodoptera which are active after sunset. Farmers should use adequate lighting equipment to ensure precision and avoid spraying during high-wind nights to prevent drift. This strategic timing maximizes the 'knockdown' effect of the pesticide while protecting the crop from daytime heat stress. Following ICAR's recommended Best Management Practices",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_089",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POST-RAIN SPRAY DECISION: After a heavy rainfall event in the Kharif season, the risk of fungal disease outbreaks increases due to high soil moisture and leaf wetness. However, farmers should wait until the crop foliage is dry before initiating a corrective spray operation. Spraying on wet leaves can lead to pesticide dilution and poor adherence, reducing the treatment's lethality against pests. Additionally, if the previous application was followed by more than 25 mm of rain within 24 hours, a re-application of contact fungicides is generally required to maintain protection. Integrated pest management requires this careful timing to ensure crop health in India. Farmers should prioritize these specific decision rules when",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_090",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WIND SPEED AND DRIFT SAFETY: Pesticide spraying should be immediately halted if wind speeds exceed 15 km/h to prevent dangerous chemical drift to non-target crops or residential areas in India. High winds cause spray droplets to move away from the intended canopy, leading to uneven pest control and potential litigation from neighboring farmers. Ideally, spray operations should be conducted when wind velocities are between 5 to 10 km/h, blowing away from sensitive zones. Farmers are advised to maintain the lowest possible boom height and use low-drift nozzles to minimize the formation of fine droplets that are easily carried by terminal wind currents. Integrating localized agromet data into daily farm operations",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_091",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVENING SPRAYING ADVANTAGES: Evening spray operations after 6 PM are highly recommended during the Indian summer to mitigate the negative effects of high temperature and low humidity. Lower evening temperatures significantly reduce the risk of pesticide vaporization and photo-degradation, allowing the chemical to remain active on the foliage for a longer duration. Furthermore, evening spraying is safer for beneficial insects like honeybees and pollinators that are active during the daylight hours. Farmers should ensure that the crop canopy is dry before evening spraying to prevent the buildup of anaerobic conditions or fungal risks. This practice is a standard ICAR-recommended SOP for sustainable vegetable farming. Following ICAR's recommended Best Management Practices",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_092",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY-DRIVEN DISEASE RISK: Farmers in India should prioritize prophylactic fungicide sprays when the 24-hour average humidity stays above 80%, as this environment is highly conducive to mildew and blight outbreaks. Spraying before the peak humidity period allows the chemical to establish a protective layer on the plant surface. If spraying must occur during high humidity, using surfactants or spreaders is recommended to improve the uniformity of the coverage. Avoiding irrigation just before a planned spray also helps in managing the microclimate humidity within the field. This proactive timing is essential for preventing rapid disease spread and ensuring yield stability in monsoon-grown vegetable crops. Historical observations across diverse Indian agricultural zones",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_093",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW AND FUNGAL INFECTION: The presence of heavy dew for more than 8 consecutive hours creates a high-risk window for fungal infections in sensitive Indian crops like wheat. Dew provides the necessary free water for spores to germinate and infect plant tissues. Farmers are advised to time their fungicide applications to occur just after the morning dew has evaporated to provide a fresh protective layer for the coming night. Gently shaking the crop with a rope can help in removing excess dew if early morning spraying is mandatory due to upcoming high winds. Ensuring a dry surface before application is the most reliable way to prevent yield-robbing fungal epidemics. Regional",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_094",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "FOG-BASED SPRAY DELAY: Farmers should implement a strict 'fog-clear' rule for all pesticide and fungicide applications during the Rabi season in North India. Spraying should only begin once the visibility exceeds 500 meters and the leaf surface shows signs of drying. Persistent fog not only hampers the efficacy of the chemical but also poses a severe health risk to the operator due to the concentrated moisture in the air. Waiting for the localized microclimate to warm up after the fog clears also ensures better plant metabolism, which is essential for the effective absorption of systemic fungicides. This technical precision is vital for managing disease risks like potato blight. Adopting these",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_095",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "UV DEGRADATION AND STABILITY: Many modern pesticides used in India are highly sensitive to ultraviolet (UV) radiation from intense sunlight. Applying these chemicals during the peak midday hours between 11 AM and 3 PM can lead to rapid degradation of the active ingredients, rendering the treatment ineffective. UV light breaks the chemical bonds of products like pyrethroids and certain biopesticides, significantly shortening their residual life. Farmers are advised to schedule their spray operations during the early morning or evening hours to protect the chemical integrity. This timing ensures that the pesticide remains active on the foliage for the maximum possible duration, providing reliable pest control for the crop. Farmers should",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_096",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_097",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POST-RAIN SPRAY DECISION: After a heavy rainfall event in the Kharif season, the risk of fungal disease outbreaks increases due to high soil moisture and leaf wetness. However, farmers should wait until the crop foliage is dry before initiating a corrective spray operation. Spraying on wet leaves can lead to pesticide dilution and poor adherence, reducing the treatment's lethality against pests. Additionally, if the previous application was followed by more than 25 mm of rain within 24 hours, a re-application of contact fungicides is generally required to maintain protection. Integrated pest management requires this careful timing to ensure crop health in India. Precise timing of chemical inputs remains the most",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_098",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "BOOM HEIGHT AND WIND MANAGEMENT: To reduce the risk of spray drift during windy conditions in the Indo-Gangetic plains, farmers must adjust their equipment settings precisely. Maintaining a boom height within 50 cm of the crop canopy significantly narrows the window for wind-induced droplet travel. If wind speeds are fluctuating between 12 and 18 km/h, using air-induction nozzles that produce coarser droplets is a recommended technical SOP. This ensures that the pesticide reaches the target pests even under marginal atmospheric conditions. Avoiding spray operations during gusty or variable wind directions is critical for the safety of both the operator and the local environment. Regional agricultural universities emphasize that adhering to",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_099",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "LOW TEMPERATURE SPRAY RULES: During the peak winter months in Punjab and Haryana, atmospheric temperatures often drop below 12\u00b0C, which can hinder the effectiveness of systemic pesticides. Plant metabolism slows down significantly in cold weather, leading to reduced absorption and translocation of systemic chemicals like Triazoles. Farmers should postpone spraying until the sun is up and the ambient temperature rises above 15\u00b0C. For contact-based products, ensure that the frost on the leaves has completely melted before application to prevent dilution. Choosing the right thermal window for spraying is essential for maintaining crop health and avoiding wasted chemical inputs during the Rabi season. Historical observations across diverse Indian agricultural zones confirm",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": "<12\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_100",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DELTA T AND SPRAY SURVIVAL: Delta T, the difference between dry and wet bulb temperatures, is a critical metric for Indian farmers to determine the survival of spray droplets. An ideal Delta T for pesticide application ranges from 2 to 8. If the Delta T is above 10, indicating low humidity and high temperature, droplets evaporate rapidly, leading to high drift and poor chemical absorption. Conversely, a Delta T below 2 indicates very high humidity where droplets may not dry properly, leading to leaching. Using this metric allows farmers to time their sprays precisely, ensuring that the maximum amount of pesticide reaches the target pest without environmental degradation. Precise timing",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_101",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW AND FUNGAL INFECTION: The presence of heavy dew for more than 8 consecutive hours creates a high-risk window for fungal infections in sensitive Indian crops like wheat. Dew provides the necessary free water for spores to germinate and infect plant tissues. Farmers are advised to time their fungicide applications to occur just after the morning dew has evaporated to provide a fresh protective layer for the coming night. Gently shaking the crop with a rope can help in removing excess dew if early morning spraying is mandatory due to upcoming high winds. Ensuring a dry surface before application is the most reliable way to prevent yield-robbing fungal epidemics. Following",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_102",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC UPTAKE AND FOG: While systemic pesticides are eventually absorbed by the plant, their initial application during dense fog is highly discouraged due to the risk of droplet dilution and physical drift. The high humidity associated with fog can temporarily close the stomata or coat them with moisture, hindering the entry of the active ingredients into the plant's vascular system. Indian farmers should prioritize spraying when the sun provides enough heat to drive the transpiration process, which aids in the rapid uptake of systemic chemicals. This ensures that the crop is protected from the inside out against the fungal pathogens that thrive during the damp, foggy North Indian winter months.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_103",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MIDDAY SPRAY INEFFICIENCY: High solar intensity during the Indian summer creates strong thermal updrafts that carry pesticide droplets up and away from the target field. This 'volatilization' not only wastes expensive chemicals but also leads to poor coverage and potential environmental contamination. Midday spraying is statistically the least efficient time for chemical application due to the combined effects of high temperature, low humidity, and intense UV radiation. Farmers should prioritize early morning sprays when the air is still and the atmospheric conditions are optimized for droplet survival. Adhering to this timing rule can reduce the number of required sprays per season by improving the efficacy of each application. Precise timing",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_104",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_105",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "RAIN-SAFE SPRAYING ADVISORY: Effective spray timing during the Indian monsoon hinges on the rainfastness of the selected pesticide. If unexpected rainfall occurs within 1 hour of application, the farmer should evaluate the rain intensity. Intense rain over 15 mm typically washes away over 80% of contact-based residues. In such cases, a repeat application is mandatory once the weather clears to prevent pest resurgence. For better results, prioritize spraying during the early morning hours when the probability of sudden convective rain is statistically lower. This strategic timing ensures that the chemical has sufficient 'dwell time' on the leaf surface for maximum biological impact. Timely intervention during the optimal weather window is",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_106",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "BOOM HEIGHT AND WIND MANAGEMENT: To reduce the risk of spray drift during windy conditions in the Indo-Gangetic plains, farmers must adjust their equipment settings precisely. Maintaining a boom height within 50 cm of the crop canopy significantly narrows the window for wind-induced droplet travel. If wind speeds are fluctuating between 12 and 18 km/h, using air-induction nozzles that produce coarser droplets is a recommended technical SOP. This ensures that the pesticide reaches the target pests even under marginal atmospheric conditions. Avoiding spray operations during gusty or variable wind directions is critical for the safety of both the operator and the local environment. Farmers should prioritize these specific decision rules",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_107",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "LOW TEMPERATURE SPRAY RULES: During the peak winter months in Punjab and Haryana, atmospheric temperatures often drop below 12\u00b0C, which can hinder the effectiveness of systemic pesticides. Plant metabolism slows down significantly in cold weather, leading to reduced absorption and translocation of systemic chemicals like Triazoles. Farmers should postpone spraying until the sun is up and the ambient temperature rises above 15\u00b0C. For contact-based products, ensure that the frost on the leaves has completely melted before application to prevent dilution. Choosing the right thermal window for spraying is essential for maintaining crop health and avoiding wasted chemical inputs during the Rabi season. Regional agricultural universities emphasize that adhering to these",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": "<12\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_108",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY AND FUNGICIDE EFFICACY: Atmospheric humidity levels exceeding 85% significantly influence the effectiveness of fungicide applications in humid coastal regions of India. High humidity slows down the drying time of the spray droplets, which can be beneficial for the absorption of systemic products but increases the risk of run-off for contact chemicals. Furthermore, persistent high humidity is a primary trigger for fungal spore germination and disease spread. Farmers should aim for a protective spray when the relative humidity is between 60% and 80% to ensure optimal coverage and adherence. Monitoring the wet-bulb temperature or Delta T is a reliable way to assess these atmospheric conditions accurately. Adopting these scientifically-backed spray",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_109",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW AND FUNGAL INFECTION: The presence of heavy dew for more than 8 consecutive hours creates a high-risk window for fungal infections in sensitive Indian crops like wheat. Dew provides the necessary free water for spores to germinate and infect plant tissues. Farmers are advised to time their fungicide applications to occur just after the morning dew has evaporated to provide a fresh protective layer for the coming night. Gently shaking the crop with a rope can help in removing excess dew if early morning spraying is mandatory due to upcoming high winds. Ensuring a dry surface before application is the most reliable way to prevent yield-robbing fungal epidemics. Farmers",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_110",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WINTER FOG DISEASE RISK: Dense winter fog across North India traps high volumes of moisture within the crop canopy, creating ideal conditions for Late Blight and Alternaria outbreaks. Fog functions similarly to light rain, leading to prolonged leaf wetness that prevents pesticides from drying and adhering correctly. Farmers are advised to avoid spray operations during thick fog as the droplets will likely merge with fog particles and drift away or drip off the foliage. Ideally, wait for the fog to lift and for the sun to emerge before initiating a fungicidal application. This ensures that the chemical forms a stable film on the leaf surface for maximum protection. Following ICAR's",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_111",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SUNBURN RISK AFTER SPRAYING: Certain oils and concentrated pesticides can increase the crop's sensitivity to sunlight, leading to physical sunburn or Sunscald on the fruit and leaves. This 'lensing' effect occurs when spray droplets act as small magnifiers for the intense midday UV rays. To prevent this, farmers should avoid spraying during the hottest part of the day and ensure that the spray solution is properly diluted according to ICAR guidelines. Evening spraying is the safest alternative as it allows the chemical to dry and be absorbed overnight, minimizing the risk of photo-toxic reactions the following day. This practice is especially critical for sensitive horticultural crops like tomatoes and capsicums.",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_112",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_113",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "RAINFASTNESS AND SPRAY TIMING: Spraying pesticides or fungicides just before a heavy monsoon downfall exceeding 10 mm leads to significant chemical wash-off and environmental contamination. For contact-based products, a dry period of at least 4 to 6 hours is essential for the chemical to set on the foliage. Systemic fungicides require approximately 2 to 3 hours for effective absorption into the plant tissue before being considered rain-safe. Farmers should monitor local IMD alerts and postpone spraying if a cloudburst or heavy precipitation is anticipated within the next few hours to ensure product efficacy and reduce input costs. Historical observations across diverse Indian agricultural zones confirm that weather-based timing can improve",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_114",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "CALM WINDS AND INVERSION RISKS: While high winds cause drift, extremely calm conditions with wind speeds below 3 km/h can also be hazardous due to temperature inversions. Inversions can trap fine pesticide droplets in a concentrated cloud near the ground, allowing them to drift long distances horizontally. Indian farmers should avoid spraying during the early morning or late evening if smoke from farm fires hangs flat in the air. Ideally, wait for a light breeze of at least 4 km/h to ensure proper vertical mixing and canopy penetration. This balance between wind speed and atmospheric stability is vital for efficient and safe chemical application. Following ICAR's recommended Best Management Practices",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_115",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVENING SPRAYING ADVANTAGES: Evening spray operations after 6 PM are highly recommended during the Indian summer to mitigate the negative effects of high temperature and low humidity. Lower evening temperatures significantly reduce the risk of pesticide vaporization and photo-degradation, allowing the chemical to remain active on the foliage for a longer duration. Furthermore, evening spraying is safer for beneficial insects like honeybees and pollinators that are active during the daylight hours. Farmers should ensure that the crop canopy is dry before evening spraying to prevent the buildup of anaerobic conditions or fungal risks. This practice is a standard ICAR-recommended SOP for sustainable vegetable farming. Following ICAR's recommended Best Management Practices",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_116",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DELTA T AND SPRAY SURVIVAL: Delta T, the difference between dry and wet bulb temperatures, is a critical metric for Indian farmers to determine the survival of spray droplets. An ideal Delta T for pesticide application ranges from 2 to 8. If the Delta T is above 10, indicating low humidity and high temperature, droplets evaporate rapidly, leading to high drift and poor chemical absorption. Conversely, a Delta T below 2 indicates very high humidity where droplets may not dry properly, leading to leaching. Using this metric allows farmers to time their sprays precisely, ensuring that the maximum amount of pesticide reaches the target pest without environmental degradation. Adopting these",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_117",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW-DRIVEN PEST SCOUTING: Farmers should use the presence of heavy morning dew as a signal for intense pest and disease scouting in the field. High dew levels are often associated with the early stages of rust and blight outbreaks in North India. If scouting reveals early symptoms, a corrective spray should be planned for the period immediately following dew evaporation. Using a surfactant in the spray mix can improve the chemical's ability to penetrate any lingering moisture and adhere to the leaf surface. This strategic timing ensures that the farmer intervenes at the most critical point of the disease cycle, preventing a large-scale field infection and saving on input costs.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_118",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC UPTAKE AND FOG: While systemic pesticides are eventually absorbed by the plant, their initial application during dense fog is highly discouraged due to the risk of droplet dilution and physical drift. The high humidity associated with fog can temporarily close the stomata or coat them with moisture, hindering the entry of the active ingredients into the plant's vascular system. Indian farmers should prioritize spraying when the sun provides enough heat to drive the transpiration process, which aids in the rapid uptake of systemic chemicals. This ensures that the crop is protected from the inside out against the fungal pathogens that thrive during the damp, foggy North Indian winter months.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_119",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SUNBURN RISK AFTER SPRAYING: Certain oils and concentrated pesticides can increase the crop's sensitivity to sunlight, leading to physical sunburn or Sunscald on the fruit and leaves. This 'lensing' effect occurs when spray droplets act as small magnifiers for the intense midday UV rays. To prevent this, farmers should avoid spraying during the hottest part of the day and ensure that the spray solution is properly diluted according to ICAR guidelines. Evening spraying is the safest alternative as it allows the chemical to dry and be absorbed overnight, minimizing the risk of photo-toxic reactions the following day. This practice is especially critical for sensitive horticultural crops like tomatoes and capsicums.",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_120",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "NIGHT SPRAYING OPERATIONAL SAFETY: While night spraying is effective, it requires rigorous operational safety standards to prevent accidents and ensure accurate application. Farmers must ensure that the tractor or drone mounted sprayers are equipped with high-intensity LED lights that provide 360-degree visibility of the field and the boom. It is also essential to have a clear understanding of the field topography to avoid obstacles like irrigation pipes or electrical poles in the dark. Always have a second person present for safety and monitor for sudden changes in wind direction or dew formation. Adhering to these safety protocols makes night spraying a reliable and highly productive technique for modern commercial agriculture",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_121",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "RAINFASTNESS AND SPRAY TIMING: Spraying pesticides or fungicides just before a heavy monsoon downfall exceeding 10 mm leads to significant chemical wash-off and environmental contamination. For contact-based products, a dry period of at least 4 to 6 hours is essential for the chemical to set on the foliage. Systemic fungicides require approximately 2 to 3 hours for effective absorption into the plant tissue before being considered rain-safe. Farmers should monitor local IMD alerts and postpone spraying if a cloudburst or heavy precipitation is anticipated within the next few hours to ensure product efficacy and reduce input costs. Historical observations across diverse Indian agricultural zones confirm that weather-based timing can improve",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_122",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "CALM WINDS AND INVERSION RISKS: While high winds cause drift, extremely calm conditions with wind speeds below 3 km/h can also be hazardous due to temperature inversions. Inversions can trap fine pesticide droplets in a concentrated cloud near the ground, allowing them to drift long distances horizontally. Indian farmers should avoid spraying during the early morning or late evening if smoke from farm fires hangs flat in the air. Ideally, wait for a light breeze of at least 4 km/h to ensure proper vertical mixing and canopy penetration. This balance between wind speed and atmospheric stability is vital for efficient and safe chemical application. Timely intervention during the optimal weather",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_123",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "EVENING SPRAYING ADVANTAGES: Evening spray operations after 6 PM are highly recommended during the Indian summer to mitigate the negative effects of high temperature and low humidity. Lower evening temperatures significantly reduce the risk of pesticide vaporization and photo-degradation, allowing the chemical to remain active on the foliage for a longer duration. Furthermore, evening spraying is safer for beneficial insects like honeybees and pollinators that are active during the daylight hours. Farmers should ensure that the crop canopy is dry before evening spraying to prevent the buildup of anaerobic conditions or fungal risks. This practice is a standard ICAR-recommended SOP for sustainable vegetable farming. Following ICAR's recommended Best Management Practices",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_124",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY-DRIVEN DISEASE RISK: Farmers in India should prioritize prophylactic fungicide sprays when the 24-hour average humidity stays above 80%, as this environment is highly conducive to mildew and blight outbreaks. Spraying before the peak humidity period allows the chemical to establish a protective layer on the plant surface. If spraying must occur during high humidity, using surfactants or spreaders is recommended to improve the uniformity of the coverage. Avoiding irrigation just before a planned spray also helps in managing the microclimate humidity within the field. This proactive timing is essential for preventing rapid disease spread and ensuring yield stability in monsoon-grown vegetable crops. Timely intervention during the optimal weather window",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_125",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MORNING DEW DILUTION RISK: Heavy morning dew on crop foliage can significantly dilute the concentration of applied pesticides, leading to sub-lethal dosing and poor pest control. If the leaf canopy is dripping with dew, farmers should postpone spraying until the leaves have dried completely, usually by late morning. Applying chemicals on wet foliage also increases the risk of the product running off the leaf surface and into the soil, causing waste and potential groundwater contamination. Integrated pest management guidelines in India suggest that the 'dry leaf' rule is non-negotiable for contact insecticides to ensure that the chemical film adheres firmly to the target pests. Farmers should prioritize these specific decision",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_126",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "REDUCED ADHERENCE DURING FOG: Applying pesticides in foggy conditions leads to highly inefficient chemical usage because the high atmospheric moisture prevents the droplets from reaching the target pests. Furthermore, the droplets that do land on the crop often fail to dry, resulting in poor adherence and rapid run-off. In the Indo-Gangetic plains, winter fog can persist for several hours, making it necessary for farmers to reschedule their spray activities to the midday window. If spraying is critical during a light fog, increasing the pesticide concentration slightly and using high-quality spreaders may help, but postponing is generally the safer and more cost-effective agricultural decision for Indian farmers. Historical observations across diverse",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_127",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "UV DEGRADATION AND STABILITY: Many modern pesticides used in India are highly sensitive to ultraviolet (UV) radiation from intense sunlight. Applying these chemicals during the peak midday hours between 11 AM and 3 PM can lead to rapid degradation of the active ingredients, rendering the treatment ineffective. UV light breaks the chemical bonds of products like pyrethroids and certain biopesticides, significantly shortening their residual life. Farmers are advised to schedule their spray operations during the early morning or evening hours to protect the chemical integrity. This timing ensures that the pesticide remains active on the foliage for the maximum possible duration, providing reliable pest control for the crop. Integrating localized",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_128",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "NIGHT SPRAYING OPERATIONAL SAFETY: While night spraying is effective, it requires rigorous operational safety standards to prevent accidents and ensure accurate application. Farmers must ensure that the tractor or drone mounted sprayers are equipped with high-intensity LED lights that provide 360-degree visibility of the field and the boom. It is also essential to have a clear understanding of the field topography to avoid obstacles like irrigation pipes or electrical poles in the dark. Always have a second person present for safety and monitor for sudden changes in wind direction or dew formation. Adhering to these safety protocols makes night spraying a reliable and highly productive technique for modern commercial agriculture",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_129",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC VS CONTACT RAIN RULES: Choosing between systemic and contact pesticides depends heavily on the upcoming weather forecast during the Indian monsoon. Systemic products are preferred when intermittent light rain is expected as they are absorbed into the vascular system within 2 hours of application. Contact products, conversely, remain on the leaf surface and are highly susceptible to wash-off if rain exceeds 5 mm. Farmers should utilize stickers or adjuvants to improve rainfastness when spraying during the humid months. Ensuring that the chemical 'rainfast' window is respected protects the crop and prevents the leaching of toxic chemicals into the localized water bodies. Historical observations across diverse Indian agricultural zones confirm",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_130",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "CALM WINDS AND INVERSION RISKS: While high winds cause drift, extremely calm conditions with wind speeds below 3 km/h can also be hazardous due to temperature inversions. Inversions can trap fine pesticide droplets in a concentrated cloud near the ground, allowing them to drift long distances horizontally. Indian farmers should avoid spraying during the early morning or late evening if smoke from farm fires hangs flat in the air. Ideally, wait for a light breeze of at least 4 km/h to ensure proper vertical mixing and canopy penetration. This balance between wind speed and atmospheric stability is vital for efficient and safe chemical application. Historical observations across diverse Indian agricultural",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_131",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HEAT STRESS AND SPRAY TIMING: Applying pesticides when temperatures exceed 35\u00b0C in North India can lead to significant phytotoxicity, causing leaf scorch and reduced crop yields. High temperatures also accelerate the evaporation and volatilization of the chemical droplets before they even reach the leaf surface. Farmers are advised to conduct spray operations during the cooler hours of the early morning or late evening when the ambient temperature is below 30\u00b0C. This timing improves droplet survival and ensures that the pesticide has a longer duration of liquid phase contact with the pest, leading to much higher biological efficacy and safety. Following ICAR's recommended Best Management Practices (BMP) for pest control is",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">35\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_132",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "ABSORPTION UNDER HIGH HUMIDITY: Systemic pesticide absorption is generally enhanced under conditions of high relative humidity because the plant stomata remain open for longer durations. This allows the active ingredients to penetrate the leaf cuticle more efficiently compared to dry, hot conditions. However, farmers must ensure that the humidity is not so high that it leads to heavy dew formation, which can dilute the pesticide. The best spray window is usually when the humidity is around 70% with a light breeze. This balance ensures that the chemical 'sets' on the leaf without excessive evaporation, providing a robust barrier against pests and diseases in tropical farming systems. Precise timing of chemical",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_133",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "LEAF WETNESS SPRAY DELAY: Accurate tracking of leaf wetness duration is vital for determining the optimal spray timing for North Indian fruit and vegetable crops. If the leaf surface is wet from dew or light drizzle, the pesticide coverage becomes uneven, and the active ingredients may fail to dry properly. Most chemical labels in India require a 'stay-dry' period after application to ensure rainfastness. Spraying on dewy leaves violates this requirement and can lead to immediate wash-off even without actual rain. Farmers should aim for a clear window of at least 4 to 6 hours after the morning dew clears to ensure that the pesticide is fully absorbed and effective.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_134",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WINTER FOG DISEASE RISK: Dense winter fog across North India traps high volumes of moisture within the crop canopy, creating ideal conditions for Late Blight and Alternaria outbreaks. Fog functions similarly to light rain, leading to prolonged leaf wetness that prevents pesticides from drying and adhering correctly. Farmers are advised to avoid spray operations during thick fog as the droplets will likely merge with fog particles and drift away or drip off the foliage. Ideally, wait for the fog to lift and for the sun to emerge before initiating a fungicidal application. This ensures that the chemical forms a stable film on the leaf surface for maximum protection. Integrating localized",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_135",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SUNBURN RISK AFTER SPRAYING: Certain oils and concentrated pesticides can increase the crop's sensitivity to sunlight, leading to physical sunburn or Sunscald on the fruit and leaves. This 'lensing' effect occurs when spray droplets act as small magnifiers for the intense midday UV rays. To prevent this, farmers should avoid spraying during the hottest part of the day and ensure that the spray solution is properly diluted according to ICAR guidelines. Evening spraying is the safest alternative as it allows the chemical to dry and be absorbed overnight, minimizing the risk of photo-toxic reactions the following day. This practice is especially critical for sensitive horticultural crops like tomatoes and capsicums.",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_136",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POLLINATOR SAFETY AT NIGHT: Night spraying is a critical strategy for protecting beneficial insects like honeybees and other pollinators that are essential for the yield of Indian crops. Most pollinators are active during the daylight hours and can be severely harmed by direct contact with pesticide sprays. By applying chemicals after sunset, farmers allow the spray to dry and the vapors to dissipate before the bees return to the field the next morning. This practice significantly reduces the risk of hive poisoning and supports the overall biodiversity of the farming ecosystem. Farmers should always consult with local beekeepers and prioritize the use of pollinator-safe chemicals even when spraying at night",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_137",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "POST-RAIN SPRAY DECISION: After a heavy rainfall event in the Kharif season, the risk of fungal disease outbreaks increases due to high soil moisture and leaf wetness. However, farmers should wait until the crop foliage is dry before initiating a corrective spray operation. Spraying on wet leaves can lead to pesticide dilution and poor adherence, reducing the treatment's lethality against pests. Additionally, if the previous application was followed by more than 25 mm of rain within 24 hours, a re-application of contact fungicides is generally required to maintain protection. Integrated pest management requires this careful timing to ensure crop health in India. Integrating localized agromet data into daily farm operations",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_138",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "WIND SPEED AND DRIFT SAFETY: Pesticide spraying should be immediately halted if wind speeds exceed 15 km/h to prevent dangerous chemical drift to non-target crops or residential areas in India. High winds cause spray droplets to move away from the intended canopy, leading to uneven pest control and potential litigation from neighboring farmers. Ideally, spray operations should be conducted when wind velocities are between 5 to 10 km/h, blowing away from sensitive zones. Farmers are advised to maintain the lowest possible boom height and use low-drift nozzles to minimize the formation of fine droplets that are easily carried by terminal wind currents. Historical observations across diverse Indian agricultural zones confirm",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_139",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "LOW TEMPERATURE SPRAY RULES: During the peak winter months in Punjab and Haryana, atmospheric temperatures often drop below 12\u00b0C, which can hinder the effectiveness of systemic pesticides. Plant metabolism slows down significantly in cold weather, leading to reduced absorption and translocation of systemic chemicals like Triazoles. Farmers should postpone spraying until the sun is up and the ambient temperature rises above 15\u00b0C. For contact-based products, ensure that the frost on the leaves has completely melted before application to prevent dilution. Choosing the right thermal window for spraying is essential for maintaining crop health and avoiding wasted chemical inputs during the Rabi season. Regional agricultural universities emphasize that adhering to these",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": "<12\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_140",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY AND FUNGICIDE EFFICACY: Atmospheric humidity levels exceeding 85% significantly influence the effectiveness of fungicide applications in humid coastal regions of India. High humidity slows down the drying time of the spray droplets, which can be beneficial for the absorption of systemic products but increases the risk of run-off for contact chemicals. Furthermore, persistent high humidity is a primary trigger for fungal spore germination and disease spread. Farmers should aim for a protective spray when the relative humidity is between 60% and 80% to ensure optimal coverage and adherence. Monitoring the wet-bulb temperature or Delta T is a reliable way to assess these atmospheric conditions accurately. Following ICAR's recommended Best",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_141",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "MORNING DEW DILUTION RISK: Heavy morning dew on crop foliage can significantly dilute the concentration of applied pesticides, leading to sub-lethal dosing and poor pest control. If the leaf canopy is dripping with dew, farmers should postpone spraying until the leaves have dried completely, usually by late morning. Applying chemicals on wet foliage also increases the risk of the product running off the leaf surface and into the soil, causing waste and potential groundwater contamination. Integrated pest management guidelines in India suggest that the 'dry leaf' rule is non-negotiable for contact insecticides to ensure that the chemical film adheres firmly to the target pests. Integrating localized agromet data into daily",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_142",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC UPTAKE AND FOG: While systemic pesticides are eventually absorbed by the plant, their initial application during dense fog is highly discouraged due to the risk of droplet dilution and physical drift. The high humidity associated with fog can temporarily close the stomata or coat them with moisture, hindering the entry of the active ingredients into the plant's vascular system. Indian farmers should prioritize spraying when the sun provides enough heat to drive the transpiration process, which aids in the rapid uptake of systemic chemicals. This ensures that the crop is protected from the inside out against the fungal pathogens that thrive during the damp, foggy North Indian winter months.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_uv_143",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "UV DEGRADATION AND STABILITY: Many modern pesticides used in India are highly sensitive to ultraviolet (UV) radiation from intense sunlight. Applying these chemicals during the peak midday hours between 11 AM and 3 PM can lead to rapid degradation of the active ingredients, rendering the treatment ineffective. UV light breaks the chemical bonds of products like pyrethroids and certain biopesticides, significantly shortening their residual life. Farmers are advised to schedule their spray operations during the early morning or evening hours to protect the chemical integrity. This timing ensures that the pesticide remains active on the foliage for the maximum possible duration, providing reliable pest control for the crop. Regional agricultural",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": ">30\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Prioritize early morning or late evening timing.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_night_144",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "NIGHT SPRAYING BENEFITS: Conducting pesticide spray operations during the night or late evening offers several agronomic advantages for Indian farmers, including cooler temperatures and higher relative humidity. These conditions significantly reduce the risk of droplet evaporation and pesticide volatilization, ensuring that a higher percentage of the chemical reaches the target pests. Furthermore, night spraying is highly effective for controlling nocturnal pests like Spodoptera which are active after sunset. Farmers should use adequate lighting equipment to ensure precision and avoid spraying during high-wind nights to prevent drift. This strategic timing maximizes the 'knockdown' effect of the pesticide while protecting the crop from daytime heat stress. Historical observations across diverse Indian agricultural",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Ensure adequate lighting and operator safety at night.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_rain_145",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "SYSTEMIC VS CONTACT RAIN RULES: Choosing between systemic and contact pesticides depends heavily on the upcoming weather forecast during the Indian monsoon. Systemic products are preferred when intermittent light rain is expected as they are absorbed into the vascular system within 2 hours of application. Contact products, conversely, remain on the leaf surface and are highly susceptible to wash-off if rain exceeds 5 mm. Farmers should utilize stickers or adjuvants to improve rainfastness when spraying during the humid months. Ensuring that the chemical 'rainfast' window is respected protects the crop and prevents the leaching of toxic chemicals into the localized water bodies. Timely intervention during the optimal weather window is",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": ">10 mm",
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Check pre-harvest intervals and rainfastness on labels.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_wind_146",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DROPLET SIZE AND DRIFT CONTROL: Managing droplet size is the most effective way for farmers to combat wind-induced pesticide drift in commercial farming systems. Fine droplets are highly susceptible to drift even at moderate wind speeds of 10 km/h. By selecting nozzles that produce medium to coarse droplets, farmers can ensure that over 90% of the sprayed solution reaches the target foliage. This is especially important when applying non-selective herbicides or toxic insecticides near sensitive water bodies. Always monitor wind direction using simple farm tools like flags or wind vanes before starting the tractor-mounted or drone-based spray equipment in the field. Precise timing of chemical inputs remains the most effective",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": ">15 km/h"
+        },
+        "safety_notes": "Maintain low boom height and monitor drift direction.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_temp_147",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "THERMAL INVERSION SPRAY SAFETY: Farmers must avoid pesticide spraying during periods of strong thermal inversion, which typically occur during clear, calm nights in winter. Inversions trap the chemical droplets in a layer of cold air near the ground, which can then drift unpredictably into residential areas or non-target fields. Ideally, spraying should only be done when there is a light breeze to ensure vertical air mixing. If you observe fog or stagnant smoke in the field, it is a clear sign to halt all chemical operations immediately. Adhering to these temperature-based safety rules protects the community health and ensures that the pesticide remains on the intended target crop. Integrating localized",
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_limit": null,
+            "temperature_range": "<12\u00b0C",
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Monitor temperature to avoid crop phytotoxicity.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_humidity_148",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "HUMIDITY AND FUNGICIDE EFFICACY: Atmospheric humidity levels exceeding 85% significantly influence the effectiveness of fungicide applications in humid coastal regions of India. High humidity slows down the drying time of the spray droplets, which can be beneficial for the absorption of systemic products but increases the risk of run-off for contact chemicals. Furthermore, persistent high humidity is a primary trigger for fungal spore germination and disease spread. Farmers should aim for a protective spray when the relative humidity is between 60% and 80% to ensure optimal coverage and adherence. Monitoring the wet-bulb temperature or Delta T is a reliable way to assess these atmospheric conditions accurately. Farmers should prioritize these",
+        "weather_constraints": {
+            "humidity_threshold": ">85%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Use Delta T charts for optimal droplet survival.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_dew_149",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "DEW-DRIVEN PEST SCOUTING: Farmers should use the presence of heavy morning dew as a signal for intense pest and disease scouting in the field. High dew levels are often associated with the early stages of rust and blight outbreaks in North India. If scouting reveals early symptoms, a corrective spray should be planned for the period immediately following dew evaporation. Using a surfactant in the spray mix can improve the chemical's ability to penetrate any lingering moisture and adhere to the leaf surface. This strategic timing ensures that the farmer intervenes at the most critical point of the disease cycle, preventing a large-scale field infection and saving on input costs.",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Wait for foliage to dry to ensure chemical adherence.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    },
+    {
+        "id": "spray_fog_150",
+        "layer": "layer2",
+        "category": "spray_timing",
+        "crop": "General",
+        "region": "India",
+        "content": "REDUCED ADHERENCE DURING FOG: Applying pesticides in foggy conditions leads to highly inefficient chemical usage because the high atmospheric moisture prevents the droplets from reaching the target pests. Furthermore, the droplets that do land on the crop often fail to dry, resulting in poor adherence and rapid run-off. In the Indo-Gangetic plains, winter fog can persist for several hours, making it necessary for farmers to reschedule their spray activities to the midday window. If spraying is critical during a light fog, increasing the pesticide concentration slightly and using high-quality spreaders may help, but postponing is generally the safer and more cost-effective agricultural decision for Indian farmers. Farmers should prioritize these",
+        "weather_constraints": {
+            "humidity_threshold": ">90%",
+            "rainfall_limit": null,
+            "temperature_range": null,
+            "wind_speed_limit": null
+        },
+        "safety_notes": "Low visibility risk; delay operations until fog clears.",
+        "source_type": "ICAR | FAO | Agricultural Extension"
+    }
+]

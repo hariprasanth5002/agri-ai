@@ -1,0 +1,2459 @@
+[
+    {
+        "id": "soybean_rust_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Soybean rust, caused by Phakopsora pachyrhizi, is a highly destructive disease in the Indian Kharif season. The earliest symptoms include the development of small, water-soaked, chlorotic spots on the lower leaf surface, which eventually grow into raised, tan to reddish-brown pustules called uredinia. These pustules are typically clustered between the leaf veins and are often associated with small drops of yellow, powdery spores. In severe outbreaks, the sheer density of pustules cause rapid yellowing and premature defoliation of the plant, starting from the lower canopy and moving upwards. This significant loss of functional leaf area during the critical flowering and pod-filling stages leads to a drastic reduction in seed weight and overall yield potential. Early morning scouting during humid spells is required for detecting the first signs of pustule emergence.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High relative humidity required for sporulation",
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Rust pustules can be easily overlooked in the early stages; use a 10x hand lens to inspect the underside of bottom leaves during flowering.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_rust_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Chemical management of soybean rust in India utilizes specialized systemic fungicides that offer both protective and curative efficacy. Triazole fungicides such as Propiconazole 25% EC or Tebuconazole 25.9% EC are frequently recommended at a dosage of 1.0 ml per liter. The use of strobilurin and triazole combinations, like Azoxystrobin 18.2% + Difenoconazole 11.4% SC (Amistar Top), provides superior and long-lasting control during peak monsoon humidity. Sprays should be initiated at the first sign of rust pustules, especially during the R1 to R3 growth stages. Ensuring thorough canopy wetting is essential to reach the lower leaf surfaces where the pathogen first establishes. Proper rotation of fungicide FRAC groups is mandatory to prevent the development of resistant fungal populations in localized Indian soybean belts.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "High relative humidity favors absorption",
+            "temperature_limits": null,
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid late-season applications once the crop reaches the R6 stage, as the economic benefit declines and risk of residues increases.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_charcoal_rot_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Summer",
+        "content": "Charcoal rot, caused by the soil-borne fungus Macrophomina phaseolina, is a significant threat to Indian soybean during periods of heat and drought stress. Early symptoms include a general yellowing and wilting of the plant, often starting from the top. A diagnostic feature is the appearance of a silver-gray discoloration on the lower stem and taproot. When the stem is split vertically, the internal pith and woody tissues will show numerous tiny, black, soot-like structures called microsclerotia, which give the tissue a 'charcoal' appearance. This fungal colonization interferes with the plant's water and nutrient uptake, leading to premature death and reduced pod filling. In Indian summer crops, symptoms are often exacerbated by soil temperatures exceeding 35C and low moisture availability, which significantly weaken the host defense.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 60,
+            "rainfall_restriction": "Exacerbated by drought stress",
+            "temperature_limits": "28-40C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The disease is easily confused with other wilts; splitting the stem to check for microsclerotia is mandatory for a correct field diagnosis.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_charcoal_rot_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Organic management of charcoal rot in Indian soybean systems centers on strengthening soil biology and reducing the population of Macrophomina phaseolina microsclerotia. Soil application of Trichoderma-enriched Farm Yard Manure (FYM) at 10 tons per acre is highly effective in competitively excluding the pathogen from the root zone. Seed treatment with antagonistic microbial agents like Trichoderma viride or Bacillus subtilis at 10 grams per kg of seed provides early-season root protection. Maintaining soil moisture through regular irrigation during dry spells can help reduce the drought stress that triggers fungal activity. Furthermore, menggunakan mulch organic such as rice husk or straw helps keep the soil surface cooler, which is essential for inhibiting the rapid colonization and survival of the pathogen under intense Indian summer heat.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "18-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Soil solarization for 4-6 weeks during the peak summer months can significantly reduce the viability of dormant microsclerotia in the topsoil.",
+        "safety_notes": "Biological control agents must be applied early and maintained with adequate organic matter to establish a stable and effective presence in the soil.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_bacterial_blight_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Bacterial blight, caused by Pseudomonas syringae pv. glycinea, is a frequent occurrence during cool, rainy periods of the Indian Kharif season. The symptoms begin as small, water-soaked spots that rapidly turn dark brown to black and develop a yellowish halo. A diagnostic characteristic is the irregular, angular shape of the lesions, being restricted by the small veins of the leaf. As the disease progress, the necrotic centers of the spots may fall out, giving the leaf a torn or 'tattered' appearance. If severe, these lesions can coalesce, causing extensive blighting and premature defoliation. Similar symptoms can also be observed on pod surfaces as small, sunken, dark brown spots. Scouting during prolonged wet weather and moderate temperatures is required for early identification before systemic colonization occur.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High rain splash dependency",
+            "temperature_limits": "20-26C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The disease is often more prevalent on the upper leaves that are directly exposed to wind-driven rain splashes.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_soybean_mosaic_virus_vector_management_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "Management of Soybean Mosaic Virus (SMV) vectors in India focuses on the timely suppression of aphid populations that facilitate rapid virus spread. Systemic insecticides like Imidacloprid 17.8% SL at 0.3 ml per liter or Thiamethoxam 25% WG at 0.2 grams per liter are highly effective when applied during the early vegetative stage. These chemicals provide internal protection against colonizing aphids, thereby reducing the rate of secondary SMV transmission within the field. Sprays should be initiated when aphid colonies are first observed on the tender shoot tips or lower leaf surfaces. Maintaining a vector-free field during the first 45-60 days after sowing is critical, as early-stage infections lead to the most severe stunting and yield loss. Regular monitoring and integrated use of yellow sticky traps can help accurately time these chemical interventions.",
+        "dosage_guidelines": {
+            "grams_per_liter": 0.3,
+            "grams_per_acre": 60,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Ensuring a 4-hour dry window for absorption",
+            "temperature_limits": "20-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Excessive use of neonicotinoids should be avoided to protect local pollinator populations; apply during late evening when bee activity is minimal.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_phytophthora_root_rot_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Phytophthora Root Rot",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "Prevention of Phytophthora root rot in Indian soybean requires a robust integrated approach focused on water management and variety selection. Implementing raised-bed cultivation or the Broad Bed and Furrow (BBF) system is highly recommended to improve field drainage and prevent the soil saturation that triggers pathogen activity. Utilizing varieties with broad-spectrum 'Rps' genes for resistance is the most sustainable strategy. Selecting fields with good soil structure and avoiding heavy clay soils where water tends to pond is essential. A four-year crop rotation with non-host crops like corn or cotton can help reduce the soil oospore population. Maintaining strict field sanitation and avoiding the movement of contaminated soil through equipment or irrigation water is mandatory for preventing the localized buildup of this devastating oomycete in high-rainfall Kharif zones.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Deep summer ploughing followed by soil solarization can significantly reduce the viability of soil-borne oospores in the upper layers.",
+        "safety_notes": "Avoid excessive irrigation; maintaining just adequate soil moisture levels minimizes the risk of zoospore release and mobility.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_phytophthora_root_rot_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Phytophthora Root Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Phytophthora sojae, the cause of root and stem rot, is a soil-borne oomycete that persists in the environment for many years as thick-walled oospores. In the Indian Kharif season, when soil becomes saturated following heavy monsoon rains, these oospores germinate to produce sporangia, which then release mobile, aquatic zoospores. These zoospores are chemically attracted to soybean root exudates (isoflavones) and swim through the soil water to reach and infect the roots. Once inside, the pathogen colonizes the vascular tissues, particularly the xylem, leading to the characteristic wilting and stem necrosis. The pathogen exists as numerous physiological races, making variety-specific resistance (Rps genes) essential for management. Soil saturation for even a few hours can trigger explosive zoospore release and widespread infection in susceptible fields.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 100,
+            "rainfall_restriction": "Saturated soil required for zoospore mobility",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Improve soil structure by adding gypsum (250 kg/acre) in heavy clay soils to enhance drainage and reduce waterlogging duration.",
+        "safety_notes": "The disease is more severe in soils with high organic matter that have poor drainage properties.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_anthracnose_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Anthracnose, caused primarily by Colletotrichum truncatum, is a major yield-limiting disease of soybean in India, particularly during high-rainfall Kharif seasons. The symptoms can appear at any stage, but pod infection is the most economically damaging. Early signs include the development of irregularly shaped, brown, water-soaked lesions on the pods, stems, and petioles. A diagnostic feature is the appearance of tiny, black, hair-like structures called acervuli (fungal fruiting bodies) within the lesions under humid conditions. If severe, the fungus can infect seeds, causing them to become shriveled and discolored. In the seedling stage, it can cause damping-off or stem cankers. Symptoms on foliage are less common but appear as veinal necrosis. Scouting for these characteristic black specks on maturing pods is mandatory during the pod-filling and ripening stages.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 80,
+            "rainfall_restriction": "High moisture and warm temperatures favor spread",
+            "temperature_limits": "25-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Often confused with other pod blights; check for the presence of acervuli using a hand lens for field confirmation.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_anthracnose_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Chemical control of soybean anthracnose in India involves a combination of seed treatment and foliar sprays targeting the pod-development stages. Seed treatment with Thiram + Carbendazim (2:1 ratio) at 3 grams per kg seed is a critical first step. For field management, applying Carbendazim (50% WP) at 1 gram per liter or Difenoconazole (25% EC) at 1 ml per liter provides excellent curative and protective control. The most critical window for application is between the R1 (flowering) and R5 (beginning seed) stages to protect the developing pods. New generation strobilurin combinations like Azoxystrobin + Difenoconazole are also highly recommended for their long-lasting efficacy under monsoon humidity. Ensuring uniform coverage of every pod and stem surface is mandatory to prevent the internal colonization of the pathogen.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 15
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Moderate rains acceptable if systemic is used",
+            "temperature_limits": null,
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Rotate between benzimidazole (Carbendazim) and triazole (Difenoconazole) groups to prevent the development of resistant fungal strains.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_rust_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Phakopsora pachyrhizi, the causal agent of soybean rust in India, is an obligate biotrophic fungus with a high reproductive capacity. The pathogen produces urediniospores that are easily disseminated by wind currents over long distances, allowing for rapid field colonization. These spores require free moisture on the leaf surface and moderate temperatures between 15 and 28C for germination and stomatal penetration. Unlike some other rust fungi, P. pachyrhizi can survive between seasons on a variety of alternative hosts, including kudzu and several wild legume species common in Indian agricultural landscapes. The pathogen exhibits significant genetic diversity, with multiple virulent races identified across different Indian states. Its ability to complete a life cycle within 7 to 10 days under optimal monsoon conditions makes it a primary threat to soybean production during the Kharif season.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 100,
+            "rainfall_restriction": "Leaf wetness for 6-12 hours",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Spore survival is highest under cloudy conditions; protect the crop early if persistent monsoon rains are forecast during the vegetative stage.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_charcoal_rot_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Summer",
+        "content": "Macrophomina phaseolina, the soil-borne fungus causing charcoal rot, persists in Indian soils through extremely resilient microsclerotia. These tiny, black resting structures can survive for up to 3 years even in the absence of a host. The pathogen enters the soybean plant through the root system, often facilitated by micro-wounds caused by soil-borne insects or mechanical stress. Once inside, it colonizes the vascular bundle, producing enzymes that degrade cell walls and toxins that disrupt water transport. Under the high-heat conditions of the Indian summer cycle, the fungus rapidly transitions into its reproductive phase, filling the lower stem with soot-like microsclerotia. This internal blockage leads to systemic wilting and premature senescence, particularly in fields with low organic matter and poor water retention.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 50,
+            "rainfall_restriction": "Drought stress triggers colonization",
+            "temperature_limits": "28-40C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain soil organic carbon above 0.5% to promote native microbial antagonism against Macrophomina microsclerotia.",
+        "safety_notes": "The fungus has a very wide host range; avoid planting soybean immediately after other susceptible crops like sunflower or sesame.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_rust_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Soybean rust severity in India is exclusively driven by the interaction between temperature, humidity, and the duration of leaf wetness. Phakopsora pachyrhizi requires a minimum of 6 hours of continuous leaf wetness (from dew or drizzle) for successful spore germination and entry. Optimal temperatures for explosive spread are between 15C and 25C; temperatures exceeding 30C significantly inhibit the pathogen's development. Relative humidity above 90% is required for the production of new urediniospores from established pustules. During the peak monsoon, persistent cloud cover protects the delicate spores from UV radiation, allowing them to remain viable for longer periods as they are carried by wind currents. Farmers are advised to scout more frequently during extended periods of cool, cloudy, and humid weather which represent high-risk windows.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Ensure dry period for chemical absorption",
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Monitor dew start and end times; early evening dew formation followed by late morning drying creates the ideal window for rust infection.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_downy_mildew_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "Prevention of downy mildew (Peronospora manshurica) in Indian soybean focuses on seed health and microclimate management. Use of certified disease-free seeds is mandatory, as the pathogen is primarily seed-borne in the form of oospores. Seed treatment with Metalaxyl 35% WS at 3g/kg seed provides critical protection against systemic seedling infection. In the field, optimizing plant density to 4 lakh plants per hectare ensures adequate airflow and reduces moisture retention within the canopy, which inhibits sporangia production. A three-year crop rotation with non-host cereals is required to reduce the survival of oospores on crop residues. Farmers should select well-drained fields and avoid low-lying areas where morning fog and dew persist, as these conditions are essential for triggered spore germination and localized epiphytotics.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Deep summer ploughing to bury crop residues helps in the faster decomposition of oospore-bearing tissues.",
+        "safety_notes": "Avoid utilizing farm-saved seeds from fields that showed white crusty growth on pods, as these are highly likely to be internally infected.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_downy_mildew_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Downy mildew (Peronospora manshurica) in Indian soybean is a classic 'cool-weather' disease of the Kharif season. Epiphytotics are triggered when temperatures hover between 18C and 24C combined with relative humidity above 95%. High morning humidity is mandatory for the production and release of sporangia from the underside of the leaves. Free moisture on the leaf surface, typically from dew or fog, is required for at least 6 hours to allow for successful spore germination and direct host penetration. In India, the disease is most severe in the northern and central states where morning fog is common during the monsoon withdrawal. Under hot and dry conditions (above 30C), sporangia production stops and the pathogen becomes dormant, making weather monitoring the most important tool for predicting disease outbreaks.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High dependency on morning dew and fog",
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "If morning temperatures are consistently below 20C and fog is observed, initiate prophylactic sprays immediately in susceptible varieties.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_mosaic_virus_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "The spread of Soybean Mosaic Virus (SMV) in India is indirectly governed by weather patterns that influence the flight activity of its aphid vectors. Warm, dry weather with low wind speeds (below 5 km/h) is ideal for aphid migration and frequent probing, which facilitates rapid non-persistent virus transmission. Conversely, heavy monsoon rains physically wash aphids off the plants and inhibit their flight, leading to a temporary slowdown in virus spread. Temperatures between 20C and 30C are optimal for both the virus replication within the host and the population growth of several aphid species. Farmers should monitor for aphid arrivals following a dry spell in the Kharif season, as these environmental transitions often trigger localized SMV surges across the Indian soybean cluster.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Drought spells following rains favor aphid migration",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Check for aphid colonies on the tender shoots during dry intervals of the monsoon; these are the primary windows for virus introduction.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_charcoal_rot_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention of charcoal rot in Indian soybean focuses on variety selection and reducing soil pathogen density through cultural practices. Utilizing resistant hybrids and practicing crop rotation with non-host crops like corn or cotton for 3-4 years is required to reduce microsclerotia density (Macrophomina phaseolina). Adjusting planting dates to avoid the peak heat during the sensitive flowering and pod-filling stages can help minimize symptoms. Maintaining optimal soil fertility, especially balanced nitrogen and potassium, helps strengthen the host's physical and biochemical defenses. Complete removal and incineration of infected plant residues after harvest is mandatory to prevent the localized buildup of the fungal inoculum in high-risk zones of Madhya Pradesh.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": null,
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Soil solarization for 4 weeks during peak summer can reduce microsclerotia viability by 60-80% in the top 10cm of soil.",
+        "safety_notes": "Wounds on roots from mechanical weeding serve as primary entry points; prioritize manual weeding or herbicides.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_bacterial_blight_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Chemical management of bacterial blight in Indian soybean focuses on the prophylactic use of copper-based bactericides combined with systemic antibiotics. A standard protocol involves the foliar application of Copper Oxychloride (50% WP) at 2.5 grams per liter in combination with Streptocycline (a 90:10 mixture of streptomycin and tetracycline) at 0.1 grams per liter. This mixture targets the superficial bacterial populations and provides localized suppression of the systemic colonization. If weather conditions remain cool and rainy, a second application after 10-12 days may be necessary. Ensuring uniform coverage on every leaf surface, especially the abaxial side, is mandatory for mitigating the rapid spread of inoculum. It is critical to time the applications when the foliage is relatively dry.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.6,
+            "grams_per_acre": 520,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "High dependency on rain splash; apply after heavy showers",
+            "temperature_limits": "20-28C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid spraying during peak heat (above 30C) to prevent copper-induced leaf scorch.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_downy_mildew_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Peronospora manshurica, the cause of downy mildew in soybean, is an obligate oomycete pathogen that survives between seasons as oospores on infected crop residues or as a white crust on the surface of seeds. In India, the primary inoculum often comes from infected seeds, leading to systemic infection of the developing seedling. Once established, the pathogen produces millions of air-borne sporangia on the underside of leaves during cool (18-24C), humid morning hours. These sporangia require liquid water on the leaf surface for germination and direct penetration into the host tissue. Systemic infection is particularly damaging as it leads to widespread chlorosis and reduced photosynthesis across the entire plant canopy early in the cropping cycle.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High dependency on morning dew or fog",
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Check seed lots for a white, crusty coating, which indicates high levels of seed-borne oospore contamination.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_anthracnose_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Colletotrichum truncatum is the primary fungal pathogen responsible for soybean anthracnose in India. It is a hemispheric biotroph that overwinters as mycelium or sclerotia in infected crop debris and can also be carried internally or externally on the seeds. Under warm (25-32C) and humid conditions, the fungus produces conidia within specialized fruiting bodies called acervuli. These conidia are primarily dispersed by rain splash and wind-driven droplets. Once a conidium lands on a susceptible host surface, it germinates to form an appressorium, which penetrates the host cuticle. The pathogen's ability to infect pods directly and colonize the developing seeds makes it a significant threat to both grain yield and seed quality in the high-rainfall soybean belts of Central India.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Rain splash facilitates dispersal",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Deep incorporation of crop residues reduces primary inoculum survival by facilitating faster decomposition.",
+        "safety_notes": "Seeds from infected pods often harbor dormant internal mycelium; certified seed is required.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_frogeye_leaf_spot_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Frogeye Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Frogeye leaf spot, caused by Cercospora sojina, is characterized by the development of small, circular to angular spots on the foliage. In Indian soybean, the lesions first appear as dark, water-soaked spots which eventually develop a light gray to tan center with a prominent reddish-brown or purple border. These distinctive 'eyes' give the disease its name. Under high humidity, the centers of these lesions may show a subtle gray fuzz, which is the pathogen sporulating. While primarily a leaf disease, symptoms can also appear on pods as reddish-brown, circular to elongated lesions, and on stems as dark, flattened areas. Severe infection results in premature defoliation, which drastically reduces pod development and final seed weight during the Kharif cycle.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Warm, humid conditions favor lesion expansion",
+            "temperature_limits": "25-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Scout the upper canopy during the R1-R3 stages; early detection is critical for avoiding pod infection.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_frogeye_leaf_spot_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Soybean",
+        "disease_or_issue": "Frogeye Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Chemical management of frogeye leaf spot in India relies heavily on both protective and curative systemic fungicides. Strobilurins like Azoxystrobin (18.2% + Difenoconazole 11.4% SC) at 1.0 ml per liter or Pyraclostrobin 20% WG at 0.5 grams per liter are highly effective when applied at the first sign of symptoms. For broad-spectrum control, Carbendazim (50% WP) at 1 gram per liter or Mancozeb (75% WP) at 2.5 grams per liter provide excellent preventative coverage. The most critical timing for application is between the R1 (beginning flowering) and R3 (beginning pod) stages to secure leaf health during the peak of pod fill. Ensure thorough wetting of the entire canopy to prevent the vertical movement of spores from the lower leaves to the developing upper foliage.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Ensure dry window for absorption",
+            "temperature_limits": "25-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Some populations of C. sojina have developed resistance to Group 11 (Strobilurin) fungicides; always rotate with Group 3 (Triazoles) for management.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_purple_seed_stain_symptom_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Purple Seed Stain",
+        "region": "India",
+        "growth_stage": "Ripening",
+        "season": "Kharif",
+        "content": "Purple seed stain, caused by Cercospora kikuchii, is identified by the characteristic purple to pink discoloration of the soybean seed coat. In Indian clusters, the discoloration can vary from a small speck to the entire seed surface being covered. While the seed embryo remains unaffected, the stain significantly reduces market value and seed quality. The foliar phase, known as Cercospora leaf blight, appears earlier as a subtle bronzing or purpling of the upper leaves, followed by the development of leathery, necrotic lesions with a reddish-purple cast. Under high light intensity and humidity, the upper canopy of the soybean field may take on a distinct purple hue. This disease is most prevalent in years where high moisture persists during the late pod-filling and ripening stages.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Warm, sunny days after rains favor foliar phase",
+            "temperature_limits": "28-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The purple toxin (cercosporin) is photodynamic and activated by sunlight, making the symptoms most severe on the outermost leaves of the plant.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_purple_seed_stain_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Purple Seed Stain",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Organic management of purple seed stain in Indian soybean targets the reduction of primary inoculum and strengthening of pod-surface defenses. Seed treatment with Trichoderma viride at 10 grams per kg seed is required to suppress the seed-borne phase of Cercospora kikuchii. Foliar application of 5% Neem Seed Kernel Extract (NSKE) or 3% Neem oil during the pod-filling stage provides a preventative barrier against spore colonization. Maintaining soil health with the addition of balanced organic amendments helps the plant regulate transpiration, which is critical for reducing the heat-induced activation of cercosporin toxin. Integrating these bio-measures with the selection of certified pink-stain-free seed is mandatory for high-quality organic soybean production in high-risk zones.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Prophylactic application before humid ripening spells",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Foliar application of wood ash extract at 2% can provide localized potassium boost which aids in disease resistance during ripening.",
+        "safety_notes": "Bio-agents should be applied during late evening to avoid UV-induced degradation of the fungal spores.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_rust_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Standardized dosage for soybean rust management in India is critical for efficacy and resistance suppression. Propiconazole 25% EC is applied at 1.0 ml per liter (200 ml per acre). Advanced combinations like Azoxystrobin 18.2% + Difenoconazole 11.4% SC are dosed at 1.0 ml per liter. It is mandatory to maintain a spray volume of 500 liters of water per hectare (200 liters per acre) to ensure the required coverage reaching the lower canopy where uredinia first develop. Under-dosing leads to rapid Phakopsora resistance; adhere strictly to IISR/CIB guidelines.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Ensure 6-hour rain-free window for absorption",
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Use a hollow cone nozzle to achieve fine droplets for maximal penetration into dense soybean foliage.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_phytophthora_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Phytophthora Root Rot",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "Seed treatment dosage for Phytophthora is the primary defense in monsoon-affected Indian states. Metalaxyl-M 31.8% FS should be applied at 2.0 ml per kg of seed. For soil drenching in saturated fields, Metalaxyl 8% + Mancozeb 64% WP is dosed at 2.5 grams per liter. Ensure uniform coating using a slurry method to avoid physical injury to the seed coat. Over-dosage can delay germination in sensitive cultivars like JS 335; always calibrate against the specific seed lot's vigor.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Incorporate Trichoderma-enriched vermicompost (1 kg in 100 kg) into the root zone before sowing to provide biological suppression.",
+        "safety_notes": "Wear protective gear during drenching; ensure chemical does not pool on the soil surface to avoid environmental runoff.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_downy_mildew_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "For systemic downy mildew infection, foliar dosage of Metalaxyl 8% + Mancozeb 64% WP is 2.0 grams per liter. In cases of transition to secondary spread, Cymoxanil 8% + Mancozeb 64% WP at 2.5 grams per liter is required. These dosages are optimized for the high moisture levels and rapid oomycete sporulation typical of the Indian monsoon withdrawal. Maintaining 200 liters of water per acre is mandatory for complete coverage of the abaxial leaf surface where sporangiophores emerge.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Adhere to the Pre-Harvest Interval (PHI) as secondary pod-borne downy mildew can affect seed viability if treated late.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_charcoal_rot_soil_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "soil_adjustment",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "Pre-sowing",
+        "season": "Summer",
+        "content": "Soil adjustment for charcoal rot focusing on Macrophomina suppression involves deep summer ploughing (30cm) to expose microsclerotia to solar heat. Applying 10 tons of FYM per acre enriched with Trichoderma harzianum at 2.5 kg/ha is required to build a suppressive soil microflora. Maintaining soil organic carbon above 0.5% in the black cotton soils of Central India enhances moisture retention, which is the primary factor in inhibiting fungal colonization of the vascular system during peak summer cycles.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": 2500,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Critical to maintain 60% soil moisture during R1-R4 stages",
+            "temperature_limits": "30-45C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Balanced application of Potash (K) at 40 kg/ha thickens root cell walls, providing a physical barrier against Macrophomina entry.",
+        "safety_notes": "Excessive Nitrogen fertilization can lead to succulent roots which are more easily penetrated by the charcoal rot fungus.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_bacterial_blight_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Bacterial blight (Pseudomonas syringae pv. glycinea) outbreaks are triggered by daytime temperatures between 20C and 25C and humidity above 95%. Wind-driven rains are mandatory for the creation of micro-wounds through which the bacteria enter the host. Splash dispersal from infected volunteers or residues is the primary spread mechanism during the early Kharif monsoon. If temperatures exceed 30C for more than 48 hours, the bacterial development slows significantly, allowing the plant to outgrow new infections.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High dependency on 'rain-wind complexes' for entry",
+            "temperature_limits": "18-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Do not enter the field for weeding or irrigation while the leaves are wet to prevent mechanical spreading of bacterial ooze.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_anthracnose_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention of anthracnose involves a mandatory 2-year crop rotation with non-hosts like maize or finger millet. Using certified seed with less than 2% internal Colletotrichum colonization is essential. Sowing seeds at the recommended depth (3-5 cm) ensures uniform germination and minimizes early seedling stem cankers. Maintaining a clean field perimeter, free of leguminous weeds like Sesbania or Crotalaria which act as alternate hosts, is required to prevent early-season spore arrival.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "25-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Deep burial of infected soybean stalks during summer reduces the primary inoculum population by up to 70%.",
+        "safety_notes": "Avoid utilizing seeds from fields where acervuli were observed on more than 10% of the pods.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_mosaic_virus_stage_specific_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "Stage-specific vulnerability to SMV is highest in the first 30 days after sowing. Early vegetative infection (V1-V3) result in the most severe stunting and mosaic patterns. If aphids arrive during the flowering (R1) stage, they facilitate horizontal transmission which results in seed mottling and reduced oil content. Rogueing of infected plants is mandatory during the first 4 weeks; secondary spread after the R5 stage has minimal impact on final seed weight but can increase the percentage of seed-borne virus for the next generation.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Seed coat mottling (discoloration) is a definitive indicator of late-season viral infection; such seeds should be diverted to crushing rather than planting.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_rust_timing_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Timing of fungicide application against rust in India is dictated by the R1 (beginning of flowering) to R3 (beginning of pod) growth stages. Prophylactic sprays are mandatory in rust-endemic districts if the weather forecast predicts 3-4 days of continuous overcast skies with humidity above 90%. If uredinia are observed on more than 5% of the lower leaves, an immediate curative spray with triazoles is required. Delaying intervention until symptoms reach the middle canopy usually results in a 30-50% yield reduction due to rapid defoliation.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Monitor for evening dew duration > 10 hours",
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Prioritize scouting the northern field edges where dew persists longer during the morning hours.",
+        "source_type": "PAU"
+    },
+    {
+        "id": "soybean_phytophthora_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Phytophthora Root Rot",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "Timing for Phytophthora management is almost exclusively preventative, as post-infection recovery is minimal. The first window is at sowing through systemic seed treatment. The second critical window is immediately following the first heavy monsoon shower (top-soil saturation). If seedlings show signs of damping-off, a soil drenching around healthy-appearing plants within a 5-meter radius is mandatory to create a chemical barrier against swimming zoospores.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Apply immediately after saturation-inducing rains",
+            "temperature_limits": "18-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid drenching during active rain to prevent excessive dilution and leaching of the fungicide.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_bacterial_blight_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "A standardized tank-mix for bacterial blight in India consists of Copper Oxychloride (50% WP) at 2.5 grams and Streptocycline at 0.1 grams per liter of water. This equates to 500g and 20g respectively per acre (in 200 liters of water). Maintaining the correct antibiotic-to-copper ratio is mandatory to minimize the risk of developing streptomycin-resistant bacterial strains. Foliar application should aim for high-pressure delivery to penetrate the dense vegetative canopy.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.6,
+            "grams_per_acre": 520,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure 4-hour dry window for bacterial surface stabilization",
+            "temperature_limits": "18-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Streptocycline is highly sensitive to UV; store in a cool, dark place and use immediately after mixing.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_anthracnose_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Pod Filling",
+        "season": "Kharif",
+        "content": "For late-season pod protection against anthracnose, Carbendazim (50% WP) is dosed at 1.0 gram per liter. Alternatively, Difenoconazole (25% EC) at 1.0 ml per liter provides superior curative action on established stem lesions. In high-rainfall clusters of Maharashtra, strobilurin-triazole pre-mixes are used at 1.0 ml/liter. A spray volume of 500 liters/ha is mandatory for thorough pod-surface coverage, which is the primary site of C. truncatum colonization.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Avoid application during moderate rain splash",
+            "temperature_limits": "25-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Rotational use of Mancozeb (2.5 g/L) help delay resistance development in high-pressure years.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_frogeye_leaf_spot_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Frogeye Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Frogeye leaf spot (Cercospora sojina) is favored by warm (25-32C) and humid weather. Sporulation is triggered when relative humidity stays above 90% for more than 12 hours. Unlike rust, frogeye is well-adapted to the warmer spells of the Indian monsoon. Splash dispersal during heavy rain events is the primary method for moving spores from the soil or lower leaves onto the developing pods and upper foliage.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "High rain splash dependency for vertical spread",
+            "temperature_limits": "22-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The pathogen survives well in warm, overcast conditions; increase scouting frequency if clear days are rare during flowering.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_downy_mildew_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Timing for downy mildew (Peronospora manshurica) foliar sprays is critical when cooler temperatures (18-22C) and high morning fog prevail. If white, downy growth is observed on 10% of the plants during the vegetative phase, an immediate systemic spray is required. Early morning sprays (before 8 AM) while the leaves are still wet with dew can enhance the mobility of certain oomycete-specific fungicides like Cymoxanil.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High dependency on morning fog",
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Once temperatures exceed 30C, the pathogen becomes inactive; discontinue sprays unless cooler weather returns.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_mosaic_virus_prevention_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "A critical preventative measure for SMV in India is the removal of alternative weed hosts such as Amaranthus and Solanum species from the field borders. These weeds act as reservoirs for både the virus and the aphid vectors during the off-season. Planting tall border crops like Bajra or Pigeonpea can act as a physical barrier and a 'decoy' for migrating aphids, reducing the probability of virus transmission into the primary soybean crop.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Tool sanitation (using 10% bleach) between fields is mandatory to prevent mechanical transmission during intercultural operations.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_charcoal_rot_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Summer",
+        "content": "Timing of moisture management is the only effective field intervention for charcoal rot. It is mandatory to ensure the crop does not face extreme drought stress during the R1 (beginning flowering) and R3 (beginning pod) stages. If soil temperatures reach 35C and no rainfall is predicted, a light 'protective' irrigation should be provided to cooler the soil surface and slow down the colonization of the fungal microsclerotia.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Adjustment critical during dry-hot spells",
+            "temperature_limits": "30-45C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Early sowing to ensure the crop canopy covers the soil before the peak heat of May is a key timing-based preventative strategy.",
+        "safety_notes": "Avoid late-season light irrigations that don't penetrate deep into the root zone, as they can sometimes trigger fungal growth without relieving the plant's core stress.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_rust_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Organic management of rust in India centers on the use of botanical extracts and biological antagonists. Foliar application of 5% Neem Seed Kernel Extract (NSKE) or 3% Neem oil provides a significant preventative barrier against urediniospore germination. Biocontrol with Trichoderma harzianum or Pseudomonas fluorescens at 10 grams per liter is effective if applied early in the flowering stage. These bio-agents competitively exclude the rust fungus from the leaf surface. Integrating these measures with the use of rust-tolerant Indian cultivars like DSB 21 or KDS 344 is mandatory for sustainable organic soybean production in high-risk monsoon zones.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure at least 6 hours of dry window after bio-agent application",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Apply bio-pesticides during late evening to avoid UV-induced mortality of the beneficial microbes.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_phytophthora_chemical_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Soybean",
+        "disease_or_issue": "Phytophthora Root Rot",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "Chemical control of Phytophthora root rot in India utilizes oomycete-specific fungicides. Seed treatment with Metalaxyl-M or Ethaboxam provides critical protection during the high-risk first 20 days after sowing. In established fields with history of rot, a soil drenching with Metalaxyl + Mancozeb at 2.5 g/L is required immediately after heavy monsoon rains. For systemic suppression of the stem rot phase, foliar application of Mefenoxam or Phosphorus acid-based products can be used. It is mandatory to time these applications before complete soil saturation occurs to minimize the release and movement of zoospores.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": 30
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Apply before predicted heavy monsoon showers if possible",
+            "temperature_limits": "18-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Adhere strictly to CIB label instructions to avoid groundwater contamination in high-permeability soils.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_bacterial_blight_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention of bacterial blight in Indian soybean systems focuses on breaking the chain of transmission through infected seed and crop debris. Using 3-year crop rotation with non-hosts like Wheat or Gram is mandatory in affected regions. Immediate destruction of infected crop residues after harvest prevents the bacteria from overwintering. Farmers should avoid working in the field when the canopy is wet from rain or dew, as mechanical spread via clothing and tools is the most common cause of localized epiphytotics within a field.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Deep summer ploughing followed by soil solarization helps in the rapid decline of surface-borne bacterial populations.",
+        "safety_notes": "Always sanitize tools with 10% sodium hypochlorite after working in a blight-affected patch.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_anthracnose_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Organic control of anthracnose in India targets the competitive exclusion of Colletotrichum on the pod surface. Seed treatment with Trichoderma viride at 10 g/kg seed is required for early suppression. Foliar applications of bio-formulations containing Bacillus subtilis or Pseudomonas fluorescens at 5 ml/L during the pod-filling stage can reduce lesion expansion. Additionally, multiple sprays of 5% Neem Seed Kernel Extract (NSKE) during the monsoon intervals provide a protective coating that inhibits conidial germination on the pods and stems.",
+        "dosage_guidelines": {
+            "grams_per_liter": 5,
+            "grams_per_acre": 1000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain high soil organic matter to promote native antagonistic fungi like Penicillium which can inhibit Colletotrichum microsclerotia.",
+        "safety_notes": "Bio-agents are most effective when applied during overcast days or in the late evening to preserve spore viability.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_frogeye_leaf_spot_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Frogeye Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention of frogeye leaf spot focuses on managing the primary inoculum in the soil and on the seed. Practicing a minimum 2-year rotation with non-leguminous crops like Maize or Cotton is required. Using high-quality certified seed is mandatory to prevent the introduction of Cercospora sojina into new fields. Deep incorporation of infected soybean residues immediately after harvest facilitates faster decomposition and reduces the survival of dormant mycelium during the off-season. Farmers should choose resistant Indian cultivars such as NRC 12 or JS 95-60 in areas where the disease is historically prevalent.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": null,
+            "temperature_limits": "22-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Summer ploughing to expose pathogens to UV radiation is highly effective for reducing the survival of C. sojina in the topsoil.",
+        "safety_notes": "Avoid utilizing 'farm-saved' seed from fields where more than 20% of the leaf area was affected by frogeye symptoms.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_purple_seed_stain_cause_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Purple Seed Stain",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Cercospora kikuchii, the causal agent of purple seed stain, is a fungal pathogen that survives as mycelium on infected crop debris and internally within the seed. In India, the initial infection often starts in the early vegetative phase (as Cercospora leaf blight) when wind-blown spores land on the foliage. The fungus then moves systemically or via splash dispersal onto the developing pods and seeds. The distinctive purple color is caused by a pigment called cercosporin, which is a potent phytotoxin that the fungus produces in the presence of light. This toxin damages the host cell membranes, allowing the pathogen to extract nutrients and colonize the seed coat during the ripening stages.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": null,
+            "temperature_limits": "25-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The toxin cercosporin is light-activated; symptoms are often more severe on the side of the pod exposed to direct afternoon sunlight.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_downy_mildew_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Organic suppression of downy mildew in India involves a combination of seed health and early-season bio-interventions. Seed treatment with Trichoderma viride at 10 g/kg seed is required. For field management, weekly sprays of Verticillium lecanii or Bacillus subtilis at 10 g/L during the seedling and vegetative stages help inhibit sporangia production. Additionally, apply 3% fermented curd (buttermilk) spray, which has been reported by local Indian farmers to create an acidic leaf surface that is unfavorable for Peronospora sporangia germination. Selection of resistant varieties and maintaining wider plant spacing for better airflow are mandatory organic practices.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure at least 4 hours of dry window after buttermilk application",
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Bio-control agents should be targeted towards the underside of leaves to directly interact with the sporulating pathogen structures.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_charcoal_rot_symptom_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "Ripening",
+        "season": "Summer",
+        "content": "In late stages of charcoal rot (Macrophomina phaseolina), the symptoms progress into a sudden wilting and 'burning' appearance of the entire field. When the roots and lower stems of affected plants are pulled and inspected, the woody tissues will be covered in thousands of tiny, black, soot-like microsclerotia. A diagnostic field test is to split the lower stem; the internal cortex will appear silvery-gray and shredded. This 'charcoal' effect is most prominent during the ripening stage in the Indian summer cropping cycle, where high temperatures accelerate the pathogen's transition from vegetative growth to its resistant microsclerotia phase.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Exacerbated by extreme dry spells",
+            "temperature_limits": "30-45C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Field diagnosis must be confirmed by checking for internal microsclerotia to avoid confusion with Pythium or Fusarium wilts.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_rust_stage_specific_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Pod Filling",
+        "season": "Kharif",
+        "content": "Soybean vulnerability to rust increases significantly between the R1 (beginning of flowering) and R5 (beginning of seed) stages. If rust pustules are established before the R3 (beginning of pod) stage, the resulting defoliation can cause up to 80% yield loss due to poor pod set and shriveled grains. However, if the infection occurs after the R6 (full seed) stage, the impact on yield is minimal as the seed weight is already largely determined. Management resources should be prioritized for protecting the canopy during the R1 to R4 window, especially in the high-rainfall belts of Karnataka and Telangana.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Once the crop reaches 'physiological maturity' (R7), fungicide applications for rust are no longer economically justifiable.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_bacterial_blight_stage_specific_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "Bacterial blight is most damaging during the early vegetative and seedling stages of Indian soybean. Systemic colonization during the V2-V4 stages can lead to stunting and reduced leaf area, which limits the plant's future reproductive potential. While pod infection (R3-R6) can occur, it is generally less impactful on total grain weight unless accompanied by severe leaf 'tatters'. Preventative chemical interventions are most effective when applied before the crop canopy closes, allowing for better penetration and coverage of the lower leaf surfaces.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Vulnerability highest during early monsoon wind-rain complexes",
+            "temperature_limits": "18-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Late-season infections on older leaves have negligible impact on yield; concentrate scouting on the new, upper foliage during the vegetative phase.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_anthracnose_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Timing for anthracnose (Colletotrichum truncatum) management is critical between the R1 (beginning flowering) and R5 (beginning seed) stages. If the monsoon is active with frequent rains and high humidity, a prophylactic spray at the R1 stage is required for protecting the stems and developing pods. A second spray at the R3 stage is mandatory if acervuli (black specks) are observed on the petioles. Early interventions prevent the fungus from entering the pods and colonizing the developing seeds, thereby ensuring high germination quality for the next cycle.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Apply during dry intervals between rain spells",
+            "temperature_limits": "25-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Wait for at least 4 hours of sun after application to ensure systemic fungicides are fully absorbed into the pod tissues.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_frogeye_leaf_spot_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Frogeye Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Recommended dosage for frogeye leaf spot in India using Pyraclostrobin 20% WG is 500 grams per hectare (0.5 g/L). For combination products like Azoxystrobin + Difenoconazole, use 1.0 ml per liter. Ensure a high spray volume of 500 liters/ha to achieve thorough coverage of both upper and lower leaf surfaces. Consistent dosage is required to prevent the emergence of strobilurin-resistant strains of Cercospora sojina, which have been increasingly reported in multiple Indian soybean growing regions.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 15
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Ensure 6-hour rain-free window",
+            "temperature_limits": "25-32C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Always use a non-ionic surfactant to improve the spread and adherence of the spray on the waxy soybean leaves.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_purple_seed_stain_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Purple Seed Stain",
+        "region": "India",
+        "growth_stage": "Pod Filling",
+        "season": "Kharif",
+        "content": "Management of purple seed stain (Cercospora kikuchii) is most effective when fungicides are applied during the R3 (beginning of pod) to R5 (beginning of seed) stages. If the foliar 'blight' phase (bronzing of upper leaves) is observed earlier, immediate intervention is required to prevent the vertical movement of inoculum onto the maturing pods. Sprays applied after the R6 (full seed) stage are generally not effective at reducing seed discoloration as the cercosporin toxin has likely already been produced and deposited in the seed coat.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": null,
+            "temperature_limits": "25-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid spraying if temperatures are above 35C to prevent potential phytotoxicity on the ripening pods.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_downy_mildew_prevention_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "A key preventative strategy for downy mildew in India is the use of seed treatment with Metalaxyl followed by wider row spacing. Maintaining a 45cm row spacing (instead of the standard 30cm) improves airflow within the canopy and allows sunlight to reach the lower nodes, facilitating faster drying of morning dew. This cultural adjustment alone can reduce downy mildew severity by 20-30% in high-risk zones of Madhya Pradesh and Rajasthan.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Wait for dew to dry before entering field",
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Ensure soil pH is between 6.0 and 7.0; acidic soils can sometimes exacerbate the impact of systemic oomycete pathogens on young roots.",
+        "safety_notes": "Check for 'volunteer' soybean plants in the fallow; these act as early season reservoirs for downy mildew sporangia.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_mosaic_virus_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "Dosage for aphid vector suppression in SMV management uses Imidacloprid 17.8% SL at 100 ml per hectare (0.5 ml per liter in 200 liters of water per acre). Alternatively, Thiamethoxam 25% WG can be applied at 100 g/ha (0.5 g/L). These dosages provide systemic protection for 10-14 days against colonizing aphids. It is mandatory to time these sprays at the first arrival of aphid colonies (2-5 aphids per plant) during the first 45 days after sowing.",
+        "dosage_guidelines": {
+            "grams_per_liter": 0.5,
+            "grams_per_acre": 100,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Do not apply if rainfall is imminent within 4 hours",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Ensure insecticides are not applied during peak flowering to protect beneficial pollinators; time sprays for late evening.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_charcoal_rot_organic_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Summer",
+        "content": "Organic management of charcoal rot also involves the use of oilseed cakes like Neem cake or Karanj cake at 500 kg per hectare during field preparation. These cakes have been shown by Indian researchers to release volatile compounds that are inhibitory to Macrophomina microsclerotia. Furthermore, seed treatment with biological agents like Bacillus subtilis at 10 g/kg seed provides a robust 'bio-shield' around the developing taproot by colonizing the rhizosphere and outcompeting the pathogen for nutrients and infection sites.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": 500000,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "25-45C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Combine oilseed cakes with Trichoderma-enriched FYM for a synergistic inhibitory effect on soil-borne microsclerotia.",
+        "safety_notes": "Ensure oilseed cakes are well-mixed with the soil 15 days before sowing to allow for the release of bioactive compounds.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_rust_weather_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Post-Monsoon",
+        "content": "Post-monsoon soybean rust dynamics in Southern India are driven by the 'tropical canopy effect' where internal humidity remains high even as ambient humidity drops. If the leaf wetness duration exceeds 10 hours per night due to heavy dew, Phakopsora pachyrhizi can continue to sporulate and cause secondary infections. Optimal temperatures for this phase are between 15C and 25C. Farmers in Karnataka should monitor for rust even after the main monsoon rains have ceased, especially in fields with high plant density which trap moisture and promote a conducive microclimate.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High dependency on dew-induced leaf wetness",
+            "temperature_limits": "12-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Late-season rust can significantly reduce the 'test weight' (bulk density) of the seeds, leading to lower market prices.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_bacterial_blight_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Organic management of bacterial blight in India focuses on the use of bacteriostatic botanical extracts and biological antagonists. Foliar application of 5% Ginger-Garlic-Chili (GGC) extract has shown inhibitory effects on Pseudomonas syringae under field conditions. Additionally, use of Pseudomonas fluorescens at 10 g/L as a seed treatment and foliar spray facilitates the production of siderophores and antibiotics that suppress bacterial colonization. Integrating these with the use of blight-resistant cultivars like JS 20-29 is mandatory for organic soybean certification in the Malwa region.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid high-pressure spraying of bio-agents during active rain to prevent excessive dilution and runoff.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_anthracnose_symptom_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Pod Filling",
+        "season": "Kharif",
+        "content": "A diagnostic symptom of soybean anthracnose during the reproductive phase is the appearance of 'acervuli' which look like tiny black hair-like structures (setae) protruding from the lesions on pods and petioles. These structures are most visible under a 10x hand lens following a period of high humidity. On pods, the lesions are initially water-soaked but later become brown and sunken, often leading to 'pod blanking' where the seeds fail to develop. In severe cases, the fungus causes a premature yellowing and dropping of leaves (early senescence), which can be mistaken for natural maturity if not inspected closely.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Check for pod-blanking in areas with stagnant water, as high humidity in the lower canopy triggers rapid acervuli development.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_frogeye_leaf_spot_cause_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Frogeye Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Cercospora sojina, the causal fungus of frogeye leaf spot, is known for its high genetic variability across Indian soybean clusters. The pathogen produces multi-celled, needle-shaped conidia that are released from conidiophores in response to rising humidity during the morning hours. These conidia are easily detached by wind or rain and can travel long distances. Once on a leaf, the fungal germ tube enters through the stomata. C. sojina is a polycyclic pathogen, meaning it can complete multiple infection cycles during a single Kharif season, leading to rapid buildup of inoculum if weather remains conducive.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": null,
+            "temperature_limits": "25-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The pathogen can withstand short dry periods between monsoon rains by remaining dormant in the lesion centers.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_purple_seed_stain_prevention_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Purple Seed Stain",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention of purple seed stain focuses on ensuring seed health and preventing the transition from the foliar to the pod phase. Using certified, stain-free seed is mandatory, as even low levels of internal C. kikuchii can initiate a field-wide outbreak. A minimum 1-year rotation with non-legumes is effective as the fungus survives poorly in the soil without host tissue. Farmers should prioritize early harvesting once physiological maturity is reached, as leaving the crop in the field during late-season rains significantly increases the percentage of stained seeds.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Vulnerability increases with delayed harvest in wet weather",
+            "temperature_limits": "22-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Incorporate potash fertilizers to improve seed coat integrity, which may offer physical resistance against fungal entry.",
+        "safety_notes": "Stained seeds should be avoided for sowing as they often have 10-15% lower germination vigor.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_downy_mildew_cause_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Peronospora manshurica is an obligate oomycete pathogen that causes downy mildew in Indian soybean. It produces two types of spores: short-lived, asexual sporangia for rapid secondary spread during the Kharif season, and thick-walled, sexual oospores for long-term survival in the soil and on the seed surface. Oospores can remain viable for several years. Systemic infection occurs when oospores on the seed germinate along with the soybean seedling, with the mycelium growing through the plant's vascular system. This results in the characteristic 'systemically infected' seedlings that appear stunted with pale green chlorosis on the entire first pair of true leaves.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The pathogen is highly host-specific; only soybean (Glycine max) and its immediate wild relatives are affected.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_mosaic_virus_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "Timing of vector control for SMV is critical during the V1 to V4 (early vegetative) stages. Application of systemic insecticides like Thiamethoxam should be timed within 24 hours of observing the first winged aphid migrants to prevent them from establishing colonies and transmitting the virus. In the Malwa region of Madhya Pradesh, this typically occurs 15-20 days after sowing. Delayed application (after the V6 stage) is often ineffective as the virus has likely already moved into the plant's vascular system.",
+        "dosage_guidelines": {
+            "grams_per_liter": 0.5,
+            "grams_per_acre": 100,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Avoid spraying if monsoon activity is continuous",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Scout the field before 10 AM, as aphids are most active and visible on the tender shoots during the morning hours.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_charcoal_rot_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "Pod Filling",
+        "season": "Summer",
+        "content": "Charcoal rot (Macrophomina phaseolina) is fundamentally a 'stress-driven' disease. In India, its impact is maximized when air temperatures exceed 35C and soil moisture drops below 40% of field capacity during the grain filling stage. Under these conditions, the fungus transitions from a saprophytic to a pathogenic phase, aggressively clogging the plant's xylem vessels with microsclerotia. While the pathogen is present in most Indian soils, it remains largely dormant if the weather stays cool and moist. Extreme heatwaves during the April-May periods in Central India are the primary triggers for localized charcoal rot outbreaks.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Dry weather mandatory for pathogenic phase transition",
+            "temperature_limits": "30-48C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "High soil temperatures are more critical than air temperatures; mulch or crop cover can help mitigate risk.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_rust_prevention_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Pre-sowing",
+        "season": "All",
+        "content": "A vital preventative strategy for soybean rust in India is the synchronization of sowing dates within a farming cluster. Staggered sowing extends the period during which susceptible tissue is available for the wind-blown urediniospores, allowing the pathogen to build up massive inoculum levels. Community-level adoption of early-maturing, rust-tolerant varieties like JS 20-34 or KDS 344 helps the crop escape the peak rust pressure that typically coincides with the monsoon withdrawal in October. Additionally, complete eradication of 'self-sown' (volunteer) soybean plants in the off-season is mandatory to eliminate the 'green bridge' for the pathogen.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain balanced soil fertility, as phosphorus deficiency can reduce the plant's overall vigor and speed up rust-induced defoliation.",
+        "safety_notes": "Rust escape through early sowing is only effective if moisture is available through supplemental irrigation in the early phase.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_bacterial_blight_cause_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Pseudomonas syringae pv. glycinea, the cause of bacterial blight, is an epiphytic bacterium that survives in a dormant state on soybean seeds and in crop residues. In the Indian environment, the bacteria are disseminated mainly by rain splash and wind-blown droplets from infected seedlings to healthy ones. The pathogen possess flagella which allow it to move through the water film on leaf surfaces to find natural openings (stomata) or wounds. Once inside the intercellular spaces of the leaf, it secretes effector proteins and toxins that suppress the host's immune system and degrade tissue, leading to the characteristic water-soaked spots followed by necrosis.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High dependency on 'monsoon wind-rain complexes' for dispersal",
+            "temperature_limits": "18-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The pathogen cannot survive in the soil once the crop residues are fully decomposed; deep burial is a highly effective control measure.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_anthracnose_chemical_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "chemical",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "Pod Filling",
+        "season": "Kharif",
+        "content": "For late-season protection of pods against Colletotrichum, systemic triazoles like Tebuconazole 25.9% EC at 1.0 ml/L or combination products like Fluxapyroxad + Pyraclostrobin are highly effective. These chemicals provide both protective action on the pod surface and curative movement into the pod wall. In high-rainfall areas of Vidarbha, a second spray at a 12-day interval is required if rains persist during the pod ripening (R6) phase. It is mandatory to ensure thorough wetting of the pods, as this is where the primary damage to seed quality occurs.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": "Ensure 4-hour dry window after application",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Adhere strictly to CIB guidelines for 'Pre-Harvest Interval' as anthracnose management often occurs close to the final harvest.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_frogeye_leaf_spot_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Frogeye Leaf Spot",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "Timing for frogeye leaf spot (Cercospora sojina) intervention is most critical when lesions are first observed on the lower leaves during the R1 (beginning of flowering) stage. If more than 10% of the plants show typical 'frogeye' spots, a curative spray is required to prevent the vertical climb of the pathogen to the developing upper nodes. A follow-up application at the R3 (beginning of pod) stage is mandatory if the monsoon remains active, as pod infection directly results in shriveled and internally infected seeds.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Apply during morning hours after dew has dried",
+            "temperature_limits": "22-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Do not wait for pod symptoms; once the leaf phase becomes severe, seed quality reduction is likely already in progress.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_purple_seed_stain_weather_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Purple Seed Stain",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Weather patterns that favor purple seed stain (Cercospora kikuchii) in India are characterized by prolonged periods of overcast sky, relative humidity above 90%, and temperatures between 25C and 30C during the pod-setting phase. Unlike many other fungi, C. kikuchii is particularly favored by intermittent drizzle rather than heavy downpours, as the former maintains a thin water film for spore germination and toxin production without washing the spores off the plant surface. High night temperatures (above 20C) also significantly accelerate the rate of seed coat colonization.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Sensitive to 'wet-dry-wet' cycles during ripening",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Monitor the weather forecast during the R5-R7 stages; if late-season rains are predicted, consider a protective preventative spray.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_downy_mildew_weather_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Downy mildew (Peronospora manshurica) is a 'fog-dependent' disease in Northern and Central India. Epiphytotics occur when the morning dew points are consistently high, leading to more than 6 hours of moisture on the leaf surface. High-altitude soybean clusters are particularly vulnerable due to frequent cloud cover and lower ambient temperatures (18-22C), which are optimal for sporangia formation. If temperatures rise above 30C for more than three consecutive days, the pathogen population collapses naturally, making further fungicide applications unnecessary unless cooler weather returns.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High correlation with morning fog duration",
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Check the underside of the leaves at sunrise; sporangiophore production is most visible before the sun dries the canopy.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_mosaic_virus_symptom_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "The mosiac symptoms of SMV on Indian soybean vary significantly with the temperature and the viral strain. Under moderate temperatures (20-25C), the leaves show typical 'yellow-green' mottling and puckering (rugosity). However, under higher temperatures (above 30C), the mosaic symptoms may 'mask' or disappear, while the plant continues to suffer from subtle stunting and reduced leaf area. A secondary diagnostic symptom is the downward curling of the leaf margins, making the leaf look 'cupped'. Late-season infection leads to pods that are smaller, flatter, and contain fewer, often mottled, seeds.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Symptom masking at high temperatures can lead to a false sense of security; monitor for stunting even if mosaic is not clear.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_charcoal_rot_prevention_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Prevention of charcoal rot in the water-scarce regions of Central India emphasizes 'soil health management' to improve the plants' internal water-use efficiency. Application of mulches (crop residues or plastic) can help maintain soil temperatures 2-4C lower than bare soil, which significantly inhibits the germination of Macrophomina microsclerotia. Using a split application of Nitrogen (50% at sowing, 50% at flowering) ensures the plant does not become overly 'tender' in the early phase, which can increase susceptibility to the fungus during the later hot-dry phases.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "25-45C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain soil Potash (K) levels to ensure proper stomatal regulation, which helps the plant avoid the physiological 'tipping point' that triggers fungal invasion.",
+        "safety_notes": "Avoid mechanical weeding that causes root injury, as Macrophomina aggressively colonizes wounds during mid-season drought cycles.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_mosaic_virus_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "All",
+        "content": "Organic vector management for SMV in India involves the use of 'deterrent' sprays and trap crops. Application of 3% Neem oil or 5% NSKE at 10-day intervals during the early vegetative phase acts as a feeding deterrent for aphids, reducing the probability of virus introduction. Planting two rows of Maize or Bajra as a border crop acts as a 'barrier' for migratory aphids. Additionally, rogueing (pulling out) of infected plants at the first sign of puckering is the most critical organic practice to eliminate the localized source of inoculum for secondary spread.",
+        "dosage_guidelines": {
+            "grams_per_liter": 30,
+            "grams_per_acre": 6000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Ensure 6-hour dry window for Neem oil persistence",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Neem-based interventions are preventative; once the virus is inside the plant, organic sprays cannot cure the infection.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_rust_dosage_003",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Ripening",
+        "season": "Kharif",
+        "content": "For late-season 'rescue' sprays against severe rust in Indian soybean, the dosage for Hexaconazole 5% EC is 1.0 ml per liter. While less persistent than combination strobilurins, it provides rapid curative action to protect the remaining leaf area and allow for final seed maturation. It is mandatory to use a spray volume of 500 L/ha and to prioritize the underside of the leaves where uredinia are most dense. This dosage is calibrated to balance efficacy with cost for farmers in lower-income soybean belts during high-pressure epiphytotic years.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 30
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Ensure at least 6 hours of dry weather",
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Hexaconazole can have a growth-retarding effect if over-dosed; always use calibrated measuring cups according to IISR standards.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_rust_timing_003",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Kharif",
+        "content": "A high-precision timing rule for Indian soybean rust is the '10-10-90' rule: if the minimum temperature is above 10C, leaf wetness duration is more than 10 hours, and relative humidity is above 90% for 3 consecutive nights, the first preventative spray must be initiated immediately. This often occurs during the late-monsoon transition in September. Delaying the first spray until necrotic lesions are visible on the middle canopy (R3 stage) results in a permanent loss of photosynthetic capacity that no curative chemical can fully restore.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Critical window during the 48 hours following a monsoon withdrawal shower",
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Scout the abaxial (under) surface of the leaves; uredinia are rarely found on the upper surface during the early phase.",
+        "source_type": "PAU"
+    },
+    {
+        "id": "soybean_bacterial_blight_symptom_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Early symptoms of bacterial blight on Indian soybean seedlings appear as small, angular, water-soaked spots on the leaves. As the disease progresses, these spots turn yellow and then reddish-brown with a distinctive yellowish halo around the necrotic center. In high-wind areas of Rajasthan, the necrotic centers often fall out, giving the leaves a 'shredded' or 'ragged' appearance. Unlike fungal spots, bacterial blight lesions are strictly confined by the leaf veins, giving them an angular shape. During humid mornings, small drops of creamy-white bacterial ooze can sometimes be seen on the underside of the lesions.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "18-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Blight symptoms can be confused with Septoria brown spot; check for the angular shape and yellow halo to differentiate.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_anthracnose_cause_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Anthracnose",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "While Colletotrichum truncatum is the main cause, recent surveys in Central India have identified C. chlorophyti as an emerging co-pathogen in the soybean anthracnose complex. Both fungi produce falcate (sickle-shaped) conidia within acervuli. These pathogens have a wide host range including many common Indian weeds like Digera arvensis, which allows them to persist even in the absence of a soybean crop. The fungi exploit natural plant aging (senescence) to transition from a dormant internal infection to an aggressive necrotic phase during pod-filling, making the R5-R6 stages the peak danger period.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 85,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain soil moisture above 50% field capacity during flowering; drought stress can trigger the pathogen's transition to the aggressive phase.",
+        "safety_notes": "Seeds harvested from anthracnose-heavy fields should be treated with systemic fungicides even if they appear healthy.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_frogeye_leaf_spot_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "disease_or_issue": "Frogeye Leaf Spot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Organic management of frogeye leaf spot centers on the use of suppressive bio-agents and compost teas. Foliar application of Vermicompost wash (diluted 1:10) has been shown to reduce lesion expansion by promoting the growth of native phyllosphere bacteria that antagonize Cercospora sojina. Additionally, use of Trichoderma harzianum as a seed treatment at 10 g/kg seed is required. For field control, 3-4 sprays of 5% Neem Seed Kernel Extract (NSKE) during the flowering phase provide a protective layer that inhibits fungal spore attachment and germination.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Ensure 6-hour dry window after bio-agent spray",
+            "temperature_limits": "22-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Apply 10 t/ha of FYM to enhance general soil suppressiveness against soil-borne inoculum.",
+        "safety_notes": "Bio-agents are most effective when humidity is high (morning/evening) but avoid application during active rainfall.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_purple_seed_stain_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Purple Seed Stain",
+        "region": "India",
+        "growth_stage": "Pod Filling",
+        "season": "Kharif",
+        "content": "A standardized dosage for managing the Cercospora complex (Purple Seed Stain/Leaf Blight) in India is Carbendazim 25% + Mancozeb 50% WS at 2.5 grams per liter. For systemic pod protection during the R3-R5 stages, Tebuconazole 25.9% EC is dosed at 1.0 ml per liter. It is mandatory to maintain a spray volume of 500 L/ha for foliar application. These dosages target both the leaf-borne inoculum and the fungus attempting to colonize the maturing pod wall, which is the gateway to seed staining.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 14,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": "Ensure 4-hour rain-free period",
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Wait for the PHI (Pre-Harvest Interval) to pass before harvesting; Cercospora kikuchii can persist on the seed even after treatment if applications are late.",
+        "source_type": "CIB"
+    },
+    {
+        "id": "soybean_downy_mildew_prevention_003",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Seedling",
+        "season": "Kharif",
+        "content": "An effective cultural prevention method for downy mildew in long-duration Indian soybean varieties is the use of 'ridge and furrow' planting. This improves soil drainage and reduces the humidity at the base of the plant compared to flat-bed sowing. Lower soil surface moisture inhibits the germination of soil-borne oospores and prevents'splash-up' onto the cotyledons. Combined with seed treatment using Metalaxyl-M at 2 ml/kg seed, this system provides over 90% protection against the systemic phase of the disease in high-rainfall zones of Maharashtra.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Deep summer ploughing to bury oospores below 20cm depth significantly reduces the primary infection rate.",
+        "safety_notes": "Scout systemically infected seedlings (stunted with yellow leaves) and remove them immediately to prevent secondary sporangia spread.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_mosaic_virus_weather_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "weather",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Post-Monsoon",
+        "content": "In the post-monsoon (dry) phase of Indian soybean cultivation, the risk of SMV is driven by the 'forced migration' of aphids. As alternative weed hosts dry out, aphids migrate in large numbers to the still-green soybean crop. Bright, sunny days with temperatures between 25C and 32C and wind speeds below 10 km/h are ideal for these long-distance flights. Farmers should monitor for aphid 'landings' on the upper leaves during these weather transitions, as even a few hours of intensive probing can initiate a new viral wave across an entire district.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Aphid flight suppressed by heavy rain but encouraged by sudden dry spells",
+            "temperature_limits": "15-35C",
+            "wind_speed_limit": 10
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Dry weather increases the importance of irrigation; drought-stressed plants are more attractive to certain aphid species.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_charcoal_rot_cause_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Summer",
+        "content": "The fungal pathogen Macrophomina phaseolina is exceptionally well-adapted to the hot and dry environments of the Indian subtropics. It is a soil-inhabiting fungus that produces small, black, multicellular microsclerotia which act as survival structures. These microsclerotia can withstand soil temperatures up to 50C and remain viable for 3-5 years. When a soybean seed germinates in their vicinity, they are stimulated to produce hyphae that penetrate the root epidermis. The fungus then colonizes the xylem, where it physically blocks the water transport, leading to the rapid wilting typical of the charcoal rot disease under high heat stress.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "30-50C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Maintain soil Organic Carbon above 0.5% to promote native Trichoderma populations that parasitize Macrophomina microsclerotia.",
+        "safety_notes": "The fungus has an extremely broad host range (over 500 species); non-traditional rotations are often necessary.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_charcoal_rot_dosage_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "Pre-sowing",
+        "season": "Summer",
+        "content": "For direct chemical intervention in high-risk Macrophomina zones, seed treatment with Carbendazim + Thiram (1:2) at 3 grams per kg of seed is the foundational dosage. Additionally, soil application of Trichoderma viride formulations at 5 kg per hectare (mixed with 100 kg FYM) is recommended during the last ploughing. If charcoal rot symptoms appear during an unexpected mid-season drought, a soil drenching with Carbendazim 0.1% (1g/L) around the base of the plants can help slow the fungal advancement in the vascular system.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 500,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "25-45C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Ensure the chemical drench reaches at least 10cm depth to interact with the primary root-infecting microsclerotia.",
+        "safety_notes": "Chemical drenches are costly and should be reserved for high-value seed production plots.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_phytophthora_symptom_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "symptom",
+        "crop": "Soybean",
+        "disease_or_issue": "Phytophthora Root Rot",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "A late-season symptom of Phytophthora stem rot is the development of a dark brown to black 'girdling' lesion that extends from the soil line several nodes up the stem. This lesion is continuous and has a very sharp margin between infected and healthy green tissue. Affected plants often die suddenly, with the leaves remaining attached and turning brown, giving a 'flagging' appearance in the field. Unlike charcoal rot, the internal tissue of a Phytophthora-infected stem is dark brown and water-soaked, but lacks the gritty black microsclerotia typical of Macrophomina.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Symptoms most visible after field saturation",
+            "temperature_limits": "15-30C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "The sharp margin of the stem lesion is the most reliable field diagnostic feature for differentiating Phytophthora from other wilts.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_phytophthora_cause_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Phytophthora Root Rot",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "Kharif",
+        "content": "Phytophthora sojae, the causal oomycete, is a soil-borne 'water mold'. In the heavy clay (black cotton) soils of India, the pathogen survives as thick-walled oospores for many years. When soils become saturated (flooded), these oospores germinate to form sporangia, which then release motile, biflagellated zoospores. These zoospores are chemically attracted to the soybean root exudates (isoflavones) and swim through the soil water film to infect the roots. This explains why the disease is most prevalent in low-lying areas of fields or in years with excessive monsoon rainfall.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Saturated soil is mandatory for zoospore movement",
+            "temperature_limits": "15-32C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Improving field drainage through surface channels is the most effective way to reduce the duration of the 'infective window' for zoospores.",
+        "safety_notes": "The pathogen exists in many 'races' in India; resistant varieties must be selected based on local race documentation.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_phytophthora_prevention_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "prevention",
+        "crop": "Soybean",
+        "disease_or_issue": "Phytophthora Root Rot",
+        "region": "India",
+        "growth_stage": "Pre-sowing",
+        "season": "All",
+        "content": "Prevention of Phytophthora in India emphasizes managing the soil environment to be less conducive for the pathogen. Use of the 'Broad Bed Furrow' (BBF) sowing method is mandatory in high-rainfall vertically-drained soils to prevent waterlogging around the root zone. Farmers should avoid over-irrigation during the early vegetative phase. Biological prevention through soil inoculation with Trichoderma harzianum at 5 kg/ha can help reduce the initial oospore germination rate. Additionally, prioritizing cultivars with 'partial resistance' (field tolerance) ensures that even if absolute resistance (Rps genes) is overcome by new races, yield loss remains manageable.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": "Deep sub-soiling every 3 years to break the hard pan can improve vertical drainage and reduce the duration of soil saturation.",
+        "safety_notes": "Pathogen can be carried on muddy machinery; sanitize equipment when moving between high-risk 'rot' fields.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_mosaic_virus_cause_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "cause",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Mosaic Virus",
+        "region": "India",
+        "growth_stage": "All",
+        "season": "All",
+        "content": "Soybean Mosaic Virus (SMV) is a Potyvirus characterized by its rapid non-persistent transmission. This means the virus adheres to the aphid's mouthparts (stylets) for only a few minutes to hours. In India, vectors like Aphis glycines and Myzus persicae pick up the virus from an infected soybean or weed host in just seconds of probing and can transmit it immediately to the next healthy plant they visit. This rapid 'probing-based' spread makes conventional insecticide-based control difficult, as aphids often transmit the virus before the chemical can kill them. This highlights the absolute necessity of host resistance and rogueing.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": null,
+            "temperature_limits": "15-35C",
+            "wind_speed_limit": 5
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Because transmission is non-persistent, aphids do not remain infectious after feeding on a few non-host plants; 'barrier crops' exploit this property.",
+        "source_type": "ICAR"
+    },
+    {
+        "id": "soybean_purple_seed_stain_organic_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "organic",
+        "crop": "Soybean",
+        "region": "India",
+        "growth_stage": "All",
+        "disease_or_issue": "Purple Seed Stain",
+        "season": "Kharif",
+        "content": "Organic management of purple seed stain centers on biological control using antagonists like Bacillus subtilis and seasonal timing. Foliar application of B. subtilis (10 g/L) during the R3-R5 stages has been shown in Indian trials to reduce the seed coat colonization by Cercospora kikuchii. Use of 5% Neem Seed Kernel Extract (NSKE) also helps by reducing the overall fungal pressure in the canopy. Mandatory organic practice includes selecting early-harvesting varieties to ensure maturity before the late-season high-humidity phase that triggers the maximum cercosporin pigment production.",
+        "dosage_guidelines": {
+            "grams_per_liter": 10,
+            "grams_per_acre": 2000,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 0
+        },
+        "weather_constraints": {
+            "humidity_threshold": 90,
+            "rainfall_restriction": null,
+            "temperature_limits": "20-35C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Organic seeds must be stored at low humidity (below 12%) to prevent the latent mycelium within the stain from further damaging the embryo.",
+        "source_type": "TNAU"
+    },
+    {
+        "id": "soybean_downy_mildew_dosage_002",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Downy Mildew",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "An alternative effective dosage for downy mildew management in India uses Dimethomorph 50% WP at 1.0 gram per liter. This chemical is particularly effective against the sporangiophores and prevents further sporulation. For severe systemic infections, Fosetyl-Al 80% WP can be used at 2.5 grams per liter. Ensure a spray volume of 500 liters/ha is used. It is mandatory to target the application towards the lower canopy as the pathogen moves from the bottom leaves upward during humid conditions.",
+        "dosage_guidelines": {
+            "grams_per_liter": 1.0,
+            "grams_per_acre": 200,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "High efficacy if applied just before a foggy period",
+            "temperature_limits": "15-25C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid mixing copper-based fungicides with Dimethomorph to prevent potential physical incompatibility in the spray tank.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_charcoal_rot_stage_specific_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "stage_specific",
+        "crop": "Soybean",
+        "disease_or_issue": "Charcoal Rot",
+        "region": "India",
+        "growth_stage": "Pod Filling",
+        "season": "Summer",
+        "content": "Stage-specific impact of charcoal rot is most severe during the R5 (beginning seed) to R6 (full seed) growth stages. If moisture stress occurs during this window, the pathogen aggressive invades the woody tissues, leading to premature seed ripening and significantly lower seed weight. Infection occurring during the early vegetative phase (before V4) often results in a latent colonization where the plant shows no symptoms but is predisposed to a sudden collapse later in the season. Management must focus on ensuring soil moisture is sufficient خلال the reproductive phase, which typically coincides with the hottest part of the Indian summer cycle.",
+        "dosage_guidelines": {
+            "grams_per_liter": null,
+            "grams_per_acre": null,
+            "spray_interval_days": null,
+            "pre_harvest_interval_days": null
+        },
+        "weather_constraints": {
+            "humidity_threshold": null,
+            "rainfall_restriction": "Vulnerability increases with drought stress during R5-R6",
+            "temperature_limits": "30-45C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Once the crop reaches 'physiological maturity' (R7), the impacts of charcoal rot on yield are negligible; management focus should then shift to harvesting before seed health declines.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_bacterial_blight_timing_001",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "timing",
+        "crop": "Soybean",
+        "disease_or_issue": "Bacterial Blight",
+        "region": "India",
+        "growth_stage": "Vegetative",
+        "season": "Kharif",
+        "content": "Timing of bacteriostatic sprays for blight in India is governed by the 'monsoon wind events'. Preventative applications of Copper Oxychloride + Streptocycline should be timed just before a predicted 3-day window of storm-driven rains. If lesions already exceed 5% of the leaf area during the vegetative phase, an immediate curative application is mandatory to prevent the bacteria from colonizing the newly emerging upper leaves. Following significant wind damage (e.g., from localized squalls), a 'wound-healing' prophylactic spray within 24 hours is highly effective at preventing bacterial entry.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.6,
+            "grams_per_acre": 520,
+            "spray_interval_days": 10,
+            "pre_harvest_interval_days": 14
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Apply before predicted wind-rain complexes",
+            "temperature_limits": "18-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Avoid spraying when the wind speed is high to prevent spray drift; the goal is uniform surface coverage before the bacterial ooze becomes active.",
+        "source_type": "IISR"
+    },
+    {
+        "id": "soybean_rust_dosage_004",
+        "layer": "layer1",
+        "category": "disease",
+        "sub_category": "dosage",
+        "crop": "Soybean",
+        "disease_or_issue": "Soybean Rust",
+        "region": "India",
+        "growth_stage": "Flowering",
+        "season": "Post-Monsoon",
+        "content": "For late-season rust management in Southern India (e.g., Karnataka) where the crop maturation coincides with the North-East monsoon, the dosage for Carbendazim 12% + Mancozeb 63% WP is 2.5 grams per liter. While providing less systemic penetration than triazoles, this combination provides excellent external protection in high-dew environments. A spray volume of 500 liters/ha is mandatory. This dosage is recommended for farmers as a cost-effective maintenance spray if initial triazole applications have already suppressed the primary uredinial wave.",
+        "dosage_guidelines": {
+            "grams_per_liter": 2.5,
+            "grams_per_acre": 500,
+            "spray_interval_days": 12,
+            "pre_harvest_interval_days": 21
+        },
+        "weather_constraints": {
+            "humidity_threshold": 95,
+            "rainfall_restriction": "Monitor for heavy dew cycles (>10 hours)",
+            "temperature_limits": "15-28C",
+            "wind_speed_limit": null
+        },
+        "soil_adjustment": null,
+        "safety_notes": "Wait for dew to dry completely before applying, otherwise the fungicide concentration will be excessively diluted on the leaf surface.",
+        "source_type": "PAU"
+    }
+]

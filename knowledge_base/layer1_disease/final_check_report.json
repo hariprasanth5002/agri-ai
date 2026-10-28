@@ -1,0 +1,13 @@
+{
+  "total_entries": 150,
+  "duplicate_ids_count": 0,
+  "duplicate_ids": [],
+  "duplicate_contents_count": 0,
+  "near_duplicates_40chars_count": 1,
+  "near_duplicates_sample": [
+    "The seedling stage (V1 to V6) is the mos"
+  ],
+  "word_count_min": 98,
+  "word_count_max": 120,
+  "out_of_range_count": 0
+}
