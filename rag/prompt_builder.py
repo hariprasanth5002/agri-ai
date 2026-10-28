@@ -59,6 +59,14 @@ CRITICAL: Speak directly to them. Do not refer to them as "the user" or "the far
         temp = weather.get("temperature")
         humidity = weather.get("humidity")
         condition = weather.get("condition")
+        source = weather.get("source", "open-meteo")
+
+        # Human-readable provider label
+        SOURCE_LABELS = {
+            "open-meteo":     "Open-Meteo (open-meteo.com)",
+            "openweathermap": "OpenWeatherMap (openweathermap.org)",
+        }
+        source_label = SOURCE_LABELS.get(source, source)
 
         q = query.lower()
         if "tomorrow" in q:
@@ -87,6 +95,7 @@ You are an agricultural weather advisor speaking directly to a farmer.
 
 Farmer's query: "{query}"
 Location: {city}
+Weather data source: {source_label}
 
 Current weather:
 - Temperature: {temp}°C
@@ -98,6 +107,7 @@ Current weather:
 Analyze the Farmer's query and confidently answer with the exact temperature, condition, and rain probability for the specific day they asked about ('{time_context}'). If unspecified, provide the current weather and today's forecast.
 Give a clear, concise weather summary (2-3 sentences) focused ONLY on their requested timeframe.
 Then give 1 sentence of practical farming advice based on that weather.
+End your response with a single line: "📡 Weather data sourced from {source_label}."
 
 CRITICAL RULES:
 - Speak DIRECTLY to the farmer (e.g., "Currently in {city}, it is...").

@@ -1,10 +1,21 @@
 import React, { useState, useEffect } from 'react';
-import { Sun, Cloud, CloudRain, ChevronDown, ChevronUp, MapPin, CloudLightning, CloudSnow } from 'lucide-react';
+import { Sun, Cloud, CloudRain, ChevronDown, ChevronUp, MapPin, CloudLightning, CloudSnow, Wifi } from 'lucide-react';
 import './WeatherCard.css';
 
 const WeatherCard = ({ data }) => {
   const { current, forecast } = data;
   const locationName = current?.location_name || data?.location?.city || 'Unknown Location';
+
+  // Data source label
+  const SOURCE_LABELS = {
+    'open-meteo':     'Open-Meteo',
+    'openweathermap': 'OpenWeatherMap',
+  };
+  const rawSource = current?.source || 'open-meteo';
+  const sourceLabel = SOURCE_LABELS[rawSource] || rawSource;
+  const sourceUrl = rawSource === 'openweathermap'
+    ? 'https://openweathermap.org'
+    : 'https://open-meteo.com';
   
   // Dynamic Icon Helper
   const getIconColor = (condition) => {
@@ -138,6 +149,31 @@ const WeatherCard = ({ data }) => {
         <button className="circle-arrow-btn">
           <ChevronDown size={20} />
         </button>
+      </div>
+
+      {/* Data source attribution */}
+      <div style={{
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        gap: '5px',
+        marginTop: '10px',
+        paddingTop: '8px',
+        borderTop: '1px solid rgba(255,255,255,0.07)',
+        fontSize: '0.68rem',
+        color: 'rgba(160,160,180,0.75)',
+      }}>
+        <Wifi size={10} />
+        <span>Data from{' '}
+          <a
+            href={sourceUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: 'rgba(0,230,118,0.8)', textDecoration: 'none' }}
+          >
+            {sourceLabel}
+          </a>
+        </span>
       </div>
     </div>
   );
